@@ -184,7 +184,7 @@ b{font-weight:800}
   .side{position:fixed;top:0;left:0;bottom:0;margin:0;width:88%;max-width:340px;z-index:60;border-radius:0;
     max-height:none;transform:translateX(-106%);transition:transform .25s ease}
   body.side-open .side{transform:none}
-  body.side-open .side-backdrop{position:fixed;inset:0;background:rgba(10,30,77,.42);z-index:59}
+  body.side-open .side-backdrop{display:block;position:fixed;inset:0;background:rgba(10,30,77,.42);z-index:59}
   .side-head button{display:block}
   .side-toggle{display:flex;align-items:center;gap:7px;position:fixed;left:14px;bottom:16px;z-index:55;
     background:var(--brand-dark);color:#fff;border:none;border-radius:999px;padding:11px 16px;font:inherit;

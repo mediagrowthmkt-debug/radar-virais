@@ -282,9 +282,10 @@
       var a = e.target.closest("[data-goto]"); if (!a) return;
       e.preventDefault(); gotoCard(a.getAttribute("data-goto"));
     });
-    var st = $("side-toggle"), sc = $("side-close");
+    var st = $("side-toggle"), sc = $("side-close"), sb = $("side-backdrop");
     if (st) st.addEventListener("click", function () { document.body.classList.toggle("side-open"); });
     if (sc) sc.addEventListener("click", function () { document.body.classList.remove("side-open"); });
+    if (sb) sb.addEventListener("click", function () { document.body.classList.remove("side-open"); });
   }
 
   /* ---------- boot ---------- */
