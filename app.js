@@ -10,7 +10,7 @@
 
   var seed = null;
   var state = { decisions: {}, reviewer: "" };
-  var ALLOWED_F = ["all", "ontem", "semana", "mes", "video", "noticia", "approved"];
+  var ALLOWED_F = ["all", "hoje", "ontem", "semana", "mes", "video", "noticia", "approved"];
   var filter = ALLOWED_F.indexOf(params.get("f")) !== -1 ? params.get("f") : "all";
   var openNotes = {};
 
@@ -86,13 +86,18 @@
     if (filter === "approved") return d.status === "approved";
     if (filter === "video") return it.tipo === "video";
     if (filter === "noticia") return it.tipo === "noticia";
-    if (filter === "ontem" || filter === "semana" || filter === "mes") return it.bucket === filter;
+    if (filter === "hoje" || filter === "ontem" || filter === "semana" || filter === "mes") return it.bucket === filter;
     return true;
   }
 
   /* ---------- render ---------- */
-  var WHEN = { ontem: "🔥 de ontem", semana: "📅 esta semana", mes: "🗓️ este mês" };
+  var WHEN = { hoje: "🔥 hoje", ontem: "📆 ontem", semana: "📅 esta semana", mes: "🗓️ este mês" };
   function heatLabel(n) { return n >= 3 ? "🔴🔴🔴 bombando" : n >= 2 ? "🟠🟠 em alta" : "🟡 subindo"; }
+  function dataLabel(it) {
+    if (it.data_br) return "📅 " + it.data_br;
+    if (it.tipo === "video") return "📅 data não informada";
+    return "";
+  }
 
   function counts() {
     var ap = 0;
@@ -122,16 +127,29 @@
     var vistas = isVid && it.views ? ' · ' + Intl.NumberFormat('pt-BR', { notation: 'compact' }).format(it.views) + ' views' : '';
     var noteOpen = openNotes[it.id];
     var byLine = (d.status === "approved" && d.by) ? '<span class="by">✓ Aprovado por ' + esc(d.by) + '</span>' : '';
+    var kws = (it.keywords && it.keywords.length)
+      ? '<div class="kws">🔎 <span class="lb">buscado por:</span> ' +
+          it.keywords.map(function (k) { return '<b class="kw">' + esc(k) + '</b>'; }).join(" ") + '</div>'
+      : "";
+    var rel = "";
+    if (it.video_relacionado && it.video_relacionado.url) {
+      var rv = it.video_relacionado;
+      var rvv = rv.views ? ' · ' + Intl.NumberFormat('pt-BR', { notation: 'compact' }).format(rv.views) + ' views' : '';
+      rel = '<a class="relvid" href="' + esc(rv.url) + '" target="_blank" rel="noopener">' +
+        '<span class="ico">🎬</span><span><b>Vídeo sobre o tema:</b> ' + esc(rv.titulo) + '<small>' + esc(rv.fonte || "") + rvv + '</small></span></a>';
+    }
 
     return '<article class="card' + cls + '" data-id="' + esc(it.id) + '">' +
       '<div class="card-top">' + thumb +
         '<div class="body">' +
           '<div class="tags">' +
             '<span class="tag tipo-' + it.tipo + '">' + (isVid ? "🎬 Vídeo" : "📰 Notícia") + '</span>' +
-            '<span class="tag heat">' + heatLabel(it.calor) + '</span>' +
+            (dataLabel(it) ? '<span class="tag date">' + esc(dataLabel(it)) + '</span>' : '') +
             (WHEN[it.bucket] ? '<span class="tag when">' + WHEN[it.bucket] + '</span>' : '') +
+            '<span class="tag heat">' + heatLabel(it.calor) + '</span>' +
           '</div>' +
           '<h3>' + esc(it.titulo) + '</h3>' +
+          kws +
           '<div class="src">' + esc(it.fonte || "") + vistas + ' · <a href="' + esc(it.url) + '" target="_blank" rel="noopener">abrir</a></div>' +
         '</div>' +
       '</div>' +
@@ -139,6 +157,7 @@
         '<div class="gancho">' + esc(a.gancho) + '</div>' +
         '<div class="desc">' + esc(a.corpo || "") + ' ' + esc(a.fecho || "") + '</div>' +
         '<span class="fmt">' + esc(a.formato || "Reels") + '</span></div>' : '') +
+      rel +
       extra +
       '<div class="actions">' +
         '<button class="btn btn-ok" data-act="ok">' + (d.status === "approved" ? "✓ Aprovado" : "✓ Aprovar") + '</button>' +
@@ -163,6 +182,24 @@
     var host = $("feed");
     var vis = (seed.itens || []).filter(match);
     host.innerHTML = vis.length ? vis.map(cardHTML).join("") : '<div class="empty">Nada neste filtro por enquanto. Volte daqui a pouco — o radar atualiza sozinho.</div>';
+    renderTerms();
+  }
+
+  var termsDone = false;
+  function renderTerms() {
+    if (termsDone) return;
+    var st = seed.search_terms || {};
+    var nt = (st.noticias || []), vt = (st.videos || []);
+    var total = nt.length + vt.length;
+    if (!total) { var t = $("terms"); if (t) t.style.display = "none"; return; }
+    $("terms-n").textContent = total;
+    var html = "";
+    if (nt.length) html += '<div class="tgrp"><div class="tgh">📰 Notícias — termos de busca</div>' +
+      nt.map(function (k) { return '<span class="tchip">' + esc(k) + '</span>'; }).join("") + '</div>';
+    if (vt.length) html += '<div class="tgrp"><div class="tgh">🎬 Vídeos — termos de busca</div>' +
+      vt.map(function (k) { return '<span class="tchip">' + esc(k) + '</span>'; }).join("") + '</div>';
+    $("terms-body").innerHTML = html;
+    termsDone = true;
   }
 
   /* ---------- eventos ---------- */

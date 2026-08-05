@@ -72,6 +72,7 @@ b{font-weight:800}
 .tag.tipo-video{background:#fdeaf0;color:#c2415a}
 .tag.heat{background:#fff3e6;color:#c76a12}
 .tag.when{background:#eef2f7;color:var(--mut2)}
+.tag.date{background:#eaf7f0;color:#1f9d6b}
 .card h3{margin:0;font-size:16px;font-weight:800;line-height:1.28;letter-spacing:-.01em}
 .src{margin-top:6px;font-size:12.5px;color:var(--mut2)}
 .src a{color:var(--brand);text-decoration:none;font-weight:700}
@@ -113,6 +114,31 @@ b{font-weight:800}
 .note textarea{width:100%;border:1.5px solid var(--line);border-radius:10px;padding:10px;font:inherit;font-size:13.5px;resize:vertical;min-height:64px}
 .note textarea:focus{outline:none;border-color:var(--brand)}
 .note .hint{font-size:11px;color:var(--mut2);margin-top:4px}
+
+/* palavras-chave de busca no card */
+.kws{margin-top:8px;font-size:12px;color:var(--mut2);display:flex;flex-wrap:wrap;gap:5px;align-items:center}
+.kws .lb{color:var(--mut2)}
+.kws .kw{background:#eef2f7;color:#41506a;font-weight:700;padding:2px 8px;border-radius:6px;font-size:11.5px}
+
+/* video relacionado (assista tambem) */
+.relvid{display:flex;gap:10px;align-items:center;margin:11px 16px 0;padding:10px 12px;background:#fdeaf0;
+  border:1px solid #f6d3de;border-radius:12px;text-decoration:none;color:var(--ink);font-size:13px;line-height:1.3}
+.relvid:hover{border-color:#c2415a}
+.relvid .ico{font-size:18px;flex:0 0 auto}
+.relvid b{color:#c2415a}
+.relvid small{display:block;color:var(--mut2);font-size:11px;margin-top:2px}
+
+/* bloco "como pesquisamos" */
+.terms{margin:12px 0 0;background:#fff;border:1px solid var(--line);border-radius:12px;padding:11px 15px;box-shadow:var(--shadow)}
+.terms summary{cursor:pointer;font-weight:800;font-size:13px;color:var(--brand-dark);list-style:none}
+.terms summary::-webkit-details-marker{display:none}
+.terms summary::before{content:"▸ ";color:var(--brand)}
+.terms[open] summary::before{content:"▾ "}
+.terms summary b{color:var(--brand)}
+.terms-body{margin-top:11px}
+.tgrp{margin-bottom:10px}
+.tgh{font-size:11px;font-weight:800;color:var(--mut2);text-transform:uppercase;letter-spacing:.04em;margin-bottom:7px}
+.tchip{display:inline-block;background:#eef2f7;color:#41506a;font-size:12px;font-weight:600;padding:3px 10px;border-radius:999px;margin:0 5px 5px 0}
 
 .foot{padding:26px 0 40px;text-align:center;color:var(--mut2);font-size:12.5px}
 

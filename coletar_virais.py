@@ -29,6 +29,7 @@ import os
 import re
 import subprocess
 import sys
+import time
 import unicodedata
 import urllib.request
 from datetime import datetime, timezone
@@ -70,12 +71,54 @@ def fetch(url, timeout=10):
     return raw.decode("utf-8", "ignore")
 
 
+# ---------------------------------------------------------------- DATA / BUCKET
+ORDEM_BUCKET = {"hoje": 0, "ontem": 1, "semana": 2, "mes": 3}
+BUCKET_ROTULO = {"hoje": "🔥 hoje", "ontem": "🔥 de ontem", "semana": "📅 esta semana", "mes": "🗓️ este mês"}
+
+
+def bucket_from_date(dstr):
+    """hoje / ontem / semana / mes a partir da data (YYYY-MM-DD). None se sem data."""
+    if not dstr:
+        return None
+    try:
+        d = datetime.strptime(dstr[:10], "%Y-%m-%d").date()
+    except Exception:
+        return None
+    diff = (datetime.now().astimezone().date() - d).days
+    if diff <= 0:
+        return "hoje"
+    if diff == 1:
+        return "ontem"
+    if diff <= 7:
+        return "semana"
+    return "mes"
+
+
+def fmt_data_br(dstr):
+    """05/08/2026 (ou '' se invalida)."""
+    try:
+        return datetime.strptime(dstr[:10], "%Y-%m-%d").strftime("%d/%m/%Y")
+    except Exception:
+        return ""
+
+
 # ---------------------------------------------------------------- NOTICIAS
+def _sem_fonte(titulo, fonte):
+    """Tira o ' - Publisher' que o Google News anexa no fim do titulo."""
+    t = (titulo or "").strip()
+    f = (fonte or "").strip()
+    if f and t.endswith(" - " + f):
+        return t[: -(len(f) + 3)].strip()
+    if " - " in t and t.rsplit(" - ", 1)[-1].strip() == f:
+        return t.rsplit(" - ", 1)[0].strip()
+    return t
+
+
 def heat_from(bucket, num_fontes):
     """Calor 1..3 a partir de recencia + validacao cruzada."""
-    if bucket == "ontem" and num_fontes >= 3:
+    if bucket in ("hoje", "ontem") and num_fontes >= 2:
         return 3
-    if num_fontes >= 4 or (bucket == "ontem" and num_fontes >= 2):
+    if num_fontes >= 4 or bucket == "hoje":
         return 3
     if num_fontes >= 2 or bucket in ("ontem", "semana"):
         return 2
@@ -105,12 +148,14 @@ def collect_news(radar_slug, janela, top, tmp_out):
         if not hs:
             continue
         lead = hs[0]
-        iid = item_id("noticia", norm_url(lead.get("url", "")), lead.get("titulo", ""))
+        fonte = lead.get("fonte", "") or ""
+        titulo = _sem_fonte(lead.get("titulo", "").strip(), fonte)
+        iid = item_id("noticia", norm_url(lead.get("url", "")), titulo)
         items.append({
             "id": iid,
             "tipo": "noticia",
-            "titulo": lead.get("titulo", "").strip(),
-            "fonte": lead.get("fonte", "") or "",
+            "titulo": titulo,
+            "fonte": fonte,
             "url": lead.get("url", ""),
             "thumb": "",
             "data": lead.get("data", ""),
@@ -119,7 +164,8 @@ def collect_news(radar_slug, janela, top, tmp_out):
             "num_fontes": t.get("num_fontes", 1),
             "keywords": t.get("keywords", []),
             "fontes_extra": [
-                {"titulo": h.get("titulo", ""), "fonte": h.get("fonte", ""), "url": h.get("url", "")}
+                {"titulo": _sem_fonte(h.get("titulo", ""), h.get("fonte", "")),
+                 "fonte": h.get("fonte", ""), "url": h.get("url", "")}
                 for h in hs[1:6]
             ],
             "score": t.get("score", 0),
@@ -144,8 +190,7 @@ def collect_videos(queries, max_videos):
         try:
             r = subprocess.run(
                 ["yt-dlp", "-J", "--flat-playlist", "--no-warnings",
-                 "--extractor-args", "youtubetab:approximate_date",
-                 f"ytsearch12:{q}"],
+                 f"ytsearch8:{q}"],
                 capture_output=True, text=True, timeout=90)
             if r.returncode != 0 or not r.stdout.strip():
                 log(f"  [videos] '{q}' -> sem resultado")
@@ -177,9 +222,12 @@ def collect_videos(queries, max_videos):
         log(f"  [videos] '{q}' -> {n} videos")
     # ranqueia por views (viral), depois por menor duracao (Reels-friendly)
     raw.sort(key=lambda v: (v["views"], -v["dur"]), reverse=True)
+    kept = raw[:max_videos]
+    datas = fetch_video_dates([v["url"] for v in kept])
     out = []
-    for v in raw[:max_videos]:
+    for v in kept:
         iid = item_id("video", v["id_yt"])
+        dstr = datas.get(v["id_yt"], "")
         out.append({
             "id": iid,
             "tipo": "video",
@@ -187,8 +235,8 @@ def collect_videos(queries, max_videos):
             "fonte": v["fonte"],
             "url": v["url"],
             "thumb": f"https://i.ytimg.com/vi/{v['id_yt']}/hqdefault.jpg",
-            "data": "",
-            "bucket": "semana",
+            "data": dstr,
+            "bucket": bucket_from_date(dstr) or "mes",
             "calor": 3 if v["views"] >= 500000 else 2 if v["views"] >= 50000 else 1,
             "num_fontes": 1,
             "keywords": [v["query"]],
@@ -197,8 +245,74 @@ def collect_videos(queries, max_videos):
             "fontes_extra": [],
             "score": v["views"],
         })
-    log(f"  [videos] {len(out)} videos no seed (de {len(raw)} coletados)")
+    log(f"  [videos] {len(out)} videos no seed (de {len(raw)} coletados) · {len(datas)} com data")
     return out
+
+
+def fetch_video_dates(urls):
+    """Data de publicacao (YYYY-MM-DD) dos videos mantidos, numa unica chamada yt-dlp."""
+    if not urls:
+        return {}
+    try:
+        r = subprocess.run(
+            ["yt-dlp", "--no-warnings", "--skip-download", "--ignore-errors",
+             "--print", "%(id)s|%(upload_date)s"] + list(urls),
+            capture_output=True, text=True, timeout=240)
+    except Exception as e:
+        log(f"  [videos] datas falharam: {e}")
+        return {}
+    out = {}
+    for line in r.stdout.splitlines():
+        if "|" not in line:
+            continue
+        vid, ud = line.split("|", 1)
+        ud = ud.strip()
+        if len(ud) == 8 and ud.isdigit():
+            out[vid] = f"{ud[:4]}-{ud[4:6]}-{ud[6:]}"
+    return out
+
+
+def _yt_search1(query):
+    try:
+        r = subprocess.run(
+            ["yt-dlp", "-J", "--flat-playlist", "--no-warnings", f"ytsearch1:{query}"],
+            capture_output=True, text=True, timeout=45)
+        if r.returncode != 0 or not r.stdout.strip():
+            return None
+        return (json.loads(r.stdout).get("entries") or [None])[0]
+    except Exception:
+        return None
+
+
+def related_media(query):
+    """Acha 1 video do YouTube sobre o tema -> thumbnail real + link 'assista tambem'.
+    Tenta o titulo cheio; se falhar (throttle/sem match), tenta uma query encurtada."""
+    e = _yt_search1(query)
+    if not (e and e.get("id")):
+        curta = " ".join((query or "").split()[:7])
+        if curta and curta != query:
+            time.sleep(0.8)
+            e = _yt_search1(curta)
+    if not (e and e.get("id")):
+        return None
+    vid = e["id"]
+    return {
+        "thumb": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
+        "url": f"https://www.youtube.com/watch?v={vid}",
+        "titulo": (e.get("title") or "").strip(),
+        "fonte": e.get("channel") or e.get("uploader") or "YouTube",
+        "views": e.get("view_count") or 0,
+    }
+
+
+def radar_keywords(radar_slug):
+    """Palavras-chave de busca cadastradas no Radar de Tendencias (pra mostrar 'como pesquisamos')."""
+    p = os.path.join(os.path.dirname(RADAR_COLETAR), "clientes.json")
+    try:
+        d = json.load(open(p, encoding="utf-8"))
+        return d.get("clientes", {}).get(radar_slug, {}).get("keywords", [])
+    except Exception:
+        return []
 
 
 # ---------------------------------------------------------------- OG:IMAGE
@@ -238,6 +352,23 @@ def enrich_images(items, limit):
             it["thumb"] = img
         done += 1
     log(f"  [imagens] capas de noticia resolvidas em {done} cards (best-effort)")
+
+
+def enrich_news_media(items, limit):
+    """Cada noticia (topo) ganha imagem REAL do tema + 1 video 'assista tambem', via YouTube.
+    Robusto (yt-dlp) — resolve o problema das URLs do Google News sem og:image."""
+    alvo = [it for it in items if it["tipo"] == "noticia" and not it.get("thumb")]
+    alvo = alvo[:limit]
+    done = 0
+    for it in alvo:
+        rel = related_media(it["titulo"])
+        if rel and rel.get("thumb"):
+            it["thumb"] = rel["thumb"]
+            it["video_relacionado"] = {"titulo": rel["titulo"], "url": rel["url"],
+                                       "fonte": rel["fonte"], "views": rel["views"]}
+            done += 1
+        time.sleep(0.5)   # educado com o YouTube pra nao tomar throttle
+    log(f"  [imagens] {done}/{len(alvo)} noticias com imagem+video do tema (YouTube)")
 
 
 # ---------------------------------------------------------------- ANGULO (voz do cliente)
@@ -352,7 +483,7 @@ def main():
     ap.add_argument("--janela", type=int, default=30)
     ap.add_argument("--top", type=int, default=40)
     ap.add_argument("--max-videos", type=int, default=20)
-    ap.add_argument("--img-limit", type=int, default=16, help="quantas capas og:image resolver")
+    ap.add_argument("--img-limit", type=int, default=24, help="quantas noticias enriquecer com imagem+video do tema")
     ap.add_argument("--no-video", action="store_true")
     ap.add_argument("--no-img", action="store_true")
     ap.add_argument("--out", help="caminho do seed (default seed/<slug>.json)")
@@ -402,21 +533,33 @@ def main():
             it["angulo"] = gerar_angulo(it, voice)
 
     itens = list(por_id.values())
-    # capas best-effort so nos novos que ainda nao tem thumb
-    if not args.no_img:
-        enrich_images([it for it in itens if it["id"] in apareceu_agora], args.img_limit)
 
-    # ordena: calor desc, recencia (ontem>semana>mes), score desc
-    ordem_bucket = {"ontem": 0, "semana": 1, "mes": 2}
-    itens.sort(key=lambda it: (-it.get("calor", 1),
-                               ordem_bucket.get(it.get("bucket", "mes"), 3),
+    # recomputa bucket + calor de TODOS pela data (adiciona 'hoje'; item que era 'hoje' ontem vira 'ontem')
+    for it in itens:
+        bkt = bucket_from_date(it.get("data", ""))
+        if bkt:
+            it["bucket"] = bkt
+        if it["tipo"] == "noticia":
+            it["calor"] = heat_from(it.get("bucket", "mes"), it.get("num_fontes", 1))
+        elif it.get("bucket") in ("hoje", "ontem"):
+            it["calor"] = 3
+        it["data_br"] = fmt_data_br(it.get("data", ""))
+
+    # imagem + video do tema pras noticias novas sem capa (YouTube — robusto)
+    if not args.no_img:
+        enrich_news_media([it for it in itens if it["id"] in apareceu_agora], args.img_limit)
+
+    # ordena: recencia (hoje>ontem>semana>mes), depois calor, depois score
+    itens.sort(key=lambda it: (ORDEM_BUCKET.get(it.get("bucket", "mes"), 4),
+                               -it.get("calor", 1),
                                -it.get("score", 0)))
 
     stats = {
         "total": len(itens),
-        "novos_agora": len([i for i in apareceu_agora if i in por_id]),
+        "novos_agora": len(apareceu_agora),
         "noticias": len([i for i in itens if i["tipo"] == "noticia"]),
         "videos": len([i for i in itens if i["tipo"] == "video"]),
+        "hoje": len([i for i in itens if i.get("bucket") == "hoje"]),
         "ontem": len([i for i in itens if i.get("bucket") == "ontem"]),
         "semana": len([i for i in itens if i.get("bucket") == "semana"]),
         "mes": len([i for i in itens if i.get("bucket") == "mes"]),
@@ -431,6 +574,10 @@ def main():
         "brand": cfg.get("brand", {}),
         "gerado_em": now.astimezone().isoformat(),
         "janela_dias": args.janela,
+        "search_terms": {
+            "noticias": radar_keywords(cfg.get("radar_slug", args.cliente)),
+            "videos": cfg.get("video_queries", []),
+        },
         "stats": stats,
         "itens": itens,
     }
@@ -440,7 +587,7 @@ def main():
 
     log(f"\n== SEED salvo: {out}")
     log(f"   {stats['total']} itens ({stats['noticias']} noticias, {stats['videos']} videos) | "
-        f"ontem {stats['ontem']} · semana {stats['semana']} · mes {stats['mes']}")
+        f"hoje {stats['hoje']} · ontem {stats['ontem']} · semana {stats['semana']} · mes {stats['mes']}")
     print(out)
 
 

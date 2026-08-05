@@ -41,7 +41,8 @@
 <nav class="filters">
   <div class="wrap chips" id="chips">
     <button class="chip on" data-f="all">Tudo</button>
-    <button class="chip" data-f="ontem">🔥 De ontem</button>
+    <button class="chip" data-f="hoje">🔥 Hoje</button>
+    <button class="chip" data-f="ontem">📆 De ontem</button>
     <button class="chip" data-f="semana">📅 Esta semana</button>
     <button class="chip" data-f="mes">🗓️ Este mês</button>
     <button class="chip" data-f="video">🎬 Vídeos</button>
@@ -49,6 +50,13 @@
     <button class="chip" data-f="approved">✅ Aprovados</button>
   </div>
 </nav>
+
+<div class="wrap">
+  <details id="terms" class="terms">
+    <summary>🔎 Como a gente pesquisa isso <b id="terms-n">0</b> termos monitorados</summary>
+    <div class="terms-body" id="terms-body"></div>
+  </details>
+</div>
 
 <main class="wrap">
   <div id="feed" class="feed"><div class="loading">Carregando o radar…</div></div>
