@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Radar de Virais</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap hero-in">
+    <img id="logo" class="hero-logo" alt="" style="display:none">
+    <div class="hero-txt">
+      <div class="client" id="client"></div>
+      <h1 id="title">Radar de Virais</h1>
+      <div class="sub" id="subtitle"></div>
+    </div>
+  </div>
+  <div class="wrap"><p class="intro" id="intro"></p></div>
+</header>
+
+<div class="bar">
+  <div class="wrap bar-in">
+    <div class="who">
+      <label for="reviewer">Quem está aprovando?</label>
+      <input id="reviewer" type="text" placeholder="Seu nome" autocomplete="name">
+    </div>
+    <div class="stats" id="stats">
+      <span class="st"><b id="s-ap">0</b> aprovados</span>
+      <span class="st"><b id="s-total">0</b> ideias</span>
+      <span class="st upd" id="s-upd"></span>
+    </div>
+    <div class="saved" id="saved">&nbsp;</div>
+  </div>
+</div>
+
+<nav class="filters">
+  <div class="wrap chips" id="chips">
+    <button class="chip on" data-f="all">Tudo</button>
+    <button class="chip" data-f="ontem">🔥 De ontem</button>
+    <button class="chip" data-f="semana">📅 Esta semana</button>
+    <button class="chip" data-f="mes">🗓️ Este mês</button>
+    <button class="chip" data-f="video">🎬 Vídeos</button>
+    <button class="chip" data-f="noticia">📰 Notícias</button>
+    <button class="chip" data-f="approved">✅ Aprovados</button>
+  </div>
+</nav>
+
+<main class="wrap">
+  <div id="feed" class="feed"><div class="loading">Carregando o radar…</div></div>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    Radar de Virais · MediaGrowth · atualiza sozinho toda hora.
+  </div>
+</footer>
+
+<div id="toast" class="toast"></div>
+
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

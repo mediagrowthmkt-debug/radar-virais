@@ -1,0 +1,34 @@
+{
+  "slug": "marcelo",
+  "client": "Marcelo Telles",
+  "radar_slug": "marcelo",
+  "title": "Radar de Virais",
+  "subtitle": "Oceano, ciência marinha e conservação — o que está bombando pra virar conteúdo",
+  "intro": "Esta página junta, TODA HORA, o que está viralizando e virando notícia no universo do oceano e da vida marinha. Cada card já vem com um ângulo pronto pra virar Reels no seu estilo. Aprove os que você quer que a gente produza, descarte os que não combinam e deixe um comentário quando quiser. Atualiza sozinho.",
+  "brand": {
+    "primary": "#1F5FAE",
+    "primaryDark": "#0A1E4D",
+    "logo": "logos/marcelo.png"
+  },
+  "video_queries": [
+    "tubarão ataque motivo",
+    "criatura estranha fundo do mar",
+    "baleia jubarte flagra",
+    "curiosidades do oceano ciência",
+    "perigos do mar animais",
+    "fossa das marianas fundo do oceano",
+    "orca ataca barco",
+    "polvo inteligência oceano",
+    "descoberta cientistas oceano",
+    "poluição plástico oceano documentário"
+  ],
+  "voice": {
+    "quem": "Oceanógrafo (MSc), ~310K seguidores verificados, presidente do Instituto Gaia Soul. Autoridade científica que encanta.",
+    "eixo_viral": "Ciência marinha 'uau' + curiosidade/alerta + predadores do mar + conservação. Wellness/OceanoTerapia é camada secundária de propósito, nunca a abertura.",
+    "tom": "Educativo-curioso com pegada de fato chocante; autoridade + encantamento. NUNCA humor/meme, NUNCA corporativo, NUNCA jargão acadêmico cru.",
+    "gancho_formula": "CAIXA ALTA + (número OU superlativo OU 'cientistas descobriram') + curiosidade/alerta. Abre com afirmação forte, não pergunta.",
+    "fecho": "Ancora no propósito: reconexão com o mar / proteção do oceano. O 'uau' vem primeiro, o propósito fecha.",
+    "formato": "Reels vertical, gancho em CAIXA ALTA nos 2 primeiros segundos, imagem de mar/mergulho real de impacto, narração de autoridade.",
+    "ofuscar": {"matam": "M4T@M", "mata": "M4T@", "morte": "M0RTE", "morta": "M0RTA", "morto": "M0RT0", "morrer": "M0RRER", "sangue": "S@NGUE"}
+  }
+}
