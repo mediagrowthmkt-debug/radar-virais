@@ -430,36 +430,30 @@ def _num_or_super(title):
     return ""
 
 
-_SUBEIXOS = [
-    ("predador", ["tubar", "orca", "ataca", "ataque", "predador", "mordid", "shark"],
-     ["O REAL MOTIVO PELO QUAL {alvo} ATACA",
-      "O PODER DE {alvo}: O QUE NINGUÉM TE CONTOU",
-      "{n} COISAS QUE VOCÊ NÃO SABIA SOBRE {alvo}"]),
-    ("baleia", ["baleia", "jubarte", "cetaceo", "whale", "orca encalh"],
-     ["O QUE ESSA BALEIA REVELA SOBRE O OCEANO",
-      "CIENTISTAS FLAGRARAM ALGO RARO COM UMA BALEIA",
-      "POR QUE ISSO ESTÁ ACONTECENDO COM AS BALEIAS"]),
-    ("criatura", ["criatura", "fundo do mar", "abissal", "polvo", "lula", "mariana",
-                  "oxigenio escuro", "bioluminesc", "fossa", "profund"],
-     ["ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
-      "O QUE VIVE NO PONTO MAIS FUNDO DO OCEANO",
-      "CIENTISTAS ENCONTRARAM ISSO NO FUNDO DO MAR"]),
-    ("clima", ["el nino", "el nino", "aquecimento", "amoc", "corrente", "nivel do mar",
-               "corais", "branqueamento", "clima", "temperatura"],
-     ["O OCEANO ESTÁ MUDANDO E ISSO TE AFETA AGORA",
-      "O QUE ESTE SINAL DO MAR SIGNIFICA PRA VOCÊ",
-      "CIENTISTAS ALERTAM PRO QUE O OCEANO ESTÁ FAZENDO"]),
-    ("poluicao", ["plastic", "microplast", "poluic", "mineracao", "lixo", "esgoto", "petroleo"],
-     ["CIENTISTAS ACHARAM PLÁSTICO ONDE NINGUÉM ESPERAVA",
-      "O QUE ESSA POLUIÇÃO FAZ COM O SEU CORPO",
-      "O OCEANO ESTÁ ENGOLINDO ISSO EM SILÊNCIO"]),
-    ("wellness", ["ansiedade", "saude mental", "nervo vago", "blue mind", "oceanoterapia",
-                  "banho", "estresse", "sistema nervoso", "biofilia"],
-     ["POR QUE O MAR ACALMA A SUA MENTE (TEM CIÊNCIA)",
-      "O QUE O OCEANO FAZ COM O SEU CÉREBRO",
-      "A CIÊNCIA POR TRÁS DA PAZ QUE VOCÊ SENTE NO MAR"]),
+# Sub-eixos GENERICOS (fallback). Cada cliente define os seus em clientes/<slug>.json -> voice.subeixos
+# (key + gatilhos + hooks). Assim o gerador de angulo serve QUALQUER nicho sem tocar no codigo.
+_SUBEIXOS_GENERICO = [
+    ("descoberta", ["descobr", "estudo", "cientistas", "pesquisa", "revela", "inedit",
+                    "primeira vez", "raro", "novo"],
+     ["O QUE OS ESPECIALISTAS ACABARAM DE DESCOBRIR",
+      "O QUE NINGUÉM TE CONTOU SOBRE ISSO"]),
+    ("alerta", ["risco", "perigo", "alerta", "cuidado", "aumenta", "cresce", "recorde", "crise"],
+     ["O QUE ESTE ALERTA SIGNIFICA PRA VOCÊ",
+      "POR QUE ISSO ESTÁ ACONTECENDO AGORA"]),
 ]
-_ALVO = {"tubar": "O TUBARÃO", "orca": "A ORCA", "baleia": "A BALEIA"}
+
+
+def _build_subeixos(voice):
+    """Sub-eixos vindos do config do cliente (voice.subeixos) ou o fallback generico."""
+    se = (voice or {}).get("subeixos")
+    if se:
+        out = []
+        for s in se:
+            gat = [strip_accents(g).lower() for g in s.get("gatilhos", [])]
+            hooks = s.get("hooks", []) or ["O QUE ISSO REVELA"]
+            out.append((s.get("key", "x"), gat, hooks))
+        return out
+    return _SUBEIXOS_GENERICO
 
 
 def _obfuscar(txt, mapa):
@@ -472,38 +466,38 @@ def _obfuscar(txt, mapa):
 
 
 def gerar_angulo(item, voice):
+    """Gera o angulo de Reels na VOZ do cliente. Tudo (sub-eixos, alvo, corpo, fecho,
+    gancho default, ofuscacao) vem de voice (config do cliente); ha defaults genericos."""
+    voice = voice or {}
     title = item.get("titulo", "")
     tnorm = strip_accents(title).lower()
     n = _num_or_super(title)
-    eixo, hooks = "default", ["O QUE ISSO REVELA SOBRE O NOSSO OCEANO"]
-    for key, gatilhos, hh in _SUBEIXOS:
+    default_hook = voice.get("gancho_default", "O QUE ISSO REVELA SOBRE O SEU NICHO")
+    eixo, hooks = "default", [default_hook]
+    for key, gatilhos, hh in _build_subeixos(voice):
         if any(g in tnorm for g in gatilhos):
             eixo, hooks = key, hh
             break
     # escolhe o hook de forma deterministica (varia por id)
     idx = int(item.get("id", "0")[:6] or "0", 16) % len(hooks)
     hook = hooks[idx]
-    alvo = "O ANIMAL"
-    for k, v in _ALVO.items():
-        if k in tnorm:
+    alvo = voice.get("alvo_default", "ISSO")
+    for k, v in (voice.get("alvo") or {}).items():
+        if strip_accents(k).lower() in tnorm:
             alvo = v
             break
     hook = hook.replace("{alvo}", alvo).replace("{n}", n or "3")
-    hook = _obfuscar(hook, (voice or {}).get("ofuscar"))
-    corpo = ("Puxa o fato pela fonte, explica em linguagem simples por que acontece e "
-             "ancora no oceano/vida marinha, com a sua autoridade científica no comando.")
-    fecho = "Fecha no propósito: reconexão com o mar e proteção do oceano."
-    formato = "Reels"
+    hook = _obfuscar(hook, voice.get("ofuscar"))
+    corpo = voice.get("angulo_corpo",
+                      "Puxa o fato pela fonte, explica em linguagem simples por que acontece e "
+                      "conecta com o universo da marca, com a sua autoridade no comando.")
+    fecho = voice.get("angulo_fecho", "Fecha com um convite alinhado ao propósito da marca.")
+    formato = voice.get("formato_card", "Reels")
     if item.get("tipo") == "video":
-        corpo = ("Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo "
-                 "de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.")
-    return {
-        "gancho": hook,
-        "corpo": corpo,
-        "fecho": fecho,
-        "formato": formato,
-        "eixo": eixo,
-    }
+        corpo = voice.get("angulo_corpo_video",
+                          "Recria a ideia deste vídeo no seu estilo: mesmo tema, com o selo de "
+                          "autoridade da marca. Não copie, traduza pra sua voz.")
+    return {"gancho": hook, "corpo": corpo, "fecho": fecho, "formato": formato, "eixo": eixo}
 
 
 # ---------------------------------------------------------------- MERGE / SEED

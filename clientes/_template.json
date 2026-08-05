@@ -1,0 +1,38 @@
+{
+  "slug": "SLUG",
+  "client": "NOME DO CLIENTE",
+  "radar_slug": "SLUG",
+  "title": "Radar de Virais",
+  "subtitle": "O que está bombando no nicho do cliente pra virar conteúdo",
+  "intro": "Esta página junta, TODA HORA, o que está viralizando e virando notícia no universo do cliente. Cada card já vem com um ângulo pronto pra virar Reels no seu estilo. Aprove os que você quer que a gente produza, descarte os que não combinam e deixe um comentário quando quiser. Atualiza sozinho.",
+  "brand": {
+    "primary": "#1F5FAE",
+    "primaryDark": "#0A1E4D",
+    "logo": "logos/SLUG.png"
+  },
+  "video_queries": [
+    "termo de busca 1 do nicho",
+    "termo de busca 2 do nicho",
+    "termo de busca 3 do nicho"
+  ],
+  "voice": {
+    "quem": "Quem é o cliente e a autoridade dele (1 linha).",
+    "eixo_viral": "O que de fato viraliza no nicho dele (o eixo forte), e o que é camada secundária.",
+    "tom": "Tom de voz (ex.: educativo-curioso, provocativo, inspiracional). O que NUNCA fazer.",
+    "gancho_formula": "CAIXA ALTA + (número OU superlativo OU autoridade) + curiosidade/alerta. Abre com afirmação forte, não pergunta.",
+    "gancho_default": "O QUE ISSO REVELA SOBRE O SEU NICHO",
+    "alvo_default": "ISSO",
+    "alvo": {},
+    "formato_card": "Reels",
+    "angulo_corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e conecta com o universo da marca, com a sua autoridade no comando.",
+    "angulo_corpo_video": "Recria a ideia deste vídeo no seu estilo: mesmo tema, com o selo de autoridade da marca. Não copie, traduza pra sua voz.",
+    "angulo_fecho": "Fecha com um convite alinhado ao propósito da marca.",
+    "ofuscar": {},
+    "subeixos": [
+      {"key": "eixo1", "gatilhos": ["palavra1", "palavra2"],
+       "hooks": ["GANCHO EM CAIXA ALTA 1", "GANCHO EM CAIXA ALTA 2"]},
+      {"key": "eixo2", "gatilhos": ["palavra3", "palavra4"],
+       "hooks": ["GANCHO EM CAIXA ALTA 3", "GANCHO EM CAIXA ALTA 4"]}
+    ]
+  }
+}

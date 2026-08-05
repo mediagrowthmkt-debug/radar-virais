@@ -29,6 +29,27 @@
     "gancho_formula": "CAIXA ALTA + (número OU superlativo OU 'cientistas descobriram') + curiosidade/alerta. Abre com afirmação forte, não pergunta.",
     "fecho": "Ancora no propósito: reconexão com o mar / proteção do oceano. O 'uau' vem primeiro, o propósito fecha.",
     "formato": "Reels vertical, gancho em CAIXA ALTA nos 2 primeiros segundos, imagem de mar/mergulho real de impacto, narração de autoridade.",
-    "ofuscar": {"matam": "M4T@M", "mata": "M4T@", "morte": "M0RTE", "morta": "M0RTA", "morto": "M0RT0", "morrer": "M0RRER", "sangue": "S@NGUE"}
+    "ofuscar": {"matam": "M4T@M", "mata": "M4T@", "morte": "M0RTE", "morta": "M0RTA", "morto": "M0RT0", "morrer": "M0RRER", "sangue": "S@NGUE"},
+    "gancho_default": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+    "alvo_default": "O ANIMAL",
+    "alvo": {"tubar": "O TUBARÃO", "orca": "A ORCA", "baleia": "A BALEIA"},
+    "formato_card": "Reels",
+    "angulo_corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e ancora no oceano/vida marinha, com a sua autoridade científica no comando.",
+    "angulo_corpo_video": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
+    "angulo_fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+    "subeixos": [
+      {"key": "predador", "gatilhos": ["tubar", "orca", "ataca", "ataque", "predador", "mordid", "shark"],
+       "hooks": ["O REAL MOTIVO PELO QUAL {alvo} ATACA", "O PODER DE {alvo}: O QUE NINGUÉM TE CONTOU", "{n} COISAS QUE VOCÊ NÃO SABIA SOBRE {alvo}"]},
+      {"key": "baleia", "gatilhos": ["baleia", "jubarte", "cetaceo", "whale", "orca encalh"],
+       "hooks": ["O QUE ESSA BALEIA REVELA SOBRE O OCEANO", "CIENTISTAS FLAGRARAM ALGO RARO COM UMA BALEIA", "POR QUE ISSO ESTÁ ACONTECENDO COM AS BALEIAS"]},
+      {"key": "criatura", "gatilhos": ["criatura", "fundo do mar", "abissal", "polvo", "lula", "mariana", "oxigenio escuro", "bioluminesc", "fossa", "profund"],
+       "hooks": ["ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR", "O QUE VIVE NO PONTO MAIS FUNDO DO OCEANO", "CIENTISTAS ENCONTRARAM ISSO NO FUNDO DO MAR"]},
+      {"key": "clima", "gatilhos": ["el nino", "aquecimento", "amoc", "corrente", "nivel do mar", "corais", "branqueamento", "clima", "temperatura"],
+       "hooks": ["O OCEANO ESTÁ MUDANDO E ISSO TE AFETA AGORA", "O QUE ESTE SINAL DO MAR SIGNIFICA PRA VOCÊ", "CIENTISTAS ALERTAM PRO QUE O OCEANO ESTÁ FAZENDO"]},
+      {"key": "poluicao", "gatilhos": ["plastic", "microplast", "poluic", "mineracao", "lixo", "esgoto", "petroleo"],
+       "hooks": ["CIENTISTAS ACHARAM PLÁSTICO ONDE NINGUÉM ESPERAVA", "O QUE ESSA POLUIÇÃO FAZ COM O SEU CORPO", "O OCEANO ESTÁ ENGOLINDO ISSO EM SILÊNCIO"]},
+      {"key": "wellness", "gatilhos": ["ansiedade", "saude mental", "nervo vago", "blue mind", "oceanoterapia", "banho", "estresse", "sistema nervoso", "biofilia"],
+       "hooks": ["POR QUE O MAR ACALMA A SUA MENTE (TEM CIÊNCIA)", "O QUE O OCEANO FAZ COM O SEU CÉREBRO", "A CIÊNCIA POR TRÁS DA PAZ QUE VOCÊ SENTE NO MAR"]}
+    ]
   }
 }
