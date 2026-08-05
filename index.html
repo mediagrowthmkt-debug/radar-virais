@@ -45,22 +45,36 @@
     <button class="chip" data-f="ontem">📆 De ontem</button>
     <button class="chip" data-f="semana">📅 Esta semana</button>
     <button class="chip" data-f="mes">🗓️ Este mês</button>
+    <span class="chip-sep"></span>
+    <button class="chip" data-f="bombando">🔴 Bombando</button>
+    <button class="chip" data-f="emalta">🟠 Em alta</button>
+    <button class="chip" data-f="subindo">🟡 Subindo</button>
+    <span class="chip-sep"></span>
     <button class="chip" data-f="video">🎬 Vídeos</button>
     <button class="chip" data-f="noticia">📰 Notícias</button>
     <button class="chip" data-f="approved">✅ Aprovados</button>
   </div>
 </nav>
 
-<div class="wrap">
-  <details id="terms" class="terms">
-    <summary>🔎 Como a gente pesquisa isso <b id="terms-n">0</b> termos monitorados</summary>
-    <div class="terms-body" id="terms-body"></div>
-  </details>
+<div class="layout">
+  <aside id="side" class="side">
+    <div class="side-head"><span>📑 Tópicos</span><button id="side-close" title="Fechar">✕</button></div>
+    <div class="terms-wrap">
+      <details id="terms" class="terms">
+        <summary>🔎 Como a gente pesquisa <b id="terms-n">0</b> termos</summary>
+        <div class="terms-body" id="terms-body"></div>
+      </details>
+    </div>
+    <div id="sidelist" class="sidelist"></div>
+  </aside>
+
+  <main class="feedcol">
+    <div id="feed" class="feed"><div class="loading">Carregando o radar…</div></div>
+  </main>
 </div>
 
-<main class="wrap">
-  <div id="feed" class="feed"><div class="loading">Carregando o radar…</div></div>
-</main>
+<button id="side-toggle" class="side-toggle">📑 Tópicos</button>
+<div id="side-backdrop" class="side-backdrop"></div>
 
 <footer class="foot">
   <div class="wrap">

@@ -10,7 +10,7 @@
 
   var seed = null;
   var state = { decisions: {}, reviewer: "" };
-  var ALLOWED_F = ["all", "hoje", "ontem", "semana", "mes", "video", "noticia", "approved"];
+  var ALLOWED_F = ["all", "hoje", "ontem", "semana", "mes", "bombando", "emalta", "subindo", "video", "noticia", "approved"];
   var filter = ALLOWED_F.indexOf(params.get("f")) !== -1 ? params.get("f") : "all";
   var openNotes = {};
 
@@ -86,6 +86,9 @@
     if (filter === "approved") return d.status === "approved";
     if (filter === "video") return it.tipo === "video";
     if (filter === "noticia") return it.tipo === "noticia";
+    if (filter === "bombando") return it.calor >= 3;
+    if (filter === "emalta") return it.calor === 2;
+    if (filter === "subindo") return it.calor <= 1;
     if (filter === "hoje" || filter === "ontem" || filter === "semana" || filter === "mes") return it.bucket === filter;
     return true;
   }
@@ -109,12 +112,15 @@
     var d = decOf(it.id);
     var cls = d.status === "approved" ? " approved" : d.status === "rejected" ? " rejected" : "";
     var isVid = it.tipo === "video";
+    var fb = isVid ? "🎬" : "🌊";
     var thumb;
     if (it.thumb) {
-      thumb = '<a class="thumb" href="' + esc(it.url) + '" target="_blank" rel="noopener" style="background-image:url(' + JSON.stringify(it.thumb) + ')">' +
+      thumb = '<a class="thumb" href="' + esc(it.url) + '" target="_blank" rel="noopener">' +
+        '<img loading="lazy" src="' + esc(it.thumb) + '" alt="" onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'flex\'">' +
+        '<span class="ph-ic">' + fb + '</span>' +
         (isVid ? '<span class="play">▶</span>' : '') + '</a>';
     } else {
-      thumb = '<a class="thumb ph" href="' + esc(it.url) + '" target="_blank" rel="noopener">' + (isVid ? "🎬" : "🌊") + '</a>';
+      thumb = '<a class="thumb ph" href="' + esc(it.url) + '" target="_blank" rel="noopener"><span class="ph-ic" style="display:flex">' + fb + '</span></a>';
     }
     var extra = "";
     if (it.fontes_extra && it.fontes_extra.length) {
@@ -145,6 +151,7 @@
           '<div class="tags">' +
             '<span class="tag tipo-' + it.tipo + '">' + (isVid ? "🎬 Vídeo" : "📰 Notícia") + '</span>' +
             (dataLabel(it) ? '<span class="tag date">' + esc(dataLabel(it)) + '</span>' : '') +
+            (it.local ? '<span class="tag local">📍 ' + esc(it.local) + '</span>' : '') +
             (WHEN[it.bucket] ? '<span class="tag when">' + WHEN[it.bucket] + '</span>' : '') +
             '<span class="tag heat">' + heatLabel(it.calor) + '</span>' +
           '</div>' +
@@ -183,7 +190,35 @@
     var vis = (seed.itens || []).filter(match);
     host.innerHTML = vis.length ? vis.map(cardHTML).join("") : '<div class="empty">Nada neste filtro por enquanto. Volte daqui a pouco — o radar atualiza sozinho.</div>';
     renderTerms();
+    renderSide(vis);
   }
+
+  function renderSide(vis) {
+    var host = $("sidelist");
+    if (!host) return;
+    if (!vis.length) { host.innerHTML = '<div class="side-empty">Nada neste filtro.</div>'; return; }
+    host.innerHTML = vis.map(function (it) {
+      var d = decOf(it.id);
+      var mark = d.status === "approved" ? " ✓" : d.status === "rejected" ? " ✕" : "";
+      var dt = it.data_br || (WHEN[it.bucket] ? WHEN[it.bucket].replace(/^[^ ]+ /, "") : "");
+      return '<a class="sitem s-' + d.status + '" data-goto="' + esc(it.id) + '">' +
+        '<span class="sdot h' + (it.calor || 1) + '"></span>' +
+        '<span class="sbody">' +
+          '<span class="stxt">' + esc(it.titulo) + '</span>' +
+          '<span class="smeta">' + (it.tipo === "video" ? "🎬" : "📰") + ' ' + esc(dt) + (it.local ? " · " + esc(it.local) : "") + '<b>' + mark + '</b></span>' +
+        '</span></a>';
+    }).join("");
+  }
+
+  function gotoCard(id) {
+    var card = document.querySelector('.card[data-id="' + cssq(id) + '"]');
+    if (!card) return;
+    card.scrollIntoView({ behavior: "smooth", block: "start" });
+    card.classList.add("flash");
+    setTimeout(function () { card.classList.remove("flash"); }, 1400);
+    document.body.classList.remove("side-open");
+  }
+  function cssq(s) { return String(s).replace(/["\\]/g, "\\$&"); }
 
   var termsDone = false;
   function renderTerms() {
@@ -241,6 +276,15 @@
       state.reviewer = v;
       if (v) post("reviewer", { by: v }).catch(function () {});
     });
+
+    // barra lateral de tópicos (índice estilo Word)
+    $("sidelist").addEventListener("click", function (e) {
+      var a = e.target.closest("[data-goto]"); if (!a) return;
+      e.preventDefault(); gotoCard(a.getAttribute("data-goto"));
+    });
+    var st = $("side-toggle"), sc = $("side-close");
+    if (st) st.addEventListener("click", function () { document.body.classList.toggle("side-open"); });
+    if (sc) sc.addEventListener("click", function () { document.body.classList.remove("side-open"); });
   }
 
   /* ---------- boot ---------- */

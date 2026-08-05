@@ -31,6 +31,7 @@ import subprocess
 import sys
 import time
 import unicodedata
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 
@@ -71,6 +72,48 @@ def fetch(url, timeout=10):
     return raw.decode("utf-8", "ignore")
 
 
+# ---------------------------------------------------------------- TRADUCAO (PT-BR)
+_TR_CACHE = {}
+# palavras-funcao do ingles que NAO aparecem em PT — sinal de que o texto e ingles
+_EN_WORDS = set((
+    "the of and for with could that this from than ever been are was will into over about "
+    "how why what when who they their its should would which while more most best world see "
+    "help helps warns grows faster record hottest year years scientists could found reveals "
+    "brutal predators strongest recorded spy hide friend deep sea ocean shark whale"
+).split())
+
+
+def parece_ingles(t):
+    toks = re.findall(r"[a-zA-Z']+", (t or "").lower())
+    if len(toks) < 3:
+        return False
+    en = sum(1 for w in toks if w in _EN_WORDS)
+    return en >= 2
+
+
+def traduzir_pt(text):
+    """Traduz pra PT-BR via endpoint gratis do Google (gtx) so quando o texto parece ingles.
+    Cacheia por run. Falhou -> devolve o original (nunca quebra)."""
+    text = (text or "").strip()
+    if not text or not parece_ingles(text):
+        return text
+    if text in _TR_CACHE:
+        return _TR_CACHE[text]
+    out = text
+    try:
+        u = ("https://translate.googleapis.com/translate_a/single?client=gtx"
+             "&sl=auto&tl=pt&dt=t&q=" + urllib.parse.quote(text))
+        raw = fetch(u, timeout=15)
+        d = json.loads(raw)
+        joined = "".join(seg[0] for seg in d[0] if seg and seg[0])
+        out = joined.strip() or text
+    except Exception:
+        out = text
+    _TR_CACHE[text] = out
+    time.sleep(0.12)
+    return out
+
+
 # ---------------------------------------------------------------- DATA / BUCKET
 ORDEM_BUCKET = {"hoje": 0, "ontem": 1, "semana": 2, "mes": 3}
 BUCKET_ROTULO = {"hoje": "🔥 hoje", "ontem": "🔥 de ontem", "semana": "📅 esta semana", "mes": "🗓️ este mês"}
@@ -103,6 +146,13 @@ def fmt_data_br(dstr):
 
 
 # ---------------------------------------------------------------- NOTICIAS
+def _local_label(mercados):
+    """Rotulo de origem/local da noticia a partir dos mercados que a surfaram."""
+    lab = {"Brasil": "Brasil", "USA/Mundo": "EUA / Mundo"}
+    nomes = [lab.get(x, x) for x in (mercados or []) if x]
+    return " · ".join(nomes)
+
+
 def _sem_fonte(titulo, fonte):
     """Tira o ' - Publisher' que o Google News anexa no fim do titulo."""
     t = (titulo or "").strip()
@@ -149,13 +199,14 @@ def collect_news(radar_slug, janela, top, tmp_out):
             continue
         lead = hs[0]
         fonte = lead.get("fonte", "") or ""
-        titulo = _sem_fonte(lead.get("titulo", "").strip(), fonte)
-        iid = item_id("noticia", norm_url(lead.get("url", "")), titulo)
+        titulo_orig = _sem_fonte(lead.get("titulo", "").strip(), fonte)
+        iid = item_id("noticia", norm_url(lead.get("url", "")), titulo_orig)  # id estavel (nao muda com traducao)
         items.append({
             "id": iid,
             "tipo": "noticia",
-            "titulo": titulo,
+            "titulo": traduzir_pt(titulo_orig),
             "fonte": fonte,
+            "local": _local_label(t.get("mercados", [])),
             "url": lead.get("url", ""),
             "thumb": "",
             "data": lead.get("data", ""),
@@ -164,7 +215,7 @@ def collect_news(radar_slug, janela, top, tmp_out):
             "num_fontes": t.get("num_fontes", 1),
             "keywords": t.get("keywords", []),
             "fontes_extra": [
-                {"titulo": _sem_fonte(h.get("titulo", ""), h.get("fonte", "")),
+                {"titulo": traduzir_pt(_sem_fonte(h.get("titulo", ""), h.get("fonte", ""))),
                  "fonte": h.get("fonte", ""), "url": h.get("url", "")}
                 for h in hs[1:6]
             ],
@@ -231,7 +282,7 @@ def collect_videos(queries, max_videos):
         out.append({
             "id": iid,
             "tipo": "video",
-            "titulo": v["titulo"],
+            "titulo": traduzir_pt(v["titulo"]),
             "fonte": v["fonte"],
             "url": v["url"],
             "thumb": f"https://i.ytimg.com/vi/{v['id_yt']}/hqdefault.jpg",
@@ -299,7 +350,7 @@ def related_media(query):
     return {
         "thumb": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
         "url": f"https://www.youtube.com/watch?v={vid}",
-        "titulo": (e.get("title") or "").strip(),
+        "titulo": traduzir_pt((e.get("title") or "").strip()),
         "fonte": e.get("channel") or e.get("uploader") or "YouTube",
         "views": e.get("view_count") or 0,
     }
