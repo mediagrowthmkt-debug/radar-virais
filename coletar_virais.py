@@ -397,7 +397,7 @@ _SUBEIXOS = [
                "corais", "branqueamento", "clima", "temperatura"],
      ["O OCEANO ESTÁ MUDANDO E ISSO TE AFETA AGORA",
       "O QUE ESTE SINAL DO MAR SIGNIFICA PRA VOCÊ",
-      "CIENTISTAS ALERTAM: O OCEANO ESTÁ {n} VEZES MAIOR"]),
+      "CIENTISTAS ALERTAM PRO QUE O OCEANO ESTÁ FAZENDO"]),
     ("poluicao", ["plastic", "microplast", "poluic", "mineracao", "lixo", "esgoto", "petroleo"],
      ["CIENTISTAS ACHARAM PLÁSTICO ONDE NINGUÉM ESPERAVA",
       "O QUE ESSA POLUIÇÃO FAZ COM O SEU CORPO",
