@@ -18,6 +18,7 @@ header('Access-Control-Allow-Methods: GET, POST, OPTIONS');
 header('Access-Control-Allow-Headers: Content-Type');
 header('Content-Type: application/json; charset=utf-8');
 if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') { http_response_code(204); exit; }
+require __DIR__ . '/_ratelimit.php';  // rate limit (checklist #23)
 
 $DATA = __DIR__ . '/data';
 if (!is_dir($DATA)) { @mkdir($DATA, 0775, true); }
