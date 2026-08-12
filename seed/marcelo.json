@@ -9,7 +9,7 @@
     "primaryDark": "#0A1E4D",
     "logo": "logos/marcelo.png"
   },
-  "gerado_em": "2026-08-12T12:20:04.929157-03:00",
+  "gerado_em": "2026-08-12T13:20:04.915387-03:00",
   "janela_dias": 30,
   "search_terms": {
     "noticias": [
@@ -56,14 +56,14 @@
     ]
   },
   "stats": {
-    "total": 291,
+    "total": 292,
     "novos_agora": 58,
-    "noticias": 273,
+    "noticias": 274,
     "videos": 18,
     "hoje": 14,
     "ontem": 21,
     "semana": 156,
-    "mes": 100
+    "mes": 101
   },
   "itens": [
     {
@@ -118,7 +118,7 @@
       "fonte": "Coxim Agora",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYTdMekZtbkFXV1pGZWltUzJMRFZaeVo4d1docm5GSi1LQVVKcEF0Tkdmc0tBUmtjbW5YbDA3WW0yclJjZE9XSTVqRmxTMFI1R0U5VG85SzNFVEVWLTdJRzBOcHNxNUdPXzhQWk5Wb05XTEVIWmdMZlUwLTd2SmM5VzdDandCV3g2WGNSWmZFdXR0VEFDQy1la0c0SUM2eTBkRElPbg?oc=5",
-      "thumb": "",
+      "thumb": "https://i.ytimg.com/vi/z0N_xOQrovg/hqdefault.jpg",
       "data": "2026-08-12",
       "bucket": "hoje",
       "calor": 3,
@@ -147,7 +147,13 @@
         "formato": "Reels",
         "eixo": "default"
       },
-      "data_br": "12/08/2026"
+      "data_br": "12/08/2026",
+      "video_relacionado": {
+        "titulo": "Study links gut and oral bacteria to psychopathic traits",
+        "url": "https://www.youtube.com/watch?v=z0N_xOQrovg",
+        "fonte": "i New(s) Brasil",
+        "views": 1
+      }
     },
     {
       "id": "ea2b0b5297f9",
@@ -156,7 +162,7 @@
       "fonte": "Extra Classe",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTlUZFFKMGVBQ2hSM1VQeG9senBqU1ZUblM3NG1lYVdseU4wS0c4aU5KY3I4Vk1tcUt6TWhsUjBvTjRQbUNOTVo5M01SZm5hZkhtLTNhX2tHazIzTzZXNVFJeTd2ZmlwVGNtMTdkWDV3N0RZTExMeWJjdWFiRXRxN1VfYTFKQndiMnB6cXNacWU3Qjk3eXZXOThNbEdHNldRYXpuUnFrcEV2dDdpOEtjVVlaT1g?oc=5",
-      "thumb": "",
+      "thumb": "https://i.ytimg.com/vi/DFGqdcOFY8k/hqdefault.jpg",
       "data": "2026-08-12",
       "bucket": "hoje",
       "calor": 3,
@@ -185,7 +191,13 @@
         "formato": "Reels",
         "eixo": "clima"
       },
-      "data_br": "12/08/2026"
+      "data_br": "12/08/2026",
+      "video_relacionado": {
+        "titulo": "MC Paulin da Capital - Como é Falho o Ser Humano - A Gente Nasceu Pra Brilhar (DJ GM e Thi Marquez)",
+        "url": "https://www.youtube.com/watch?v=DFGqdcOFY8k",
+        "fonte": "FUNK DA QUEBRADA",
+        "views": 644133
+      }
     },
     {
       "id": "f29aa56dfa18",
@@ -281,7 +293,7 @@
       "fonte": "Folha de S.Paulo",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOUxfRDBLZGg5el9zdEtWeGV5bkdCRlhLNEJpNE1PTVZhQUVSNTdKMm00VXo5Q0tON3huajFnYVdWajVTNURCNzlJVjIxN1V3em80bC0wUEJmNVlHSTZVR1dLbDRzM3ZlUE5POUZOMXNSX1p5V2U1by1hU3J4RFJtc29UVlpZVTcxTXRTUzU2bTBXMmwzVGpzWC1qTndxb0FyNEhrNzhubml5TkJvWUJBOWE2dDhJMGUwc01aTXBDTVItU0xrUkNFaS1jMzEwUkhOOHZIM3F3b1Z0QjFJemdn?oc=5",
-      "thumb": "",
+      "thumb": "https://i.ytimg.com/vi/pm9GgS2tEX8/hqdefault.jpg",
       "data": "2026-08-12",
       "bucket": "hoje",
       "calor": 3,
@@ -306,7 +318,13 @@
         "formato": "Reels",
         "eixo": "clima"
       },
-      "data_br": "12/08/2026"
+      "data_br": "12/08/2026",
+      "video_relacionado": {
+        "titulo": "PREVENT RESPIRATORY ALLERGY ATTACKS IN CHILDREN | MOTHER'S TIPS",
+        "url": "https://www.youtube.com/watch?v=pm9GgS2tEX8",
+        "fonte": "Macetes de Mãe",
+        "views": 9046
+      }
     },
     {
       "id": "effd62d00342",
@@ -383,7 +401,7 @@
         "titulo": "Brasil perde cobertura de vegetação nativa e enfrenta risco de impacto maior do El Niño | AFP",
         "url": "https://www.youtube.com/watch?v=r52yhC6z5xo",
         "fonte": "AFP Português",
-        "views": 168
+        "views": 257
       }
     },
     {
@@ -493,7 +511,7 @@
         "titulo": "O Streamer Falso Invoca Acidentalmente Uma Noiva Fantasma Real E Assustadora",
         "url": "https://www.youtube.com/watch?v=IZtEOkVx5g0",
         "fonte": "Just Alus PT",
-        "views": 633
+        "views": 640
       }
     },
     {
@@ -571,7 +589,7 @@
         "titulo": "O Streamer Falso Invoca Acidentalmente Uma Noiva Fantasma Real E Assustadora",
         "url": "https://www.youtube.com/watch?v=IZtEOkVx5g0",
         "fonte": "Just Alus PT",
-        "views": 633
+        "views": 640
       }
     },
     {
@@ -610,7 +628,61 @@
         "titulo": "🔥【AI】Istri selingkuh memaksa saya untuk bercerai, tanpa menyadari bahwa saya memiliki 4735 Bitcoin!",
         "url": "https://www.youtube.com/watch?v=JTeHyVCLEmg",
         "fonte": "Budi‌ Drama ",
-        "views": 22526
+        "views": 22726
+      }
+    },
+    {
+      "id": "7412a2091248",
+      "tipo": "noticia",
+      "titulo": "Filhote de baleia jubarte é encontrado morto na Praia do Paiva, no Grande Recife",
+      "fonte": "Francês News",
+      "local": "Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFY1R3gzTXBBTG9MQ1Z6UDJLM0p1aDh0T0JfeERVWEFPdFdqSGNwQ19Pc3dMemFyTzE3al81WnlQcnNkOTRVQ2FQcHc2cWczZHpKX1RsY21zblZXX1BfNmVXbVNGZF9acGFnalN6Zy1CNnh3VGhKNzVFM2lPb3hyZDZMM3ZXTW9PR0dLZlk4ems5WjlwdHZPRUZuU1BsVTJ4SlVQUlgtR0RHd2NNV1Ezc2F6SFYxVE9wdFpfcC1YNWFuZXpONUJB?oc=5",
+      "thumb": "https://i.ytimg.com/vi/AYZ1S-9_Z1M/hqdefault.jpg",
+      "data": "2026-08-11",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 3,
+      "keywords": [
+        "baleia jubarte"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Filhote de baleia jubarte é encontrado morto na Praia do Paiva",
+          "fonte": "Diario de Pernambuco",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMHRuYVVURnp6NDFOTFMydkhkeG1EbVMxc3RhWVFLTlcwdnIyLTE1MDhhSS0wMWxzR1dYbXVCdFNPZXJldE9kNXpfdjkzNzltRURiVDJ3NE44TElqN29mcVJCSHlzc2cwTm5RQTNoMjFCR3B0OFZhTHJaTnpvYnJtYnJvemFnbXUzYW1BaERCSHhRcmdYNkdOa1luT1ctR1VtYVNiLW1TMTN5eXVTb2ZNNzNDU2FxNDhmRTV0U295X0N4WmJxdzRFNFhJZVFEZ2c?oc=5"
+        },
+        {
+          "titulo": "Filhote de jubarte é achado morto na Praia do Paiva; em 72 horas, é a 6ª carcaça de animal marinho encontrada no Grande Recife",
+          "fonte": "G1",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnpldDdNYmp1ZGEzU1BXd2pyZzRfblIwdW0wS2ZmMUs2VHc1NjVPZmZmeExEUjVLbzFpanE0Nl9WOExOTzVGQ2pIMXNyVk5md054Skc3SmYwVC1pdGYtVW5iVk5WTW9tVVpxZ2J3TVF6a2M5d21WT3QtNmtMX0RlMl81TW9SWGQyUGxBaGRIYWtRdVJ2bVdXX1dCT1JuTXFTWTNYTXZmSGRMZ21uLWIwZNIBvwFBVV95cUxPdjRrOWV3aTV1NW54LWswLXVfSGdzcXdJWUxpVlZ6QnhvZDZFZ2FLd2paTVpXOWFHOW1fb01ibWdqS05KVUtBWjI5VjNmbHJuRUlaYmt0Wlg0MnU0VXV3Z3VJRkt2NDdYS0JGVEJFUW53eS1WaWdwak9oNWl4MVhueGxIT3c4VzNUVGlLY0dzcFNJQ3o1SFljb2xnWUE0cG1OMXl4TDV0QTZjZ000bTlmYUx5TUtnTy1ocTdkaFd5dw?oc=5"
+        },
+        {
+          "titulo": "Filhote de baleia jubarte é encontrado morto na Praia do Paiva",
+          "fonte": "G1",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFRQRnZPSDV2TlAxX3N0b0YyUDhVZzNYZXBsbWlXa2NjVHVhZDhRd051VnhqMEt3VXNkeUdid0JtTGlEWDdRbDhHVDB2WWtRY0VEVjJMUWRMYWtMQ2Z5dVBRbTFaOVduakZIRW9DNE9SLUx6MHZvaC1QbVE5ekpIeWdrTnFSTHM3a0dOazZCejVIaDEwc2MxMURpRXBiM05wbEZYb0RhLTRrUklmYzEyNUlfUGJ0YV9hRFHSAcgBQVVfeXFMT3RfMjczYTlpOFJpYlpxQ1hwMHlKclY5QmtYV2o3LWs4MFVRYjM4OTZ5TlVLZXJEazY1NVhWSVdoM19MYlNKMmw3b2gwOHFzaTgwOS02SlFZZGZ6cllnUjl6NjBXRUpGTy1jeEFpcmFWVGFkQXJqbnpyWmtPVmwxVVBkb2FzdzhXTlg3ckVyMkUzV0JIXzhhSFVzR0VKTjlkNGxPM0c1WHJVYnhSa2NuZHdUV1B4MVVLcXQ3cXlWLXFsT1B3a2JuTE8?oc=5"
+        },
+        {
+          "titulo": "Filhote de baleia-jubarte é encontrado morto em praia na BA",
+          "fonte": "G1",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDN2eWIwajlmYW1Mb2JDRWt5aXhmb3dueWV3MGNlVjJDcEFXMW0zcDZxTlVZOC1GN2dwWVA1WE9RT25JbUNNTUtIVU55T1JjaEtnYzNURWRRLUZobmF3Zy0tcDFCM3B0cFBMSmU3SGc3YkdMVGg0NlVuN25VZ3QzNm9lVmU3QWZOclUxLWJwcVU5TW1hMnVDWHotMGZjb1NucF90cm9EUGRWUGJKTkNURm1uY3HSAcMBQVVfeXFMTUZnMnNQb0c1Qy14MzFVc0o5Vm5GTVNjYU9XSDI1YjZyZUVod3RFM1pqQ01LeTd0ZjA0ZGtHMS1vdkVHWXVIWV9XZGNveGJtSVFDSUk2VFBoaV8yRlp0dXhYN2tXY0lSZTljajc4U1pJSGowS2sxOFhRZXVYcFNFQWtfWTZmNTBnRWpGZDd0QkVHWWNJNE45VWNfcG8yM0NtMWlEdi0wcS1paVozZnBKcUZrUjJNY25aemZKeFNzY01aNFgw?oc=5"
+        }
+      ],
+      "score": 13.5,
+      "primeira_vez": "2026-08-11T09:20:04.957865-03:00",
+      "angulo": {
+        "gancho": "POR QUE ISSO ESTÁ ACONTECENDO COM AS BALEIAS",
+        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e ancora no oceano/vida marinha, com a sua autoridade científica no comando.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "baleia"
+      },
+      "data_br": "11/08/2026",
+      "video_relacionado": {
+        "titulo": "Um grande golfinho encalhado na praia!",
+        "url": "https://www.youtube.com/watch?v=AYZ1S-9_Z1M",
+        "fonte": "Genival pescador",
+        "views": 83
       }
     },
     {
@@ -699,7 +771,7 @@
         "titulo": "Moby-Dick by Herman Melville – Full Audiobook Part 1/2 (Chapter1 ~ 60) | American Classic Literature",
         "url": "https://www.youtube.com/watch?v=rW7ZxihVHf0",
         "fonte": "AI Eternal Chapters",
-        "views": 4388
+        "views": 4424
       }
     },
     {
@@ -869,56 +941,7 @@
         "titulo": "🌠【FULL更至最新】EP01-200一口氣《超神宠兽店/Astral Pet Store》#astralpetstore #動態漫畫 #小說改編 #玄幻 #熱血 #系統 #無厘頭  #comics",
         "url": "https://www.youtube.com/watch?v=peu_7NgTcNA",
         "fonte": "阅文漫画",
-        "views": 20266
-      }
-    },
-    {
-      "id": "7412a2091248",
-      "tipo": "noticia",
-      "titulo": "Filhote de baleia jubarte é encontrado morto na Praia do Paiva, no Grande Recife",
-      "fonte": "Francês News",
-      "local": "Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFY1R3gzTXBBTG9MQ1Z6UDJLM0p1aDh0T0JfeERVWEFPdFdqSGNwQ19Pc3dMemFyTzE3al81WnlQcnNkOTRVQ2FQcHc2cWczZHpKX1RsY21zblZXX1BfNmVXbVNGZF9acGFnalN6Zy1CNnh3VGhKNzVFM2lPb3hyZDZMM3ZXTW9PR0dLZlk4ems5WjlwdHZPRUZuU1BsVTJ4SlVQUlgtR0RHd2NNV1Ezc2F6SFYxVE9wdFpfcC1YNWFuZXpONUJB?oc=5",
-      "thumb": "https://i.ytimg.com/vi/AYZ1S-9_Z1M/hqdefault.jpg",
-      "data": "2026-08-11",
-      "bucket": "ontem",
-      "calor": 3,
-      "num_fontes": 2,
-      "keywords": [
-        "baleia jubarte"
-      ],
-      "fontes_extra": [
-        {
-          "titulo": "Filhote de jubarte é achado morto na Praia do Paiva; em 72 horas, é a 6ª carcaça de animal marinho encontrada no Grande Recife",
-          "fonte": "G1",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnpldDdNYmp1ZGEzU1BXd2pyZzRfblIwdW0wS2ZmMUs2VHc1NjVPZmZmeExEUjVLbzFpanE0Nl9WOExOTzVGQ2pIMXNyVk5md054Skc3SmYwVC1pdGYtVW5iVk5WTW9tVVpxZ2J3TVF6a2M5d21WT3QtNmtMX0RlMl81TW9SWGQyUGxBaGRIYWtRdVJ2bVdXX1dCT1JuTXFTWTNYTXZmSGRMZ21uLWIwZNIBvwFBVV95cUxPdjRrOWV3aTV1NW54LWswLXVfSGdzcXdJWUxpVlZ6QnhvZDZFZ2FLd2paTVpXOWFHOW1fb01ibWdqS05KVUtBWjI5VjNmbHJuRUlaYmt0Wlg0MnU0VXV3Z3VJRkt2NDdYS0JGVEJFUW53eS1WaWdwak9oNWl4MVhueGxIT3c4VzNUVGlLY0dzcFNJQ3o1SFljb2xnWUE0cG1OMXl4TDV0QTZjZ000bTlmYUx5TUtnTy1ocTdkaFd5dw?oc=5"
-        },
-        {
-          "titulo": "Filhote de baleia jubarte é encontrado morto na Praia do Paiva",
-          "fonte": "G1",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFRQRnZPSDV2TlAxX3N0b0YyUDhVZzNYZXBsbWlXa2NjVHVhZDhRd051VnhqMEt3VXNkeUdid0JtTGlEWDdRbDhHVDB2WWtRY0VEVjJMUWRMYWtMQ2Z5dVBRbTFaOVduakZIRW9DNE9SLUx6MHZvaC1QbVE5ekpIeWdrTnFSTHM3a0dOazZCejVIaDEwc2MxMURpRXBiM05wbEZYb0RhLTRrUklmYzEyNUlfUGJ0YV9hRFHSAcgBQVVfeXFMT3RfMjczYTlpOFJpYlpxQ1hwMHlKclY5QmtYV2o3LWs4MFVRYjM4OTZ5TlVLZXJEazY1NVhWSVdoM19MYlNKMmw3b2gwOHFzaTgwOS02SlFZZGZ6cllnUjl6NjBXRUpGTy1jeEFpcmFWVGFkQXJqbnpyWmtPVmwxVVBkb2FzdzhXTlg3ckVyMkUzV0JIXzhhSFVzR0VKTjlkNGxPM0c1WHJVYnhSa2NuZHdUV1B4MVVLcXQ3cXlWLXFsT1B3a2JuTE8?oc=5"
-        },
-        {
-          "titulo": "Filhote de baleia-jubarte é encontrado morto em praia na BA",
-          "fonte": "G1",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDN2eWIwajlmYW1Mb2JDRWt5aXhmb3dueWV3MGNlVjJDcEFXMW0zcDZxTlVZOC1GN2dwWVA1WE9RT25JbUNNTUtIVU55T1JjaEtnYzNURWRRLUZobmF3Zy0tcDFCM3B0cFBMSmU3SGc3YkdMVGg0NlVuN25VZ3QzNm9lVmU3QWZOclUxLWJwcVU5TW1hMnVDWHotMGZjb1NucF90cm9EUGRWUGJKTkNURm1uY3HSAcMBQVVfeXFMTUZnMnNQb0c1Qy14MzFVc0o5Vm5GTVNjYU9XSDI1YjZyZUVod3RFM1pqQ01LeTd0ZjA0ZGtHMS1vdkVHWXVIWV9XZGNveGJtSVFDSUk2VFBoaV8yRlp0dXhYN2tXY0lSZTljajc4U1pJSGowS2sxOFhRZXVYcFNFQWtfWTZmNTBnRWpGZDd0QkVHWWNJNE45VWNfcG8yM0NtMWlEdi0wcS1paVozZnBKcUZrUjJNY25aemZKeFNzY01aNFgw?oc=5"
-        }
-      ],
-      "score": 10.0,
-      "primeira_vez": "2026-08-11T09:20:04.957865-03:00",
-      "angulo": {
-        "gancho": "POR QUE ISSO ESTÁ ACONTECENDO COM AS BALEIAS",
-        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e ancora no oceano/vida marinha, com a sua autoridade científica no comando.",
-        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
-        "formato": "Reels",
-        "eixo": "baleia"
-      },
-      "data_br": "11/08/2026",
-      "video_relacionado": {
-        "titulo": "Um grande golfinho encalhado na praia!",
-        "url": "https://www.youtube.com/watch?v=AYZ1S-9_Z1M",
-        "fonte": "Genival pescador",
-        "views": 83
+        "views": 20596
       }
     },
     {
@@ -2039,7 +2062,7 @@
         "titulo": "Uma baleia em necessidade! ⭐️ O Bombeiro Sam | Resgate de bombeiro | Desenhos para crianças",
         "url": "https://www.youtube.com/watch?v=a_G-Sf8TJcU",
         "fonte": "O Bombeiro Sam",
-        "views": 4375744
+        "views": 4375866
       }
     },
     {
@@ -3303,7 +3326,7 @@
       "id": "342d4f9b251e",
       "tipo": "noticia",
       "titulo": "Salvador inicia temporada das baleias-jubarte com 28 animais avistados em um único dia",
-      "fonte": "portaldocase.com.br",
+      "fonte": "Portal do Casé",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOGpjbFpHcGYxelRiVFU1N3ZYbFp5QktJU2d3R25IbEt6OTFiU2VSSjNKOWhkZlRhR1plTGtCS0hMOW9rbkxkM1J2ek5weWszczdsa0RjaVBBRE9qWXk1SGZMNk9WS0g3d2NoODZoZ2sxdnUybjR5U2dDNjRJY3l5bmsyRlZqRVVUcFUzdkh6elpmY3lKaC11UXBkbkltM0dTRFRXRGVSZkdTdm94SWR0NWxya1B2Mmd2YUZocS1KOTk4dFFzUk15dUFyaUQwUUE1SVFXZ2NFRVoweXRp?oc=5",
       "thumb": "https://i.ytimg.com/vi/cWP5vJ5kgno/hqdefault.jpg",
@@ -5183,7 +5206,7 @@
         "titulo": "Menino de 11 anos que perdeu a perna em ataque de tubarão dá primeiros passos com nova prótese",
         "url": "https://www.youtube.com/watch?v=g1J55U1SM4c",
         "fonte": "Terra Brasil",
-        "views": 15832
+        "views": 15833
       }
     },
     {
@@ -5334,7 +5357,7 @@
       "fontes_extra": [
         {
           "titulo": "PBH deverá responder sobre medidas contra efeitos do El Niño",
-          "fonte": "cmbh.mg.gov.br",
+          "fonte": "Portal CMBH |",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ1RMaXlaVHlYaGE4SzdRNXY0TVhQcmxiS25mUm93ZHlFbTZVRG5QZDBwa01iSWY0T29ScXZRZXlTeUx2YzVEVmJ3SHk5TURDZmgyckVNZ3ctdXlJTkFHT1dWbm12NWFYOWQyQlZ1MzVLWVUtbGhwc1U3UWlBUnF0QUhGM1BCRFh6U05WbjBLNkNJR2UwcTV3c01lS01YNU5oYndYd0NCUl9ObzVTdnU3aFdNYWpiemZ1VG13aFRab2tOcEFqS2s4UTBSVFBwWFdRMkVlS2dEX0U?oc=5"
         }
       ],
@@ -5359,10 +5382,10 @@
       "id": "5c4a0bc8dce0",
       "tipo": "noticia",
       "titulo": "A Califórnia poderá ver os níveis do mar mais altos já registrados este ano, graças ao El Niño",
-      "fonte": "kqed.org",
+      "fonte": "KQED",
       "local": "EUA / Mundo",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGlWaV8tRWZCUnRLYXlUSnUwSTFqbVVYQ2RjdDYzMWRqZGdZMkxhVk1ndlRMQ3psVC1GbmFodGJTci15R2VKZE9OVzZYZzdMU0xDeExGWGZUSWxkQV84aHk5VUhzT0tIZzVZS0ZkXzVBWFZwNWt0UnoxdXA5ajk4Ui05S2JWeDZhLWN6VHJBeG9GOXc5X1RqcHFxSG9NTXMwVnBNdkRkNlh2Wl9XVlJ3dmM2aDg0NGc?oc=5",
-      "thumb": "https://i.ytimg.com/vi/bModHxy9eBs/hqdefault.jpg",
+      "thumb": "https://i.ytimg.com/vi/eBWsZwAbyVs/hqdefault.jpg",
       "data": "2026-08-10",
       "bucket": "semana",
       "calor": 2,
@@ -5388,10 +5411,10 @@
       },
       "data_br": "10/08/2026",
       "video_relacionado": {
-        "titulo": "Um menino pobre faz a garota mais bonita da turma chorar e é ostracizado por toda a escola.",
-        "url": "https://www.youtube.com/watch?v=bModHxy9eBs",
-        "fonte": "Luzverde-short",
-        "views": 28902
+        "titulo": "Seu médico era colega de quarto do ex na faculdade! Ele a amava em segredo e se casaram",
+        "url": "https://www.youtube.com/watch?v=eBWsZwAbyVs",
+        "fonte": "SheWorld TV",
+        "views": 172
       }
     },
     {
@@ -5590,7 +5613,7 @@
       "fonte": "Muita Informação",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcy1CS1E4OUtpZU14aTh1Z3piSFBDVWt4em84QUtGOWFJMTd3T0tJbEhYaV9rSGxrOUZrSVctM2ZBTWNjNUhJN2thRW04c3VuZjd2ekwxUHNWZmxqMGhDMVM3bjlFTzVGeTZmUFVqVGVTZjhOSmpvTVBZQUdtR2VNSzM0V21Tc3pZYlNXRUl4UHdWamxsbVZfM0h0MF9VdktRaUpTT2ZVd2dpMTRZbm11ZHBDWFM4Qi0ycGt1T2dpOHF2TzNjT2EyazhrVWJ4UmlJeW5sZ2NIVEtNZ0RBaEpzbHZTeDdQeGs0c0hsRTNB?oc=5",
-      "thumb": "https://i.ytimg.com/vi/kaJOUo165es/hqdefault.jpg",
+      "thumb": "https://i.ytimg.com/vi/3Wmi3RzuRV4/hqdefault.jpg",
       "data": "2026-08-07",
       "bucket": "semana",
       "calor": 2,
@@ -5616,10 +5639,10 @@
       },
       "data_br": "07/08/2026",
       "video_relacionado": {
-        "titulo": "Baleias Jubarte dão show na costa brasileira - SBT Brasil",
-        "url": "https://www.youtube.com/watch?v=kaJOUo165es",
-        "fonte": "Projeto Baleia Jubarte",
-        "views": 329
+        "titulo": "Baleias-jubarte dão show nas águas de Ilhabela, no litoral de São Paulo | Jornal da Band",
+        "url": "https://www.youtube.com/watch?v=3Wmi3RzuRV4",
+        "fonte": "Band Jornalismo",
+        "views": 9022
       }
     },
     {
@@ -5734,7 +5757,7 @@
       "fonte": "G1",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnlnRHZaZ2NVUl8zd0RhNnFXVjhFem1iYzdJWWZfYndiVjk1Rk1ZbF9Wa1h3YUk5WGlIMDNPdVFZeFkwMllyVVYyLTV6cjJZVllIUVhTdEZvM3lmaGZUY2Vrbms0QUNrd3ZlaGpxMUFyWFRheWZPQjhBOGhtOWptQ05CUVllbTZZMUpxQV9qNmc2Y01Jd2w4bk1tMkJKMm1tMTROc1BJVExjRmNoV1FjVmZFR2l3Z1VDV2t1aUFWSU91S0UzX1o3NVBNdmd5VnlQMDFoSnF30gHkAUFVX3lxTE90TVRVZVZXaVBJZG5LakU4NFBVcmNTaW43LW05bmdjRWtCZV9oV1ZYZE54cFY2R2NrTEFoY1g3VzVucFB0ODBJWnprVjF0aWFLY0JsY1N4dllEWWNydm9Udms4WHd4RF9UTDNxZzhKUmVHMzB6WlZ1MGdGeWVCZkI2dTJtU2FCZndOLUd4czc0M1g1TjRjTzNfNW5yTmtWNm9RLUVWRHUwYnlOR2JkS05BbjFENTFoQjVyaEt4Q0o5cVFxQVp2YlpGZkl2dHkzbE5HSkhiWk9CXzB4b2tIanEzV0NGNg?oc=5",
-      "thumb": "https://i.ytimg.com/vi/jFFHdcBybTo/hqdefault.jpg",
+      "thumb": "",
       "data": "2026-08-09",
       "bucket": "semana",
       "calor": 2,
@@ -5758,13 +5781,7 @@
         "formato": "Reels",
         "eixo": "clima"
       },
-      "data_br": "09/08/2026",
-      "video_relacionado": {
-        "titulo": "EL NIÑO 2026 - ALERTA PARA EFEITOS DEVASTADORES DO EL NIÑO 2026 - EL NIÑO 2023 QUAL É A VERDADE?",
-        "url": "https://www.youtube.com/watch?v=jFFHdcBybTo",
-        "fonte": "Prof. Bruno Barros - Tudo Sobre Geografia",
-        "views": 44155
-      }
+      "data_br": "09/08/2026"
     },
     {
       "id": "d610093e6e61",
@@ -5836,10 +5853,10 @@
       "id": "11974b220371",
       "tipo": "noticia",
       "titulo": "Mãe e filhote recém-nascido de baleia-jubarte são flagrados no Leblon",
-      "fonte": "R7",
+      "fonte": "noticias.r7.com",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYy1oT29FbHQySlVyQTQyYldaSWRva3dYY1JVRWFSZjFYaWdmeElRdFpTRkVCQk5zYWU4ZU92LXJ0enVJVThSZ3RkVGNBSmhYLUpycFE4eG9pU2lqR3Z4T0EtSXFiTW8xSElyV3hIbWlRYTMxaFVDUlBvaVl4NE1ZeEFuUzlibFQ2cndMdWc0UWZ3aGs2bTNMSHliQ0tPRG0zYmV2bk1RVkVfbDlVcFFFX1BvUUxfY3VfWXc?oc=5",
-      "thumb": "https://i.ytimg.com/vi/-mu7BQ6ocTo/hqdefault.jpg",
+      "thumb": "",
       "data": "2026-08-06",
       "bucket": "semana",
       "calor": 2,
@@ -5863,13 +5880,7 @@
         "formato": "Reels",
         "eixo": "baleia"
       },
-      "data_br": "06/08/2026",
-      "video_relacionado": {
-        "titulo": "野生抹香鯨罕見誕生全記錄 雌鯨合力托舉幼鯨學游泳【#Yahoo國際通】",
-        "url": "https://www.youtube.com/watch?v=-mu7BQ6ocTo",
-        "fonte": "Yahoo TV一起看",
-        "views": 1427
-      }
+      "data_br": "06/08/2026"
     },
     {
       "id": "d318db3a9c43",
@@ -6028,7 +6039,7 @@
       "fonte": "ND Mais",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZDJWUU5SeFpPNEw4bzV0VUl3Rk1YeXdEX0lQd0ZQR3FueGxMODdQMUY3MVVKSTROUk14V25ObnVRaXZQWHp0MmFmTm1KVEhyVXRCaEh4SjNJcGhJcUJVM1V2VXVNR1pWNUh1YlM5T2hJYnoyTk1PeFRrRkhGYWdxVDF1TXV4bDZ5RS1qamtXSUh3eDA?oc=5",
-      "thumb": "https://i.ytimg.com/vi/TTYcXV44qP0/hqdefault.jpg",
+      "thumb": "",
       "data": "2026-08-07",
       "bucket": "semana",
       "calor": 2,
@@ -6052,13 +6063,7 @@
         "formato": "Reels",
         "eixo": "clima"
       },
-      "data_br": "07/08/2026",
-      "video_relacionado": {
-        "titulo": "Filme de ação de 2026: O exército lança um ataque de fogo pesado contra um acampamento inimigo e luta até a vitória!",
-        "url": "https://www.youtube.com/watch?v=TTYcXV44qP0",
-        "fonte": "特警影院",
-        "views": 2581
-      }
+      "data_br": "07/08/2026"
     },
     {
       "id": "709a59c92004",
@@ -7628,11 +7633,11 @@
       "keywords": [
         "polvo inteligência oceano"
       ],
-      "views": 8329933,
+      "views": 8329999,
       "dur": 198.0,
       "fontes_extra": [],
-      "score": 8329933,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 8329999,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "3 COISAS QUE VOCÊ NÃO SABIA SOBRE O TUBARÃO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -7656,11 +7661,11 @@
       "keywords": [
         "curiosidades do oceano ciência"
       ],
-      "views": 8276797,
+      "views": 8276836,
       "dur": 726.0,
       "fontes_extra": [],
-      "score": 8276797,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 8276836,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -7688,7 +7693,7 @@
       "dur": 1118.0,
       "fontes_extra": [],
       "score": 7371279,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -7712,11 +7717,11 @@
       "keywords": [
         "perigos do mar animais"
       ],
-      "views": 6417120,
+      "views": 6417333,
       "dur": 1817.0,
       "fontes_extra": [],
-      "score": 6417120,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 6417333,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "3 COISAS QUE VOCÊ NÃO SABIA SOBRE O ANIMAL",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -7744,7 +7749,7 @@
       "dur": 712.0,
       "fontes_extra": [],
       "score": 6208641,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "CIENTISTAS ENCONTRARAM ISSO NO FUNDO DO MAR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -7755,32 +7760,32 @@
       "data_br": "25/07/2019"
     },
     {
-      "id": "6f0a5a26241c",
+      "id": "2ff26aefba14",
       "tipo": "video",
-      "titulo": "Como podemos manter os plásticos fora do oceano | Geografia Nacional",
-      "fonte": "National Geographic",
-      "url": "https://www.youtube.com/watch?v=HQTUWK7CM-Y",
-      "thumb": "https://i.ytimg.com/vi/HQTUWK7CM-Y/hqdefault.jpg",
-      "data": "2016-09-16",
+      "titulo": "Todos os melhores ataques de tubarão em Tubarão 🌀 4K",
+      "fonte": "Boxoffice | Grandes Momentos dos Filmes",
+      "url": "https://www.youtube.com/watch?v=ikuLb9V4jns",
+      "thumb": "https://i.ytimg.com/vi/ikuLb9V4jns/hqdefault.jpg",
+      "data": "2025-03-12",
       "bucket": "mes",
       "calor": 3,
       "num_fontes": 1,
       "keywords": [
-        "poluição plástico oceano documentário"
+        "tubarão ataque motivo"
       ],
-      "views": 3801600,
-      "dur": 191.0,
+      "views": 5331143,
+      "dur": 620.0,
       "fontes_extra": [],
-      "score": 3801600,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 5331143,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
-        "gancho": "O QUE ESSA POLUIÇÃO FAZ COM O SEU CORPO",
+        "gancho": "3 COISAS QUE VOCÊ NÃO SABIA SOBRE O TUBARÃO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
         "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
         "formato": "Reels",
-        "eixo": "poluicao"
+        "eixo": "predador"
       },
-      "data_br": "16/09/2016"
+      "data_br": "12/03/2025"
     },
     {
       "id": "3fb86873c1ff",
@@ -7796,11 +7801,11 @@
       "keywords": [
         "fossa das marianas fundo do oceano"
       ],
-      "views": 3570075,
+      "views": 3570092,
       "dur": 593.0,
       "fontes_extra": [],
-      "score": 3570075,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 3570092,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -7824,11 +7829,11 @@
       "keywords": [
         "criatura estranha fundo do mar"
       ],
-      "views": 2443904,
+      "views": 2444021,
       "dur": 1164.0,
       "fontes_extra": [],
-      "score": 2443904,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 2444021,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -7856,7 +7861,7 @@
       "dur": 79.0,
       "fontes_extra": [],
       "score": 2181553,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "CIENTISTAS ENCONTRARAM ISSO NO FUNDO DO MAR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -7880,11 +7885,11 @@
       "keywords": [
         "baleia jubarte flagra"
       ],
-      "views": 1837646,
+      "views": 1837693,
       "dur": 44.0,
       "fontes_extra": [],
-      "score": 1837646,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 1837693,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "POR QUE ISSO ESTÁ ACONTECENDO COM AS BALEIAS",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -7893,6 +7898,62 @@
         "eixo": "baleia"
       },
       "data_br": "13/02/2025"
+    },
+    {
+      "id": "5f467d736b6c",
+      "tipo": "video",
+      "titulo": "Encontrei os Animais Mais Perigosos da Deep Web!",
+      "fonte": "Bass Fishing Productions em Português",
+      "url": "https://www.youtube.com/watch?v=7ReFw4hpq5g",
+      "thumb": "https://i.ytimg.com/vi/7ReFw4hpq5g/hqdefault.jpg",
+      "data": "2025-09-03",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "perigos do mar animais"
+      ],
+      "views": 1781533,
+      "dur": 1886.0,
+      "fontes_extra": [],
+      "score": 1781533,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "03/09/2025"
+    },
+    {
+      "id": "5d2d26685687",
+      "tipo": "video",
+      "titulo": "Conheça a praia brasileira dos tubarões, onde o turismo é proibido",
+      "fonte": "Domingo Espetacular",
+      "url": "https://www.youtube.com/watch?v=l-v3GCqASGc",
+      "thumb": "https://i.ytimg.com/vi/l-v3GCqASGc/hqdefault.jpg",
+      "data": "2024-09-09",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "tubarão ataque motivo"
+      ],
+      "views": 1601238,
+      "dur": 533.0,
+      "fontes_extra": [],
+      "score": 1601238,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
+      "angulo": {
+        "gancho": "3 COISAS QUE VOCÊ NÃO SABIA SOBRE O TUBARÃO",
+        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "predador"
+      },
+      "data_br": "09/09/2024"
     },
     {
       "id": "9dca570e6b5b",
@@ -7908,11 +7969,11 @@
       "keywords": [
         "orca ataca barco"
       ],
-      "views": 1551139,
+      "views": 1551145,
       "dur": 226.0,
       "fontes_extra": [],
-      "score": 1551139,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 1551145,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "3 COISAS QUE VOCÊ NÃO SABIA SOBRE A ORCA",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -7936,11 +7997,11 @@
       "keywords": [
         "perigos do mar animais"
       ],
-      "views": 1545766,
+      "views": 1545981,
       "dur": 5081.0,
       "fontes_extra": [],
-      "score": 1545766,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 1545981,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -7964,11 +8025,11 @@
       "keywords": [
         "fossa das marianas fundo do oceano"
       ],
-      "views": 1318544,
+      "views": 1318567,
       "dur": 756.0,
       "fontes_extra": [],
-      "score": 1318544,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 1318567,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "O QUE VIVE NO PONTO MAIS FUNDO DO OCEANO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -7977,34 +8038,6 @@
         "eixo": "criatura"
       },
       "data_br": "21/12/2025"
-    },
-    {
-      "id": "c99c6e3decff",
-      "tipo": "video",
-      "titulo": "O oceano pré-histórico é aterrorizante",
-      "fonte": "Fyori",
-      "url": "https://www.youtube.com/watch?v=CiK4G3-l05k",
-      "thumb": "https://i.ytimg.com/vi/CiK4G3-l05k/hqdefault.jpg",
-      "data": "2025-03-07",
-      "bucket": "mes",
-      "calor": 3,
-      "num_fontes": 1,
-      "keywords": [
-        "perigos do mar animais"
-      ],
-      "views": 1225705,
-      "dur": 944.0,
-      "fontes_extra": [],
-      "score": 1225705,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
-      "angulo": {
-        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
-        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
-        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
-        "formato": "Reels",
-        "eixo": "default"
-      },
-      "data_br": "07/03/2025"
     },
     {
       "id": "ca36effb49c8",
@@ -8020,11 +8053,11 @@
       "keywords": [
         "criatura estranha fundo do mar"
       ],
-      "views": 1219800,
+      "views": 1219853,
       "dur": 653.0,
       "fontes_extra": [],
-      "score": 1219800,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 1219853,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
         "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8035,88 +8068,60 @@
       "data_br": "21/11/2024"
     },
     {
-      "id": "58a423331ebe",
+      "id": "193c426d57b0",
       "tipo": "video",
-      "titulo": "AS MAIS TERRÍVEIS CRIATURAS DO FUNDO DO MAR QUE VOCÊ NUNCA VIU ANTES",
-      "fonte": "BRAIN TIME",
-      "url": "https://www.youtube.com/watch?v=-XDAriLUtIk",
-      "thumb": "https://i.ytimg.com/vi/-XDAriLUtIk/hqdefault.jpg",
-      "data": "2020-08-18",
+      "titulo": "As 15 criaturas mais brutais do oceano",
+      "fonte": "Sempre Curioso",
+      "url": "https://www.youtube.com/watch?v=Uy4S6nrpB2w",
+      "thumb": "https://i.ytimg.com/vi/Uy4S6nrpB2w/hqdefault.jpg",
+      "data": "2025-09-10",
       "bucket": "mes",
       "calor": 3,
       "num_fontes": 1,
       "keywords": [
-        "criatura estranha fundo do mar"
+        "perigos do mar animais"
       ],
-      "views": 1158778,
-      "dur": 735.0,
+      "views": 731263,
+      "dur": 1900.0,
       "fontes_extra": [],
-      "score": 1158778,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 731263,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
-        "gancho": "CIENTISTAS ENCONTRARAM ISSO NO FUNDO DO MAR",
+        "gancho": "O QUE VIVE NO PONTO MAIS FUNDO DO OCEANO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
         "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
         "formato": "Reels",
         "eixo": "criatura"
       },
-      "data_br": "18/08/2020"
+      "data_br": "10/09/2025"
     },
     {
-      "id": "139b63b9ca0e",
+      "id": "07e78fb888ba",
       "tipo": "video",
-      "titulo": "Por que Recife tem tantos ataques de tubarões?",
-      "fonte": "Mundo Entrópico",
-      "url": "https://www.youtube.com/watch?v=MwCWIWucWYU",
-      "thumb": "https://i.ytimg.com/vi/MwCWIWucWYU/hqdefault.jpg",
-      "data": "2026-01-22",
+      "titulo": "O SEGREDO DAS PROFUNDEZAS: POR QUE TEMOS MEDO DO QUE VIVE NO FUNDO DO MAR? SACANI E JORGE SOUZA",
+      "fonte": "Nas Fronteiras do Universo",
+      "url": "https://www.youtube.com/watch?v=8EzIQvgzrbA",
+      "thumb": "https://i.ytimg.com/vi/8EzIQvgzrbA/hqdefault.jpg",
+      "data": "2026-01-13",
       "bucket": "mes",
       "calor": 3,
       "num_fontes": 1,
       "keywords": [
-        "tubarão ataque motivo"
+        "descoberta cientistas oceano"
       ],
-      "views": 874194,
-      "dur": 861.0,
+      "views": 694297,
+      "dur": 10210.0,
       "fontes_extra": [],
-      "score": 874194,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
+      "score": 694297,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
       "angulo": {
-        "gancho": "O REAL MOTIVO PELO QUAL O TUBARÃO ATACA",
+        "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
         "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
         "formato": "Reels",
-        "eixo": "predador"
+        "eixo": "criatura"
       },
-      "data_br": "22/01/2026"
-    },
-    {
-      "id": "636ec1bca173",
-      "tipo": "video",
-      "titulo": "Powerful Humpback Whale",
-      "fonte": "Inteligentista",
-      "url": "https://www.youtube.com/watch?v=cWP5vJ5kgno",
-      "thumb": "https://i.ytimg.com/vi/cWP5vJ5kgno/hqdefault.jpg",
-      "data": "2022-02-15",
-      "bucket": "mes",
-      "calor": 3,
-      "num_fontes": 1,
-      "keywords": [
-        "baleia jubarte flagra"
-      ],
-      "views": 766270,
-      "dur": 253.0,
-      "fontes_extra": [],
-      "score": 766270,
-      "primeira_vez": "2026-08-12T12:20:04.929157-03:00",
-      "angulo": {
-        "gancho": "O QUE ESSA BALEIA REVELA SOBRE O OCEANO",
-        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
-        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
-        "formato": "Reels",
-        "eixo": "baleia"
-      },
-      "data_br": "15/02/2022"
+      "data_br": "13/01/2026"
     },
     {
       "id": "52a3da8527d1",
@@ -8755,7 +8760,7 @@
       "id": "019202fe525f",
       "tipo": "noticia",
       "titulo": "Baleia-jubarte é encontrada morta em Praia Grande, SP",
-      "fonte": "Tribuna do Agreste",
+      "fonte": "tribunadoagreste.com.br",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzg1QmJUcnpUdUxtWDFHNkhyVXRTcS1fak83eDAtQ1NtVkhnZjZMNGI5TVBfekQwVlVoVDYxRHMxMC1vMVZYVi1QS1FnZDMzTHBzeWlqb3ZxTUZDVnZ4dDhCTGU0b2dTQUtOeC1YSVRKc2kweGM5c0J5UmRqX2hVV3c2UTZTWHh6QkF6N0dWX19LRUVjTDZRR1JJRF9WazF3YUlNaUlkLW82U24tckxVWnln?oc=5",
       "thumb": "",
@@ -10580,6 +10585,39 @@
         "eixo": "baleia"
       },
       "data_br": "02/08/2026"
+    },
+    {
+      "id": "0a30df708d9b",
+      "tipo": "noticia",
+      "titulo": "Boletim aponta El Niño \"muito forte\" e maior risco de desastres no Brasil",
+      "fonte": "CNN Brasil",
+      "local": "Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0lkUW9hMk9yeTA4RWxRUWgzZGZtVGdIdkxyamhkTzdwdzRGeXN3ZVlGLXJ3LTBZOXRmckxaaFlPb1JXQUZ0eHNva0RYZTBKZHRMTEh3WkViVTJ6TERITk9fY0xhTEZKb1NERDJ6d2RFMm1TUHdPYTFMTTJIaGh3THh1WTJ1VlBkVEtRNnRwRDBFdVJhc3pvZXpSVTdzdjBqZC1vbEsxZHYtdFd0ajJzaHZOYkcyX2No?oc=5",
+      "thumb": "",
+      "data": "2026-08-03",
+      "bucket": "mes",
+      "calor": 2,
+      "num_fontes": 2,
+      "keywords": [
+        "El Niño 2026"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Órgãos apontam El Niño 'muito forte' e risco de desastres no Brasil",
+          "fonte": "UOL Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQkE4TGlYdHkzVUpDZWpxTUJ2REdxY21iY3d3MzQ3LWh2SWlBQU1QdXh6aTN5cDA2U0tfX3ZhNmxSZldGSDVUNy1xVENfcTlpRUFnaEpLSElVYTVmNkREVVNqQk1kQnI3aEJaZEdfYVlwcVZCZEpNNTdTUXlxWlNCZW5JcnZ0SHBhTjNkXzNuVzY2TWF5YzlBRk9MUG0tb1JnUXl1bFlMeE91S1AwQm1uV0NsX3YweUlKTzNiNWlsQ0p0ZVE1eEJtdXNGck9fR096WXFN?oc=5"
+        }
+      ],
+      "score": 5.0,
+      "primeira_vez": "2026-08-12T13:20:04.915387-03:00",
+      "angulo": {
+        "gancho": "CIENTISTAS ALERTAM PRO QUE O OCEANO ESTÁ FAZENDO",
+        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e ancora no oceano/vida marinha, com a sua autoridade científica no comando.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "clima"
+      },
+      "data_br": "03/08/2026"
     },
     {
       "id": "2dc850d339d9",
