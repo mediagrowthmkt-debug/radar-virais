@@ -9,7 +9,7 @@
     "primaryDark": "#0A1E4D",
     "logo": "logos/marcelo.png"
   },
-  "gerado_em": "2026-08-23T20:20:05.313214-03:00",
+  "gerado_em": "2026-08-23T21:20:05.201650-03:00",
   "janela_dias": 30,
   "search_terms": {
     "noticias": [
@@ -60,10 +60,10 @@
     "novos_agora": 58,
     "noticias": 657,
     "videos": 18,
-    "hoje": 5,
+    "hoje": 6,
     "ontem": 13,
     "semana": 207,
-    "mes": 450
+    "mes": 449
   },
   "itens": [
     {
@@ -211,6 +211,39 @@
       "data_br": "23/08/2026"
     },
     {
+      "id": "b816ec1c12c5",
+      "tipo": "noticia",
+      "titulo": "Scientists Say This El Niño Could Be the Largest in Living Memory — Here’s Why",
+      "fonte": "Men's Journal",
+      "local": "EUA / Mundo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTBBbDVFV3drYlNzcm0wc0RPWFJjSkcwMXZJTGV1Q09KMk5xUUUzdldpRmxsYV9JWWJFb0dBYjl6aXBvWFpaVkRNMTZaQ1YyVldlM0hVMkRzRFM1OGVMQ0F3UU1kZWF5dENZT1RGRjY4VnEtOXJhd0xFbWthakh0WEVRUkM3OGZXY0hpVVY0RGdCZEUzaXhsRWxjc05SeXV1M0IwWWRnZEUtcXhB?oc=5",
+      "thumb": "",
+      "data": "2026-08-23",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 2,
+      "keywords": [
+        "El Niño 2026"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Why this El Niño will be the largest in living memory",
+          "fonte": "Scientific American",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUk5KTmNScUtaVTFhVnZDLVVFVkw5YTJya3RVMmFYU2QzRVpiYkpNdW9XTHB5aU0yd3dlcXI0ajBXWVpSWlE5bTdXMWlHVUJFQWN0YzZzVGh4TE02dTBtcVhpVHZvcllqTDk5bmMxWDNla1pxU1hqSUZ6cVlrcjlYOUhwblhQd0pYVHdvcG1xeHQtVEJWdjhGQmdZMG1kUQ?oc=5"
+        }
+      ],
+      "score": 7.0,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
+      "angulo": {
+        "gancho": "O QUE ESTE SINAL DO MAR SIGNIFICA PRA VOCÊ",
+        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e ancora no oceano/vida marinha, com a sua autoridade científica no comando.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "clima"
+      },
+      "data_br": "23/08/2026"
+    },
+    {
       "id": "c84c89f528e2",
       "tipo": "noticia",
       "titulo": "Beira Baixa: do castelo medieval de Penamacor aos banhos de floresta na Serra da Malcata",
@@ -334,45 +367,6 @@
         "url": "https://www.youtube.com/watch?v=9M6e-2Vtqr0",
         "fonte": "AI Drama World",
         "views": 99
-      }
-    },
-    {
-      "id": "511fae66d88c",
-      "tipo": "noticia",
-      "titulo": "Instituto meteorológico britânico prevê El Niño mais forte de que se tem memória",
-      "fonte": "Terra",
-      "local": "Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaXJJV2dIcnBnS0FzMGR3RXlCTHNrajNicm9XbDlZUEhDMVBnbk5HWTRUdElhbUkzRGNPNDBzdzVlcTV0MmhOajNtTEYtVTZPMTNia2h1d1JUbnFxS2g3QVlCdi12NmVPNnlvU0dSR3lEZThtQWNuTEU0cG01YWZxdUhFM3QxT3NlSlg4WHRuUktMbFpZTU9VVTZrTzVZUDJzMjhJMkNsOF8waW1DeFcyS3ctV09YNzRTNGlkVmNuOGV6eTAzTWtHdXQzaWlfeW4zZmpzdU84LWE0cFcwTzlPd0Frc3h3VTNtUXRhVlNRUkVVcHdxZTBkX1B3?oc=5",
-      "thumb": "https://i.ytimg.com/vi/QPpESeAUiuA/hqdefault.jpg",
-      "data": "2026-08-22",
-      "bucket": "ontem",
-      "calor": 3,
-      "num_fontes": 2,
-      "keywords": [
-        "El Niño 2026"
-      ],
-      "fontes_extra": [
-        {
-          "titulo": "El Niño deverá ser o mais forte 'de que se tem lembrança', diz serviço meteorológico britânico",
-          "fonte": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGbVNMcGZYcHlucFNwYVo0eU85dkk2eG9fYTF4M2JhYlpHcHpUMXZZR3IydHNBaWNJdXBvSkdmRk5DR09Ja3pVbFR4aDBZbUlzblB6OVBHTjRrYnBUVEZvUnZn0gFnQVVfeXFMTkFEcW9DY1hmUGhWZkhZZ1VNUW90X0VUTGFkeWp6TGh2NXdnY0xEUFJNNnFCT0ZfSTBYSGZMNTFadHlwUmloQnFwcEJ0Z3ZWWlJwUnl0UXVsbGJqODA4TWZhakZ0QVF3WQ?oc=5"
-        }
-      ],
-      "score": 7.0,
-      "primeira_vez": "2026-08-21T10:20:05.029231-03:00",
-      "angulo": {
-        "gancho": "O QUE ESTE SINAL DO MAR SIGNIFICA PRA VOCÊ",
-        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e ancora no oceano/vida marinha, com a sua autoridade científica no comando.",
-        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
-        "formato": "Reels",
-        "eixo": "clima"
-      },
-      "data_br": "22/08/2026",
-      "video_relacionado": {
-        "titulo": "Imperialist war and class struggle: perspectives discussion | World School of Communism 2026",
-        "url": "https://www.youtube.com/watch?v=QPpESeAUiuA",
-        "fonte": "Revolutionary Communist International",
-        "views": 721
       }
     },
     {
@@ -565,6 +559,45 @@
       "data_br": "22/08/2026"
     },
     {
+      "id": "511fae66d88c",
+      "tipo": "noticia",
+      "titulo": "Instituto meteorológico britânico prevê El Niño mais forte de que se tem memória",
+      "fonte": "Terra",
+      "local": "Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaXJJV2dIcnBnS0FzMGR3RXlCTHNrajNicm9XbDlZUEhDMVBnbk5HWTRUdElhbUkzRGNPNDBzdzVlcTV0MmhOajNtTEYtVTZPMTNia2h1d1JUbnFxS2g3QVlCdi12NmVPNnlvU0dSR3lEZThtQWNuTEU0cG01YWZxdUhFM3QxT3NlSlg4WHRuUktMbFpZTU9VVTZrTzVZUDJzMjhJMkNsOF8waW1DeFcyS3ctV09YNzRTNGlkVmNuOGV6eTAzTWtHdXQzaWlfeW4zZmpzdU84LWE0cFcwTzlPd0Frc3h3VTNtUXRhVlNRUkVVcHdxZTBkX1B3?oc=5",
+      "thumb": "https://i.ytimg.com/vi/QPpESeAUiuA/hqdefault.jpg",
+      "data": "2026-08-22",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 2,
+      "keywords": [
+        "El Niño 2026"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "El Niño deverá ser o mais forte 'de que se tem lembrança', diz serviço meteorológico britânico",
+          "fonte": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGbVNMcGZYcHlucFNwYVo0eU85dkk2eG9fYTF4M2JhYlpHcHpUMXZZR3IydHNBaWNJdXBvSkdmRk5DR09Ja3pVbFR4aDBZbUlzblB6OVBHTjRrYnBUVEZvUnZn0gFnQVVfeXFMTkFEcW9DY1hmUGhWZkhZZ1VNUW90X0VUTGFkeWp6TGh2NXdnY0xEUFJNNnFCT0ZfSTBYSGZMNTFadHlwUmloQnFwcEJ0Z3ZWWlJwUnl0UXVsbGJqODA4TWZhakZ0QVF3WQ?oc=5"
+        }
+      ],
+      "score": 5.8,
+      "primeira_vez": "2026-08-21T10:20:05.029231-03:00",
+      "angulo": {
+        "gancho": "O QUE ESTE SINAL DO MAR SIGNIFICA PRA VOCÊ",
+        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e ancora no oceano/vida marinha, com a sua autoridade científica no comando.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "clima"
+      },
+      "data_br": "22/08/2026",
+      "video_relacionado": {
+        "titulo": "Imperialist war and class struggle: perspectives discussion | World School of Communism 2026",
+        "url": "https://www.youtube.com/watch?v=QPpESeAUiuA",
+        "fonte": "Revolutionary Communist International",
+        "views": 761
+      }
+    },
+    {
       "id": "330fa8f80561",
       "tipo": "noticia",
       "titulo": "\"Super El Niño\": ONG avalia risco para moradias vulneráveis no Brasil",
@@ -600,7 +633,7 @@
         "titulo": "TRE bate o martelo em Marçal e o Irã fala em declaração de guerra #justiça #noticias #brasil",
         "url": "https://www.youtube.com/watch?v=uFCCEvlRiD0",
         "fonte": "entender.brasil",
-        "views": 45
+        "views": 47
       }
     },
     {
@@ -717,7 +750,7 @@
         "titulo": "NorCal Weather Chat: NOAA says El Niño is making wet conditions more likely",
         "url": "https://www.youtube.com/watch?v=hGCL-PM_AwY",
         "fonte": "KCRA 3",
-        "views": 133338
+        "views": 133429
       }
     },
     {
@@ -1701,6 +1734,65 @@
       }
     },
     {
+      "id": "7fda24dcf70b",
+      "tipo": "noticia",
+      "titulo": "Galeria de Biofilia na arquitetura: estratégias naturais em interiores e exteriores - 3",
+      "fonte": "ArchDaily",
+      "local": "Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPVllqanFWQXlHWjU4T09CUUxNZ243QzRGS0FXUEZuRzVOWVJIYXBnUUVhM1VCOFJyV2Y3aXFMUC0ya0t1YVFPQjJFRFdQLVNkSVhyeFJURWhwajF3SVlORjVBZGVSN2czaEhVdF94bEUzRXRuMkcwSTdURUtmRl90WVQwOFo5NGF2V3BfcW9DTTFDM2ozclpwMW9XWVVyV0p6TkRoNW5Gd3luRHpxSURySUNzelBqRVBmU3YtX21mVl9aR1BQTmdIVlBrWTR3SDIzWmJ3OFlLMEJyRkdiV0pUR3R1YVpWVmFjai1yeFpreklDaE1pMnd5MDRJTkZtdGlvYXBjVUdBYkgwWDZGYzJmMU5ldkhaWmh3d3pDOG5PWHVRZjBZWHFVS2xTMFZtXzdoUEtNVHVn?oc=5",
+      "thumb": "https://i.ytimg.com/vi/In3f2mLS0Lo/hqdefault.jpg",
+      "data": "2026-08-17",
+      "bucket": "semana",
+      "calor": 2,
+      "num_fontes": 1,
+      "keywords": [
+        "biofilia"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Galeria de Escritório IT’S Biofilia / IT'S Informov - 8",
+          "fonte": "ArchDaily",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT2NnZjZVRGRrbWZkRjlySTc0Z1dPbzhUblRwSVczZUgyR0RnM0FiWUxvS09LOWRmS0huaFo1ZTVYWThuU3htci16dTA1WXEzNmdCV0lqbXBWWW5mOEZSUFpMQmFmZUVmLWd4ZTdXQk85ZGVvR204X2tUbEFuZFZMTjRqNFNFVlItQ2wxdEJvbGhqUW44Tk1qb2d0aUR4M0NxMENvSXdqRm5ySGlDLS0ycDFaSUdHS1YxUWdiODQ0eS1XZ0R1MlZGVWNaVi16dkQ1NmZMQ2FB?oc=5"
+        },
+        {
+          "titulo": "Galeria de Os benefícios da biofilia para a arquitetura e os espaços interiores - 11",
+          "fonte": "ArchDaily",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQdmlRdGw3OURHc1ZxNGNEYkVhM25wRWMxekFxTlZQMUVMUTN6bDNINHc4X1RwUnVMMWYtQ2NHRl8ycjlvWUtESG1SVnVEWTN3SS05R1VQNl90RjBmdVlTbDB5WjNHWUJJRGpwa2VwQ01nQ2xqenQ2aW9vTmF5bXdQX0djSEhFZEIwQjFzQ251WFFjSF81dDFVVFg3RVVHbHVHaDlDTVhXNWY0bkZzMkxPeVlWRjQzN1RRdG94eGJYQTFIdmppQlhoRXZqaWx0NERYRGlJc2pPSVFQYnJ4ZkFPSVNKa19zTE9ZaDhnSDNzYlZqZW10Z0RiRFAwcHhHYURJRzFBZy1sb1BWLUhHSnhkQVlfczVkZ1E3VDRzMG9INDU0dmVCMmp3dDI5a0NGYTVJOG5SZWlvN0VtYVloS2pGTFdXeFd0bHhpc3c?oc=5"
+        },
+        {
+          "titulo": "Galeria de Escritório IT’S Biofilia / IT'S Informov - 18",
+          "fonte": "ArchDaily",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUjRDLVo1Zm1pb253WXB2ZDlfSVlxZnFsY3ZCOHFIaHZsRU9neEh1WGM2VlNqaTRTS3U0cF9MV0hzWmJjX2V2ZnJDSEtVSXJPS0djQ3hwUjZOblo3MkxXMndDZ25HSmZVQ016aDFHYmZudG5hSlJnLXJIQUh5TlU0RzZDbkNieFQtZFFEUGZJU2FURmFCLXJodE9OYnkyR0N2dnhuM2FVc2dPcXQybU1RTW1jUHppZk1XVExQalRLcWRiLU5jb3ZuSzFpN21EUWwyb3JrSmtGLW5TODg1WE9MOXdR?oc=5"
+        },
+        {
+          "titulo": "Galeria de Os benefícios da biofilia para a arquitetura e os espaços interiores - 9",
+          "fonte": "ArchDaily",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNdFVWRUlqUmIyanJLOFJfUDE3VVFqamdnaDhQdjJubzRwQkQxT0RpSGxUQTNYNUo1eHZVZ2Jnby1YLVJqcl85eU9uN2lJZlNzWFJDMTNtaHdNWDNYdm1mNm1mUW1KWWRUVWhNdVNVeW1Cd3RfdEpiM2pXUXJTWUN6RDNhUmEtRU4zU2NWVWZEakJkYnRKNHVvTlRBbzk4Z3FWNmI1Wk9rMk9nYWUxTDBDQVRPdTVyRHZvRTNKbXNHX3JxaFA2N29OV0tuZmc1SUZXbWtkREFFMlNJUXk1NVFzaURrTDg3UGc4Z3locXB3ZDhrdU14ODRXQkxHWGxKR1JyaEY3a0ZSZWpvZEp5RGVDcGQtT0VRNnU5RzNlLTA2dUZhVHdNX0xlY0xHaFpxakhMSWNkSDdfQmRBYWVtWF9UUU1TQkVETm5zVWc?oc=5"
+        },
+        {
+          "titulo": "Galeria de Escritório IT’S Biofilia / IT'S Informov - 7",
+          "fonte": "ArchDaily",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUGZwWWwyUWxJWUZfY2hhLXJVNEZKb0RMZVNzbHhFQlk0d09CQkUzOHZrVzVyWE9mLXZRU2R3V2lKNC1jOUQ1UmJPeDZNNXVOQnI2R2ZvalloU2lsWHI5dHNqbmJDMml2OWNCUUtCV09JQVpiSW4xOFlMaE5DdHk1WXFhZnhVLW0tcV9EcUpBTUd6ekNzTDJINHk2S0Y2YUc4bXNmQy1FejduY0tSenlsSFVDRVR0WnQ3UTRrSDVvVFRCQVpiamZoWWJOcVBERVh4ei15ZHZ3?oc=5"
+        }
+      ],
+      "score": 9.2,
+      "primeira_vez": "2026-08-18T10:20:05.252804-03:00",
+      "angulo": {
+        "gancho": "POR QUE O MAR ACALMA A SUA MENTE (TEM CIÊNCIA)",
+        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e ancora no oceano/vida marinha, com a sua autoridade científica no comando.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "wellness"
+      },
+      "data_br": "17/08/2026",
+      "video_relacionado": {
+        "titulo": "Tendência Design de Interiores – Biofilia e sua aplicação em ambientes",
+        "url": "https://www.youtube.com/watch?v=In3f2mLS0Lo",
+        "fonte": "Senac São Paulo",
+        "views": 917
+      }
+    },
+    {
       "id": "09b3d6a8d76a",
       "tipo": "noticia",
       "titulo": "Ela ficou presa em redes de pesca, foi libertada no mar e permaneceu perto do barco depois do resgate",
@@ -1829,7 +1921,7 @@
         "titulo": "A historic El Nino is forming. Here's why scientists are worried | DW News",
         "url": "https://www.youtube.com/watch?v=Dcl5Mn373Oc",
         "fonte": "DW News",
-        "views": 1060099
+        "views": 1075397
       }
     },
     {
@@ -1873,7 +1965,7 @@
         "titulo": "Baleia Cachalote vs Lula Gigante | Que Ganhe O Melhor! | JunyTony em Português",
         "url": "https://www.youtube.com/watch?v=tUYhupkTBeQ",
         "fonte": "JunyTony em Português - Canções Infantis",
-        "views": 5625324
+        "views": 5625463
       }
     },
     {
@@ -2045,65 +2137,6 @@
         "url": "https://www.youtube.com/watch?v=JcEgYOUDBac",
         "fonte": "SOL TV Perú",
         "views": 2524
-      }
-    },
-    {
-      "id": "7fda24dcf70b",
-      "tipo": "noticia",
-      "titulo": "Galeria de Biofilia na arquitetura: estratégias naturais em interiores e exteriores - 3",
-      "fonte": "ArchDaily",
-      "local": "Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPVllqanFWQXlHWjU4T09CUUxNZ243QzRGS0FXUEZuRzVOWVJIYXBnUUVhM1VCOFJyV2Y3aXFMUC0ya0t1YVFPQjJFRFdQLVNkSVhyeFJURWhwajF3SVlORjVBZGVSN2czaEhVdF94bEUzRXRuMkcwSTdURUtmRl90WVQwOFo5NGF2V3BfcW9DTTFDM2ozclpwMW9XWVVyV0p6TkRoNW5Gd3luRHpxSURySUNzelBqRVBmU3YtX21mVl9aR1BQTmdIVlBrWTR3SDIzWmJ3OFlLMEJyRkdiV0pUR3R1YVpWVmFjai1yeFpreklDaE1pMnd5MDRJTkZtdGlvYXBjVUdBYkgwWDZGYzJmMU5ldkhaWmh3d3pDOG5PWHVRZjBZWHFVS2xTMFZtXzdoUEtNVHVn?oc=5",
-      "thumb": "https://i.ytimg.com/vi/In3f2mLS0Lo/hqdefault.jpg",
-      "data": "2026-08-17",
-      "bucket": "semana",
-      "calor": 2,
-      "num_fontes": 1,
-      "keywords": [
-        "biofilia"
-      ],
-      "fontes_extra": [
-        {
-          "titulo": "Galeria de Escritório IT’S Biofilia / IT'S Informov - 8",
-          "fonte": "ArchDaily",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT2NnZjZVRGRrbWZkRjlySTc0Z1dPbzhUblRwSVczZUgyR0RnM0FiWUxvS09LOWRmS0huaFo1ZTVYWThuU3htci16dTA1WXEzNmdCV0lqbXBWWW5mOEZSUFpMQmFmZUVmLWd4ZTdXQk85ZGVvR204X2tUbEFuZFZMTjRqNFNFVlItQ2wxdEJvbGhqUW44Tk1qb2d0aUR4M0NxMENvSXdqRm5ySGlDLS0ycDFaSUdHS1YxUWdiODQ0eS1XZ0R1MlZGVWNaVi16dkQ1NmZMQ2FB?oc=5"
-        },
-        {
-          "titulo": "Galeria de Os benefícios da biofilia para a arquitetura e os espaços interiores - 11",
-          "fonte": "ArchDaily",
-          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQdmlRdGw3OURHc1ZxNGNEYkVhM25wRWMxekFxTlZQMUVMUTN6bDNINHc4X1RwUnVMMWYtQ2NHRl8ycjlvWUtESG1SVnVEWTN3SS05R1VQNl90RjBmdVlTbDB5WjNHWUJJRGpwa2VwQ01nQ2xqenQ2aW9vTmF5bXdQX0djSEhFZEIwQjFzQ251WFFjSF81dDFVVFg3RVVHbHVHaDlDTVhXNWY0bkZzMkxPeVlWRjQzN1RRdG94eGJYQTFIdmppQlhoRXZqaWx0NERYRGlJc2pPSVFQYnJ4ZkFPSVNKa19zTE9ZaDhnSDNzYlZqZW10Z0RiRFAwcHhHYURJRzFBZy1sb1BWLUhHSnhkQVlfczVkZ1E3VDRzMG9INDU0dmVCMmp3dDI5a0NGYTVJOG5SZWlvN0VtYVloS2pGTFdXeFd0bHhpc3c?oc=5"
-        },
-        {
-          "titulo": "Galeria de Escritório IT’S Biofilia / IT'S Informov - 18",
-          "fonte": "ArchDaily",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUjRDLVo1Zm1pb253WXB2ZDlfSVlxZnFsY3ZCOHFIaHZsRU9neEh1WGM2VlNqaTRTS3U0cF9MV0hzWmJjX2V2ZnJDSEtVSXJPS0djQ3hwUjZOblo3MkxXMndDZ25HSmZVQ016aDFHYmZudG5hSlJnLXJIQUh5TlU0RzZDbkNieFQtZFFEUGZJU2FURmFCLXJodE9OYnkyR0N2dnhuM2FVc2dPcXQybU1RTW1jUHppZk1XVExQalRLcWRiLU5jb3ZuSzFpN21EUWwyb3JrSmtGLW5TODg1WE9MOXdR?oc=5"
-        },
-        {
-          "titulo": "Galeria de Os benefícios da biofilia para a arquitetura e os espaços interiores - 9",
-          "fonte": "ArchDaily",
-          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNdFVWRUlqUmIyanJLOFJfUDE3VVFqamdnaDhQdjJubzRwQkQxT0RpSGxUQTNYNUo1eHZVZ2Jnby1YLVJqcl85eU9uN2lJZlNzWFJDMTNtaHdNWDNYdm1mNm1mUW1KWWRUVWhNdVNVeW1Cd3RfdEpiM2pXUXJTWUN6RDNhUmEtRU4zU2NWVWZEakJkYnRKNHVvTlRBbzk4Z3FWNmI1Wk9rMk9nYWUxTDBDQVRPdTVyRHZvRTNKbXNHX3JxaFA2N29OV0tuZmc1SUZXbWtkREFFMlNJUXk1NVFzaURrTDg3UGc4Z3locXB3ZDhrdU14ODRXQkxHWGxKR1JyaEY3a0ZSZWpvZEp5RGVDcGQtT0VRNnU5RzNlLTA2dUZhVHdNX0xlY0xHaFpxakhMSWNkSDdfQmRBYWVtWF9UUU1TQkVETm5zVWc?oc=5"
-        },
-        {
-          "titulo": "Galeria de Escritório IT’S Biofilia / IT'S Informov - 7",
-          "fonte": "ArchDaily",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUGZwWWwyUWxJWUZfY2hhLXJVNEZKb0RMZVNzbHhFQlk0d09CQkUzOHZrVzVyWE9mLXZRU2R3V2lKNC1jOUQ1UmJPeDZNNXVOQnI2R2ZvalloU2lsWHI5dHNqbmJDMml2OWNCUUtCV09JQVpiSW4xOFlMaE5DdHk1WXFhZnhVLW0tcV9EcUpBTUd6ekNzTDJINHk2S0Y2YUc4bXNmQy1FejduY0tSenlsSFVDRVR0WnQ3UTRrSDVvVFRCQVpiamZoWWJOcVBERVh4ei15ZHZ3?oc=5"
-        }
-      ],
-      "score": 8.3,
-      "primeira_vez": "2026-08-18T10:20:05.252804-03:00",
-      "angulo": {
-        "gancho": "POR QUE O MAR ACALMA A SUA MENTE (TEM CIÊNCIA)",
-        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e ancora no oceano/vida marinha, com a sua autoridade científica no comando.",
-        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
-        "formato": "Reels",
-        "eixo": "wellness"
-      },
-      "data_br": "17/08/2026",
-      "video_relacionado": {
-        "titulo": "Tendência Design de Interiores – Biofilia e sua aplicação em ambientes",
-        "url": "https://www.youtube.com/watch?v=In3f2mLS0Lo",
-        "fonte": "Senac São Paulo",
-        "views": 917
       }
     },
     {
@@ -6081,7 +6114,7 @@
         "titulo": "The 2026 El Niño Forecast: What You Need to Know",
         "url": "https://www.youtube.com/watch?v=dMH8xMlZhjU",
         "fonte": "AccuWeather",
-        "views": 25949
+        "views": 26045
       }
     },
     {
@@ -6198,7 +6231,7 @@
         "titulo": "‘Godzilla’ El Niño could be one of the strongest ever recorded | BBC News",
         "url": "https://www.youtube.com/watch?v=ol55Jf01ZDE",
         "fonte": "BBC News",
-        "views": 597072
+        "views": 597074
       }
     },
     {
@@ -6237,7 +6270,7 @@
         "titulo": "El Niño: What it is, how it affects our weather",
         "url": "https://www.youtube.com/watch?v=eECs6z3Emhw",
         "fonte": "FOX 9 Minneapolis-St. Paul",
-        "views": 49336
+        "views": 49407
       }
     },
     {
@@ -6354,7 +6387,7 @@
         "titulo": "What a record-breaking El Nino could mean for the world • FRANCE 24 English",
         "url": "https://www.youtube.com/watch?v=byOYljzrVGQ",
         "fonte": "FRANCE 24 English",
-        "views": 5124
+        "views": 5141
       }
     },
     {
@@ -7575,7 +7608,7 @@
         "titulo": "Panama Canal To Cap Daily Ship Transits As Severe El Niño Threatens Water Levels",
         "url": "https://www.youtube.com/watch?v=8KNQjaXbnow",
         "fonte": "The Daily Guardian",
-        "views": 24
+        "views": 25
       }
     },
     {
@@ -7653,7 +7686,7 @@
         "titulo": "Could the biggest El Niño in history be on its way?",
         "url": "https://www.youtube.com/watch?v=ePpjtkFsA-c",
         "fonte": "ITV News",
-        "views": 300394
+        "views": 301138
       }
     },
     {
@@ -8270,7 +8303,7 @@
         "titulo": "The 2026 El Niño Forecast: What You Need to Know",
         "url": "https://www.youtube.com/watch?v=dMH8xMlZhjU",
         "fonte": "AccuWeather",
-        "views": 25949
+        "views": 26045
       }
     },
     {
@@ -8420,7 +8453,7 @@
         "titulo": "El Niño: What it is, how it affects our weather",
         "url": "https://www.youtube.com/watch?v=eECs6z3Emhw",
         "fonte": "FOX 9 Minneapolis-St. Paul",
-        "views": 49132
+        "views": 49407
       }
     },
     {
@@ -8469,7 +8502,7 @@
       "fonte": "Revista Oeste",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOXFCaTZFUy1TeWc5cS1TbUY5bU9YUkNuQzVWS1B3aXdnbkZKdDZZZmZrR2hSb25sQ1NDOWY5Zm5EMURVMXBVUnFQRUlwUjJScDlhVWIzRkNzbUpiSDBLbS1JMXNLMDVOUVlGZExieXJxcUMtN2gzdnlUN05ZcjhiRTk4Z0xzdmhsQ0pTTWVwR3BmU2RhUklWMUZkbVpUOU5KXzg2S20xTFBGYURTUWY5OERMRHdMVFdEeFJEQW16Slk0Tmh6QlNiUWlQZG9SZER0QWRvdFJuNDNCUnJyUXVSYThGWEVEYjRhc1JfdDJwQ2ZadzQ?oc=5",
-      "thumb": "https://i.ytimg.com/vi/tjQMYQEdXCw/hqdefault.jpg",
+      "thumb": "",
       "data": "2026-08-16",
       "bucket": "semana",
       "calor": 2,
@@ -8493,13 +8526,7 @@
         "formato": "Reels",
         "eixo": "criatura"
       },
-      "data_br": "16/08/2026",
-      "video_relacionado": {
-        "titulo": "Most Unbelievable Sunken Cities",
-        "url": "https://www.youtube.com/watch?v=tjQMYQEdXCw",
-        "fonte": "American Eye",
-        "views": 5888
-      }
+      "data_br": "16/08/2026"
     },
     {
       "id": "c9aac44cb6f5",
@@ -8806,11 +8833,11 @@
       "keywords": [
         "perigos do mar animais"
       ],
-      "views": 14878989,
+      "views": 14879011,
       "dur": 732.0,
       "fontes_extra": [],
-      "score": 14878989,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "score": 14879011,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8834,11 +8861,11 @@
       "keywords": [
         "polvo inteligência oceano"
       ],
-      "views": 8340864,
+      "views": 8340897,
       "dur": 198.0,
       "fontes_extra": [],
-      "score": 8340864,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "score": 8340897,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "3 COISAS QUE VOCÊ NÃO SABIA SOBRE O ANIMAL",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8862,11 +8889,11 @@
       "keywords": [
         "curiosidades do oceano ciência"
       ],
-      "views": 8286113,
+      "views": 8286167,
       "dur": 726.0,
       "fontes_extra": [],
-      "score": 8286113,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "score": 8286167,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8890,11 +8917,11 @@
       "keywords": [
         "fossa das marianas fundo do oceano"
       ],
-      "views": 7400443,
+      "views": 7400517,
       "dur": 1118.0,
       "fontes_extra": [],
-      "score": 7400443,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "score": 7400517,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8918,11 +8945,11 @@
       "keywords": [
         "perigos do mar animais"
       ],
-      "views": 6510676,
+      "views": 6511237,
       "dur": 1817.0,
       "fontes_extra": [],
-      "score": 6510676,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "score": 6511237,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8950,7 +8977,7 @@
       "dur": 712.0,
       "fontes_extra": [],
       "score": 6210647,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "CIENTISTAS ENCONTRARAM ISSO NO FUNDO DO MAR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8978,7 +9005,7 @@
       "dur": 559.0,
       "fontes_extra": [],
       "score": 5850986,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -9002,11 +9029,11 @@
       "keywords": [
         "tubarão ataque motivo"
       ],
-      "views": 5382999,
+      "views": 5383288,
       "dur": 620.0,
       "fontes_extra": [],
-      "score": 5382999,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "score": 5383288,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "3 COISAS QUE VOCÊ NÃO SABIA SOBRE O TUBARÃO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -9030,11 +9057,11 @@
       "keywords": [
         "poluição plástico oceano documentário"
       ],
-      "views": 3804982,
+      "views": 3805004,
       "dur": 191.0,
       "fontes_extra": [],
-      "score": 3804982,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "score": 3805004,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "O QUE ESSA POLUIÇÃO FAZ COM O SEU CORPO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -9043,6 +9070,34 @@
         "eixo": "poluicao"
       },
       "data_br": "16/09/2016"
+    },
+    {
+      "id": "03ed5e918898",
+      "tipo": "video",
+      "titulo": "10 ASSUSTADORAS CRIATURAS DO FUNDO DO MAR !!",
+      "fonte": "Você Sabia?",
+      "url": "https://www.youtube.com/watch?v=9eTctyox5cc",
+      "thumb": "https://i.ytimg.com/vi/9eTctyox5cc/hqdefault.jpg",
+      "data": "2019-03-12",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "criatura estranha fundo do mar"
+      ],
+      "views": 3782889,
+      "dur": 724.0,
+      "fontes_extra": [],
+      "score": 3782889,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
+      "angulo": {
+        "gancho": "O QUE VIVE NO PONTO MAIS FUNDO DO OCEANO",
+        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "criatura"
+      },
+      "data_br": "12/03/2019"
     },
     {
       "id": "3fb86873c1ff",
@@ -9062,7 +9117,7 @@
       "dur": 593.0,
       "fontes_extra": [],
       "score": 3571620,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -9071,34 +9126,6 @@
         "eixo": "default"
       },
       "data_br": "21/11/2020"
-    },
-    {
-      "id": "d173bda37e8a",
-      "tipo": "video",
-      "titulo": "Se Você Pisar Nesta Criatura Marinha, Terá Apenas Alguns Segundos Para Conseguir Ajuda",
-      "fonte": "INCRÍVEL",
-      "url": "https://www.youtube.com/watch?v=TB77VMh5xtg",
-      "thumb": "https://i.ytimg.com/vi/TB77VMh5xtg/hqdefault.jpg",
-      "data": "2021-02-21",
-      "bucket": "mes",
-      "calor": 3,
-      "num_fontes": 1,
-      "keywords": [
-        "perigos do mar animais"
-      ],
-      "views": 3448363,
-      "dur": 557.0,
-      "fontes_extra": [],
-      "score": 3448363,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
-      "angulo": {
-        "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
-        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
-        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
-        "formato": "Reels",
-        "eixo": "criatura"
-      },
-      "data_br": "21/02/2021"
     },
     {
       "id": "e91e19108a67",
@@ -9114,11 +9141,11 @@
       "keywords": [
         "criatura estranha fundo do mar"
       ],
-      "views": 2459212,
+      "views": 2459352,
       "dur": 1164.0,
       "fontes_extra": [],
-      "score": 2459212,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "score": 2459352,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -9146,7 +9173,7 @@
       "dur": 79.0,
       "fontes_extra": [],
       "score": 2183056,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "CIENTISTAS ENCONTRARAM ISSO NO FUNDO DO MAR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -9155,34 +9182,6 @@
         "eixo": "criatura"
       },
       "data_br": "18/03/2021"
-    },
-    {
-      "id": "04ab0857720c",
-      "tipo": "video",
-      "titulo": "Eles FORAM até o LUGAR MAIS FUNDO do MAR!",
-      "fonte": "Manual do Mundo",
-      "url": "https://www.youtube.com/watch?v=sapbQqQ3I5w",
-      "thumb": "https://i.ytimg.com/vi/sapbQqQ3I5w/hqdefault.jpg",
-      "data": "2021-04-29",
-      "bucket": "mes",
-      "calor": 3,
-      "num_fontes": 1,
-      "keywords": [
-        "fossa das marianas fundo do oceano"
-      ],
-      "views": 2080023,
-      "dur": 1237.0,
-      "fontes_extra": [],
-      "score": 2080023,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
-      "angulo": {
-        "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
-        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
-        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
-        "formato": "Reels",
-        "eixo": "criatura"
-      },
-      "data_br": "29/04/2021"
     },
     {
       "id": "744725a4e1e9",
@@ -9202,7 +9201,7 @@
       "dur": 44.0,
       "fontes_extra": [],
       "score": 1844393,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "POR QUE ISSO ESTÁ ACONTECENDO COM AS BALEIAS",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -9211,6 +9210,34 @@
         "eixo": "baleia"
       },
       "data_br": "13/02/2025"
+    },
+    {
+      "id": "20e67bffe762",
+      "tipo": "video",
+      "titulo": "A Plastic Ocean Official Trailer",
+      "fonte": "A Plastic Ocean",
+      "url": "https://www.youtube.com/watch?v=6zrn4-FfbXw",
+      "thumb": "https://i.ytimg.com/vi/6zrn4-FfbXw/hqdefault.jpg",
+      "data": "2016-02-02",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "poluição plástico oceano documentário"
+      ],
+      "views": 1732888,
+      "dur": 129.0,
+      "fontes_extra": [],
+      "score": 1732888,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
+      "angulo": {
+        "gancho": "O QUE ESSA POLUIÇÃO FAZ COM O SEU CORPO",
+        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "poluicao"
+      },
+      "data_br": "02/02/2016"
     },
     {
       "id": "541eca46ef74",
@@ -9226,11 +9253,11 @@
       "keywords": [
         "fossa das marianas fundo do oceano"
       ],
-      "views": 1323819,
+      "views": 1323834,
       "dur": 756.0,
       "fontes_extra": [],
-      "score": 1323819,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "score": 1323834,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "O QUE VIVE NO PONTO MAIS FUNDO DO OCEANO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -9239,6 +9266,34 @@
         "eixo": "criatura"
       },
       "data_br": "21/12/2025"
+    },
+    {
+      "id": "c99c6e3decff",
+      "tipo": "video",
+      "titulo": "The Prehistoric Ocean is TERRIFYING",
+      "fonte": "Fyori",
+      "url": "https://www.youtube.com/watch?v=CiK4G3-l05k",
+      "thumb": "https://i.ytimg.com/vi/CiK4G3-l05k/hqdefault.jpg",
+      "data": "2025-03-07",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "perigos do mar animais"
+      ],
+      "views": 1232031,
+      "dur": 944.0,
+      "fontes_extra": [],
+      "score": 1232031,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "07/03/2025"
     },
     {
       "id": "ca36effb49c8",
@@ -9254,11 +9309,11 @@
       "keywords": [
         "criatura estranha fundo do mar"
       ],
-      "views": 1228132,
+      "views": 1228162,
       "dur": 653.0,
       "fontes_extra": [],
-      "score": 1228132,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
+      "score": 1228162,
+      "primeira_vez": "2026-08-23T21:20:05.201650-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -9267,34 +9322,6 @@
         "eixo": "default"
       },
       "data_br": "21/11/2024"
-    },
-    {
-      "id": "58a423331ebe",
-      "tipo": "video",
-      "titulo": "AS MAIS TERRÍVEIS CRIATURAS DO FUNDO DO MAR QUE VOCÊ NUNCA VIU ANTES",
-      "fonte": "BRAIN TIME",
-      "url": "https://www.youtube.com/watch?v=-XDAriLUtIk",
-      "thumb": "https://i.ytimg.com/vi/-XDAriLUtIk/hqdefault.jpg",
-      "data": "2020-08-18",
-      "bucket": "mes",
-      "calor": 3,
-      "num_fontes": 1,
-      "keywords": [
-        "criatura estranha fundo do mar"
-      ],
-      "views": 1158840,
-      "dur": 735.0,
-      "fontes_extra": [],
-      "score": 1158840,
-      "primeira_vez": "2026-08-23T20:20:05.313214-03:00",
-      "angulo": {
-        "gancho": "CIENTISTAS ENCONTRARAM ISSO NO FUNDO DO MAR",
-        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
-        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
-        "formato": "Reels",
-        "eixo": "criatura"
-      },
-      "data_br": "18/08/2020"
     },
     {
       "id": "82d5ff1b045c",
@@ -21464,39 +21491,6 @@
         "eixo": "baleia"
       },
       "data_br": "29/07/2026"
-    },
-    {
-      "id": "73479a6ade59",
-      "tipo": "noticia",
-      "titulo": "Jovem de 19 anos que perdeu perna em ataque de tubarão no Recife inicia fisioterapia com prótese",
-      "fonte": "R7",
-      "local": "Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVlB5c2VTQWpWcVZyVldEMlZkdTZaSExoQVNtdHF1YnhKbFZERkR6SWYzSllVS0ROaVI4LUVGSFcxVmJrM2ZfdGZ4QzZ2OWdQMXFOTHRsbE9qR3ViSkEwQUVieWRZNWRrRERnemh3cHhIazF3VkJWRDVGbkJiSW5ZcUY5R3I0NU9kSFk0c1RFYU1oWnQ2LUhTV2tvRC1XMndCT3pjYndwUmdrbjF0NjBCLU1idWx6amliSDdzeF9LRGY5bE9FX3RCS1dYUGh2eXVJeGFkZDEybTJqYi1jaFE?oc=5",
-      "thumb": "",
-      "data": "2026-07-22",
-      "bucket": "mes",
-      "calor": 2,
-      "num_fontes": 2,
-      "keywords": [
-        "ataque de tubarão"
-      ],
-      "fontes_extra": [
-        {
-          "titulo": "'Não vou me entregar', diz jovem que perdeu perna em ataque de tubarão no Recife",
-          "fonte": "Folha de S.Paulo",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFZ3WTNnUk95SWJqcUJBUmxfUW1QRUxFY2dGRk5oTzc1WXFidE90RWRTS2p6RnAzMUxmeU9fQldaUUc0ZFZCSGkyeFRUbDRBaFlxMmY1VEMxeHMyWGtGcUI4ZTVpZ1pqSWh1aVZYbnhQbkRXTU1WcVlJNXhCY2J5Rk9aQlplU1F2SDFCNjYtRG5LTS0teVREZFJscF9RM09BOTlWM0w2VlJfc0FOR3ZIcGs2TmVzWGZWQ2hJY21KRHE3WVB3b2JZd1R1RQ?oc=5"
-        }
-      ],
-      "score": 5.0,
-      "primeira_vez": "2026-08-05T18:57:36.414794-03:00",
-      "angulo": {
-        "gancho": "O PODER DE O TUBARÃO: O QUE NINGUÉM TE CONTOU",
-        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e ancora no oceano/vida marinha, com a sua autoridade científica no comando.",
-        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
-        "formato": "Reels",
-        "eixo": "predador"
-      },
-      "data_br": "22/07/2026"
     },
     {
       "id": "6c7784c525ff",
