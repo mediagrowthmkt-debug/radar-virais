@@ -9,7 +9,7 @@
     "primaryDark": "#0A1E4D",
     "logo": "logos/marcelo.png"
   },
-  "gerado_em": "2026-08-28T09:20:05.498632-03:00",
+  "gerado_em": "2026-08-28T10:20:05.856541-03:00",
   "janela_dias": 30,
   "search_terms": {
     "noticias": [
@@ -56,11 +56,11 @@
     ]
   },
   "stats": {
-    "total": 814,
+    "total": 815,
     "novos_agora": 58,
-    "noticias": 796,
+    "noticias": 797,
     "videos": 18,
-    "hoje": 5,
+    "hoje": 6,
     "ontem": 30,
     "semana": 173,
     "mes": 606
@@ -135,10 +135,49 @@
     {
       "id": "dc389e162697",
       "tipo": "noticia",
-      "titulo": "El Niño has become more intense over last 40 years than the previous 1,000 years",
+      "titulo": "El Niño tornou-se mais intenso nos últimos 40 anos do que nos 1.000 anos anteriores",
       "fonte": "UC Santa Barbara",
       "local": "EUA / Mundo",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeWtsbE5MS1hSeXhIbnE1Q0RBUEJtazVwM3dOekFkQUJXWEtHV2VtYzgtQ0VtSWVRZklnTTBSS0Rxek5RanhaXzVnWm15a2VoWFlXM0xYaThFX3oyUWZVT0h2TEI4b1N6bkVtbG04Ulp1VDVLXzBHck5GWDdpNWxoOURqdjQ0REx0anhmLXdpWEh6MW5hWmJXV01fWnV4cTRReTNqeklZWQ?oc=5",
+      "thumb": "https://i.ytimg.com/vi/2AvSeitJisQ/hqdefault.jpg",
+      "data": "2026-08-28",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 2,
+      "keywords": [
+        "El Niño 2026"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "El Niños tem sido mais intenso nos últimos 40 anos do que nos 1.000 anos anteriores, revelam registros de corais",
+          "fonte": "Phys.org",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fR0t1SGF6YVFVSlotSGszM0I3cnFJRmlXc056b1Zka3VQUTlrYmh3Zm9jdUVxNTJTUDFVY1JUWHpZbjlyeWRfSXpYQ0l0NmtaYjdvUVRVeXloekI0U0dnZHFsREZLMHJWUUloTFo3ODRYc3c?oc=5"
+        }
+      ],
+      "score": 7.0,
+      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "angulo": {
+        "gancho": "CIENTISTAS ALERTAM PRO QUE O OCEANO ESTÁ FAZENDO",
+        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e ancora no oceano/vida marinha, com a sua autoridade científica no comando.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "clima"
+      },
+      "data_br": "28/08/2026",
+      "video_relacionado": {
+        "titulo": "A tecnologia perdida do Antigo Egito",
+        "url": "https://www.youtube.com/watch?v=2AvSeitJisQ",
+        "fonte": "Astraway",
+        "views": 103932
+      }
+    },
+    {
+      "id": "ef6d369f586b",
+      "tipo": "noticia",
+      "titulo": "Tropical Storm Dolly forms in eastern Atlantic, but won't last long due to El Niño wind shear",
+      "fonte": "The Weather Channel",
+      "local": "EUA / Mundo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQkxZUjRQQ2xIdEptbzVnNm5TRmtWdWtXX2t0UVIwNEdOcUxNT2Zndm1WcVV6ejBZeXk1WS03SkNKdDVZbXBRUjI3MVdLRWJPSlNIZWVvZ1dpMzN5NF9hcGw3SUNoOXVGVDRZekpRbmwtemhHTk9GV3FuZHEtWjg2QS0wejVjeUxzWFowSmk4OTJFTVJBS21WN2lR?oc=5",
       "thumb": "",
       "data": "2026-08-28",
       "bucket": "hoje",
@@ -149,15 +188,15 @@
       ],
       "fontes_extra": [
         {
-          "titulo": "El Niños have been more intense over the last 40 years than in the previous 1,000 years, coral records reveal",
-          "fonte": "Phys.org",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fR0t1SGF6YVFVSlotSGszM0I3cnFJRmlXc056b1Zka3VQUTlrYmh3Zm9jdUVxNTJTUDFVY1JUWHpZbjlyeWRfSXpYQ0l0NmtaYjdvUVRVeXloekI0U0dnZHFsREZLMHJWUUloTFo3ODRYc3c?oc=5"
+          "titulo": "Tropical Storm Dolly continues trek across Atlantic, battling hostile conditions from brewing Super El Niño",
+          "fonte": "FOX Weather",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzNNcG15N21JRmFMUFl6TDBxTHNWNmxiUnNReFBRdlpqU3NTRmhsaFU1aUFMOWJBclQzMGNfNTJGcVZvZVJqTU1oWVBlQ0F4TFFBdllBTHc2TWdZZUVSeGFlakJacmc3bUx3NnR5LUhnczZ1R2JETDZlLU1sRXllTGNhX2ZZNkhaQlFVVXRRa1JwZGFKRWtYSDZ2QkpsdmRmVDA40gGoAUFVX3lxTE9VY2xteXRnTWRkelpmVGpNbUhMeXNtODFWRVJ1SnFQUU9lM3QwYnd5eFA0T2xQWTd2X0pzd1pVT241QXZhQnhucTVILWxoMlRBM2prT3RTMHhuZFJMV245Q2szOExvS1g3SFJPQ2hqNi1hLUFuZkJ6OXBKMzdZMHYtTDFnVGpDM0wtMTJEc1dCMXhiSGhNa0JzTUJXQ19ZdTk2dkNGNnVFbQ?oc=5"
         }
       ],
       "score": 7.0,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
-        "gancho": "CIENTISTAS ALERTAM PRO QUE O OCEANO ESTÁ FAZENDO",
+        "gancho": "O OCEANO ESTÁ MUDANDO E ISSO TE AFETA AGORA",
         "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e ancora no oceano/vida marinha, com a sua autoridade científica no comando.",
         "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
         "formato": "Reels",
@@ -172,7 +211,7 @@
       "fonte": "Valor Econômico",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFBnNVdJdF9MRHItV2VJMWZXN1gwajlVeGRxSEsxTXlkbnZjVnR2TWozNnNUYWNUcjNSRG1HWkZraHktd1hqQy11cVp4aHNUSjFmSkU0TWxZLVhlLWRYMTJFVzdVMmcwdEJpb3FRQVlvdGt4c0FSblNvcXpJenQ5bUE1WFVReUJzbHVndmtmZDRXekhYUDdyY1UxV2JRRXdvLU42VVB3V3dqU2hwbURJ0gG-AUFVX3lxTE1TUzRzdXM5MzJ0ZFRoOFJhcFZUOF9XdXU3OEd0UTY1MGJXSWNfVHpzTkdxeHcyWDhXNDBmNm9GZDFJcnRBaVRKeWQtcVV3UEZoVm50NmlzNEtXel9YMGhLUkg0bUdxbmQzVTAwQzV5RjRKdW9IR0FtOVhXZHppQ3pESHhVZV9XWVJ2Q0lIOE53VDlWWExkR0RyMmdXNk5BdE9pV1J4UmJDeXptclIzUWVNZE9BbFFWRWowWS14bmc?oc=5",
-      "thumb": "",
+      "thumb": "https://i.ytimg.com/vi/PBhKI0hSshI/hqdefault.jpg",
       "data": "2026-08-28",
       "bucket": "hoje",
       "calor": 3,
@@ -196,7 +235,13 @@
         "formato": "Reels",
         "eixo": "clima"
       },
-      "data_br": "28/08/2026"
+      "data_br": "28/08/2026",
+      "video_relacionado": {
+        "titulo": "O BRASIL VAI QUEBRAR ATÉ 2027? A Verdade que Ninguém Te Mostra",
+        "url": "https://www.youtube.com/watch?v=PBhKI0hSshI",
+        "fonte": "Finclass - Aprenda a investir do zero",
+        "views": 84797
+      }
     },
     {
       "id": "d80124c8c653",
@@ -205,7 +250,7 @@
       "fonte": "MetSul Meteorologia",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjJJTExSTUtWdm5CaFdoeFdldG1pclBPdURnLUxXak9ZTFdzWkI4SWhBYnEwSXR4M2lWdDhqZm8tNXM5cmxhcG0wWjF5SXF6dkRDUk9vWk43X0pNR1JSZkUxaVZ6SHBYZWlaVno5WXk1SWFXc0tuWnJBZWRkQzRIdGV3?oc=5",
-      "thumb": "",
+      "thumb": "https://i.ytimg.com/vi/_1m8x0vQiqE/hqdefault.jpg",
       "data": "2026-08-28",
       "bucket": "hoje",
       "calor": 3,
@@ -229,7 +274,13 @@
         "formato": "Reels",
         "eixo": "clima"
       },
-      "data_br": "28/08/2026"
+      "data_br": "28/08/2026",
+      "video_relacionado": {
+        "titulo": "Baby Boy vs Baby Girl Pregnancy | 9 Differences Nobody Actually Compares",
+        "url": "https://www.youtube.com/watch?v=_1m8x0vQiqE",
+        "fonte": "Dr. Maya Lin | Women's Health",
+        "views": 9774
+      }
     },
     {
       "id": "7b621388f88a",
@@ -278,11 +329,11 @@
     {
       "id": "d0570c6ee389",
       "tipo": "noticia",
-      "titulo": "A ‘super’ El Niño is here. What does it mean for the Bay Area?",
+      "titulo": "Um ‘super’ El Niño está aqui. O que isso significa para a Bay Area?",
       "fonte": "The Oaklandside",
       "local": "EUA / Mundo",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CblRPcU1oTXBJclhxQmRpU3VWMWpaclF2Y21aSkxhbmtabF9vMElUWmU3V0IyVnotQ0EzcDF5X3ZteWQ4VzhINmJIM3dILUd2cnNDdVZoRG56X1g2cXUxb3pCMXBNSGZqbjRodGkzVFlUOXNJcUhMQjF3?oc=5",
-      "thumb": "https://i.ytimg.com/vi/J36f2K2miJA/hqdefault.jpg",
+      "thumb": "https://i.ytimg.com/vi/FasE5Wc4Anc/hqdefault.jpg",
       "data": "2026-08-27",
       "bucket": "ontem",
       "calor": 3,
@@ -292,12 +343,12 @@
       ],
       "fontes_extra": [
         {
-          "titulo": "A 'Super El Niño' may be on the way. What does this mean for Omaha's winter?",
+          "titulo": "Um ‘Super El Niño’ pode estar a caminho. O que isso significa para o inverno de Omaha?",
           "fonte": "KMTV 3 News Now Omaha",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVmVlUXlSU3NzRUlFX2w3RS1MTGxUZ0hzWFl5VHNGSnp1V0lpWkQyTk50R2tzaXJkang2M2lMeHc5cVVoOGdxUzhkXzh0dEJIai0yOEFMVG1GbjZKUGhydDlKbkxnTGI4M1ZQazFHMDFwNDY2N3hHWUJXTE5RMnZFcDVrM1pkaFpTblFSWkJCZ0hhRFhRM0x5clduVlFvaUxXc0RWOTMxOA?oc=5"
         },
         {
-          "titulo": "El Niño Is Here. What Does That Mean for Alabama?",
+          "titulo": "El Niño está aqui. O que isso significa para o Alabama?",
           "fonte": "The University of Alabama in Huntsville",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV0J4dXBVdzk2d21qNnpvZzYwRmladG1TYl9ZV2xzamFxT01Zd09hTE43VHJhNUQ0N0FyZWJaYndzR3YtNVRsZ2pFMWoxMXpBeUxTNGg3TmFheExiTWY5bjNLSVdmeVF6UDFBRUM0RHpucmFoU1NIbXpXNHZyNC1Tdlhzc2F3ZjZQVGE0?oc=5"
         }
@@ -313,10 +364,10 @@
       },
       "data_br": "27/08/2026",
       "video_relacionado": {
-        "titulo": "Super El Niño predicted this winter: What could it mean for Bay Area?",
-        "url": "https://www.youtube.com/watch?v=J36f2K2miJA",
-        "fonte": "ABC7 News Bay Area",
-        "views": 186854
+        "titulo": "El Niño: Você sabe o que é e os impactos desse fenômeno?",
+        "url": "https://www.youtube.com/watch?v=FasE5Wc4Anc",
+        "fonte": "INMET",
+        "views": 65820
       }
     },
     {
@@ -718,10 +769,10 @@
       },
       "data_br": "27/08/2026",
       "video_relacionado": {
-        "titulo": "Understand what the El Niño phenomenon is | Band News",
+        "titulo": "Entenda o que é o fenômeno El Niño | Notícias da banda",
         "url": "https://www.youtube.com/watch?v=60TQR27MeoA",
         "fonte": "Band Jornalismo",
-        "views": 243789
+        "views": 243817
       }
     },
     {
@@ -914,7 +965,7 @@
       "fonte": "USA Today",
       "local": "EUA / Mundo",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUE5KSFptUDhXaDl4R1Rta2xXd3BRV0VTb2E2NkM4aEdITm9wOXJLbVNCT3lCQjN5X1pNQl9fQ3ctcDB5a1FUX3ZFOUdtcE03eGZ4dmhQRmZLRFY0REZMZEpNTzZnVUl3S2MwdzFnRFFmcGpuQUU5WDZ1R1UyaF9QWHBxTmJCd21PdDBuNWJXcGNIcEpvbmR3VmtQV3o?oc=5",
-      "thumb": "",
+      "thumb": "https://i.ytimg.com/vi/W4k_34hIdnQ/hqdefault.jpg",
       "data": "2026-08-27",
       "bucket": "ontem",
       "calor": 3,
@@ -938,31 +989,37 @@
         "formato": "Reels",
         "eixo": "clima"
       },
-      "data_br": "27/08/2026"
+      "data_br": "27/08/2026",
+      "video_relacionado": {
+        "titulo": "Como um Super El Niño afeta o clima global",
+        "url": "https://www.youtube.com/watch?v=W4k_34hIdnQ",
+        "fonte": "Vox",
+        "views": 920607
+      }
     },
     {
       "id": "63eb5a975bbe",
       "tipo": "noticia",
-      "titulo": "Super El Niño to bring Georgia a wet winter, with snow and ice expected",
+      "titulo": "Super El Niño trará à Geórgia um inverno chuvoso, com previsão de neve e gelo",
       "fonte": "Atlanta News First",
       "local": "EUA / Mundo",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHpVWlkzQ2M5Rnczd2x2UjI1aDE3WEZ0bzdhaUk4WkZ3Y2NGSzlmWHU1Q3VFQVJzdnpXSGd6b0xjSERMM1dGUmdjSjBBREhLeGVlc05TOV9sZW5nWHZ6ZjZpa00wR3BkcjhoQUxPREZaM3F6NU9TeXhPSHJDaER0RkdyWFc2TW1rRGd2WndmQzEwMTRWSVRSYkl5V1JVMS1ZVXNKYjBWb1rSAbwBQVVfeXFMTlVSWmRNZWwzbEJfejN4VGU4bldJX2lTNzQxVDJKSlYzWVZYVWFMYVZMbDF1X2NfQWtnSEY5NHp1MnJHMUFGNXNnQWEzMGVHRkNfQVU3b0lBQ2kwV0htUHlrLXVJQUlPbmJYUEtWc2FKZFlLakZ3eDhvYW9raEtKNnRKejZMRW90cjUydlRDdW02dFJ3dTdKQVhtUDhtZ1IxX1VJdFlaMDU4QTFWeFc2eHZWYktaWVF0bkwzZjI?oc=5",
-      "thumb": "https://i.ytimg.com/vi/UEseLvpl9ss/hqdefault.jpg",
+      "thumb": "https://i.ytimg.com/vi/SmgyQvCMnoU/hqdefault.jpg",
       "data": "2026-08-27",
       "bucket": "ontem",
-      "calor": 2,
-      "num_fontes": 1,
+      "calor": 3,
+      "num_fontes": 2,
       "keywords": [
         "El Niño 2026"
       ],
       "fontes_extra": [
         {
-          "titulo": "Georgia First Alert Weather Weekly: El Niño and it’s possible impacts across the south",
-          "fonte": "Atlanta News First",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUG15WVBqR09rV0RoMjlVN204MkN4TUh1M1lMS0RQOG41MHFqVXlQS0tTcWx0T3ExUGdVUThGZEh4RTUwRWg1YmtvTS1YUklvcGdLNHJpMnJ2M0RINXp6UnVCblYyVEVfSnpyU3h3LTBZMklsdHJCaHNrQi02b051MUExdC1BTDZwVTlaeVBiRmlvYTBLUFBPVENzMWRzQ1RsM0ExZU92RnZFSjVyTE44QWU1ZkpCZGttUE9jOQ?oc=5"
+          "titulo": "‘Super’ El Niño parece um negócio fechado; o que isso significa para o outono e inverno de Minnesota",
+          "fonte": "Bring Me The News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE1sVmRmVU5qMG1wM1FvOFIwUHJpLU40Y0drV3lITGtzZWJJZFR6Z2k1N09rVWJsY3VYeE5xWTV5WEc5ejBCSk54NUZDNXliUDdIZTFzb25HQUtjb05IaldiNE5lODZnc193ZWVwMzI5OGIwRUs3dF9QWkFnOERKVHhFbWMwVHRLYzNDemszS2dMRElENEcxd1h1Z1ltVS1ETG1Ybmo5NDYzeTI2YjNYS3VkeWlGVk9iVk00eXBPT19oRWx0ak1F?oc=5"
         }
       ],
-      "score": 5.0,
+      "score": 7.0,
       "primeira_vez": "2026-08-27T12:20:00.263643-03:00",
       "angulo": {
         "gancho": "O QUE ESTE SINAL DO MAR SIGNIFICA PRA VOCÊ",
@@ -973,10 +1030,10 @@
       },
       "data_br": "27/08/2026",
       "video_relacionado": {
-        "titulo": "How ‘super’ El Niño could bring chaos to the world’s weather | BBC News",
-        "url": "https://www.youtube.com/watch?v=UEseLvpl9ss",
-        "fonte": "BBC News",
-        "views": 2006105
+        "titulo": "Super El Niño trará à Geórgia um inverno chuvoso, com previsão de neve e gelo",
+        "url": "https://www.youtube.com/watch?v=SmgyQvCMnoU",
+        "fonte": "Atlanta News First ",
+        "views": 27904
       }
     },
     {
@@ -1126,7 +1183,7 @@
         "titulo": "SCORPIO SEPTEMBER 2026, Take Off! Proceed with Caution, It Has a Future",
         "url": "https://www.youtube.com/watch?v=y51bWejqWV0",
         "fonte": "Giatho Profeta",
-        "views": 27903
+        "views": 28001
       }
     },
     {
@@ -1136,7 +1193,7 @@
       "fonte": "Jornal O candeeiro",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWJBNm1OUDA5UF9yek5OS05oZ0YtaTJpMVU0R1daZk5FT0JSa3YwRmxJNG9uY29YUkxlaFRpcUlLRUZLWkxoVC1pT01PZUk2M3Fobm1kb1pKUnM5ZUE5Q2N0REs5SllUYUhUTFE0ajhoSXpFbVlvNzNEUkVDTjJScUNUVlNzanJMeUpkdDk5UWhuOGttN3p3RElWQWluZ3MzQWVWVHNQTUVOekZ6UkpzUWpMbVpKSVBtc1ZWU1hwYmJlS09KaVdQaGdR?oc=5",
-      "thumb": "",
+      "thumb": "https://i.ytimg.com/vi/pVFSm5GbvOw/hqdefault.jpg",
       "data": "2026-08-27",
       "bucket": "ontem",
       "calor": 2,
@@ -1160,7 +1217,13 @@
         "formato": "Reels",
         "eixo": "baleia"
       },
-      "data_br": "27/08/2026"
+      "data_br": "27/08/2026",
+      "video_relacionado": {
+        "titulo": "Hope Works - História de uma Baleia",
+        "url": "https://www.youtube.com/watch?v=pVFSm5GbvOw",
+        "fonte": "Disney Junior PT",
+        "views": 11301
+      }
     },
     {
       "id": "ad1010f14baa",
@@ -1169,7 +1232,7 @@
       "fonte": "Notícias Agrícolas",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNckFjdmJsalFoLWpabi1pYXRjbFJpY3VwZldBa0poU0NHZndid2huTlhlUXlLZFh3ZVNhd191ZDVDYkxxZ2hKM243ZXhmaldsbXBlVXdNc1hmbGdDR1VwVUdCVXZEV2NvVHlpUTYxdEJSM25JaGtmODB2Y0JhWFpUVE82NVUySDVJN3FBR2NWNWpNTlNpTWdackI3MDJIY1g4cEJTckxsTGdpcUhtVEdwQTRPWktxZWNqSlJfUmtJNWpYd1NZQUVwRTNqdkZLWVZJaWlJMnF3c3Z4d9IB3wFBVV95cUxNMGEwQ256YUlwMG9DZnZSaEtKLVpUVDhWR1l4TFd6RTJISkZwSXMtMTFoQ2tSNkh3d0JidTY1S3ZVLWs3dXB3SExDNFdGWVJaZDF2MzdSSllJdEV1LVcwbDJyQ3RZRFc0S1d4MDFXcE1Zbm1jM2tkeWVYZVVsdmJhRUtaY3FHMUxNbGp3RWVyOEVjZ3A5MFFNYk9aMjhhNnFfSC1EY09oSkVkTjBqLWhBOUFKM0ZaRzA5LWUxenYxLS1heTVmTEFhbHNoeS1TZk1SaWxhQzhUU0Rzbkk0Q1Bn?oc=5",
-      "thumb": "",
+      "thumb": "https://i.ytimg.com/vi/qd_Eglec-3s/hqdefault.jpg",
       "data": "2026-08-27",
       "bucket": "ontem",
       "calor": 2,
@@ -1193,7 +1256,13 @@
         "formato": "Reels",
         "eixo": "clima"
       },
-      "data_br": "27/08/2026"
+      "data_br": "27/08/2026",
+      "video_relacionado": {
+        "titulo": "Produtores gaúchos devem ter safra recorde de soja",
+        "url": "https://www.youtube.com/watch?v=qd_Eglec-3s",
+        "fonte": "TV Cachoeira Novo Tempo",
+        "views": 73
+      }
     },
     {
       "id": "1b5517c35177",
@@ -1370,7 +1439,7 @@
       },
       "data_br": "26/08/2026",
       "video_relacionado": {
-        "titulo": "Fatal house fire claims the lives of three; Humpback whale birth filmed by drone | Today Show",
+        "titulo": "Incêndio fatal em uma casa tira a vida de três; Nascimento de baleia jubarte filmado por drone | Hoje mostrar",
         "url": "https://www.youtube.com/watch?v=3xnRTi6KbOg",
         "fonte": "TODAY",
         "views": 4250
@@ -5191,7 +5260,7 @@
       ],
       "fontes_extra": [
         {
-          "titulo": "Panama and El Salvador declare emergency over El Nino-fuelled drought",
+          "titulo": "Panamá e El Salvador declaram emergência devido à seca provocada pelo El Niño",
           "fonte": "France 24",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGhQdmE5WVZSNmIzVGRYRVV6Q1g5T2I2Vmk2XzNWSGZfR1djbnY3bnlyM3dwUm02WmdYVGpkb01LRXhHRWtkY2ZsUjlKSWMycnBwQV9fUTlHMTVtSkp5NXlUZE9tX2tjQnZFMXVLSjQtMTZMZzRtWVlNOHp0bmdfeVprR0xNMXRmck5NT291VWFLNnphOXRMb0RwMW1LWjZHWGc3UTVKX0dXUndUaEZnTnN1SHFJZw?oc=5"
         }
@@ -5210,7 +5279,7 @@
         "titulo": "El Nino reaches century-high intensity, threatens more extreme weather in 2027 • FRANCE 24 English",
         "url": "https://www.youtube.com/watch?v=uZYdRMSZNTA",
         "fonte": "FRANCE 24 English",
-        "views": 11196
+        "views": 11241
       }
     },
     {
@@ -5220,7 +5289,7 @@
       "fonte": "G1",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc042bmVQRldKQWowSGU4bHJuSEVzS3pOei11azdYSnU2WVYtcVEwS2VRRU5RSUc4a2VyRzFsaUdZNW9odnlpZFJhVElkUkJhX1YzVUpnaENPU3l5a0laMVpyS0FLdFhDNHV3UlctS1NJdFJMUzRieXZIN3RLUTcydWFaNDhvc2RscHY4b2t6WG5qa0dSSW1PZG5UTDNHTXpjY1dZU2Jvai1UU2dxMFZqQ2F4REJXQW44MHI1TWZPektFVlM0Z2VKOEt6dTFNbVNWSzJGMWd5VUdadllnWnfSAewBQVVfeXFMUDZqM3FjalRWMG9JeTF6UEZGWWRVV21sWFlvZWUza3Rqb0VoQlVwak5aSlBUX012VXA0RUVLRzRyRFdoYU1hc3hXQmQ2c0ZFUUlRcU5iZ2MxVC1SdGV4SEM4b056WE5CNDdfdmlHamJ3LTdnQVE3Q3ZlWmhLWFNNeTh1REZ1ZFJlRldmRFhrN05NNjRqekMtakt6LVFZUDl5Vmh6SzFmWlVVd1M2M1E5eGpfX2Y2NXZ1ZndRS09ZNHg3N1JpS09iZzdNSTFTRUUwX2NiWDZxejhnTlRRaHkxci1VU2hGSi01ekFZSTI?oc=5",
-      "thumb": "https://i.ytimg.com/vi/3z1B6ZrFmhs/hqdefault.jpg",
+      "thumb": "https://i.ytimg.com/vi/3jI947lcfjw/hqdefault.jpg",
       "data": "2026-08-26",
       "bucket": "semana",
       "calor": 2,
@@ -5246,10 +5315,10 @@
       },
       "data_br": "26/08/2026",
       "video_relacionado": {
-        "titulo": "September Weather Outlook: El Nino, South America Planting & Harvest Windows",
-        "url": "https://www.youtube.com/watch?v=3z1B6ZrFmhs",
-        "fonte": "Market Talk",
-        "views": 745
+        "titulo": "Hungria - Chevette do Jacó (Video Clipe Oficial)",
+        "url": "https://www.youtube.com/watch?v=3jI947lcfjw",
+        "fonte": "Hungria",
+        "views": 28190945
       }
     },
     {
@@ -5493,7 +5562,7 @@
       "fonte": "Bahia Notícias",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVVZRclJ3TUhHMW5qNmZYd011LTJZNF9Tdkx0amZPUzZnOFFVb2F0eGw0T0Y0NTljY0t5dEcyYWdpVkF3NG9EdThIX1UwVjA3bVU5dVZ4OExBSnhaVUlVSHJRYTBXaEF2V2xHc0ZRYWIyenZ1QURrX0EwNXF3UnB0cy1SNW91eGtqRHBPYzBIaWtPQjhQMmU1OEpVV2c3T21sTWgzTmU1ajZmLVNsWW5xMGpaRlp6bWo2ekNSd245TVdnTV9HZkhCRTgyZXNWY3c?oc=5",
-      "thumb": "https://i.ytimg.com/vi/xPfMh7PMWsA/hqdefault.jpg",
+      "thumb": "https://i.ytimg.com/vi/LXpOiVr06wI/hqdefault.jpg",
       "data": "2026-08-25",
       "bucket": "semana",
       "calor": 2,
@@ -5519,10 +5588,10 @@
       },
       "data_br": "25/08/2026",
       "video_relacionado": {
-        "titulo": "What to do in Itacaré, Bahia? - Complete itinerary, prices, best tours, beaches and accommodation.",
-        "url": "https://www.youtube.com/watch?v=xPfMh7PMWsA",
-        "fonte": "Vamos Fugir Blog",
-        "views": 358140
+        "titulo": "Salto da morte em FerryBoat na Bahia - Ilha de Itaparica",
+        "url": "https://www.youtube.com/watch?v=LXpOiVr06wI",
+        "fonte": "Paulão da Bahea",
+        "views": 2176817
       }
     },
     {
@@ -5542,7 +5611,7 @@
       ],
       "fontes_extra": [
         {
-          "titulo": "The Nike Mind 001 Pushes Into Late Fall With “Work Blue”",
+          "titulo": "O Nike Mind 001 chega ao final do outono com “Work Blue”",
           "fonte": "Sneaker News",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUVrblUwM1VkS3E1VUhYY3RTd1RGemlTMVVCeVJ3Wk1RZEdJSy1YdDh5aE1fdTgydWVRZ1hMd1ctZ3pHRWdtVG91OHRNclBRYmQ5Wnc4VC1GVWdNeFdBdkgzclBtbTJSa1VKNVk5VVJXWGcyMUtTVGJvV1FqNzJvU2hVU0pSWXJYYmtKbnRLb1J4d9IBkgFBVV95cUxPZUVrblUwM1VkS3E1VUhYY3RTd1RGemlTMVVCeVJ3Wk1RZEdJSy1YdDh5aE1fdTgydWVRZ1hMd1ctZ3pHRWdtVG91OHRNclBRYmQ5Wnc4VC1GVWdNeFdBdkgzclBtbTJSa1VKNVk5VVJXWGcyMUtTVGJvV1FqNzJvU2hVU0pSWXJYYmtKbnRLb1J4dw?oc=5"
         }
@@ -5561,7 +5630,7 @@
         "titulo": "Does It Work? Nike MIND 001 Mule Review & On Feet",
         "url": "https://www.youtube.com/watch?v=JpN1DQdV4G4",
         "fonte": "Seth Fowler",
-        "views": 303160
+        "views": 303101
       }
     },
     {
@@ -5756,7 +5825,7 @@
         "titulo": "WATCHING HUMPBACK WHALES IN BAHIA: A Complete Guide to the Praia do Forte Tour",
         "url": "https://www.youtube.com/watch?v=H4U0fr6fAlo",
         "fonte": "A Vida em Salvador",
-        "views": 1035
+        "views": 1036
       }
     },
     {
@@ -6477,7 +6546,7 @@
       "fonte": "Bahia Social Vip",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0poaVVraUY1SWZQbThhNVRUVjY4QUlnS3I4UHlzeHVYOVhJWG42eUVzTUZ1cUtRMHVvSzliVTJYakpTUU9qcUJkUGhPcExhNENyLW9OZzY3UEtnQXk0VmJ6Tkg2M0RPN3RGWk9hbU82Uk1YUlVld1dHaS01eGtaVUxSVHgxdERL?oc=5",
-      "thumb": "",
+      "thumb": "https://i.ytimg.com/vi/iwXyM8SiBpo/hqdefault.jpg",
       "data": "2026-08-21",
       "bucket": "semana",
       "calor": 2,
@@ -6501,7 +6570,13 @@
         "formato": "Reels",
         "eixo": "baleia"
       },
-      "data_br": "21/08/2026"
+      "data_br": "21/08/2026",
+      "video_relacionado": {
+        "titulo": "Baleia jubarte encalha na Baía de Todos os Santos pela terceira vez desde o fim de semana",
+        "url": "https://www.youtube.com/watch?v=iwXyM8SiBpo",
+        "fonte": "Jornal da Record",
+        "views": 6965
+      }
     },
     {
       "id": "29ae56c26fde",
@@ -6851,11 +6926,11 @@
     {
       "id": "945b3106c324",
       "tipo": "noticia",
-      "titulo": "This Year’s Record-Breaking El Niño in 3 Charts",
+      "titulo": "O El Niño que quebrou o recorde deste ano em 3 paradas",
       "fonte": "The New York Times",
       "local": "EUA / Mundo",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uMktkdHdEeXQza1JvS0xHUkZURDZfSEZfbXZUQVZRaW1YOWFPc2hFdGRZSml1VGtYdVZSeTFSRWIzaDZvTEExMlRmQ1JXLTlpc21veTFwbW5iT0x0dEx4MEF4ZEMzRURTNnJJblY3LU9OMV9vY21iMWZhV2sxQ2c?oc=5",
-      "thumb": "https://i.ytimg.com/vi/aErvUF2PHew/hqdefault.jpg",
+      "thumb": "https://i.ytimg.com/vi/EDqjl8GrHkA/hqdefault.jpg",
       "data": "2026-08-25",
       "bucket": "semana",
       "calor": 2,
@@ -6886,10 +6961,10 @@
       },
       "data_br": "25/08/2026",
       "video_relacionado": {
-        "titulo": "Latest Data : El Niño is here and it has SMASHED all records!",
-        "url": "https://www.youtube.com/watch?v=aErvUF2PHew",
-        "fonte": "Just Have a Think",
-        "views": 303408
+        "titulo": "El Niño chegou mais rápido do que quase todos os anos já registrados - no pior momento possível",
+        "url": "https://www.youtube.com/watch?v=EDqjl8GrHkA",
+        "fonte": "The Outer Layer",
+        "views": 4483
       }
     },
     {
@@ -7941,37 +8016,9 @@
       "data_br": "25/08/2026"
     },
     {
-      "id": "677bf5c62a52",
-      "tipo": "video",
-      "titulo": "OS INIMIGOS MAIS PERIGOSOS DO MEGALODON !!",
-      "fonte": "Você Sabia?",
-      "url": "https://www.youtube.com/watch?v=Nvd8DL2bFsw",
-      "thumb": "https://i.ytimg.com/vi/Nvd8DL2bFsw/hqdefault.jpg",
-      "data": "2019-10-07",
-      "bucket": "mes",
-      "calor": 3,
-      "num_fontes": 1,
-      "keywords": [
-        "perigos do mar animais"
-      ],
-      "views": 14880419,
-      "dur": 732.0,
-      "fontes_extra": [],
-      "score": 14880419,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
-      "angulo": {
-        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
-        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
-        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
-        "formato": "Reels",
-        "eixo": "default"
-      },
-      "data_br": "07/10/2019"
-    },
-    {
       "id": "329e97e680fd",
       "tipo": "video",
-      "titulo": "Spy Octopus Helps Friend Hide From Shark",
+      "titulo": "Polvo espião ajuda amigo a se esconder do tubarão",
       "fonte": "Nature on PBS",
       "url": "https://www.youtube.com/watch?v=qnMxd3s6u-c",
       "thumb": "https://i.ytimg.com/vi/qnMxd3s6u-c/hqdefault.jpg",
@@ -7982,13 +8029,13 @@
       "keywords": [
         "polvo inteligência oceano"
       ],
-      "views": 8344750,
+      "views": 8344912,
       "dur": 198.0,
       "fontes_extra": [],
-      "score": 8344750,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "score": 8344912,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
-        "gancho": "3 COISAS QUE VOCÊ NÃO SABIA SOBRE O ANIMAL",
+        "gancho": "3 COISAS QUE VOCÊ NÃO SABIA SOBRE O TUBARÃO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
         "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
         "formato": "Reels",
@@ -8010,11 +8057,11 @@
       "keywords": [
         "curiosidades do oceano ciência"
       ],
-      "views": 8293040,
+      "views": 8293074,
       "dur": 726.0,
       "fontes_extra": [],
-      "score": 8293040,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "score": 8293074,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
         "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8038,11 +8085,11 @@
       "keywords": [
         "fossa das marianas fundo do oceano"
       ],
-      "views": 7406750,
+      "views": 7406815,
       "dur": 1118.0,
       "fontes_extra": [],
-      "score": 7406750,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "score": 7406815,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
         "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8055,7 +8102,7 @@
     {
       "id": "a76c7e634dc2",
       "tipo": "video",
-      "titulo": "PACIFIC OCEAN: Brutal Predators [Documentary]",
+      "titulo": "OCEANO PACÍFICO: Predadores Brutais [Documentário]",
       "fonte": "GeoDocs",
       "url": "https://www.youtube.com/watch?v=-6PiVnKwfWg",
       "thumb": "https://i.ytimg.com/vi/-6PiVnKwfWg/hqdefault.jpg",
@@ -8066,17 +8113,17 @@
       "keywords": [
         "perigos do mar animais"
       ],
-      "views": 6542405,
+      "views": 6542436,
       "dur": 1817.0,
       "fontes_extra": [],
-      "score": 6542405,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "score": 6542436,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
-        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "gancho": "3 COISAS QUE VOCÊ NÃO SABIA SOBRE O ANIMAL",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
         "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
         "formato": "Reels",
-        "eixo": "default"
+        "eixo": "predador"
       },
       "data_br": "26/08/2025"
     },
@@ -8098,7 +8145,7 @@
       "dur": 712.0,
       "fontes_extra": [],
       "score": 6211561,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
         "gancho": "CIENTISTAS ENCONTRARAM ISSO NO FUNDO DO MAR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8122,11 +8169,11 @@
       "keywords": [
         "tubarão ataque motivo"
       ],
-      "views": 5407412,
+      "views": 5407657,
       "dur": 620.0,
       "fontes_extra": [],
-      "score": 5407412,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "score": 5407657,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
         "gancho": "3 COISAS QUE VOCÊ NÃO SABIA SOBRE O TUBARÃO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8139,7 +8186,7 @@
     {
       "id": "6f0a5a26241c",
       "tipo": "video",
-      "titulo": "How We Can Keep Plastics Out of Our Ocean | National Geographic",
+      "titulo": "Como podemos manter os plásticos fora do oceano | Geografia Nacional",
       "fonte": "National Geographic",
       "url": "https://www.youtube.com/watch?v=HQTUWK7CM-Y",
       "thumb": "https://i.ytimg.com/vi/HQTUWK7CM-Y/hqdefault.jpg",
@@ -8154,7 +8201,7 @@
       "dur": 191.0,
       "fontes_extra": [],
       "score": 3807332,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
         "gancho": "O QUE ESSA POLUIÇÃO FAZ COM O SEU CORPO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8167,7 +8214,7 @@
     {
       "id": "3fb86873c1ff",
       "tipo": "video",
-      "titulo": "A 3D Journey to See What's Hidden in the Depths of the Ocean",
+      "titulo": "Uma jornada em 3D para ver o que está escondido nas profundezas do oceano",
       "fonte": "INCRÍVEL",
       "url": "https://www.youtube.com/watch?v=6Bh09OPi-Cc",
       "thumb": "https://i.ytimg.com/vi/6Bh09OPi-Cc/hqdefault.jpg",
@@ -8178,17 +8225,17 @@
       "keywords": [
         "fossa das marianas fundo do oceano"
       ],
-      "views": 3572181,
+      "views": 3572189,
       "dur": 593.0,
       "fontes_extra": [],
-      "score": 3572181,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "score": 3572189,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
-        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
         "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
         "formato": "Reels",
-        "eixo": "default"
+        "eixo": "criatura"
       },
       "data_br": "21/11/2020"
     },
@@ -8206,11 +8253,11 @@
       "keywords": [
         "criatura estranha fundo do mar"
       ],
-      "views": 2465649,
+      "views": 2465735,
       "dur": 1164.0,
       "fontes_extra": [],
-      "score": 2465649,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "score": 2465735,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
         "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8238,7 +8285,7 @@
       "dur": 79.0,
       "fontes_extra": [],
       "score": 2184022,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
         "gancho": "CIENTISTAS ENCONTRARAM ISSO NO FUNDO DO MAR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8247,34 +8294,6 @@
         "eixo": "criatura"
       },
       "data_br": "18/03/2021"
-    },
-    {
-      "id": "04ab0857720c",
-      "tipo": "video",
-      "titulo": "Eles FORAM até o LUGAR MAIS FUNDO do MAR!",
-      "fonte": "Manual do Mundo",
-      "url": "https://www.youtube.com/watch?v=sapbQqQ3I5w",
-      "thumb": "https://i.ytimg.com/vi/sapbQqQ3I5w/hqdefault.jpg",
-      "data": "2021-04-29",
-      "bucket": "mes",
-      "calor": 3,
-      "num_fontes": 1,
-      "keywords": [
-        "fossa das marianas fundo do oceano"
-      ],
-      "views": 2081043,
-      "dur": 1237.0,
-      "fontes_extra": [],
-      "score": 2081043,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
-      "angulo": {
-        "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
-        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
-        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
-        "formato": "Reels",
-        "eixo": "criatura"
-      },
-      "data_br": "29/04/2021"
     },
     {
       "id": "744725a4e1e9",
@@ -8290,11 +8309,11 @@
       "keywords": [
         "baleia jubarte flagra"
       ],
-      "views": 1845515,
+      "views": 1845516,
       "dur": 44.0,
       "fontes_extra": [],
-      "score": 1845515,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "score": 1845516,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
         "gancho": "POR QUE ISSO ESTÁ ACONTECENDO COM AS BALEIAS",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8318,11 +8337,11 @@
       "keywords": [
         "perigos do mar animais"
       ],
-      "views": 1803319,
+      "views": 1803391,
       "dur": 1886.0,
       "fontes_extra": [],
-      "score": 1803319,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "score": 1803391,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8346,11 +8365,11 @@
       "keywords": [
         "poluição plástico oceano documentário"
       ],
-      "views": 1733253,
+      "views": 1733265,
       "dur": 129.0,
       "fontes_extra": [],
-      "score": 1733253,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "score": 1733265,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
         "gancho": "O QUE ESSA POLUIÇÃO FAZ COM O SEU CORPO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8359,6 +8378,62 @@
         "eixo": "poluicao"
       },
       "data_br": "02/02/2016"
+    },
+    {
+      "id": "5d2d26685687",
+      "tipo": "video",
+      "titulo": "Conheça a praia brasileira dos tubarões, onde o turismo é proibido",
+      "fonte": "Domingo Espetacular",
+      "url": "https://www.youtube.com/watch?v=l-v3GCqASGc",
+      "thumb": "https://i.ytimg.com/vi/l-v3GCqASGc/hqdefault.jpg",
+      "data": "2024-09-09",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "tubarão ataque motivo"
+      ],
+      "views": 1607840,
+      "dur": 533.0,
+      "fontes_extra": [],
+      "score": 1607840,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
+      "angulo": {
+        "gancho": "3 COISAS QUE VOCÊ NÃO SABIA SOBRE O TUBARÃO",
+        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "predador"
+      },
+      "data_br": "09/09/2024"
+    },
+    {
+      "id": "002691c5f02e",
+      "tipo": "video",
+      "titulo": "Comprei os animais mais perigosos do mundo...",
+      "fonte": "Bass Fishing Productions em Português",
+      "url": "https://www.youtube.com/watch?v=NyuDdKo3dXw",
+      "thumb": "https://i.ytimg.com/vi/NyuDdKo3dXw/hqdefault.jpg",
+      "data": "2025-11-04",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "perigos do mar animais"
+      ],
+      "views": 1603242,
+      "dur": 5081.0,
+      "fontes_extra": [],
+      "score": 1603242,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "04/11/2025"
     },
     {
       "id": "541eca46ef74",
@@ -8378,7 +8453,7 @@
       "dur": 756.0,
       "fontes_extra": [],
       "score": 1326339,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
         "gancho": "O QUE VIVE NO PONTO MAIS FUNDO DO OCEANO",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
@@ -8389,9 +8464,37 @@
       "data_br": "21/12/2025"
     },
     {
+      "id": "c99c6e3decff",
+      "tipo": "video",
+      "titulo": "O oceano pré-histórico é aterrorizante",
+      "fonte": "Fyori",
+      "url": "https://www.youtube.com/watch?v=CiK4G3-l05k",
+      "thumb": "https://i.ytimg.com/vi/CiK4G3-l05k/hqdefault.jpg",
+      "data": "2025-03-07",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "perigos do mar animais"
+      ],
+      "views": 1233927,
+      "dur": 944.0,
+      "fontes_extra": [],
+      "score": 1233927,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
+        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "07/03/2025"
+    },
+    {
       "id": "ca36effb49c8",
       "tipo": "video",
-      "titulo": "The Terrible Creatures of the Abyss",
+      "titulo": "As Terríveis Criaturas do Abismo",
       "fonte": "Fyori",
       "url": "https://www.youtube.com/watch?v=uwmGHRD-hE0",
       "thumb": "https://i.ytimg.com/vi/uwmGHRD-hE0/hqdefault.jpg",
@@ -8402,47 +8505,19 @@
       "keywords": [
         "criatura estranha fundo do mar"
       ],
-      "views": 1230293,
+      "views": 1230312,
       "dur": 653.0,
       "fontes_extra": [],
-      "score": 1230293,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
+      "score": 1230312,
+      "primeira_vez": "2026-08-28T10:20:05.856541-03:00",
       "angulo": {
-        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
-        "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
-        "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
-        "formato": "Reels",
-        "eixo": "default"
-      },
-      "data_br": "21/11/2024"
-    },
-    {
-      "id": "58a423331ebe",
-      "tipo": "video",
-      "titulo": "AS MAIS TERRÍVEIS CRIATURAS DO FUNDO DO MAR QUE VOCÊ NUNCA VIU ANTES",
-      "fonte": "BRAIN TIME",
-      "url": "https://www.youtube.com/watch?v=-XDAriLUtIk",
-      "thumb": "https://i.ytimg.com/vi/-XDAriLUtIk/hqdefault.jpg",
-      "data": "2020-08-18",
-      "bucket": "mes",
-      "calor": 3,
-      "num_fontes": 1,
-      "keywords": [
-        "criatura estranha fundo do mar"
-      ],
-      "views": 1158864,
-      "dur": 735.0,
-      "fontes_extra": [],
-      "score": 1158864,
-      "primeira_vez": "2026-08-28T09:20:05.498632-03:00",
-      "angulo": {
-        "gancho": "CIENTISTAS ENCONTRARAM ISSO NO FUNDO DO MAR",
+        "gancho": "ESSA CRIATURA DO FUNDO DO MAR NÃO DEVERIA EXISTIR",
         "corpo": "Recria a ideia deste vídeo no seu estilo: mesmo tema, mas com o selo de autoridade científica e imagem de mar real. Não copie, traduza pra sua voz.",
         "fecho": "Fecha no propósito: reconexão com o mar e proteção do oceano.",
         "formato": "Reels",
         "eixo": "criatura"
       },
-      "data_br": "18/08/2020"
+      "data_br": "21/11/2024"
     },
     {
       "id": "82d5ff1b045c",
@@ -13214,7 +13289,7 @@
       "fonte": "Folha Vitória",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTlqbXZhaDlHWEVGTzVZZjJrZHczdXprTFZzNDBBdE9fX3k0Y2xfNHR2WFEySnhuWEI5QlpmQnFTempQX1djNjVvT0RjZUtDNWRpd1kya1l2M1pxUEVkQ3ByelFQTnlqSHdTUUxET25fOHpVSnFCenUzVDNQc3BDbVRfNlRhUzRGSFB2Z0cyYTBiaW5oOGJSdVhGaVZvejFTNENkVw?oc=5",
-      "thumb": "https://i.ytimg.com/vi/vlYb9kQpmMo/hqdefault.jpg",
+      "thumb": "",
       "data": "2026-08-12",
       "bucket": "mes",
       "calor": 2,
@@ -13248,13 +13323,7 @@
         "formato": "Reels",
         "eixo": "baleia"
       },
-      "data_br": "12/08/2026",
-      "video_relacionado": {
-        "titulo": "Whale washes up dead in Vila Velha",
-        "url": "https://www.youtube.com/watch?v=vlYb9kQpmMo",
-        "fonte": "Jornal da TV Vitória",
-        "views": 65
-      }
+      "data_br": "12/08/2026"
     },
     {
       "id": "7c6faded6317",
@@ -13263,7 +13332,7 @@
       "fonte": "Alô Alô Bahia",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObFhxWDJQLUhKZ3JkaHpXYy1mVjlpLU9wZTJSTGVweWl2TlpURDNGREwwZmFMYlUzbGJ0bENoQUJJVGx4cUhZUnhUaFRaSzA5Q19DTkg2dGtjc2ZveEtaRzhZQW5FMmxSWnNPbXVyazFyTWY5T0ZPNHhURkdKSGQzTnh5VF8ydjlNaW1RbnVheHYyZUozNllsS1JiSm91ZkQtbTZjc3V3R05sWVdXX2tWWDB5UmJZQQ?oc=5",
-      "thumb": "https://i.ytimg.com/vi/NeGfiUZrlPU/hqdefault.jpg",
+      "thumb": "",
       "data": "2026-08-15",
       "bucket": "mes",
       "calor": 2,
@@ -13297,22 +13366,16 @@
         "formato": "Reels",
         "eixo": "baleia"
       },
-      "data_br": "15/08/2026",
-      "video_relacionado": {
-        "titulo": "PORTO SEGURO GETS HUMPBACK WHALE OBSERVATORY IN THE HISTORIC DISTRICT – TVPJ 08/11/2026",
-        "url": "https://www.youtube.com/watch?v=NeGfiUZrlPU",
-        "fonte": "TV Porto Bahia",
-        "views": 199
-      }
+      "data_br": "15/08/2026"
     },
     {
       "id": "78c519492bf3",
       "tipo": "noticia",
-      "titulo": "The 2026 El Niño could become the strongest in a lifetime",
+      "titulo": "O El Niño de 2026 pode tornar-se o mais forte de uma vida",
       "fonte": "AccuWeather",
       "local": "EUA / Mundo",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQW1LbXVSQkpZZ040QU9qaWx2ZnprTmRhYUJoSkJNbFdwNHlXcUJyd2VvZE5ESmZRZ3lBMGZLbnZOUUctTy1Mc1hicFpubjVUc2RoSktnZzF5MU9rREh6bDluX05ucXFXRzNTWVVOMVo1TE5zSDRjdl9RN3l6cFY1WVRpRFVsQXF1OHM0T1BNN2x1WDNvNWxERTlOTEVUS19LOThFUWZ2ZktKNm1JUVE?oc=5",
-      "thumb": "https://i.ytimg.com/vi/d6s0T0m3F8s/hqdefault.jpg",
+      "thumb": "",
       "data": "2026-08-20",
       "bucket": "mes",
       "calor": 2,
@@ -13322,12 +13385,12 @@
       ],
       "fontes_extra": [
         {
-          "titulo": "This El Niño could be one of the strongest. What that means for SoCal and what it doesn't",
+          "titulo": "Este El Niño pode ser um dos mais fortes. O que isso significa para SoCal e o que não significa",
           "fonte": "NBC Los Angeles",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnBpOXJ5Q3UwZlhQUmhVNGRqLXZsOHNOalNuNmRMMVFNVG5FSHE1WF9nbjhwVDd3TDU5LVZacFdhZ3FfMGxxcmRrR09oRUx0dzBsOU9wOG1TT0VBcWJwTFRJT0pDU1ZsRHQyajh0LXNoSDRqQ0QzSVlMVzRPaXpXc2M1TkU1aWxZbUFlenB0c1d5ZUxycy1MT01VcTl4bU5mT2fSAaoBQVVfeXFMTTkwUGg3MkItX0kxcDJQQTlaR3UxWFhaenZyUndraGdDdnUyX0FLWkJXanROcWpmWF9zcG93b056Y0ZzeWhHVmMtZHpvdWxSTnFZazRHZ3FrR19YYy1WRWxEWnc0T00ySm43QXh3V0g2N1dHeDktcjg3OFVKTDNqVnRsMTFGdlRubDJrdTRYM0t1eFdaSlFXbWVSQ1Vyc3ozZEwydUdCVVhjYXc?oc=5"
         },
         {
-          "titulo": "El Niño could become strongest on record. What it means for North Carolina",
+          "titulo": "O El Niño poderá tornar-se mais forte já registado. O que isso significa para a Carolina do Norte",
           "fonte": "WRAL",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BRkpzaVBGZUVkSFJac3kxcng4b1AyZkdvREZrMFNxZ2p6Q2hibVFYUTBMUHI2bXVUOUxJRDV3WVFLRE5nYkZUMm9PSS1BdWxXaUFySHh5YjdadTZfYzNmWjFBNGxSaFEwVTZLOUgxZ2VTM3FhanI1a25MVQ?oc=5"
         }
@@ -13341,13 +13404,7 @@
         "formato": "Reels",
         "eixo": "clima"
       },
-      "data_br": "20/08/2026",
-      "video_relacionado": {
-        "titulo": "El Niño 101 | National Geographic",
-        "url": "https://www.youtube.com/watch?v=d6s0T0m3F8s",
-        "fonte": "National Geographic",
-        "views": 824740
-      }
+      "data_br": "20/08/2026"
     },
     {
       "id": "202110383dcc",
@@ -24619,7 +24676,7 @@
       "fonte": "R7",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYy1oT29FbHQySlVyQTQyYldaSWRva3dYY1JVRWFSZjFYaWdmeElRdFpTRkVCQk5zYWU4ZU92LXJ0enVJVThSZ3RkVGNBSmhYLUpycFE4eG9pU2lqR3Z4T0EtSXFiTW8xSElyV3hIbWlRYTMxaFVDUlBvaVl4NE1ZeEFuUzlibFQ2cndMdWc0UWZ3aGs2bTNMSHliQ0tPRG0zYmV2bk1RVkVfbDlVcFFFX1BvUUxfY3VfWXc?oc=5",
-      "thumb": "https://i.ytimg.com/vi/-mu7BQ6ocTo/hqdefault.jpg",
+      "thumb": "",
       "data": "2026-08-06",
       "bucket": "mes",
       "calor": 2,
@@ -24648,13 +24705,7 @@
         "formato": "Reels",
         "eixo": "baleia"
       },
-      "data_br": "06/08/2026",
-      "video_relacionado": {
-        "titulo": "野生抹香鯨罕見誕生全記錄 雌鯨合力托舉幼鯨學游泳【#Yahoo國際通】",
-        "url": "https://www.youtube.com/watch?v=-mu7BQ6ocTo",
-        "fonte": "Yahoo TV一起看",
-        "views": 1442
-      }
+      "data_br": "06/08/2026"
     },
     {
       "id": "b5d152558ce7",
@@ -24739,7 +24790,7 @@
       "fonte": "UOL",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JQlIyTkNiajhNTjZIZERIei1UTE5RUXJQWjhkOU8yZmhvRUFETTdfVEt4WElYdUc2dVhoelVTdDBoVWliOTNxV2pfdlJ5Mk5VZy0xTWFORE1QVjh3dDBVQXdObDRXcXpOdU9iVUZrVnF3QjY4M2dpd3d3VWc?oc=5",
-      "thumb": "https://i.ytimg.com/vi/dAN_EsxwdO4/hqdefault.jpg",
+      "thumb": "",
       "data": "2026-08-07",
       "bucket": "mes",
       "calor": 2,
@@ -24763,13 +24814,7 @@
         "formato": "Reels",
         "eixo": "baleia"
       },
-      "data_br": "07/08/2026",
-      "video_relacionado": {
-        "titulo": "Baleia jubarte quase engole dupla de mulheres em caiaques nos EUA",
-        "url": "https://www.youtube.com/watch?v=dAN_EsxwdO4",
-        "fonte": "UOL",
-        "views": 548339
-      }
+      "data_br": "07/08/2026"
     },
     {
       "id": "75ddb1df5c74",
@@ -24811,7 +24856,7 @@
       "fonte": "Apufsc-Sindical",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN1hIUlRVSDJnWWZvUFFUUGw2VS1CY2dYajBFbGhfdEZybFItblpVOG9FTm1EalZJOWstVUFRUlhzMm5yT0xieFNvZTA4YkZFVWREZ0RMSlFRT2w5MnZTRzJLekJkWmFvcVNjajRMMEtqVy1PUEFPN29nZG9vcmNOY24xSTBlRlppZXktZ2FVR0ZSLVdQRXI4YnVneDlKUE1QdUtWcTI3X09JcWk0YUdxcldMaFJMOHNCcnk1OElwMXE5dmJ1NGl2dUFzZ1ItelBOU3dpcFhpZFNBZmtEb1lRMVN5MjNocFZQLWp1Vg?oc=5",
-      "thumb": "https://i.ytimg.com/vi/IGgMxhMxHao/hqdefault.jpg",
+      "thumb": "",
       "data": "2026-08-14",
       "bucket": "mes",
       "calor": 2,
@@ -24835,22 +24880,16 @@
         "formato": "Reels",
         "eixo": "clima"
       },
-      "data_br": "14/08/2026",
-      "video_relacionado": {
-        "titulo": "THE REAL IMPACT OF THE SUPER EL NIÑO ON YOUR LIFE",
-        "url": "https://www.youtube.com/watch?v=IGgMxhMxHao",
-        "fonte": "Olá, Ciência!",
-        "views": 843116
-      }
+      "data_br": "14/08/2026"
     },
     {
       "id": "e8da51a977ef",
       "tipo": "noticia",
-      "titulo": "\"Super\" El Nino could bring wet winter for New Mexico",
+      "titulo": "“Super” El Nino pode trazer inverno chuvoso para o Novo México",
       "fonte": "KOAT",
       "local": "EUA / Mundo",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWW1aRnF1NE1JOWtvMVM1UVlzUnlYQ2hBVXFHZC1YRHc3YWdVSnFGT2d3QTN4a3BrWUVYTGs1dXZaOFB1UzUwOWdreDF6VFctd1VncGp6TEdRWkw2R3FxQnZ6M1pPQjY1M2t6SGRqQjNCTXE5OVdYbUZFVDZFdnhSMndic3Q?oc=5",
-      "thumb": "https://i.ytimg.com/vi/h3pBhL_3BIU/hqdefault.jpg",
+      "thumb": "",
       "data": "2026-08-14",
       "bucket": "mes",
       "calor": 2,
@@ -24860,7 +24899,7 @@
       ],
       "fontes_extra": [
         {
-          "titulo": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
+          "titulo": "‘Super El Niño’ pode trazer inverno chuvoso e inundações ao oeste dos EUA, alertam cientistas climáticos",
           "fonte": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHdnSkREV1FFeHlrdnY1YlU4aVQwTlE4bEJGRi1QWXlvSHRhSGgzSkw2eFkxT1EwSS1XS0x5YUItRmFEMkJKbEwtYXhrOVFFYW5MY3hVS2hvQVllcVl6Wi1EM041aDlMVFZIQUdVbkZFMUpxVFFuRGZiV3BkeWFsV2NaWQ?oc=5"
         }
@@ -24874,13 +24913,7 @@
         "formato": "Reels",
         "eixo": "clima"
       },
-      "data_br": "14/08/2026",
-      "video_relacionado": {
-        "titulo": "Strengthening El Nino could bring wet winter for New Mexico",
-        "url": "https://www.youtube.com/watch?v=h3pBhL_3BIU",
-        "fonte": "KOAT",
-        "views": 3352
-      }
+      "data_br": "14/08/2026"
     },
     {
       "id": "af2069cb8426",
@@ -26667,7 +26700,7 @@
     {
       "id": "ec90ac643c47",
       "tipo": "noticia",
-      "titulo": "Strong El Niño May Bring Record Sea Level and Coastal Flooding to Bay Area",
+      "titulo": "Forte El Niño pode trazer nível recorde do mar e inundações costeiras para a área da baía",
       "fonte": "KQED",
       "local": "EUA / Mundo",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeE1fN0dMcjB2Y3pKYzJ4ekh6ZjRBTkVVWXBXLVd5NHhoUWhvYWlYVUlMMExleTl1N1V6a0tGX0JPVFdMRVRaSUhLLWlMQlh0Q0lEdFYwV0NzUlM0WlRrQUk5WklkYWt0U3pRUlp2ckNzcWhJUWU1ajNBTEdIX180dDFxMFYxWEhPOUZJbFJDcnZieTdPY3pURXdwS2FYYjJaNXBhQWZnSXkwMTY3RUdsQg?oc=5",
@@ -26681,7 +26714,7 @@
       ],
       "fontes_extra": [
         {
-          "titulo": "Experts warn strong El Niño could bring record sea levels to California coast with flooding concerns",
+          "titulo": "Especialistas alertam que o forte El Niño pode trazer níveis recordes do mar para a costa da Califórnia, com preocupações com inundações",
           "fonte": "ABC7 Bay Area",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjFxR210N3dpT1NGVXFpQTRwSDE2R3BuYldmUGlqa29Jc3l5amdsWmpmTllvdnlPZ2pqck52REtENE9JTlB6dVItNVI4dnlta3N6S2swMUpZVmxVRGR5Sng5bWFQdHhfeHJ6eWVsbFFGS0p1MGhBMUY2RWZnbzFnUzJZUEVEZDlRR3E2QWx3NUd4NUlOREJrZ210SnEtbTBaVUxqc01hRlRubVRHbWlDcjFhM1lVU1VObmhKczNxVUpRQ0JtR3fSAcsBQVVfeXFMTkVQNXRRZExDbFdkdFJqUm9BNDRtZTNTcGl4QVJGWmlOQUtnZElfOHBfajAyekdEaUhWejVnVkhnZ3o4MFJNVlY4VndteDRadjVic01XQjIwdU8zUWpaSGFRYUVPbXpyc09QaXJCZWRDcE40cVF1R1YwNC1CNWNhTldGMWNfYWpwZ0dLYXlZbF9SNXdwaFdacTRobm94UHQwYjdjUmJENHFNMVVzMzA4bDg2VXBLMnZLYnBRMGxSZVUyaTdJZDA3bzJRajQ?oc=5"
         }
