@@ -1,0 +1,81 @@
+{
+  "slug": "gaiasoul",
+  "client": "Instituto Gaia Soul",
+  "radar_slug": "gaiasoul",
+  "title": "Radar de Virais",
+  "subtitle": "Cultura Oceânica, conservação e território: o que está em alta pra virar conteúdo do Instituto",
+  "intro": "Esta página junta, TODA HORA, o que está virando notícia e ganhando alcance no universo do oceano, da Cultura Oceânica, da conservação e do Recôncavo. Cada card já vem com um ângulo pronto pra virar Reels na voz do Instituto Gaia Soul. Aprove os que fazem sentido pra pauta, descarte os que não combinam e deixe um comentário quando quiser. Atualiza sozinho.",
+  "brand": {
+    "primary": "#1F5FAE",
+    "primaryDark": "#0A1E4D",
+    "logo": "logos/gaiasoul.png"
+  },
+  "video_queries": [
+    "cultura oceânica educação",
+    "economia azul o que é",
+    "manguezal importância ecossistema",
+    "guará ave manguezal Recôncavo",
+    "carbono azul manguezal",
+    "Baía de Todos os Santos biodiversidade",
+    "pesca artesanal comunidades tradicionais",
+    "Década do Oceano ONU",
+    "recuperação de manguezais Bahia",
+    "conservação marinha Brasil"
+  ],
+  "voice": {
+    "quem": "Instituto Gaia Soul, organização sem fins lucrativos liderada pelo oceanógrafo Marcelo Telles. Referência em Cultura Oceânica, educação, ciência marinha, conservação e conexão das pessoas com o oceano.",
+    "eixo_viral": "Cultura Oceânica + ciência que encanta + território e comunidades do Recôncavo (Baía de Todos os Santos, Baía do Iguape) + conservação e biodiversidade. Impacto institucional e projetos (Imersão Azul, Mundo Submarino 360, Mata Quântica) fecham como propósito, nunca abrem sensacionalismo.",
+    "tom": "Educativo, acolhedor, confiável e contemporâneo, tecnicamente responsável, sem academicismo. Encanta e informa. NUNCA sensacionalista (nada de sangue/ataque/morte), NUNCA corporativo frio, NUNCA jargão acadêmico cru, NUNCA humor/meme.",
+    "gancho_formula": "CAIXA ALTA + (número OU 'cientistas descobriram' OU curiosidade OU pertencimento) + afirmação forte, não pergunta. Desperta curiosidade e conexão, não medo.",
+    "gancho_default": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+    "alvo_default": "O OCEANO",
+    "alvo": {},
+    "formato_card": "Reels",
+    "angulo_corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e conecta com Cultura Oceânica, o Recôncavo e a atuação do Instituto, com autoridade científica acolhedora no comando.",
+    "angulo_corpo_video": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+    "angulo_fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+    "ofuscar": {},
+    "subeixos": [
+      {
+        "key": "cultura_oceanica",
+        "gatilhos": ["cultura ocean", "ocean literacy", "educacao ocean", "escola azul", "decada do oceano", "ocean decade", "letramento ocean"],
+        "hooks": ["O QUE TODO MUNDO DEVERIA SABER SOBRE O OCEANO", "CULTURA OCEÂNICA: POR QUE O MAR TEM TUDO A VER COM VOCÊ", "A LIÇÃO SOBRE O OCEANO QUE A ESCOLA NÃO TE DEU"]
+      },
+      {
+        "key": "economia_azul",
+        "gatilhos": ["economia azul", "blue economy", "blue finance", "blue bank", "economia do mar"],
+        "hooks": ["A ECONOMIA QUE VEM DO MAR E QUASE NINGUÉM ENXERGA", "COMO O OCEANO PODE GERAR RENDA SEM DESTRUIR A NATUREZA", "O FUTURO DA ECONOMIA AZUL COMEÇA AQUI NO RECÔNCAVO"]
+      },
+      {
+        "key": "manguezal",
+        "gatilhos": ["manguezal", "mangue", "carbono azul", "guara", "guaras", "estuario", "marisqueira"],
+        "hooks": ["POR QUE OS GUARÁS ESTÃO VOLTANDO A COLORIR OS MANGUEZAIS", "O MANGUEZAL FAZ ALGO PELO CLIMA QUE POUCA GENTE SABE", "O QUE O CARBONO AZUL TEM A VER COM O NOSSO FUTURO"]
+      },
+      {
+        "key": "biodiversidade",
+        "gatilhos": ["biodiversidade", "especie", "corais", "recife", "conservacao", "branqueamento", "areas marinhas protegidas", "vida marinha"],
+        "hooks": ["A VIDA QUE EXISTE NO NOSSO MAR E VOCÊ NEM IMAGINA", "CIENTISTAS FLAGRARAM ALGO IMPORTANTE NA NOSSA BAÍA", "O QUE ESTÁ ACONTECENDO COM A BIODIVERSIDADE DO OCEANO"]
+      },
+      {
+        "key": "territorio",
+        "gatilhos": ["baia de todos", "todos os santos", "iguape", "reconcavo", "maragogipe", "bts", "comunidade", "pescador", "pesca artesanal", "saberes tradicionais"],
+        "hooks": ["A HISTÓRIA DO RECÔNCAVO QUE O MAR GUARDA", "O QUE OS PESCADORES DA BAÍA DO IGUAPE SABEM E A CIÊNCIA CONFIRMA", "POR QUE A BAÍA DE TODOS OS SANTOS É UM TESOURO PRA O BRASIL"]
+      },
+      {
+        "key": "clima",
+        "gatilhos": ["clima", "aquecimento", "el nino", "cop31", "nivel do mar", "temperatura do mar", "crise climatica", "aquecimento dos mares"],
+        "hooks": ["O OCEANO ESTÁ MUDANDO E ISSO TE AFETA AGORA", "O QUE O AQUECIMENTO DOS MARES SIGNIFICA PRA SUA VIDA", "POR QUE O OCEANO VIROU O CENTRO DAS DISCUSSÕES CLIMÁTICAS"]
+      },
+      {
+        "key": "poluicao",
+        "gatilhos": ["plastic", "microplast", "poluic", "lixo", "esgoto", "residuo"],
+        "hooks": ["O PLÁSTICO NO MAR JÁ CHEGOU ONDE NINGUÉM ESPERAVA", "O QUE ESSA POLUIÇÃO FAZ COM O OCEANO E COM VOCÊ", "O OCEANO ESTÁ ENGOLINDO ISSO EM SILÊNCIO"]
+      },
+      {
+        "key": "projetos",
+        "gatilhos": ["imersao azul", "mundo submarino", "mata quantica", "oceanoterapia", "exposicao", "submarino 360", "realidade virtual"],
+        "hooks": ["A EXPERIÊNCIA QUE LEVA O FUNDO DO MAR PRA DENTRO DA ESCOLA", "COMO A TECNOLOGIA ESTÁ REAPROXIMANDO AS PESSOAS DO OCEANO", "O PROJETO QUE FAZ VOCÊ MERGULHAR SEM SAIR DO LUGAR"]
+      }
+    ]
+  }
+}

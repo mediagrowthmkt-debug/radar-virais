@@ -1,0 +1,627 @@
+{
+  "slug": "gaiasoul",
+  "client": "Instituto Gaia Soul",
+  "title": "Radar de Virais",
+  "subtitle": "Cultura Oceânica, conservação e território: o que está em alta pra virar conteúdo do Instituto",
+  "intro": "Esta página junta, TODA HORA, o que está virando notícia e ganhando alcance no universo do oceano, da Cultura Oceânica, da conservação e do Recôncavo. Cada card já vem com um ângulo pronto pra virar Reels na voz do Instituto Gaia Soul. Aprove os que fazem sentido pra pauta, descarte os que não combinam e deixe um comentário quando quiser. Atualiza sozinho.",
+  "brand": {
+    "primary": "#1F5FAE",
+    "primaryDark": "#0A1E4D",
+    "logo": "logos/gaiasoul.png"
+  },
+  "gerado_em": "2026-09-10T16:48:57.915625-03:00",
+  "janela_dias": 30,
+  "search_terms": {
+    "noticias": [
+      "Cultura Oceanica",
+      "educacao oceanica",
+      "Decada do Oceano ONU",
+      "ODS 14 oceano",
+      "COP31 oceano",
+      "economia azul",
+      "carbono azul",
+      "manguezal conservacao",
+      "recuperacao de manguezais",
+      "guara ave manguezal",
+      "Baia de Todos os Santos",
+      "Baia do Iguape",
+      "Reconcavo baiano",
+      "Maragogipe",
+      "biodiversidade marinha",
+      "conservacao marinha",
+      "areas marinhas protegidas",
+      "Tratado do Alto-Mar BBNJ",
+      "pesca artesanal comunidades",
+      "marisqueiras Bahia",
+      "branqueamento de corais",
+      "El Nino oceano",
+      "poluicao plastica oceano",
+      "microplasticos oceano",
+      "nivel do mar subindo"
+    ],
+    "videos": [
+      "cultura oceânica educação",
+      "economia azul o que é",
+      "manguezal importância ecossistema",
+      "guará ave manguezal Recôncavo",
+      "carbono azul manguezal",
+      "Baía de Todos os Santos biodiversidade",
+      "pesca artesanal comunidades tradicionais",
+      "Década do Oceano ONU",
+      "recuperação de manguezais Bahia",
+      "conservação marinha Brasil"
+    ]
+  },
+  "stats": {
+    "total": 20,
+    "novos_agora": 20,
+    "noticias": 0,
+    "videos": 20,
+    "hoje": 0,
+    "ontem": 1,
+    "semana": 0,
+    "mes": 19
+  },
+  "itens": [
+    {
+      "id": "f85b2af2b5a1",
+      "tipo": "video",
+      "titulo": "AFA PGM 09/26/09 BLUE CARBON 001",
+      "fonte": "Revista Oeste",
+      "url": "https://www.youtube.com/watch?v=5EBBPtBj2w4",
+      "thumb": "https://i.ytimg.com/vi/5EBBPtBj2w4/hqdefault.jpg",
+      "data": "2026-09-09",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "carbono azul manguezal"
+      ],
+      "views": 5643,
+      "dur": 1802.0,
+      "fontes_extra": [],
+      "score": 5643,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "09/09/2026"
+    },
+    {
+      "id": "c58bf87a30de",
+      "tipo": "video",
+      "titulo": "O que é \"carbono azul\" e como ele pode ajudar a combater as mudanças climáticas?",
+      "fonte": "The Nature Conservancy",
+      "url": "https://www.youtube.com/watch?v=IXE_AFV4DAw",
+      "thumb": "https://i.ytimg.com/vi/IXE_AFV4DAw/hqdefault.jpg",
+      "data": "2023-07-07",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "carbono azul manguezal"
+      ],
+      "views": 1391517,
+      "dur": 35.0,
+      "fontes_extra": [],
+      "score": 1391517,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE O CARBONO AZUL TEM A VER COM O NOSSO FUTURO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "manguezal"
+      },
+      "data_br": "07/07/2023"
+    },
+    {
+      "id": "124da4193735",
+      "tipo": "video",
+      "titulo": "Sob o Azul do Brasil Existe um Mundo Selvagem que Poucos Já Viram | Documentário 4K",
+      "fonte": "Planet Documentários",
+      "url": "https://www.youtube.com/watch?v=huyTG5WsA6U",
+      "thumb": "https://i.ytimg.com/vi/huyTG5WsA6U/hqdefault.jpg",
+      "data": "2025-06-22",
+      "bucket": "mes",
+      "calor": 2,
+      "num_fontes": 1,
+      "keywords": [
+        "conservação marinha Brasil"
+      ],
+      "views": 440412,
+      "dur": 2531.0,
+      "fontes_extra": [],
+      "score": 440412,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "22/06/2025"
+    },
+    {
+      "id": "de7b5dd0c444",
+      "tipo": "video",
+      "titulo": "Manguezal | Biomas do Brasil | Ep.15",
+      "fonte": "Paulo Jubilut",
+      "url": "https://www.youtube.com/watch?v=_y07ckZd-Qw",
+      "thumb": "https://i.ytimg.com/vi/_y07ckZd-Qw/hqdefault.jpg",
+      "data": "2021-10-11",
+      "bucket": "mes",
+      "calor": 2,
+      "num_fontes": 1,
+      "keywords": [
+        "manguezal importância ecossistema"
+      ],
+      "views": 98173,
+      "dur": 997.0,
+      "fontes_extra": [],
+      "score": 98173,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "POR QUE OS GUARÁS ESTÃO VOLTANDO A COLORIR OS MANGUEZAIS",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "manguezal"
+      },
+      "data_br": "11/10/2021"
+    },
+    {
+      "id": "10eb1e0805a6",
+      "tipo": "video",
+      "titulo": "Manguezal, você conhece?  Aula sobre Manguezais",
+      "fonte": "Mais Ciências - Profa Rafaela Lima",
+      "url": "https://www.youtube.com/watch?v=PRBseRbdVYw",
+      "thumb": "https://i.ytimg.com/vi/PRBseRbdVYw/hqdefault.jpg",
+      "data": "2020-05-11",
+      "bucket": "mes",
+      "calor": 2,
+      "num_fontes": 1,
+      "keywords": [
+        "manguezal importância ecossistema"
+      ],
+      "views": 67557,
+      "dur": 668.0,
+      "fontes_extra": [],
+      "score": 67557,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE O CARBONO AZUL TEM A VER COM O NOSSO FUTURO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "manguezal"
+      },
+      "data_br": "11/05/2020"
+    },
+    {
+      "id": "9f29b878e89a",
+      "tipo": "video",
+      "titulo": "O ecossistema manguezal",
+      "fonte": "InforMar Ubatuba",
+      "url": "https://www.youtube.com/watch?v=czHVzcbQ8H8",
+      "thumb": "https://i.ytimg.com/vi/czHVzcbQ8H8/hqdefault.jpg",
+      "data": "2019-07-27",
+      "bucket": "mes",
+      "calor": 2,
+      "num_fontes": 1,
+      "keywords": [
+        "manguezal importância ecossistema"
+      ],
+      "views": 56563,
+      "dur": 493.0,
+      "fontes_extra": [],
+      "score": 56563,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "POR QUE OS GUARÁS ESTÃO VOLTANDO A COLORIR OS MANGUEZAIS",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "manguezal"
+      },
+      "data_br": "27/07/2019"
+    },
+    {
+      "id": "027fe1092c11",
+      "tipo": "video",
+      "titulo": "O que é Manguezal? #DiaDoMangue",
+      "fonte": "Mangue na mídia",
+      "url": "https://www.youtube.com/watch?v=Yj5U0YBhO6k",
+      "thumb": "https://i.ytimg.com/vi/Yj5U0YBhO6k/hqdefault.jpg",
+      "data": "2021-07-26",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "manguezal importância ecossistema"
+      ],
+      "views": 35171,
+      "dur": 128.0,
+      "fontes_extra": [],
+      "score": 35171,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "POR QUE OS GUARÁS ESTÃO VOLTANDO A COLORIR OS MANGUEZAIS",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "manguezal"
+      },
+      "data_br": "26/07/2021"
+    },
+    {
+      "id": "8270bfa64f4c",
+      "tipo": "video",
+      "titulo": "Um povo que vive da pesca artesanal e da roça",
+      "fonte": "Repórter Eco",
+      "url": "https://www.youtube.com/watch?v=E9ObubRf3O4",
+      "thumb": "https://i.ytimg.com/vi/E9ObubRf3O4/hqdefault.jpg",
+      "data": "2017-06-19",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "pesca artesanal comunidades tradicionais"
+      ],
+      "views": 32479,
+      "dur": 416.0,
+      "fontes_extra": [],
+      "score": 32479,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE OS PESCADORES DA BAÍA DO IGUAPE SABEM E A CIÊNCIA CONFIRMA",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "territorio"
+      },
+      "data_br": "19/06/2017"
+    },
+    {
+      "id": "aa07ebe67462",
+      "tipo": "video",
+      "titulo": "Economia azul - matéria Globo Repórter",
+      "fonte": "Projeto Baleia Jubarte",
+      "url": "https://www.youtube.com/watch?v=H1Ww2Er5Kkw",
+      "thumb": "https://i.ytimg.com/vi/H1Ww2Er5Kkw/hqdefault.jpg",
+      "data": "2023-12-19",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "economia azul o que é"
+      ],
+      "views": 30242,
+      "dur": 2360.0,
+      "fontes_extra": [],
+      "score": 30242,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "COMO O OCEANO PODE GERAR RENDA SEM DESTRUIR A NATUREZA",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "economia_azul"
+      },
+      "data_br": "19/12/2023"
+    },
+    {
+      "id": "2c501822328f",
+      "tipo": "video",
+      "titulo": "O OCEANO e suas Curiosidades! Educação Infantil",
+      "fonte": "Arte Mundo Desenho",
+      "url": "https://www.youtube.com/watch?v=qL1uhmLYyis",
+      "thumb": "https://i.ytimg.com/vi/qL1uhmLYyis/hqdefault.jpg",
+      "data": "2022-08-26",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "cultura oceânica educação"
+      ],
+      "views": 25373,
+      "dur": 257.0,
+      "fontes_extra": [],
+      "score": 25373,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "26/08/2022"
+    },
+    {
+      "id": "af5d1c86a456",
+      "tipo": "video",
+      "titulo": "Década do Oceano no Brasil",
+      "fonte": "Década da Ciência Oceânica - Brasil",
+      "url": "https://www.youtube.com/watch?v=5P4XiiLK-ZE",
+      "thumb": "https://i.ytimg.com/vi/5P4XiiLK-ZE/hqdefault.jpg",
+      "data": "2021-04-20",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "Década do Oceano ONU"
+      ],
+      "views": 23041,
+      "dur": 184.0,
+      "fontes_extra": [],
+      "score": 23041,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "A LIÇÃO SOBRE O OCEANO QUE A ESCOLA NÃO TE DEU",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "cultura_oceanica"
+      },
+      "data_br": "20/04/2021"
+    },
+    {
+      "id": "e7eb1dfc4480",
+      "tipo": "video",
+      "titulo": "COMMUNITY EFFORT REVITALIZES MANGROVES IN SALVADOR | TVE REVISTA 07/28/2026",
+      "fonte": "TVE Bahia",
+      "url": "https://www.youtube.com/watch?v=-58T4odxVes",
+      "thumb": "https://i.ytimg.com/vi/-58T4odxVes/hqdefault.jpg",
+      "data": "2026-07-29",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "recuperação de manguezais Bahia"
+      ],
+      "views": 15035,
+      "dur": 243.0,
+      "fontes_extra": [],
+      "score": 15035,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "29/07/2026"
+    },
+    {
+      "id": "a30e92df4d98",
+      "tipo": "video",
+      "titulo": "DEBATE ON PRESERVATION OF MARINE LIFE IN BRAZIL (with Marcelo Szpilman) | Prof. Romulo Bolivar",
+      "fonte": "Proenem - Enem 2026",
+      "url": "https://www.youtube.com/watch?v=CYnzc8RmX6g",
+      "thumb": "https://i.ytimg.com/vi/CYnzc8RmX6g/hqdefault.jpg",
+      "data": "2018-10-22",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "conservação marinha Brasil"
+      ],
+      "views": 12474,
+      "dur": 950.0,
+      "fontes_extra": [],
+      "score": 12474,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "22/10/2018"
+    },
+    {
+      "id": "ea972de65c46",
+      "tipo": "video",
+      "titulo": "EVERYTHING ABOUT THE MANGROVE",
+      "fonte": "BIOFORTES",
+      "url": "https://www.youtube.com/watch?v=8tRBpqDL0WQ",
+      "thumb": "https://i.ytimg.com/vi/8tRBpqDL0WQ/hqdefault.jpg",
+      "data": "2023-02-20",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "manguezal importância ecossistema"
+      ],
+      "views": 9321,
+      "dur": 154.0,
+      "fontes_extra": [],
+      "score": 9321,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "20/02/2023"
+    },
+    {
+      "id": "2d51f9937b1a",
+      "tipo": "video",
+      "titulo": "Mangrove: Characteristics and Animals that Live in This Unique Ecosystem",
+      "fonte": "Semente do Saber",
+      "url": "https://www.youtube.com/watch?v=e9CRq3nFmCQ",
+      "thumb": "https://i.ytimg.com/vi/e9CRq3nFmCQ/hqdefault.jpg",
+      "data": "2025-02-21",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "manguezal importância ecossistema"
+      ],
+      "views": 8603,
+      "dur": 127.0,
+      "fontes_extra": [],
+      "score": 8603,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "21/02/2025"
+    },
+    {
+      "id": "eb28c45dd62c",
+      "tipo": "video",
+      "titulo": "A biologist's tireless fight to restore the Guanabara Bay ecosystem",
+      "fonte": "Mongabay Brasil",
+      "url": "https://www.youtube.com/watch?v=8szcfPGrwMw",
+      "thumb": "https://i.ytimg.com/vi/8szcfPGrwMw/hqdefault.jpg",
+      "data": "2023-07-24",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "recuperação de manguezais Bahia"
+      ],
+      "views": 8479,
+      "dur": 653.0,
+      "fontes_extra": [],
+      "score": 8479,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "24/07/2023"
+    },
+    {
+      "id": "0269f6a68816",
+      "tipo": "video",
+      "titulo": "🌊 Década da Ciência Oceânica para o Desenvolvimento Sustentável (2021-2030)",
+      "fonte": "ONU Brasil",
+      "url": "https://www.youtube.com/watch?v=Ae7vVkU-94Y",
+      "thumb": "https://i.ytimg.com/vi/Ae7vVkU-94Y/hqdefault.jpg",
+      "data": "2023-08-07",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "Década do Oceano ONU"
+      ],
+      "views": 8227,
+      "dur": 184.0,
+      "fontes_extra": [],
+      "score": 8227,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "07/08/2023"
+    },
+    {
+      "id": "1a09eb24d6f8",
+      "tipo": "video",
+      "titulo": "What is ocean culture?",
+      "fonte": "CUMULUS TV",
+      "url": "https://www.youtube.com/watch?v=DRO0tXGVs1I",
+      "thumb": "https://i.ytimg.com/vi/DRO0tXGVs1I/hqdefault.jpg",
+      "data": "2020-08-06",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "cultura oceânica educação"
+      ],
+      "views": 7789,
+      "dur": 68.0,
+      "fontes_extra": [],
+      "score": 7789,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "06/08/2020"
+    },
+    {
+      "id": "b1d8e8a12267",
+      "tipo": "video",
+      "titulo": "A importância dos Mangues",
+      "fonte": "Rodrigo Aracno - Terapia e Natureza",
+      "url": "https://www.youtube.com/watch?v=LdvC5GWWDeU",
+      "thumb": "https://i.ytimg.com/vi/LdvC5GWWDeU/hqdefault.jpg",
+      "data": "2021-07-06",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "manguezal importância ecossistema"
+      ],
+      "views": 7308,
+      "dur": 13.0,
+      "fontes_extra": [],
+      "score": 7308,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O MANGUEZAL FAZ ALGO PELO CLIMA QUE POUCA GENTE SABE",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "manguezal"
+      },
+      "data_br": "06/07/2021"
+    },
+    {
+      "id": "595e13763382",
+      "tipo": "video",
+      "titulo": "United Nations Decade of Ocean Science for Sustainable Development (2021-2030)",
+      "fonte": "ONU Brasil",
+      "url": "https://www.youtube.com/watch?v=rb_3RRGsG_4",
+      "thumb": "https://i.ytimg.com/vi/rb_3RRGsG_4/hqdefault.jpg",
+      "data": "2021-04-21",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "Década do Oceano ONU"
+      ],
+      "views": 5739,
+      "dur": 184.0,
+      "fontes_extra": [],
+      "score": 5739,
+      "primeira_vez": "2026-09-10T16:48:57.915625-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "21/04/2021"
+    }
+  ]
+}
