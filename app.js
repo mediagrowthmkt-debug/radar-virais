@@ -14,6 +14,12 @@
   var filter = ALLOWED_F.indexOf(params.get("f")) !== -1 ? params.get("f") : "all";
   var openNotes = {};
 
+  /* modo embed: quando o radar e embutido por iframe (ex.: aba Acontecimentos do reports),
+     ?embed=1 esconde o cabecalho grande e o rodape, deixando so a barra + os cards. */
+  if (params.get("embed") === "1" || params.get("embed") === "true") {
+    try { document.documentElement.classList.add("rv-embed"); } catch (e) {}
+  }
+
   var $ = function (id) { return document.getElementById(id); };
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
     return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];

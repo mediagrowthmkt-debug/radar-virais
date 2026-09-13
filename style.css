@@ -11,6 +11,12 @@ body{
   font-family:Montserrat,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
   color:var(--ink); background:var(--bg); -webkit-font-smoothing:antialiased;
 }
+
+/* MODO EMBED (iframe na aba Acontecimentos do reports): sem hero/rodape, so barra + cards */
+html.rv-embed .hero,html.rv-embed .foot{display:none!important}
+html.rv-embed body{background:transparent}
+html.rv-embed .bar{position:static;top:auto}
+html.rv-embed .wrap{max-width:100%;padding:0 14px}
 .wrap{max-width:920px;margin:0 auto;padding:0 18px}
 b{font-weight:800}
 
