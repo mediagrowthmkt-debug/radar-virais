@@ -1,0 +1,150 @@
+{
+ "slug": "xenon",
+ "client": "Motel Xenon",
+ "radar_slug": "xenon",
+ "title": "Radar de Virais",
+ "subtitle": "O que esta viralizando e virando noticia no seu mercado, pronto para virar conteudo",
+ "intro": "Esta pagina reune, toda hora, o que esta viralizando e virando noticia no universo de Motel Xenon. Cada card ja vem com um angulo pronto para virar Reels. Aprove os que quer produzir, descarte os que nao combinam e comente quando quiser. Atualiza sozinho.",
+ "traduzir_titulos": true,
+ "brand": {
+  "primary": "#d91518",
+  "primaryDark": "#3d0607",
+  "logo": "logos/xenon.png"
+ },
+ "video_queries": [
+  "suite de motel tour",
+  "day use casal motel",
+  "ideias de encontro a dois",
+  "surpresa romantica para o parceiro",
+  "pedido de casamento romantico",
+  "presente criativo Dia dos Namorados casal",
+  "escapada romantica fim de semana",
+  "como apimentar o relacionamento",
+  "reacender a chama do casamento",
+  "o que fazer em Criciuma a noite",
+  "suite com piscina e hidromassagem tour",
+  "jantar romantico em casa a dois"
+ ],
+ "voice": {
+  "quem": "Motel Xenon, referencia em experiencias a dois em Criciuma (SC): suites tematicas, estrutura sofisticada e clima de desejo, sempre com bom gosto e discricao.",
+  "eixo_viral": "transformar noites comuns em encontros memoraveis: desejo, intimidade e experiencia de luxo acessivel para casais.",
+  "tom": "sensual e sofisticado, com bom gosto e elegancia, sem vulgaridade: provoca desejo, valoriza a intimidade do casal e vende experiencia, nunca apelacao.",
+  "gancho_formula": "[TENSAO/DESEJO no cotidiano do casal] + [virada com a experiencia Xenon] + [convite a viver isso agora]",
+  "gancho_default": "A ROTINA APAGA O QUE VOCES TEM, UMA NOITE CERTA REACENDE TUDO",
+  "alvo_default": "casais que querem sair da rotina",
+  "alvo": {
+   "casal_rotina": "casais em relacionamento estavel que querem fugir do previsivel",
+   "data_especial": "quem vai comemorar aniversario de namoro, bodas ou Dia dos Namorados",
+   "surpresa": "quem quer surpreender o parceiro com algo memoravel",
+   "primeiro_encontro": "casais em inicio de relacao buscando privacidade e clima",
+   "turista": "quem esta de passagem por Criciuma e quer uma noite especial"
+  },
+  "angulo_corpo": "mostra a experiencia completa (suite, clima, servico, privacidade), traduz o desejo em detalhes sensoriais e posiciona a noite no Xenon como um presente para o relacionamento, sempre elegante.",
+  "angulo_corpo_video": "abre com a tensao ou o desejo do casal, revela a suite e os detalhes que criam o clima em ritmo de teaser sensorial, e fecha convidando a reservar a noite.",
+  "angulo_fecho": "convite direto a reservar a experiencia agora (link na bio, reserva online ou WhatsApp), reforcando privacidade, clima e que a melhor lembranca do casal comeca aqui.",
+  "subeixos": [
+   {
+    "key": "experiencia_a_dois",
+    "gatilhos": [
+     "casal",
+     "a dois",
+     "encontro",
+     "romance",
+     "programa",
+     "noite",
+     "clima"
+    ],
+    "hooks": [
+     "A ROTINA APAGA O CASAL, ESSA NOITE ACENDE DE NOVO",
+     "O ENCONTRO PERFEITO NAO ESPERA DATA ESPECIAL",
+     "{n} MOTIVOS PARA VOCES SUMIREM DO MUNDO HOJE A NOITE"
+    ]
+   },
+   {
+    "key": "suites_estrutura",
+    "gatilhos": [
+     "suite",
+     "hidromassagem",
+     "piscina",
+     "banheira",
+     "tour",
+     "decoracao",
+     "luxo"
+    ],
+    "hooks": [
+     "ESSA SUITE FOI FEITA PARA VOCES ESQUECEREM O RELOGIO",
+     "TOUR PELA SUITE QUE TRANSFORMA UMA NOITE COMUM EM INESQUECIVEL",
+     "PISCINA PRIVATIVA E HIDRO: O CENARIO QUE VOCES MERECEM"
+    ]
+   },
+   {
+    "key": "datas_comemorativas",
+    "gatilhos": [
+     "namorados",
+     "aniversario",
+     "bodas",
+     "comemoracao",
+     "surpresa",
+     "presente",
+     "pedido"
+    ],
+    "hooks": [
+     "O MELHOR PRESENTE NAO SE EMBRULHA, SE VIVE A DOIS",
+     "PLANEJE A SURPRESA QUE {alvo} VAI LEMBRAR PARA SEMPRE",
+     "DIA DOS NAMORADOS QUE NAO CABE NUM JANTAR COMUM"
+    ]
+   },
+   {
+    "key": "turismo_regional",
+    "gatilhos": [
+     "Criciuma",
+     "Santa Catarina",
+     "turismo",
+     "viagem",
+     "fim de semana",
+     "noite",
+     "escapada"
+    ],
+    "hooks": [
+     "O QUE FAZER EM CRICIUMA QUANDO A NOITE E SO DE VOCES",
+     "ESCAPADA DE FIM DE SEMANA SEM SAIR DA CIDADE",
+     "O SEGREDO DOS CASAIS DE CRICIUMA PARA FUGIR DA ROTINA"
+    ]
+   },
+   {
+    "key": "relacionamento_intimidade",
+    "gatilhos": [
+     "relacionamento",
+     "intimidade",
+     "chama",
+     "desejo",
+     "conexao",
+     "apimentar",
+     "casamento"
+    ],
+    "hooks": [
+     "REACENDER A CHAMA COMECA COM UMA DECISAO SIMPLES",
+     "O QUE MANTEM UM CASAL VIVO NAO E SORTE, E CLIMA",
+     "{n} SINAIS DE QUE VOCES PRECISAM DE UMA NOITE SO DE VOCES"
+    ]
+   },
+   {
+    "key": "privacidade_bem_estar",
+    "gatilhos": [
+     "privacidade",
+     "discricao",
+     "conforto",
+     "servico",
+     "spa",
+     "bem estar",
+     "relaxar"
+    ],
+    "hooks": [
+     "PRIVACIDADE TOTAL PARA VOCES SEREM SO VOCES",
+     "O LUXO DE DESLIGAR DO MUNDO E LIGAR UM NO OUTRO",
+     "CONFORTO, DISCRICAO E CLIMA: O TRIO QUE VOCES MERECEM"
+    ]
+   }
+  ]
+ }
+}

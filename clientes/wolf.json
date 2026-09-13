@@ -1,0 +1,159 @@
+{
+ "slug": "wolf",
+ "client": "Wolf Carpenters",
+ "radar_slug": "wolf",
+ "title": "Trend Radar",
+ "subtitle": "What is trending and making news in your market, ready to become content",
+ "intro": "This page gathers, around the clock, what is trending and making news in Wolf Carpenters's world. Each card comes with an angle ready to turn into a Reel. Approve the ones you want to produce, dismiss the ones that do not fit, and leave a comment anytime. It updates on its own.",
+ "traduzir_titulos": false,
+ "brand": {
+  "primary": "#FF3B00",
+  "primaryDark": "#1A0A05",
+  "logo": "logos/wolf.png"
+ },
+ "video_queries": [
+  "home remodeling before and after",
+  "kitchen remodel timelapse",
+  "bathroom renovation reveal",
+  "custom carpentry build",
+  "deck building process",
+  "home addition construction",
+  "how much does a kitchen remodel cost",
+  "renovation mistakes to avoid",
+  "cabinet installation tutorial",
+  "small bathroom renovation ideas",
+  "open concept remodel transformation",
+  "finish carpentry techniques"
+ ],
+ "voice": {
+  "quem": "Wolf Carpenters, a full in-house carpentry and remodeling contractor in Peabody, MA and the North Shore, known for craftsmanship with no subcontractors and no shortcuts.",
+  "eixo_viral": "Real transformations and honest craftsmanship: turning worn-out spaces into homes people love, with the trust of an in-house team that does it right.",
+  "tom": "Authoritative craftsman who educates and inspires: confident, warm, no jargon, proof over promises. Shows the work, explains the why, respects the homeowner's budget and time.",
+  "gancho_formula": "[bold claim or number] + [transformation or mistake] + [what the homeowner really gets]",
+  "gancho_default": "THE #1 REMODELING MISTAKE THAT COSTS HOMEOWNERS THOUSANDS",
+  "alvo_default": "North Shore homeowners planning a kitchen, bathroom or home renovation",
+  "alvo": {
+   "homeowners": "North Shore homeowners planning a remodel or addition",
+   "sellers": "homeowners renovating to boost value before selling",
+   "design_lovers": "people who love home design, before and after transformations"
+  },
+  "angulo_corpo": "Lead with the real problem or the eye-catching result, then teach one concrete thing (cost, timeline, material, mistake), then show why an in-house team makes the difference, close with a clear next step.",
+  "angulo_corpo_video": "Open on the dramatic before or the finished reveal in the first 2 seconds, narrate the build step by step, keep the craftsmanship visible, land on the transformation.",
+  "angulo_fecho": "Invite the homeowner to picture their own space done right, then point them to a free estimate or a message: no pressure, just craftsmanship they can trust.",
+  "subeixos": [
+   {
+    "key": "remodeling",
+    "gatilhos": [
+     "remodel",
+     "renovation",
+     "kitchen",
+     "bathroom",
+     "home",
+     "addition",
+     "renovate",
+     "makeover"
+    ],
+    "hooks": [
+     "THIS KITCHEN REMODEL PAID FOR ITSELF, HERE IS HOW",
+     "{n} REMODELING MISTAKES THAT WRECK YOUR BUDGET",
+     "WATCH THIS DATED BATHROOM BECOME A SPA IN {n} DAYS"
+    ]
+   },
+   {
+    "key": "carpentry",
+    "gatilhos": [
+     "carpentry",
+     "cabinet",
+     "cabinetry",
+     "millwork",
+     "molding",
+     "trim",
+     "woodwork",
+     "staircase",
+     "built-in"
+    ],
+    "hooks": [
+     "THE DETAIL THAT SEPARATES CUSTOM CARPENTRY FROM CHEAP WORK",
+     "WHY CUSTOM CABINETS BEAT BIG BOX EVERY TIME",
+     "THIS IS WHAT REAL CRAFTSMANSHIP LOOKS LIKE UP CLOSE"
+    ]
+   },
+   {
+    "key": "decks_outdoor",
+    "gatilhos": [
+     "deck",
+     "patio",
+     "outdoor",
+     "porch",
+     "composite",
+     "pergola",
+     "backyard"
+    ],
+    "hooks": [
+     "YOUR BACKYARD IS WASTING SPACE, HERE IS THE FIX",
+     "COMPOSITE VS WOOD DECK: WHAT NOBODY TELLS YOU",
+     "THIS DECK ADDED A WHOLE ROOM TO THEIR HOME"
+    ]
+   },
+   {
+    "key": "home_value",
+    "gatilhos": [
+     "value",
+     "ROI",
+     "return",
+     "resale",
+     "sell",
+     "equity",
+     "appraisal",
+     "market",
+     "invest"
+    ],
+    "hooks": [
+     "THE {n} RENOVATIONS THAT ACTUALLY RAISE YOUR HOME VALUE",
+     "RENOVATING TO SELL? SPEND HERE, NOT THERE",
+     "THIS UPGRADE ADDED ${n}K TO THEIR HOME VALUE"
+    ]
+   },
+   {
+    "key": "trends_materials",
+    "gatilhos": [
+     "trend",
+     "design",
+     "material",
+     "countertop",
+     "quartz",
+     "hardwood",
+     "flooring",
+     "color",
+     "2026",
+     "modern",
+     "farmhouse"
+    ],
+    "hooks": [
+     "THE {n} DESIGN TRENDS TAKING OVER 2026 KITCHENS",
+     "STOP CHOOSING THIS COUNTERTOP, DO THIS INSTEAD",
+     "THE MATERIAL EVERY NORTH SHORE HOME IS USING NOW"
+    ]
+   },
+   {
+    "key": "contractor_trust",
+    "gatilhos": [
+     "contractor",
+     "subcontractor",
+     "permit",
+     "license",
+     "estimate",
+     "hire",
+     "warranty",
+     "in-house",
+     "timeline"
+    ],
+    "hooks": [
+     "WHY WE NEVER USE SUBCONTRACTORS, AND WHY IT SAVES YOU",
+     "{n} QUESTIONS TO ASK BEFORE YOU HIRE A CONTRACTOR",
+     "THE RED FLAG THAT MEANS YOU SHOULD WALK AWAY"
+    ]
+   }
+  ]
+ }
+}

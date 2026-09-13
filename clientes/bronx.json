@@ -1,0 +1,162 @@
+{
+ "slug": "bronx",
+ "client": "Bronx Engenharia",
+ "radar_slug": "bronx",
+ "title": "Radar de Virais",
+ "subtitle": "O que esta viralizando e virando noticia no seu mercado, pronto para virar conteudo",
+ "intro": "Esta pagina reune, toda hora, o que esta viralizando e virando noticia no universo de Bronx Engenharia. Cada card ja vem com um angulo pronto para virar Reels. Aprove os que quer produzir, descarte os que nao combinam e comente quando quiser. Atualiza sozinho.",
+ "traduzir_titulos": true,
+ "brand": {
+  "primary": "#2ABFAA",
+  "primaryDark": "#0A2622",
+  "logo": "logos/bronx.png"
+ },
+ "video_queries": [
+  "reforma de casa antes e depois",
+  "casa de alto padrão litoral",
+  "obra do início ao fim",
+  "casa na praia construção",
+  "tour por casa de luxo",
+  "steel frame como funciona",
+  "erros na hora de construir",
+  "quanto custa construir uma casa",
+  "tendências de arquitetura 2026",
+  "casa inteligente automação residencial",
+  "construção sustentável casa",
+  "área gourmet e piscina projeto"
+ ],
+ "voice": {
+  "quem": "Bronx Engenharia, construtora e empresa de engenharia civil de Porto Belo (SC), que entrega obras residenciais, comerciais e reformas de alto padrão no litoral catarinense com precisão técnica e acabamento impecável",
+  "eixo_viral": "Autoridade técnica que encanta: mostrar bastidores de obra, transformações antes e depois e decisões inteligentes de construção que economizam dinheiro e evitam dor de cabeça",
+  "tom": "Profissional, confiável e didático, com orgulho do trabalho bem feito, sofisticado sem ser arrogante, sempre traduzindo o técnico para o leigo entender",
+  "gancho_formula": "[erro comum ou desejo] + [prova visual ou número] + [promessa do resultado] em linguagem simples",
+  "gancho_default": "O QUE NINGUÉM TE CONTA ANTES DE COMEÇAR A SUA OBRA",
+  "alvo_default": "quem vai construir ou reformar no litoral e quer qualidade sem surpresa no orçamento",
+  "alvo": {
+   "proprietario": "famílias e casais que vão construir a casa dos sonhos ou reformar no litoral catarinense",
+   "investidor": "investidores que compram terreno ou imóvel na praia para valorizar e revender",
+   "empresa": "empreendedores que precisam de obra comercial ou reforma de ponto no prazo"
+  },
+  "angulo_corpo": "Explicar a decisão técnica por trás do resultado (material, estrutura, prazo, custo) mostrando por que a escolha certa protege o dinheiro e a tranquilidade de quem contrata",
+  "angulo_corpo_video": "Registrar a obra acontecendo (canteiro, etapa, transformação) e narrar em linguagem simples o que está sendo feito e por que aquilo importa para o resultado final",
+  "angulo_fecho": "Convidar para tirar o projeto do papel com quem entende de obra no litoral, reforçando o cuidado com prazo, orçamento e acabamento",
+  "subeixos": [
+   {
+    "key": "obra-construcao",
+    "gatilhos": [
+     "obra",
+     "construcao",
+     "construir",
+     "canteiro",
+     "fundacao",
+     "estrutura",
+     "concreto",
+     "steel frame",
+     "prazo",
+     "engenheiro"
+    ],
+    "hooks": [
+     "O QUE NINGUEM TE CONTA ANTES DE COMECAR A SUA OBRA",
+     "{n} ERROS QUE FAZEM A SUA OBRA CUSTAR O DOBRO",
+     "A ETAPA DA OBRA QUE NINGUEM MOSTRA (E DECIDE TUDO)"
+    ]
+   },
+   {
+    "key": "reforma-transformacao",
+    "gatilhos": [
+     "reforma",
+     "reformar",
+     "antes e depois",
+     "transformacao",
+     "renovar",
+     "ambiente",
+     "interiores",
+     "decoracao",
+     "acabamento"
+    ],
+    "hooks": [
+     "DE ANTIGO A DOS SONHOS: A REFORMA QUE MUDOU TUDO",
+     "REFORMAR SEM DOR DE CABECA: O SEGREDO ESTA AQUI",
+     "ANTES E DEPOIS: VOCE NAO VAI ACREDITAR QUE E A MESMA CASA"
+    ]
+   },
+   {
+    "key": "mercado-imobiliario-litoral",
+    "gatilhos": [
+     "imovel",
+     "imobiliario",
+     "terreno",
+     "praia",
+     "litoral",
+     "porto belo",
+     "bombinhas",
+     "itapema",
+     "balneario",
+     "valorizacao",
+     "investir",
+     "lancamento"
+    ],
+    "hooks": [
+     "POR QUE INVESTIR EM IMOVEL NO LITORAL DE SC EM {n}",
+     "O TERRENO CERTO NA PRAIA PODE DOBRAR O SEU DINHEIRO",
+     "ONDE CONSTRUIR NO LITORAL PARA VALORIZAR DE VERDADE"
+    ]
+   },
+   {
+    "key": "custo-orcamento",
+    "gatilhos": [
+     "custo",
+     "orcamento",
+     "preco",
+     "metro quadrado",
+     "economia",
+     "financiamento",
+     "quanto custa",
+     "valor"
+    ],
+    "hooks": [
+     "QUANTO CUSTA REALMENTE CONSTRUIR A SUA CASA HOJE",
+     "COMO ECONOMIZAR NA OBRA SEM PERDER QUALIDADE",
+     "O ORCAMENTO DE OBRA QUE PARECE BARATO E SAI CARO"
+    ]
+   },
+   {
+    "key": "sustentabilidade-tecnologia",
+    "gatilhos": [
+     "sustentavel",
+     "energia solar",
+     "eficiencia",
+     "casa inteligente",
+     "automacao",
+     "tecnologia",
+     "ecologico",
+     "smart"
+    ],
+    "hooks": [
+     "A CASA DO FUTURO JA E POSSIVEL HOJE: VEJA COMO",
+     "ENERGIA SOLAR NA CONSTRUCAO: VALE A PENA MESMO?",
+     "CONSTRUIR SUSTENTAVEL PAGA A CONTA EM POUCOS ANOS"
+    ]
+   },
+   {
+    "key": "alto-padrao-design",
+    "gatilhos": [
+     "alto padrao",
+     "luxo",
+     "design",
+     "arquitetura",
+     "area gourmet",
+     "piscina",
+     "sofisticado",
+     "moderno",
+     "projeto"
+    ],
+    "hooks": [
+     "OS DETALHES QUE TRANSFORMAM UMA CASA EM ALTO PADRAO",
+     "A AREA GOURMET DOS SONHOS COMECA COM ESTA DECISAO",
+     "TENDENCIAS DE ARQUITETURA QUE VAO DOMINAR {n}"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "slug": "liatoss",
+ "client": "Lia Toss",
+ "radar_slug": "liatoss",
+ "title": "Radar de Virais",
+ "subtitle": "O que esta viralizando e virando noticia no seu mercado, pronto para virar conteudo",
+ "intro": "Esta pagina reune, toda hora, o que esta viralizando e virando noticia no universo de Lia Toss. Cada card ja vem com um angulo pronto para virar Reels. Aprove os que quer produzir, descarte os que nao combinam e comente quando quiser. Atualiza sozinho.",
+ "traduzir_titulos": true,
+ "brand": {
+  "primary": "#C49A36",
+  "primaryDark": "#2E230C",
+  "logo": ""
+ },
+ "video_queries": [
+  "benefícios dos alimentos orgânicos",
+  "diferença orgânico e convencional",
+  "receita saudável fácil com orgânicos",
+  "como ler rótulo de alimentos",
+  "alimentos que aumentam a imunidade",
+  "vale a pena comprar orgânico",
+  "alimentos fermentados probióticos como fazer",
+  "superalimentos que valem a pena",
+  "trocas saudáveis no supermercado",
+  "compras a granel como funciona",
+  "lancheira saudável para crianças",
+  "reeducação alimentar por onde começar"
+ ],
+ "voice": {
+  "quem": "Lia Toss Empório Orgânico, empório orgânico certificado em Florianópolis (SC). Referência em alimentos orgânicos, produtos naturais, granel e bem-estar, com relação próxima com produtores locais e agricultura familiar.",
+  "eixo_viral": "Alimentação saudável de verdade + orgânicos e agroecologia + bem-estar e autocuidado + sustentabilidade e consumo consciente. Curiosidade e cuidado que educam, nunca alarmismo. A verdade sobre o que comemos abre; o propósito de saúde e território fecha.",
+  "tom": "Acolhedor, confiável, verdadeiro e leve, com autoridade em alimentação natural sem soar radical ou culpado. Encanta e informa. NUNCA sensacionalista, NUNCA moralista/culpabilizador, NUNCA jargão técnico cru, NUNCA humor/meme forçado.",
+  "gancho_formula": "CAIXA ALTA + (número OU verdade que surpreende OU curiosidade) + afirmação forte, não pergunta. Desperta curiosidade e cuidado, não medo.",
+  "gancho_default": "A VERDADE SOBRE O QUE VOCÊ COLOCA NO PRATO",
+  "alvo_default": "O ALIMENTO",
+  "alvo": {
+   "organic": "O ORGÂNICO",
+   "agrotoxic": "O AGROTÓXICO",
+   "ultraprocess": "O ULTRAPROCESSADO",
+   "acucar": "O AÇÚCAR",
+   "granel": "A COMPRA A GRANEL"
+  },
+  "angulo_corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e conecta com alimentação de verdade, orgânicos e o dia a dia de quem quer viver melhor, com a autoridade acolhedora do empório no comando.",
+  "angulo_corpo_video": "Recria a ideia deste vídeo na voz da Lia Toss: mesmo tema, com o selo de empório orgânico de verdade, imagem de alimento real e conexão com saúde e consumo consciente. Não copie, traduza pra voz do empório.",
+  "angulo_fecho": "Fecha no propósito: comer de verdade, cuidar da saúde, apoiar quem produz local e consumir de forma consciente.",
+  "subeixos": [
+   {
+    "key": "organicos_agroecologia",
+    "gatilhos": [
+     "organic",
+     "agroecolog",
+     "agrotoxic",
+     "pesticid",
+     "certificado organico",
+     "agricultura familiar",
+     "sem veneno",
+     "cultivo natural"
+    ],
+    "hooks": [
+     "A DIFERENÇA ENTRE ORGÂNICO E CONVENCIONAL QUE NINGUÉM TE MOSTRA",
+     "O QUE TEM DENTRO DE UM ALIMENTO CONVENCIONAL",
+     "POR QUE O ORGÂNICO CUSTA MAIS (E QUANDO VALE A PENA)"
+    ]
+   },
+   {
+    "key": "alimentacao_saudavel",
+    "gatilhos": [
+     "ultraprocess",
+     "acucar",
+     "rotulo",
+     "reeducacao alimentar",
+     "comida de verdade",
+     "gordura",
+     "sodio",
+     "aditivo",
+     "corante"
+    ],
+    "hooks": [
+     "{n} ALIMENTOS QUE VOCÊ ACHA SAUDÁVEIS E NÃO SÃO",
+     "COMO LER UM RÓTULO EM 10 SEGUNDOS",
+     "A TROCA SIMPLES QUE MUDA A SUA ALIMENTAÇÃO"
+    ]
+   },
+   {
+    "key": "bem_estar_imunidade",
+    "gatilhos": [
+     "imunidade",
+     "intestino",
+     "microbiota",
+     "fermentad",
+     "probiotic",
+     "kombucha",
+     "kefir",
+     "autocuidado",
+     "energia",
+     "vitamina",
+     "suplemento natural"
+    ],
+    "hooks": [
+     "O QUE O SEU INTESTINO TEM A VER COM A SUA IMUNIDADE",
+     "OS ALIMENTOS QUE FORTALECEM O SEU CORPO DE VERDADE",
+     "A CIÊNCIA POR TRÁS DOS FERMENTADOS QUE FAZEM BEM"
+    ]
+   },
+   {
+    "key": "sustentabilidade",
+    "gatilhos": [
+     "sustentab",
+     "consumo consciente",
+     "granel",
+     "desperdicio",
+     "plastic",
+     "embalagem",
+     "compostagem",
+     "meio ambiente",
+     "local",
+     "sazonal",
+     "da estacao"
+    ],
+    "hooks": [
+     "COMPRAR A GRANEL: O QUE MUDA NO SEU BOLSO E NO PLANETA",
+     "A ESCOLHA NO MERCADO QUE PROTEGE O MEIO AMBIENTE",
+     "POR QUE COMER O QUE É DA ESTAÇÃO FAZ TODA A DIFERENÇA"
+    ]
+   },
+   {
+    "key": "receitas_ingredientes",
+    "gatilhos": [
+     "receita",
+     "ingrediente",
+     "superalimento",
+     "superfood",
+     "chia",
+     "linhaca",
+     "farinha",
+     "leite vegetal",
+     "plant based",
+     "castanha",
+     "tempero",
+     "chá",
+     "cha",
+     "mel",
+     "cacau"
+    ],
+    "hooks": [
+     "A RECEITA SAUDÁVEL QUE VAI VIRAR ROTINA NA SUA CASA",
+     "COMO USAR ESSE SUPERALIMENTO NO DIA A DIA",
+     "{n} INGREDIENTES NATURAIS PRA TER SEMPRE EM CASA"
+    ]
+   }
+  ]
+ }
+}

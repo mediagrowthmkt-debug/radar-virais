@@ -1,0 +1,160 @@
+{
+ "slug": "innov",
+ "client": "Innov Builders",
+ "radar_slug": "innov",
+ "title": "Trend Radar",
+ "subtitle": "What is trending and making news in your market, ready to become content",
+ "intro": "This page gathers, around the clock, what is trending and making news in Innov Builders's world. Each card comes with an angle ready to turn into a Reel. Approve the ones you want to produce, dismiss the ones that do not fit, and leave a comment anytime. It updates on its own.",
+ "traduzir_titulos": false,
+ "brand": {
+  "primary": "#FFC300",
+  "primaryDark": "#0A0A0A",
+  "logo": "logos/innov.png"
+ },
+ "video_queries": [
+  "home renovation before and after",
+  "kitchen remodel timelapse",
+  "bathroom renovation transformation",
+  "deck build timelapse",
+  "basement finishing before and after",
+  "home addition construction",
+  "how to choose a contractor",
+  "home remodeling mistakes to avoid",
+  "custom home renovation tour",
+  "kitchen cabinet installation",
+  "small bathroom remodel ideas",
+  "home renovation cost breakdown"
+ ],
+ "voice": {
+  "quem": "Innov Builders, a Massachusetts residential construction and remodeling contractor led by its hands-on CEO, known for authentic jobsite storytelling and finish-quality craftsmanship for Greater Boston homeowners.",
+  "eixo_viral": "Real jobsite transformations and contractor insider knowledge that make homeowners trust the process and picture their own dream renovation.",
+  "tom": "Technical authority that inspires: confident, warm and educational, like an experienced builder who explains the why behind every choice and shows the real work behind a beautiful result.",
+  "gancho_formula": "Curiosity gap or bold truth about renovations + specific stakes (money, time, quality) + local relevance for Massachusetts homeowners.",
+  "gancho_default": "THIS IS WHY YOUR REMODEL COSTS MORE THAN YOU THINK",
+  "alvo_default": "Massachusetts homeowners",
+  "alvo": {
+   "homeowners": "Massachusetts homeowners planning a renovation",
+   "premium": "high-end homeowners wanting a dream remodel done right",
+   "first_timers": "first time renovators afraid of overpaying or delays"
+  },
+  "angulo_corpo": "Open with the fear or myth, then reveal the insider reason with a real jobsite example, then show the right way Innov does it and the payoff for the home.",
+  "angulo_corpo_video": "Hook on the transformation or the shocking detail, cut to the raw jobsite footage step by step, narrate the craftsmanship decision, land on the finished reveal.",
+  "angulo_fecho": "Position Innov as the trustworthy Massachusetts builder that delivers the result homeowners saw in the photos, on time and without headaches, then invite them to start their project.",
+  "subeixos": [
+   {
+    "key": "remodel_trends",
+    "gatilhos": [
+     "remodel",
+     "renovation",
+     "trend",
+     "2026",
+     "design",
+     "kitchen",
+     "bathroom",
+     "makeover",
+     "before and after"
+    ],
+    "hooks": [
+     "THE {n} REMODEL TRENDS TAKING OVER {alvo} HOMES IN 2026",
+     "STOP RENOVATING LIKE ITS 2015: DO THIS INSTEAD",
+     "THIS KITCHEN TREND WILL AGE YOUR HOME IN 2 YEARS"
+    ]
+   },
+   {
+    "key": "cost_value",
+    "gatilhos": [
+     "cost",
+     "price",
+     "budget",
+     "expensive",
+     "roi",
+     "value",
+     "resale",
+     "estimate",
+     "quote"
+    ],
+    "hooks": [
+     "WHY YOUR REMODEL ESTIMATE JUST DOUBLED (AND WHATS WORTH IT)",
+     "THE {n} UPGRADES THAT ACTUALLY RAISE YOUR HOME VALUE",
+     "THIS IS WHERE HOMEOWNERS WASTE THE MOST MONEY ON A REMODEL"
+    ]
+   },
+   {
+    "key": "hiring_contractor",
+    "gatilhos": [
+     "contractor",
+     "hire",
+     "scam",
+     "red flag",
+     "permit",
+     "license",
+     "warranty",
+     "delay",
+     "reviews"
+    ],
+    "hooks": [
+     "{n} RED FLAGS YOUR CONTRACTOR IS ABOUT TO GHOST YOU",
+     "NEVER HIRE A CONTRACTOR BEFORE ASKING THESE {n} QUESTIONS",
+     "THIS IS WHY YOUR RENOVATION KEEPS GETTING DELAYED"
+    ]
+   },
+   {
+    "key": "outdoor_living",
+    "gatilhos": [
+     "deck",
+     "patio",
+     "outdoor",
+     "fence",
+     "siding",
+     "curb appeal",
+     "addition",
+     "porch",
+     "exterior"
+    ],
+    "hooks": [
+     "THIS DECK ADDED {n}% TO A {alvo} HOME VALUE",
+     "YOUR BACKYARD IS WASTING SPACE: HERES THE FIX",
+     "THE OUTDOOR UPGRADE EVERY {alvo} HOME NEEDS BEFORE SUMMER"
+    ]
+   },
+   {
+    "key": "craftsmanship",
+    "gatilhos": [
+     "framing",
+     "drywall",
+     "finish",
+     "quality",
+     "install",
+     "detail",
+     "craftsmanship",
+     "structural",
+     "flooring",
+     "trim"
+    ],
+    "hooks": [
+     "WHATS BEHIND YOUR WALLS DECIDES IF YOUR REMODEL LASTS",
+     "THIS {n} MINUTE DETAIL SEPARATES A CHEAP JOB FROM A GREAT ONE",
+     "MOST CONTRACTORS SKIP THIS STEP: WE NEVER DO"
+    ]
+   },
+   {
+    "key": "new_england_home",
+    "gatilhos": [
+     "massachusetts",
+     "boston",
+     "new england",
+     "winter",
+     "housing market",
+     "energy",
+     "old home",
+     "colonial"
+    ],
+    "hooks": [
+     "RENOVATING AN OLD MASSACHUSETTS HOME? WATCH THIS FIRST",
+     "THE {n} UPGRADES NEW ENGLAND HOMES NEED BEFORE WINTER",
+     "WHY BOSTON HOMEOWNERS ARE REMODELING INSTEAD OF MOVING"
+    ]
+   }
+  ]
+ }
+}

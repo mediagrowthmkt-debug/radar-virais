@@ -1,0 +1,153 @@
+{
+ "slug": "ezra",
+ "client": "Ezra Plastering",
+ "radar_slug": "ezra",
+ "title": "Trend Radar",
+ "subtitle": "What is trending and making news in your market, ready to become content",
+ "intro": "This page gathers, around the clock, what is trending and making news in Ezra Plastering's world. Each card comes with an angle ready to turn into a Reel. Approve the ones you want to produce, dismiss the ones that do not fit, and leave a comment anytime. It updates on its own.",
+ "traduzir_titulos": false,
+ "brand": {
+  "primary": "#2E54A6",
+  "primaryDark": "#0B1730",
+  "logo": "logos/ezra.png"
+ },
+ "video_queries": [
+  "venetian plaster tutorial",
+  "how to apply microcement walls",
+  "tadelakt bathroom install",
+  "plaster ceiling repair",
+  "lime plaster finish",
+  "textured wall trends 2026",
+  "before and after plaster restoration",
+  "luxury home renovation transformation",
+  "decorative wall finishes ideas",
+  "skim coat plaster technique",
+  "old house plaster repair",
+  "microcement bathroom before and after"
+ ],
+ "voice": {
+  "quem": "Ezra Plastering, an owner-run plastering specialist in Greater Boston that turns walls and ceilings into premium, handcrafted finishes (Venetian, Tadelakt, Microcement) and restores damaged plaster for high-end homes.",
+  "eixo_viral": "jaw-dropping before-and-after transformations plus insider craft knowledge that makes affluent homeowners trust the artisan on site, not the cheapest bid.",
+  "tom": "confident craft authority that impresses: technical enough to prove mastery, warm enough to earn trust, always showing the transformation and the care behind it. Never salesy, never cheap.",
+  "gancho_formula": "specific pain or wow + concrete promise/result + curiosity gap that makes them watch to the end.",
+  "gancho_default": "THIS WALL WAS PLAIN DRYWALL 48 HOURS AGO",
+  "alvo_default": "affluent Greater Boston homeowners renovating a high-end space",
+  "alvo": {
+   "homeowner": "affluent homeowner in Greater Boston renovating a kitchen, bathroom or feature wall",
+   "designer": "interior designer or architect looking for a reliable premium plaster specialist",
+   "restoration": "owner of an older or historic New England home with cracked or water-damaged plaster"
+  },
+  "angulo_corpo": "open with the wow or the pain, show the real finish or repair up close, explain in plain words why it lasts and why it looks that good, and prove the owner is on the job from start to clean finish.",
+  "angulo_corpo_video": "hook on the transformation in the first 2 seconds (before shot), fast satisfying process clips of the trowel and finish, one myth-busting or insider tip, close on the finished room and who it was for.",
+  "angulo_fecho": "invite them to picture that finish in their own home and reach out for a walkthrough, always leading with the value and the result, never with the price.",
+  "subeixos": [
+   {
+    "key": "premium-finishes",
+    "gatilhos": [
+     "venetian",
+     "microcement",
+     "tadelakt",
+     "lime plaster",
+     "limewash",
+     "decorative",
+     "finish",
+     "texture"
+    ],
+    "hooks": [
+     "THIS IS WHY DESIGNERS ARE OBSESSED WITH VENETIAN PLASTER",
+     "MICROCEMENT VS TILE: WHICH ONE ACTUALLY LASTS?",
+     "THE {n} FINISHES THAT MAKE A HOME LOOK EXPENSIVE"
+    ]
+   },
+   {
+    "key": "repair-restoration",
+    "gatilhos": [
+     "repair",
+     "crack",
+     "restoration",
+     "water damage",
+     "ceiling",
+     "lath",
+     "old house",
+     "historic",
+     "restore"
+    ],
+    "hooks": [
+     "YOUR CRACKED CEILING IS TELLING YOU SOMETHING",
+     "WE SAVED A 100 YEAR OLD PLASTER CEILING IN ONE DAY",
+     "STOP PAINTING OVER THAT CRACK, HERE IS WHY"
+    ]
+   },
+   {
+    "key": "trust-craft",
+    "gatilhos": [
+     "contractor",
+     "owner",
+     "trust",
+     "clean",
+     "on time",
+     "no show",
+     "warranty",
+     "hire"
+    ],
+    "hooks": [
+     "THE CONTRACTOR RED FLAG NOBODY WARNS YOU ABOUT",
+     "WHY THE OWNER SHOULD BE ON YOUR JOB, EVERY DAY",
+     "WE LEFT THE HOUSE CLEANER THAN WE FOUND IT"
+    ]
+   },
+   {
+    "key": "before-after",
+    "gatilhos": [
+     "before",
+     "after",
+     "transformation",
+     "makeover",
+     "reveal",
+     "renovation"
+    ],
+    "hooks": [
+     "FROM PLAIN WALL TO GALLERY IN {n} DAYS",
+     "THE BEFORE AND AFTER THAT BROKE OUR COMMENTS",
+     "WAIT FOR THE FINAL REVEAL OF THIS {alvo} SPACE"
+    ]
+   },
+   {
+    "key": "home-value-trends",
+    "gatilhos": [
+     "trend",
+     "value",
+     "resale",
+     "design",
+     "2026",
+     "modern",
+     "renovation",
+     "real estate"
+    ],
+    "hooks": [
+     "THE WALL TREND TAKING OVER BOSTON HOMES IN 2026",
+     "THIS FINISH CAN ADD REAL VALUE BEFORE YOU SELL",
+     "EVERYONE IS DITCHING FLAT WALLS FOR THIS"
+    ]
+   },
+   {
+    "key": "how-it-works",
+    "gatilhos": [
+     "how",
+     "cost",
+     "process",
+     "diy",
+     "estimate",
+     "tip",
+     "mistake",
+     "guide"
+    ],
+    "hooks": [
+     "WHAT PLASTERING ACTUALLY COSTS (NO SURPRISES)",
+     "THE {n} MISTAKES THAT RUIN A PLASTER FINISH",
+     "WHY WE SHOW YOU THE SCOPE BEFORE THE PRICE"
+    ]
+   }
+  ]
+ }
+}

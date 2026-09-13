@@ -1,0 +1,153 @@
+{
+ "slug": "premium",
+ "client": "Premium Pro Contractors",
+ "radar_slug": "premium",
+ "title": "Trend Radar",
+ "subtitle": "What is trending and making news in your market, ready to become content",
+ "intro": "This page gathers, around the clock, what is trending and making news in Premium Pro Contractors's world. Each card comes with an angle ready to turn into a Reel. Approve the ones you want to produce, dismiss the ones that do not fit, and leave a comment anytime. It updates on its own.",
+ "traduzir_titulos": false,
+ "brand": {
+  "primary": "#DC2626",
+  "primaryDark": "#450A0A",
+  "logo": "logos/premium.png"
+ },
+ "video_queries": [
+  "home remodeling ideas 2026",
+  "kitchen remodel before and after",
+  "bathroom renovation transformation",
+  "small kitchen makeover ideas",
+  "interior painting tips",
+  "custom carpentry projects",
+  "home renovation cost breakdown",
+  "how to choose a contractor",
+  "modern kitchen design trends",
+  "basement finishing ideas",
+  "home addition build",
+  "cabinet painting DIY vs pro"
+ ],
+ "voice": {
+  "quem": "Premium Pro Contractors, a licensed and insured premium general contractor serving Peabody and the North Shore of Massachusetts with home remodeling, painting and carpentry.",
+  "eixo_viral": "Turn everyday remodeling questions and jaw-dropping before-and-afters into content that makes North Shore homeowners feel confident, inspired, and ready to request a quote from a contractor they can trust.",
+  "tom": "Technical authority that also inspires: confident, clear and honest, like a master builder who explains the why behind every decision, never salesy, always adding real value to the homeowner.",
+  "gancho_formula": "Start with a bold claim, a costly mistake or a surprising number, then promise the answer inside (curiosity gap + real stakes for the homeowner).",
+  "gancho_default": "THE #1 REMODELING MISTAKE HOMEOWNERS MAKE (AND HOW TO AVOID IT)",
+  "alvo_default": "North Shore MA homeowners planning a remodel",
+  "alvo": {
+   "remodel": "homeowners planning a kitchen or bathroom remodel",
+   "buyers": "homeowners who just bought and want to renovate",
+   "investors": "property owners looking to boost home value before selling"
+  },
+  "angulo_corpo": "Break the topic into clear, technical-but-simple points a homeowner actually understands: what it costs, what it takes, what to avoid, and the payoff, always framed around their home and their money.",
+  "angulo_corpo_video": "Show the transformation and the process: fast before-and-afters, close-ups of the craftsmanship, and one clear tip on screen per beat so the value lands even on mute.",
+  "angulo_fecho": "Close with a confident, low-pressure invitation to get a free estimate from a licensed and insured local team that treats the home like their own.",
+  "subeixos": [
+   {
+    "key": "remodeling_trends",
+    "gatilhos": [
+     "remodel",
+     "renovation",
+     "trends",
+     "kitchen",
+     "bathroom",
+     "design",
+     "makeover",
+     "addition"
+    ],
+    "hooks": [
+     "{n} KITCHEN TRENDS THAT WILL DEFINE 2026",
+     "WHY THIS $30K KITCHEN REMODEL WAS WORTH EVERY PENNY",
+     "THE REMODEL {alvo} REGRET NOT DOING SOONER"
+    ]
+   },
+   {
+    "key": "cost_roi",
+    "gatilhos": [
+     "cost",
+     "price",
+     "budget",
+     "value",
+     "roi",
+     "return",
+     "worth",
+     "estimate"
+    ],
+    "hooks": [
+     "HOW MUCH A KITCHEN REMODEL REALLY COSTS IN 2026",
+     "THIS {n} REMODEL ADDED THOUSANDS TO THE HOME VALUE",
+     "STOP OVERPAYING: WHERE YOUR REMODEL BUDGET ACTUALLY GOES"
+    ]
+   },
+   {
+    "key": "contractor_mistakes",
+    "gatilhos": [
+     "contractor",
+     "mistake",
+     "scam",
+     "avoid",
+     "permit",
+     "license",
+     "insured",
+     "warning"
+    ],
+    "hooks": [
+     "THE RED FLAG THAT SCREAMS BAD CONTRACTOR",
+     "{n} QUESTIONS TO ASK BEFORE YOU HIRE A CONTRACTOR",
+     "WHY CHEAP CONTRACTORS COST YOU MORE IN THE END"
+    ]
+   },
+   {
+    "key": "painting_finishes",
+    "gatilhos": [
+     "paint",
+     "painting",
+     "color",
+     "finish",
+     "cabinet",
+     "exterior",
+     "interior"
+    ],
+    "hooks": [
+     "THE PAINT COLORS EVERY HOME WILL WANT IN 2026",
+     "STOP PAINTING YOUR CABINETS UNTIL YOU SEE THIS",
+     "THE #1 EXTERIOR PAINT MISTAKE THAT RUINS CURB APPEAL"
+    ]
+   },
+   {
+    "key": "carpentry_craft",
+    "gatilhos": [
+     "carpentry",
+     "custom",
+     "wood",
+     "cabinet",
+     "trim",
+     "molding",
+     "built in",
+     "deck"
+    ],
+    "hooks": [
+     "WATCH THIS CUSTOM BUILT-IN TRANSFORM A BLANK WALL",
+     "THE TRIM DETAIL THAT MAKES A ROOM LOOK EXPENSIVE",
+     "WHY CUSTOM CARPENTRY BEATS BIG-BOX EVERY TIME"
+    ]
+   },
+   {
+    "key": "local_northshore",
+    "gatilhos": [
+     "massachusetts",
+     "north shore",
+     "peabody",
+     "salem",
+     "beverly",
+     "marblehead",
+     "new england",
+     "housing"
+    ],
+    "hooks": [
+     "WHAT NORTH SHORE MA HOMES ARE REMODELING RIGHT NOW",
+     "THE UPGRADE THAT SELLS HOMES FASTEST IN MASSACHUSETTS",
+     "RENOVATING AN OLDER NEW ENGLAND HOME? READ THIS FIRST"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,168 @@
+{
+ "slug": "mediagrowth",
+ "client": "MediaGrowth",
+ "radar_slug": "mediagrowth",
+ "title": "Radar de Virais",
+ "subtitle": "O que esta viralizando e virando noticia no seu mercado, pronto para virar conteudo",
+ "intro": "Esta pagina reune, toda hora, o que esta viralizando e virando noticia no universo de MediaGrowth. Cada card ja vem com um angulo pronto para virar Reels. Aprove os que quer produzir, descarte os que nao combinam e comente quando quiser. Atualiza sozinho.",
+ "traduzir_titulos": true,
+ "brand": {
+  "primary": "#FF3B00",
+  "primaryDark": "#0A0A0C",
+  "logo": "logos/mediagrowth.png"
+ },
+ "video_queries": [
+  "marketing digital para empresas",
+  "como fazer trafego pago",
+  "meta ads passo a passo",
+  "google ads para iniciantes",
+  "como gerar leads qualificados",
+  "estrategia de conteudo para instagram",
+  "inteligencia artificial no marketing",
+  "SEO local google meu negocio",
+  "funil de vendas na pratica",
+  "como escalar campanhas de anuncios",
+  "CRM e automacao de vendas",
+  "tendencias de marketing digital 2026"
+ ],
+ "voice": {
+  "quem": "MediaGrowth, agencia brasileira de marketing digital full-funnel que estrutura a operacao de marketing do cliente de ponta a ponta (trafego, CRM, SEO local, conteudo, IA) com metodo e plataforma propria.",
+  "eixo_viral": "Autoridade em resultado: mostrar o que funciona de verdade no marketing (numero, metodo, bastidor) e desmascarar o marketing sem estrategia.",
+  "tom": "Direto, estrategico e provocativo, sem corporatives: fala o que ninguem fala, cita numero e mostra bastidor. Anti-misterio, ritmo curto, leitura natural.",
+  "gancho_formula": "[Verdade que incomoda do mercado] + [o que a maioria faz errado] + [o caminho certo com metodo]",
+  "gancho_default": "A MAIORIA GASTA COM ANUNCIO SEM SABER QUANTO CADA CLIENTE CUSTA",
+  "alvo_default": "donos de empresa que investem em marketing mas nao enxergam o retorno",
+  "alvo": {
+   "trafego": "quem ja anuncia mas nao sabe se esta dando lucro",
+   "crm": "quem gera lead mas perde venda por falta de acompanhamento",
+   "seo": "empresa local que quer aparecer no google da regiao",
+   "conteudo": "marca que posta muito e engaja pouco",
+   "ia": "empresario curioso sobre IA que ainda nao aplicou no negocio"
+  },
+  "angulo_corpo": "Traduzir a tendencia ou noticia do setor em acao pratica pro dono de empresa: o que muda, por que importa e como aplicar com metodo (sem jargao solto).",
+  "angulo_corpo_video": "Abrir com a verdade que incomoda, mostrar rapido o erro comum na tela e entregar o passo certo com exemplo real ou bastidor da operacao.",
+  "angulo_fecho": "Chamar pra profissionalizar o marketing com metodo (nao improviso) e deixar claro o proximo passo concreto, sem porta aberta generica.",
+  "subeixos": [
+   {
+    "key": "trafego",
+    "gatilhos": [
+     "trafego",
+     "anuncio",
+     "anuncios",
+     "meta ads",
+     "google ads",
+     "campanha",
+     "roas",
+     "cpl",
+     "lead",
+     "facebook",
+     "instagram ads"
+    ],
+    "hooks": [
+     "VOCE NAO TEM TRAFEGO CARO, VOCE TEM CAMPANHA SEM ESTRATEGIA",
+     "{alvo}, PARE DE OLHAR SO O GASTO: OLHE O CUSTO POR CLIENTE",
+     "3 ERROS QUE FAZEM SEU ANUNCIO QUEIMAR DINHEIRO"
+    ]
+   },
+   {
+    "key": "crm",
+    "gatilhos": [
+     "crm",
+     "automacao",
+     "funil",
+     "lead",
+     "follow up",
+     "gohighlevel",
+     "vendas",
+     "pipeline",
+     "nutricao",
+     "conversao"
+    ],
+    "hooks": [
+     "SEU PROBLEMA NAO E FALTA DE LEAD, E LEAD QUE ESFRIA SEM RESPOSTA",
+     "{n} LEADS PERDIDOS ESSE MES SO POR FALTA DE FOLLOW UP",
+     "O FUNIL QUE TRANSFORMA CURIOSO EM CLIENTE NO AUTOMATICO"
+    ]
+   },
+   {
+    "key": "seo",
+    "gatilhos": [
+     "seo",
+     "google",
+     "google meu negocio",
+     "busca",
+     "palavra chave",
+     "organico",
+     "ranking",
+     "local",
+     "mapa",
+     "pesquisa"
+    ],
+    "hooks": [
+     "SE VOCE NAO APARECE NO GOOGLE DA SUA CIDADE, VOCE NAO EXISTE PRO CLIENTE",
+     "{alvo}, SEU CONCORRENTE ESTA EM 1o LUGAR PORQUE FAZ ISSO",
+     "O QUE FAZ UMA EMPRESA LOCAL SUBIR NO GOOGLE (SEM PAGAR ANUNCIO)"
+    ]
+   },
+   {
+    "key": "conteudo",
+    "gatilhos": [
+     "conteudo",
+     "reels",
+     "post",
+     "instagram",
+     "tiktok",
+     "engajamento",
+     "calendario",
+     "alcance",
+     "algoritmo",
+     "viral"
+    ],
+    "hooks": [
+     "POSTAR TODO DIA NAO ADIANTA SE O CONTEUDO NAO TEM ESTRATEGIA",
+     "{alvo}, O ALGORITMO NAO ODEIA VOCE: FALTA GANCHO NOS 3 PRIMEIROS SEGUNDOS",
+     "O TIPO DE CONTEUDO QUE VENDE SEM PARECER PROPAGANDA"
+    ]
+   },
+   {
+    "key": "ia",
+    "gatilhos": [
+     "ia",
+     "inteligencia artificial",
+     "chatgpt",
+     "automacao",
+     "agente",
+     "ferramenta",
+     "tecnologia",
+     "robo",
+     "generativa"
+    ],
+    "hooks": [
+     "A IA NAO VAI ROUBAR SEU MARKETING, MAS QUEM USA VAI PASSAR NA SUA FRENTE",
+     "{alvo}, ESSA TAREFA QUE TOMA SEU DIA A IA JA FAZ EM MINUTOS",
+     "COMO A GENTE USA IA NA OPERACAO PRA ENTREGAR MAIS RAPIDO"
+    ]
+   },
+   {
+    "key": "resultado",
+    "gatilhos": [
+     "resultado",
+     "numero",
+     "metrica",
+     "dado",
+     "relatorio",
+     "dashboard",
+     "metodo",
+     "estrutura",
+     "previsivel",
+     "retorno"
+    ],
+    "hooks": [
+     "MARKETING SEM NUMERO E ACHISMO, NAO ESTRATEGIA",
+     "{alvo}, VOCE SABE QUANTO CADA REAL DE MARKETING TE DEVOLVE?",
+     "POR QUE ESTRUTURAR ANTES DE ANUNCIAR MUDA TODO O JOGO"
+    ]
+   }
+  ]
+ }
+}

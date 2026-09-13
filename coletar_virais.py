@@ -74,6 +74,7 @@ def fetch(url, timeout=10):
 
 # ---------------------------------------------------------------- TRADUCAO (PT-BR)
 _TR_CACHE = {}
+TRADUZIR = True  # setado por main() a partir do config (cfg.traduzir_titulos). US/EN -> False (mantem em ingles).
 # palavras-funcao do ingles que NAO aparecem em PT — sinal de que o texto e ingles
 _EN_WORDS = set((
     "the of and for with could that this from than ever been are was will into over about "
@@ -95,6 +96,8 @@ def traduzir_pt(text):
     """Traduz pra PT-BR via endpoint gratis do Google (gtx) so quando o texto parece ingles.
     Cacheia por run. Falhou -> devolve o original (nunca quebra)."""
     text = (text or "").strip()
+    if not TRADUZIR:
+        return text
     if not text or not parece_ingles(text):
         return text
     if text in _TR_CACHE:
@@ -538,6 +541,8 @@ def main():
     if not os.path.exists(cfg_path):
         raise SystemExit(f"Config nao encontrada: {cfg_path}")
     cfg = json.load(open(cfg_path, encoding="utf-8"))
+    global TRADUZIR
+    TRADUZIR = bool(cfg.get("traduzir_titulos", True))  # US/EN define false -> mantem titulos em ingles
     voice = cfg.get("voice", {})
     out = args.out or os.path.join(HERE, "seed", f"{args.cliente}.json")
 

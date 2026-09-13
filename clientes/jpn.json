@@ -1,0 +1,156 @@
+{
+ "slug": "jpn",
+ "client": "JPN Hardwood Floors",
+ "radar_slug": "jpn",
+ "title": "Trend Radar",
+ "subtitle": "What is trending and making news in your market, ready to become content",
+ "intro": "This page gathers, around the clock, what is trending and making news in JPN Hardwood Floors's world. Each card comes with an angle ready to turn into a Reel. Approve the ones you want to produce, dismiss the ones that do not fit, and leave a comment anytime. It updates on its own.",
+ "traduzir_titulos": false,
+ "brand": {
+  "primary": "#a55d2c",
+  "primaryDark": "#2b1810",
+  "logo": "logos/jpn.png"
+ },
+ "video_queries": [
+  "hardwood floor refinishing before and after",
+  "hardwood floor installation process",
+  "dustless hardwood floor sanding",
+  "how to refinish hardwood floors",
+  "white oak floor stain colors",
+  "herringbone wood floor install",
+  "restoring old hardwood floors",
+  "hardwood floor sanding satisfying",
+  "hardwood vs vinyl plank flooring",
+  "hardwood floor stain color comparison",
+  "hardwood floor repair damaged boards",
+  "hardwood flooring trends 2026"
+ ],
+ "voice": {
+  "quem": "JPN Hardwood Floors, a family-run hardwood flooring craftsman serving Medford and the Greater Boston area, specializing in installation, dustless sanding, refinishing and full restoration of real wood floors.",
+  "eixo_viral": "The dramatic transformation: a tired, scratched or dated wood floor brought back to life, showing the craft, the finish and the real-home result that makes a house feel new again.",
+  "tom": "Warm, confident master-craftsman authority: technical expertise explained simply, proud of the trade, honest about what real wood needs, never salesy, always making the homeowner feel their floor is in expert hands.",
+  "gancho_formula": "[Curiosity or pain about a wood floor] + [surprising truth or transformation] + [the JPN way to get it done right].",
+  "gancho_default": "THIS 80 YEAR OLD FLOOR WAS HIDING UNDER THE CARPET THE WHOLE TIME",
+  "alvo_default": "Greater Boston homeowners with real hardwood floors",
+  "alvo": {
+   "homeowners": "Homeowners in older New England houses with worn or hidden hardwood floors",
+   "renovators": "People renovating or flipping a home who want floors that boost resale value",
+   "new_installs": "Homeowners choosing new hardwood for a fresh build or remodel",
+   "realtors": "Realtors and property managers who need floors ready to sell fast"
+  },
+  "angulo_corpo": "Show the real work and the real result: the state of the floor before, the craft (sanding, staining, finishing) and the finished room, tying each step to why it matters for a wood floor that lasts decades.",
+  "angulo_corpo_video": "Fast satisfying transformation cut: dull scratched floor, the sanding reveal, the color going on, the glossy or matte finish, then a slow pan of the finished room, with short on-screen captions explaining each stage in plain English.",
+  "angulo_fecho": "Invite the Greater Boston homeowner to picture their own floor transformed and reach out to JPN for a free estimate, done right, on time and dust-free.",
+  "subeixos": [
+   {
+    "key": "instalacao",
+    "gatilhos": [
+     "installation",
+     "install",
+     "new floor",
+     "white oak",
+     "engineered",
+     "wide plank",
+     "flooring contractor"
+    ],
+    "hooks": [
+     "WATCH THIS EMPTY ROOM TURN INTO A REAL HARDWOOD FLOOR IN {n} DAYS",
+     "HERE IS WHY {alvo} ARE CHOOSING WHITE OAK OVER EVERYTHING ELSE",
+     "NEW HARDWOOD FLOORS CHANGE A HOUSE MORE THAN ANY OTHER UPGRADE"
+    ]
+   },
+   {
+    "key": "refinishing",
+    "gatilhos": [
+     "refinishing",
+     "refinish",
+     "sanding",
+     "sand",
+     "dustless",
+     "recoat",
+     "buffing",
+     "polyurethane"
+    ],
+    "hooks": [
+     "THIS FLOOR WAS ABOUT TO BE REPLACED, THEN WE SANDED IT",
+     "DUSTLESS REFINISHING MEANS ZERO MESS AND A BRAND NEW FLOOR",
+     "STOP REPLACING YOUR HARDWOOD FLOORS, DO THIS INSTEAD"
+    ]
+   },
+   {
+    "key": "restauracao",
+    "gatilhos": [
+     "restore",
+     "restoration",
+     "repair",
+     "old floor",
+     "damaged",
+     "water damage",
+     "scratched",
+     "under carpet"
+    ],
+    "hooks": [
+     "THIS 80 YEAR OLD FLOOR WAS HIDING UNDER THE CARPET THE WHOLE TIME",
+     "WATER DAMAGED HARDWOOD DOES NOT MEAN YOU NEED A NEW FLOOR",
+     "WE SAVED A FLOOR EVERYONE TOLD THEM TO RIP OUT"
+    ]
+   },
+   {
+    "key": "cores_tendencias",
+    "gatilhos": [
+     "stain",
+     "color",
+     "trend",
+     "matte",
+     "natural",
+     "gray",
+     "light",
+     "dark",
+     "2026"
+    ],
+    "hooks": [
+     "THE HARDWOOD FLOOR COLOR EVERYONE WILL WANT IN 2026",
+     "GRAY FLOORS ARE OUT, HERE IS WHAT IS REPLACING THEM",
+     "PICK THE WRONG STAIN AND YOU WILL REGRET IT FOR 20 YEARS"
+    ]
+   },
+   {
+    "key": "cuidado",
+    "gatilhos": [
+     "cleaning",
+     "clean",
+     "maintenance",
+     "care",
+     "protect",
+     "humidity",
+     "gaps",
+     "winter",
+     "pet"
+    ],
+    "hooks": [
+     "YOU ARE CLEANING YOUR HARDWOOD FLOORS WRONG AND IT IS RUINING THEM",
+     "WHY YOUR HARDWOOD FLOOR GETS GAPS EVERY NEW ENGLAND WINTER",
+     "{n} THINGS THAT ARE SILENTLY DESTROYING YOUR WOOD FLOORS"
+    ]
+   },
+   {
+    "key": "valor_imovel",
+    "gatilhos": [
+     "home value",
+     "resale",
+     "resell",
+     "renovation",
+     "remodel",
+     "real estate",
+     "flip",
+     "buyers"
+    ],
+    "hooks": [
+     "HARDWOOD FLOORS PAY YOU BACK MORE THAN ANY OTHER RENOVATION",
+     "REALTORS SAY THIS ONE UPGRADE SELLS BOSTON HOMES FASTER",
+     "SPEND {n} ON YOUR FLOORS, ADD FAR MORE TO YOUR HOME VALUE"
+    ]
+   }
+  ]
+ }
+}

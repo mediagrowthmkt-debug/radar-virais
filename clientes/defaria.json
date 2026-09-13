@@ -1,0 +1,165 @@
+{
+ "slug": "defaria",
+ "client": "DeFaria Construction",
+ "radar_slug": "defaria",
+ "title": "Trend Radar",
+ "subtitle": "What is trending and making news in your market, ready to become content",
+ "intro": "This page gathers, around the clock, what is trending and making news in DeFaria Construction's world. Each card comes with an angle ready to turn into a Reel. Approve the ones you want to produce, dismiss the ones that do not fit, and leave a comment anytime. It updates on its own.",
+ "traduzir_titulos": false,
+ "brand": {
+  "primary": "#0B2C5E",
+  "primaryDark": "#04122B",
+  "logo": "logos/defaria.png"
+ },
+ "video_queries": [
+  "kitchen remodel before and after",
+  "bathroom renovation transformation",
+  "home renovation timelapse",
+  "custom home build walkthrough",
+  "small kitchen remodel ideas",
+  "home addition construction",
+  "how to remodel a bathroom",
+  "modern kitchen design tour",
+  "renovation cost breakdown 2026",
+  "basement finishing project",
+  "contractor tips home renovation",
+  "luxury home remodel tour"
+ ],
+ "voice": {
+  "quem": "DeFaria Construction, a residential construction and remodeling contractor on the North Shore of Massachusetts (Essex and Middlesex County), known for craftsmanship, transparent budgets and daily project follow-up.",
+  "eixo_viral": "Real remodeling transformations and honest contractor insight that make homeowners trust the process and picture their own home upgraded.",
+  "tom": "Confident local craftsman: technical authority that reassures, warm and honest, proud of quality work, never salesy or hyped.",
+  "gancho_formula": "[Curiosity or bold claim about a home upgrade] + [specific benefit or number] + [local/homeowner relevance]",
+  "gancho_default": "THIS ONE REMODEL DECISION CHANGED THE WHOLE HOUSE",
+  "alvo_default": "homeowners",
+  "alvo": {
+   "homeowner": "homeowners planning a remodel",
+   "seller": "homeowners preparing to sell",
+   "luxury": "homeowners investing in a dream renovation"
+  },
+  "angulo_corpo": "Show the real work and the reasoning behind it: the problem in the home, the smart fix, the materials and craftsmanship, and the transformation, always in plain language a homeowner understands.",
+  "angulo_corpo_video": "Open on the before or the mess, build tension through the process and key decisions, then reveal the finished space with a satisfying payoff.",
+  "angulo_fecho": "End with the payoff for the homeowner (value, comfort, pride) and an invitation to picture it in their own home.",
+  "subeixos": [
+   {
+    "key": "kitchen_bath",
+    "gatilhos": [
+     "kitchen",
+     "bathroom",
+     "remodel",
+     "cabinet",
+     "countertop",
+     "tile",
+     "shower",
+     "quartz",
+     "granite",
+     "vanity"
+    ],
+    "hooks": [
+     "THE KITCHEN REMODEL THAT PAYS FOR ITSELF",
+     "{n} BATHROOM UPGRADES THAT LOOK WAY MORE EXPENSIVE THAN THEY ARE",
+     "STOP WASTING MONEY ON THESE KITCHEN TRENDS"
+    ]
+   },
+   {
+    "key": "renovation_additions",
+    "gatilhos": [
+     "renovation",
+     "addition",
+     "basement",
+     "adu",
+     "in law",
+     "whole home",
+     "expand",
+     "square footage",
+     "finish"
+    ],
+    "hooks": [
+     "WE ADDED A WHOLE ROOM WITHOUT MOVING A WALL",
+     "THE HOME ADDITION EVERY {alvo} IS ASKING FOR IN 2026",
+     "BEFORE VS AFTER: THIS RENOVATION WILL BLOW YOUR MIND"
+    ]
+   },
+   {
+    "key": "home_value_roi",
+    "gatilhos": [
+     "value",
+     "resale",
+     "roi",
+     "return",
+     "equity",
+     "sell",
+     "market",
+     "appraisal",
+     "investment"
+    ],
+    "hooks": [
+     "THESE {n} UPGRADES ADD THE MOST VALUE TO YOUR HOME",
+     "THE RENOVATION THAT PAID FOR ITSELF WHEN THEY SOLD",
+     "DON'T RENOVATE BEFORE SELLING UNTIL YOU SEE THIS"
+    ]
+   },
+   {
+    "key": "materials_trends",
+    "gatilhos": [
+     "trend",
+     "material",
+     "design",
+     "2026",
+     "flooring",
+     "hardwood",
+     "quartz",
+     "siding",
+     "modern",
+     "farmhouse",
+     "eco",
+     "sustainable",
+     "energy"
+    ],
+    "hooks": [
+     "THE {n} DESIGN TRENDS TAKING OVER HOMES IN 2026",
+     "THIS MATERIAL LOOKS LUXURY BUT COSTS HALF",
+     "THE FLOORING EVERYONE WILL WANT NEXT YEAR"
+    ]
+   },
+   {
+    "key": "contractor_trust",
+    "gatilhos": [
+     "contractor",
+     "hire",
+     "permit",
+     "cost",
+     "budget",
+     "timeline",
+     "mistake",
+     "scam",
+     "estimate",
+     "quote"
+    ],
+    "hooks": [
+     "{n} QUESTIONS TO ASK BEFORE YOU HIRE A CONTRACTOR",
+     "THE RED FLAGS THAT MEAN YOU'RE ABOUT TO OVERPAY",
+     "WHY YOUR RENOVATION QUOTE IS SO CONFUSING (AND HOW TO READ IT)"
+    ]
+   },
+   {
+    "key": "local_north_shore",
+    "gatilhos": [
+     "massachusetts",
+     "boston",
+     "north shore",
+     "essex",
+     "middlesex",
+     "lynn",
+     "local",
+     "new england"
+    ],
+    "hooks": [
+     "WHAT REMODELING REALLY COSTS ON THE NORTH SHORE IN 2026",
+     "WHY NEW ENGLAND HOMES NEED THIS UPGRADE FIRST",
+     "THE LOCAL RENOVATION EVERYONE IS TALKING ABOUT"
+    ]
+   }
+  ]
+ }
+}
