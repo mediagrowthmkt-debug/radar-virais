@@ -9,7 +9,7 @@
     "primaryDark": "#2B211A",
     "logo": "logos/brunoashford.png"
   },
-  "gerado_em": "2026-09-13T14:03:43.734688-03:00",
+  "gerado_em": "2026-09-13T14:12:56.303601-03:00",
   "janela_dias": 30,
   "search_terms": {
     "noticias": [
@@ -99,16 +99,852 @@
     ]
   },
   "stats": {
-    "total": 20,
-    "novos_agora": 20,
-    "noticias": 0,
-    "videos": 20,
-    "hoje": 0,
-    "ontem": 1,
-    "semana": 2,
-    "mes": 17
+    "total": 61,
+    "novos_agora": 60,
+    "noticias": 40,
+    "videos": 21,
+    "hoje": 15,
+    "ontem": 12,
+    "semana": 14,
+    "mes": 20
   },
   "itens": [
+    {
+      "id": "328e1877122f",
+      "tipo": "noticia",
+      "titulo": "Video: Anthropic CEO says AI industry needs to give safety measures time to catch up",
+      "fonte": "livetube.tv",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnR3RUR4RS1zNFBkbHM4QTRjZmpPeG5QaFhpbzI1WXliVy1kcGFOMzFzck5HcFVzc2FoYVpJblpUc1dXTHJ1S3g0Y2JtY2lIam11VDFkSlE0TGFCV0FMb1owV1N4c1FQczZaaDZjWWZFUEQyYjNodUZKVkZpamxDcWd1X3ZFZVdGaElCRjIxSWp1YnJzVjM5N0hEa1A1NUVrXzktWHJfUV9yWFBfMW9yZFh3?oc=5",
+      "thumb": "https://i.ytimg.com/vi/RrVjNIoRMVU/hqdefault.jpg",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 15,
+      "keywords": [
+        "AI industry news",
+        "Anthropic Claude",
+        "artificial intelligence news"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Anthropic CEO says AI industry needs to give safety measures time to catch up",
+          "fonte": "lufkindailynews.com",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRUFKRmc4aVZYRjluU1hvSGVQNW9FcF9VbTdVVVFicnlWU1F3ZFhldDI1R2tkVUFpdG1ZWWVSTFlqTzNXVXZVTVcxcU45SG9LUF9kZ3pBOXR5TWo3SllrRHIxV0ZPWUJTLXVwYnlaNTktOHBjYnJkOUhZSnpzS21aUk85VkFwOVQwZWJlVUV4a1FvVkg2aDZsNnNaVFFQaTAxTGFUQmN3Q2E4Z29YRDNmSnU0bDJXaGtUTEltZHZlZy1lajVqUWpWOUtNZGZPX3NtVk55U2E1RXFlaFAwNEdYSy0tMWdNaW9pN2xlbFYxMXdFMFdE?oc=5"
+        },
+        {
+          "titulo": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+          "fonte": "Herald-Banner",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQLWdMMmxUTFZ4T1VlcF9GaGdNQmx6YmJYM0VyUHJrNFJqRGxLNXpzQ1ctYWwtMER6d2x5bG5PR3c0THdmLU8tMTJJMHlFVGVVNE9aMGxEWlYzR0F2Y3h5RjdxUWtHS2YxUmYxdWwxX0NzVlBiUkYwNWhMd0U1VldiREEwX0hGX2E0ZGhwbGEzR3NabFdPZXhLQ0pfV0ZnV1VfaGdFRm9xSzZCMk9FM2R5YjFSZ056RjNCWlRHYmtOMXFUZl82ME5udUR0dUpwbXgzbkZjUXAzQmRQR2RVSjhQajVuZ0J0WndVMmJRWmR5TTNlZjlSVldzQmUwYkd2Zw?oc=5"
+        },
+        {
+          "titulo": "AI leaders say the industry needs to give safety measures time to catch up",
+          "fonte": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDJIRnRaZkdOZ2RCZjktOHB6NXhybXdUVlRoMGZDNFRDeFp6NWExZUpMd3hUTWUwWndGMFV5c0FYWW9aTzVBNkhpZ1llRDg4SDJURkg5MXUxUWJxTjBzUlMxNHd1MlRqQkJVSklzSFpTTDNxRVZyYXdiYmNhaWVOelJmOE8wUTVndTVyWmhqUjRwdF9qUXdkc09rWExtTDBrWUJIV0htanduS0FaUEZKWnJTZ0pwb005QVRkdDQzR1pxbXd5eXlPN0s3T20?oc=5"
+        },
+        {
+          "titulo": "AI leaders say the industry needs to give safety measures time to catch up",
+          "fonte": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDJIRnRaZkdOZ2RCZjktOHB6NXhybXdUVlRoMGZDNFRDeFp6NWExZUpMd3hUTWUwWndGMFV5c0FYWW9aTzVBNkhpZ1llRDg4SDJURkg5MXUxUWJxTjBzUlMxNHd1MlRqQkJVSklzSFpTTDNxRVZyYXdiYmNhaWVOelJmOE8wUTVndTVyWmhqUjRwdF9qUXdkc09rWExtTDBrWUJIV0htanduS0FaUEZKWnJTZ0pwb005QVRkdDQzR1pxbXd5eXlPN0s3T20?oc=5"
+        },
+        {
+          "titulo": "AI leaders say the industry needs to give safety measures time to catch up",
+          "fonte": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkZ6ZTRiTHRFdGJ3c3RodzMtYXZscFlYN0pyNVF0YUFCakpvdFVJTlc3ODV2d3FfdHZ3dWtsMkxuaTRPakxtWUJXcU9NR3N1d1VSNTMtVUFSQk5QRU9MMWk1TGNqOU9JQ1NVOHNzN2kxbS1icFZZUDVZTWM2SFl6STdrUWQxNWxU?oc=5"
+        }
+      ],
+      "score": 48.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "A ANTHROPIC ACABOU DE LANCAR ALGO QUE MUDA O JOGO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "13/09/2026",
+      "video_relacionado": {
+        "titulo": "Anthropic CEO says AI industry should slow its development",
+        "url": "https://www.youtube.com/watch?v=RrVjNIoRMVU",
+        "fonte": "CBS Chicago",
+        "views": 2359
+      }
+    },
+    {
+      "id": "2f887191b8ef",
+      "tipo": "noticia",
+      "titulo": "OpenAI agents attacked RubyGems months before rogue Hugging Face hack",
+      "fonte": "Cybernews",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrdndheVlmWFIyd0o0VWJHanlWbDRiUVZPZkQxTVJ2Y3ppNFJIZHQ3MVU5ZF9zdG5mVldjWW1UeGhsY0pNazg5VThtQjk1SUM2TW5tM09vMkRPUEQ0OUlFQkpkUm9jcy1idW9Feg?oc=5",
+      "thumb": "https://i.ytimg.com/vi/NrfdL29xVTE/hqdefault.jpg",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 6,
+      "keywords": [
+        "AI agents for business",
+        "AI industry news",
+        "Hugging Face",
+        "OpenAI",
+        "autonomous AI agents"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+          "fonte": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNRGxIRUFhc3VScklsdHV3d3BucGo5T0lZODZtdFdjS294NnNsQjV4Sk9NcnlBeDd1bTVnNEh6MFRjVzh3cWNLZ2FYMGpLRldvbTB4S09VbjBLZ1NjVlNucUl3U0RnWE82MnV0SEV5UDRHNU4zMDZhaFFJeHRkOFRWZEFoMlJjaS1qaE1IYTI4ajExZ2dSeDBBQ3lOTEdCVFJ1aTk5VkFzV1ZhclVSVkNoZEViLXdTUVVyMVE5ck0zMTh1UEs1cG0td0VPSWViazZuTE9aZTVnaVhiZ2ZjT1duM1R6LUxwQWFGU1RiRXRHZjk0eW1tVGFwS3pzdXo2WGJjRlZtSjF2eDloS2YyWWV0bXRJdUljYWltc1pZMVkyU19DSGcyLWVFQlZOZWJwUG1XdzN1QU5HX1AwTHFqZU9TUWIyZldCNDFhNThGdXdtUUNhWVJMY3o0UVpR0gH2AUFVX3lxTFAwZ1pPZEt5aWNCcWFfYW5VVENLS3hSbEU1N3lUWTdTN1N3d0F2QklvbmVhYjlOVngwYkd3OVB1dGN6ZlpZWXc0em5FRUpmTXMwWlpIY0ZEUHF4dkpzLVpfUmRNUUdydjAzc0FWZGx6cWRrbnk3T2x2c1ZqY3BoX0k2NTBWbXlraU5VOWdRNjl6ZXVLdFZJamxIYU9pMFB4Qm51MGtvZjBnMlc5Q1VhRUhtT1ZKTmJHc205dTRaYTV2T2Ywcm5WeUFmZEhKYW5xUG50VXZLVF9FbmY2dWpNR2xsZzFNTnlMc2FTQXdNYmxmYU1MUlBYUQ?oc=5"
+        },
+        {
+          "titulo": "OpenAI AI agents were linked to a cyberattack on RubyGems before the Hugging Face incident",
+          "fonte": "Digital Trends",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT0VpdGZyT0l5MFhkVS1Ed1BhektoMVRQUWZkYjBBRVUyaHFmSW5mSTZhMW9xMV9XcXQtMzR6NTJJSElVZmxPTGZSS2w0SVlRV0g4eXJBcmJGNUM4TlplelYtS3ZoWk85eWtfcllick83RXJCMzhZLXdYNXNFRmtYWHZuX3NsMXlzdGlnd1JvcUdReVVBd2VrdkRVZW4tcEc5ME4tRlM0SDBfMS04MS1JSDdBYXlLWHA5bnNzclhpdTFtZDBpczJBWHltcw?oc=5"
+        },
+        {
+          "titulo": "OpenAI agents launched cyberattack on RubyGems before Hugging Face hack: report",
+          "fonte": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWl9YaFBmUE5aRGRGMlkySGt0dVd3SzczUzNvVFlCbGhSZFlPVDItYUFjNXR6Y3Z0elMwejNZbVBlLURxZnQyMjJPTU5KZWxPWEhvTlpzMTlpem1wc1gtaUo5aDQtME5WU3JLR1puaDE4N0NpUU14RU1xaWdUdmdPTlg4U2dTeTM4bGV6TDZTS2pYNG1lMXJxM184Um44REwtM2ZURm9Bc20ydw?oc=5"
+        },
+        {
+          "titulo": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+          "fonte": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2F3RkRiVXZra3BTMExtX3lNVHBEV0xTbkxBMXNwaDVIOGtkeXJEWXRxeEd3dDlLbW5kOUdrQlFnXzVZTk9YRXMxdFRRVGpfR0puUjkyYXozVHJsVXVHTlhSNDVyZjlxMkVwNnU0a2pMMzdOSTdsaTJ4d2E2R1FLbU8wb0VVbW9GUzRsa0VTYUJhN24yRDNTTmtnYkpRUHVlN002SG54czB5UzRsTEtMLUxSSVgyN19xcnRwaGowODRJMXk3ZVNwRDNB?oc=5"
+        },
+        {
+          "titulo": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+          "fonte": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wUDZvbkprZlBDMkE4QlhtdmFySnp3RFhQY3dUSG5aT3ZUbDNrY0kydmREaFgtblI4eld0bDhYeEw2SktvakloQmNUc2ZLcHdFU1AtemI2dF9LUlo3?oc=5"
+        }
+      ],
+      "score": 34.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "POR QUE IA AGENTICA E DIFERENTE DE UM CHATBOT",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "agentico"
+      },
+      "data_br": "13/09/2026",
+      "video_relacionado": {
+        "titulo": "OpenAI's agents flooded a code registry in May, two months before Hugging Face - TCR 09/12/26",
+        "url": "https://www.youtube.com/watch?v=NrfdL29xVTE",
+        "fonte": "Shared Sapience",
+        "views": 187
+      }
+    },
+    {
+      "id": "0e91726ccf23",
+      "tipo": "noticia",
+      "titulo": "OpenAI will not go public in 2026, says Sam Altman amid AI safety concerns",
+      "fonte": "The Indian Express",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLWRpUmNhOTkzNGhJVjJ1RGJnV2Nyd3BSdDJnRHhweUNfMEYwa1VyNXhTZ0NvbUlFOS1Rc092NGlwM3ZXQ0ZpcElnRERaVjlUbHFvb2RPaEcyd09pMnJlLXBLcTlrVDJXM2kwUER1NEtxVnlXWHNMbVhwckx6VEZpamRaclFsRXFXSlNZR2ZScXhMc0xGUmdXMDQ3ZkRPS210RFFCV2lBaVM1cF9aVU1pZ0M3VFRhRkl5NFNwU2ZuOXNMZ9IByAFBVV95cUxQb3BTMWtTd2lwUHBhbkV5TGpDbVMyVnRRSjVnWlFBMW9IVjkzV2Y0OVVGVXNEMlU4MTJKdElTZ2ZhU01xLVpCaTlkTFhzRWNTcFhNWnBhaDNvZ2xOWGpSYl9pV3lLeEs2UV9hSk55TWJUeXV2ZFdRY2pDRHdta1dzeXM1VUtnV1lMcm5qRzhBWF9IV1NSWnVSNGI1YVpQa3NVeHJ0S3lJZUw3U2s1clMxc1NNdXZlX2gxLXBBZmxZN2dlQkhjR0hEUw?oc=5",
+      "thumb": "https://i.ytimg.com/vi/wsZucng4UAQ/hqdefault.jpg",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 7,
+      "keywords": [
+        "OpenAI",
+        "Sam Altman",
+        "artificial intelligence news"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+          "fonte": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kOTVXM1dpbzZyS3lOVnlHTFBkQlIxZUJDTWRoZ1doeEg2TWl5czhzWnVsWWRuclZLcThWM3RjN3J0Ym5nWEdHRl9LM0cyckVyLW9aWGxMU05XbVpVcThqVEZIYndSTm04V2tLUll6QVV1YVlaUWc?oc=5"
+        },
+        {
+          "titulo": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
+          "fonte": "theguardian.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEdoQ2QteHUtOWkzSF9uZ0NTcHNiTk9MREpyX2NVbHdicXBYbnFEdXpaVVRxNmR0cTJMdXhPaVZ0QXl5ZmpobnZ4RlBkTU1CLUczWHZES0NfM3BlQngxT18wcjE2RUgzdHVuc2c3Y1A4SjI0emswb1FOejV0VVprTnNMZjEzUnZwdlR0RXhCUnlVdkZWbktWMWRWSQ?oc=5"
+        },
+        {
+          "titulo": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
+          "fonte": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEdoQ2QteHUtOWkzSF9uZ0NTcHNiTk9MREpyX2NVbHdicXBYbnFEdXpaVVRxNmR0cTJMdXhPaVZ0QXl5ZmpobnZ4RlBkTU1CLUczWHZES0NfM3BlQngxT18wcjE2RUgzdHVuc2c3Y1A4SjI0emswb1FOejV0VVprTnNMZjEzUnZwdlR0RXhCUnlVdkZWbktWMWRWSQ?oc=5"
+        },
+        {
+          "titulo": "Sam Altman says OpenAI IPO won't happen in 2026, cites safety concerns",
+          "fonte": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9waVhtd0t2aElMREtYc3dCeHBKbFZ6bUZlQTk0TDA1dDlaTDRudzFUWUhRckdpSW5YVnV2RjdDSGVEMm9YZ2I0dElhS0pMdklVWDd4d0h2eGVFR1ZURWdSLXYyNzE5ZTNKTU9HaVRB?oc=5"
+        },
+        {
+          "titulo": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+          "fonte": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb29LUUQ4aXFETXNZcElGd0l4aW9NOElzVWo0R3ZTSVpfbm5oc0hpS0xON1BwZkRHWlFLaTVNNFo0UTV1SXdIdnk2dTl4UVJEeV80R2tlWHpVbFpfTXk5cUdIam54YlkzczcySUJQbWdHSlgtZVNzOGI2emRTTjNScnd1UUVUcm1XZFRjbENwMENlVWEzWFE?oc=5"
+        }
+      ],
+      "score": 31.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "A OPENAI ACABOU DE LANCAR ALGO QUE MUDA O JOGO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "13/09/2026",
+      "video_relacionado": {
+        "titulo": "AI Leader Urges Industry Slowdown Amid Growing Safety Warnings｜TaiwanPlus News",
+        "url": "https://www.youtube.com/watch?v=wsZucng4UAQ",
+        "fonte": "TaiwanPlus News",
+        "views": 101
+      }
+    },
+    {
+      "id": "f2a2ba86ef14",
+      "tipo": "noticia",
+      "titulo": "Elon Musk, Sam Altman back Anthropic CEO’s call to slow down AI development",
+      "fonte": "thecable.ng",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlFZU1lUT2tPdE5CU081MnZ1eTBNcFFLYUJXbWE0cjRyeFI5b0ZvZHh4Ri1ZNG8tMHRrZzZNNHBLd3F1eGxoSFh6MHliay1vbzc5RmxkbXU4SjN3cU1QdW9SN3NoSThTMk9UTl9HcW1tRDNMTGludWJLbnRTdnp5R25rRVhUT0RPYmEtRFFOQkdiQk9EbFhMTl9JSFdjM1U?oc=5",
+      "thumb": "https://i.ytimg.com/vi/0ZEg2YzKBvk/hqdefault.jpg",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 6,
+      "keywords": [
+        "Anthropic Claude",
+        "Sam Altman"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Sam Altman, Musk back Anthropic CEO's call to slow down AI",
+          "fonte": "Rediff",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNW84djZCNHlHdGsxaUtXbnMzeTE2QmxSUzVsRlRhdDJjWkF2VjF2cmlJdERDckExeWlTV0VZXy16RHB2bE5fWVFTdVo2NkJNXzc2aUdkWnhLTXNfVjBMR0N1cURUbVA2bFhmMlRDR2V4UmRHd1R3TUxDejJ6Z3JyZFZUNG9menFNb3ZTcW1HbEhGZFdNYmtZWGtveVBEc3BuT0lpdE5YRVZrX1hUNUlvaXJ1bE1FMTdXZS1abDRLdXZGMXZoQUR4dkY2cUY4MUZ2bTl3UUxOaw?oc=5"
+        },
+        {
+          "titulo": "Sam Altman, Elon Musk back Dario Amodei's call to slow down AI development",
+          "fonte": "Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ1F2bS04ZmM2LTNEdDdnZXdZUDAtaWFicm9UYkttakt6R2hxdGZjWjI0R0NlWGt1cmN3UFVwai03bkg5MGZPMFdvaXV1bnV2RXJ1cHB6c0N5WTllUUJNOGtZSXpNTS1jTjRWRW56TmJyTEFXNkRiWWp2Y1lZY0UxOVJZd2FkQzVyRjFfa2tCVGtQQ1lhZ1VfeVk2bmJRSnZfRzcySHAzOXV0WmNzem4xQXBGbnNybEQw0gG-AUFVX3lxTE1oY19XLTE4Ykc1bWRFeVRTUUIxUUZNNzdTVU5RM3FvLURnWjlPQjBHNS1hTk5ZNzY2bTJSQ1BJcDJCUFRvOUFPOWZEN2FNU1VPZUV0a1JENTZTODJFZEdKaDdLcFdaTV9mQWxyQzFOSkVMVVJObU50SXRYbVN2QlhuajlHalA2QXZWckg2SGdwTlM3Z0N5empmam5sS0ZnU0dNRnNsNHVWWE51aldtMkJBRWs1NUo2QUtHLWlOalE?oc=5"
+        },
+        {
+          "titulo": "Sam Altman, Elon Musk back Dario Amodei's call to slow down AI development",
+          "fonte": "firstpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ1F2bS04ZmM2LTNEdDdnZXdZUDAtaWFicm9UYkttakt6R2hxdGZjWjI0R0NlWGt1cmN3UFVwai03bkg5MGZPMFdvaXV1bnV2RXJ1cHB6c0N5WTllUUJNOGtZSXpNTS1jTjRWRW56TmJyTEFXNkRiWWp2Y1lZY0UxOVJZd2FkQzVyRjFfa2tCVGtQQ1lhZ1VfeVk2bmJRSnZfRzcySHAzOXV0WmNzem4xQXBGbnNybEQw0gG-AUFVX3lxTE1oY19XLTE4Ykc1bWRFeVRTUUIxUUZNNzdTVU5RM3FvLURnWjlPQjBHNS1hTk5ZNzY2bTJSQ1BJcDJCUFRvOUFPOWZEN2FNU1VPZUV0a1JENTZTODJFZEdKaDdLcFdaTV9mQWxyQzFOSkVMVVJObU50SXRYbVN2QlhuajlHalA2QXZWckg2SGdwTlM3Z0N5empmam5sS0ZnU0dNRnNsNHVWWE51aldtMkJBRWs1NUo2QUtHLWlOalE?oc=5"
+        },
+        {
+          "titulo": "Elon Musk and Sam Altman back Anthropic’s call to slow AI race",
+          "fonte": "The Times",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDZQX2ZZTW5HUXpXbzVZTGxlaDhpb0IyYWY4bFNXWnFYQ0VLcnE3eXBNb28xQ0pLU05KRy0yRkcxSG9SWjg0Z2paQlZadS1FVDRFNnM1TWx4dEZkb0F4Qmo4N3FYTWNNSjZlQ0JEZ0EzNnI3T18yNTE1ZGpfWFpaUkhxZ0hySjN4WTBSTG5Qa2NDcTdkTnlrcmI3NjZ2Ukhnb293NmJBZU1fWkVkSXB0ZzJ1cDJqdk1QLUkwY21n?oc=5"
+        },
+        {
+          "titulo": "'Dario is right': Musk and Altman back Anthropic CEO on slowing AI down",
+          "fonte": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjk4TTdkdmFaRHVDUHBMXzJtZ25FWWJtVnRPYm15VlhFVmFydDRKZ2luM1loZEVoVjJEVHgyVk52bTZUVDA5ZkF2OS14M0g2WkNBZ2tqVDB6MGRFczZpN0V5WVladEMyT3FyeGRpUlN3dE9DRVZaamd3cXFQdFhuVmp3eGltRGwteF9YT2VsZ1FHWWFfM01TS1lzLVo2c1VIbDVNX1o0bG9STXdQSkd3b0l6YURLbGRxSmJMeUJR?oc=5"
+        }
+      ],
+      "score": 25.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "TODO MUNDO FALA DISSO: O QUE A ANTHROPIC FEZ AGORA",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "13/09/2026",
+      "video_relacionado": {
+        "titulo": "'Slow Down AI': Elon Musk, Sam Altman Back Anthropic CEO Dario Amodei's Call To Slow AI Developments",
+        "url": "https://www.youtube.com/watch?v=0ZEg2YzKBvk",
+        "fonte": "NDTV",
+        "views": 14330
+      }
+    },
+    {
+      "id": "9f0f52ed297c",
+      "tipo": "noticia",
+      "titulo": "Anthropic boss Dario Amodei calls for AI slowdown",
+      "fonte": "DW.com",
+      "local": "Reino Unido · USA · EUA / Mundo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE1ZYk0xbVVWVzJTZ3lCblZLZ3ZxMTJwUXVYUkI3VUY1SnNhbDVNNkl2eXFQTkV1cU5sclRUYjJXSHliajREVWVHMkhWSzM4MUNxaG9aN1A5YmN4ZEJkQUFPVDFEQnhuN2NMbDN2ZXhFS1ZpVjFSUENGMGwzNnFjWC1KLWVkQ2oyMHfSAYoBQVVfeXFMTXBCX2VWUXNtVDc5Q0Fyd052UHlEeldEX0s5Tzd5UTVWdlRNajlJd1MtSDlYZkxvVEs2N1FVNlNVYWJvelg1NUR0YkJvdF8xYmQwbmxWdnZMV3VULTFTZHNURDFCLXY5bHJrR3duYUlRU0xEWDFJT0lTT3dGWDBocTFZMDVwV2JhWnVn?oc=5",
+      "thumb": "https://i.ytimg.com/vi/aAPpQC-3EyE/hqdefault.jpg",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 4,
+      "keywords": [
+        "AI regulation",
+        "Sam Altman",
+        "artificial intelligence news"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Anthropic Boss Calls for AI Development to Slow Down",
+          "fonte": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkhoTW51dkEzaEVTSVlPeDhzOWtDR0RzMEwzempaZGVKNm9TVS1Mb2pwY2xEeERrY0NuSTNwLUpuRUJUX0dhZlR2U09BNEFaXy1pSnlJMG1vdUhVNDl6V0pwM0tmN292ZVBLRVl2N1FxWlFVOUdpYl8wZjcyY2pGekFLWXNjdzU3YnlGU1V6cHl4Z05tN3MzcmFDZ05sRmFt?oc=5"
+        },
+        {
+          "titulo": "Anthropic CEO outlines plan to slow AI development",
+          "fonte": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRXpqNFZDc2QteVhod3loRFF3MlFuZlg0dDA2NUpmbEM0aHk3YkNMdEhfR2JoM2xFSjlHaFotQUhTNlpoZWdRRWNiaFJPSVM0NjVfZkZESFdyUTBSNExYUi1zbDRBTDFjRWdMaGdjT25VQUhoSDEtNnZpM2hZZVVLTmdFQUFibnZ3T1dR?oc=5"
+        },
+        {
+          "titulo": "Anthropic CEO outlines plan to slow AI development",
+          "fonte": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+        },
+        {
+          "titulo": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "fonte": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdElVSEo0RkVQUHNTVk1LX1ZLc2hRdGlRejlLSDJ1SXE4UXg4TlZMaWM3WnlQY09GUjN3MjR2NlRrMGhZaFAzdk9ScGE2d1kyR0dPSnQxcXNmQ2xW?oc=5"
+        }
+      ],
+      "score": 23.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE O NOVO LANCAMENTO DE A ANTHROPIC SIGNIFICA PRO SEU NEGOCIO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "13/09/2026",
+      "video_relacionado": {
+        "titulo": "Anthropic CEO warns that without guardrails, AI could be on dangerous path",
+        "url": "https://www.youtube.com/watch?v=aAPpQC-3EyE",
+        "fonte": "60 Minutes",
+        "views": 1191036
+      }
+    },
+    {
+      "id": "d627e00a2295",
+      "tipo": "noticia",
+      "titulo": "NASA and IBM Launch Lunar AI Model, Space Brief 13 Sep 2026",
+      "fonte": "KeepTrack",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PTldTUDdUT0NxazFQSnZuUDItY1QwNjh3S3lMaHVNVUV4U1F2eF9TckxoQ2l1ZXgybUV0d2FTUlFUZWJEb2dLN1ZfZ1VqclRXdU9wcXFPVGxNLXZqZlUtazBQaUJtLUU5R2c?oc=5",
+      "thumb": "https://i.ytimg.com/vi/fJf6L1SwXso/hqdefault.jpg",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 6,
+      "keywords": [
+        "new AI model launch"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "NASA, IBM launch new AI model for studying the moon",
+          "fonte": "Space",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVBaUVBqTU51Q0JpYnMwcjdCS2VIVFEwa0dldDdVLXpQTm5Nd2NtMkk3Z3pfMkFnUFRmQnM0bzU2TEZ4OVlYNEt5VEgybFZVaU9WT2NYN3NEM3h2ZlVQcTNJSlpVOXlUY3NtNnhMbHl4NzVSTGR4MURtQ192Rks5eXZEYldvcmRWWGoya0VNTkM?oc=5"
+        },
+        {
+          "titulo": "IBM, NASA launch AI model to map Moon’s ice, craters",
+          "fonte": "The American Bazaar",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWV3REpnT1BQR1RUZHo1RThyalBwUlB6U1FLQnBGY0lUVGgtdmhpZ2dzMkxQSDVCRHZUMjZleXFzVFpyZVN4T0JlN2JBMThtTE1pMmo4U2RFME1vLWZfTXdkU3pGSFhLRWd3V2NlNC1YSFJ0UTh5alRpVnNqZGtlNFhXeGUtTEttZENxcDg3Z3p4WngxaDl5RWpHVDhsMFBhS3pZ?oc=5"
+        },
+        {
+          "titulo": "IBM, NASA launch AI model to help map ice, craters on Moon",
+          "fonte": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHVoaUpvT3dtcTlFZHJyUWV2TWUtSU5xcmpMTVNkTzN2dHF6ZGpzMzZrbThHUmNXU3hRV2IxNk5XQVFFMFVJMDBTZUpsWThDdXNscnFyTW5IREtyYi1vSEFGQ2hOdFJSbTBPUXBUMURiSnRvbzFmTlRCTXpFY3B0cXR3UXVGclJWa1JyenNJYjRPZGNUd0JvQldR?oc=5"
+        },
+        {
+          "titulo": "NASA, IBM Launch AI Foundation Model for Lunar Science",
+          "fonte": "science.nasa.gov",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFlWQjYwaUlKUDJBcXY5dnVhMFBab2pnUGFpRVVrdU42b2NuaDhzUms2RDRsakc3RS0tSUpUV3prTWNRTUtqWnJrZUl1YXJLTFZGcVpBb0lLMlJKa2U1Yml0clEzT3hHdkVoM0lwMU9BU2ozcTRYeG80dlBRR18ycElfYXNUeFFQZFByb2ZiVkgtWkU?oc=5"
+        },
+        {
+          "titulo": "NASA, IBM Launch AI Foundation Model for Lunar Science",
+          "fonte": "NASA Science (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFlWQjYwaUlKUDJBcXY5dnVhMFBab2pnUGFpRVVrdU42b2NuaDhzUms2RDRsakc3RS0tSUpUV3prTWNRTUtqWnJrZUl1YXJLTFZGcVpBb0lLMlJKa2U1Yml0clEzT3hHdkVoM0lwMU9BU2ozcTRYeG80dlBRR18ycElfYXNUeFFQZFByb2ZiVkgtWkU?oc=5"
+        }
+      ],
+      "score": 22.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "ESSA IA ACABOU DE LANCAR ALGO QUE MUDA O JOGO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "13/09/2026",
+      "video_relacionado": {
+        "titulo": "NASA IBM open lunar AI & AI redraws blazar jet physics - Space News (Sep 12, 2026)",
+        "url": "https://www.youtube.com/watch?v=fJf6L1SwXso",
+        "fonte": "The Automated Daily",
+        "views": 8
+      }
+    },
+    {
+      "id": "7935d70a3979",
+      "tipo": "noticia",
+      "titulo": "Musk, Altman and Hassabis back call to slow frontier AI development",
+      "fonte": "Saudi Gazette",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MHB0WkI5SENPNnFyanZja1FXMk1UNjRvZko5VFFhZlJIMi1FZjlPdkd2bkNWV1A0N29Sek9CVUNReHVjZWpRa3dQYWt5SU9rNWdoaA?oc=5",
+      "thumb": "https://i.ytimg.com/vi/GSAoVOzh4WA/hqdefault.jpg",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "AI industry news",
+        "Google DeepMind"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Musk, Altman, Hassabis back Amodei’s call to slow pace of AI development",
+          "fonte": "aa.com.tr",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2p1OFptR0RHeXRtRnVSX2k4NjJwM21vUkYwUWJWY1ViLVM2VFdYMUlTRDRMaTB6Y1djc2d1ZENjaF80SjQ2Rks4TE1jZjU3SkpSOGY1dlppaGJURUl2MExSM3JUUVhvZHh0cVlQZURwbGFZNng3ZDZwcFY2Wm5zUHRJLVJFRjVnZkMtNXVzV3NzSTc2WjN3Njd2c2NPYXlOUUhMWkFEUS00cE5teDJCR0ZRZ1dUUUhTek1HYkZIaw?oc=5"
+        },
+        {
+          "titulo": "Musk, Altman, Hassabis back Amodei’s call to slow pace of AI development",
+          "fonte": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2p1OFptR0RHeXRtRnVSX2k4NjJwM21vUkYwUWJWY1ViLVM2VFdYMUlTRDRMaTB6Y1djc2d1ZENjaF80SjQ2Rks4TE1jZjU3SkpSOGY1dlppaGJURUl2MExSM3JUUVhvZHh0cVlQZURwbGFZNng3ZDZwcFY2Wm5zUHRJLVJFRjVnZkMtNXVzV3NzSTc2WjN3Njd2c2NPYXlOUUhMWkFEUS00cE5teDJCR0ZRZ1dUUUhTek1HYkZIaw?oc=5"
+        },
+        {
+          "titulo": "Rivals Altman, Musk, Hassabis back Amodei call to slow frontier AI race",
+          "fonte": "PRESS Insider",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajZsbm5GOFA4N3FWQ3RmUzQ2RXliY3p4V3dMLWhaQV9qR3RDcTl5TENoYV9Pa0M5R0YyOGtnYXZxWXljazVuR3RqM054SUdDYWN1b1hIai1mbFRpZHRLTmIzRHgxODlTRXZKNFpIMV8zOEthUlYyM0ZDNkJ3LWh4RmlNY19Bdks0bVhDS1ZxdU9QR1plSnpqVkxJRXlNLUtIeks5R0tkLXJvQQ?oc=5"
+        },
+        {
+          "titulo": "Sam Altman, Elon Musk back Dario Amodei's call for AI industry to slow down or risk losing control",
+          "fonte": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaTJkRnd4QUU3ckVOQnFVamZxeWFhU3RadHBMZnRNekdpSTVRc1EtVk93RlI3MmttbWRsMU5LNXlleWRabGFqTzVpVko5VFFnU1hvR25CM2lWRy11X05MUGhIRi1RVGxIb0ZVeXphRFRmbUdyV0JmRW5Jd1FMYS13ZjZ2VEJ3MGFMR2pOQ3ZaOG1RZDE1SkszNHdxTjVsWm16QVJkb2JNcVpyTHZaZ0lERjBJclpYS3hkSG8tQm5ldi1uYzFzMHc0MnI4Snpjd0J1VjlCallmdTNZTkdnbGdRblhleC1ZVHRnajlwNtIB8gFBVV95cUxPcHV4U1Vib3AyM1R6dlJSdHBoUXNPallSY001YU9DLUxDcDRzcU1EQ3BmYl9nSDJrcEplZ1g1YzRWaG9YYVY5YjFJQ0pCaWdXY2NPdUQweHJmUS1tNlNFNV9CYUtXVDVEaHptR0lncTZZdHVlTGhTVF94d3NFTEd4aFdObVppbGRsZjV1Vnc5RkU0NXUtQllFMmZOeEZXdGZXV190WEw1bnltQ1liVTd2MW02T2pTZWgwdGpYamtpOWVfeUpObzdVRTFZekQxQ0FfRXIwVVRIb0IzNVZIS3Q0ZGJ0RUlzc2xMLWxlNkJpdWJGUQ?oc=5"
+        }
+      ],
+      "score": 21.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "13/09/2026",
+      "video_relacionado": {
+        "titulo": "Altman and Musk Back an AI Slowdown  Here’s Why",
+        "url": "https://www.youtube.com/watch?v=GSAoVOzh4WA",
+        "fonte": "Technology Acharya",
+        "views": 0
+      }
+    },
+    {
+      "id": "eb462a337a15",
+      "tipo": "noticia",
+      "titulo": "Sam Altman says OpenAI won’t rush into an IPO, cites AI safety concerns",
+      "fonte": "thecable.ng",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakdDcUduVi01ZmxGcHRMT1JBNG5wWm9OdUZUOXVvczM0Q3hoV25LMTBBb0dKOTlJXzVFbWJFMXZVNWg4TU9DekFObnhOQmdTQkhvMWZGRU85UzA2c0Y4ZVE1UmtYbVpjVTd1UVJwbHlFWVcwUWU4MGFTWktaLXQwcmFQYzRaMXFxMHhIdGVPekFkbmRuYlVwMmhR?oc=5",
+      "thumb": "https://i.ytimg.com/vi/U5j_26_JYWg/hqdefault.jpg",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "OpenAI IPO not happening in 2026, Sam Altman says, citing AI safety concerns",
+          "fonte": "firstpost.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS05LNXRHbjRtVzBfQXN4Y2d2d1JUaGNRcHFmRnpMcVF3TlFQbElIWkQ1WDFlS0RuOHhFMkFvQk13d3NmUF9ZTjdwMFZYQjVwTUtGV0tjZDFWNlY2VUhpQzRjRHRQcUpfYXFUem8wWlpoRi1xMDA3QWh3a0MtWVc3ZDVEbG9aVkNLZGt0VTFB0gGTAUFVX3lxTE1TYWNUc0REOUVGSF9fWDZvXzJwRU44NHNlNDdEVEh6VlhCTUd4aHJDdGhJLUgyUWM5cVlEZm5xckFLZE1nVy1zZ0l0ZEM5ZDYySjBfR1dkVGFNTzBfakt3MTZ1SzduQ0s0MkpiT3E0aWxkM0JVdk1xVng4enI2QnNrcEI3TGRlUzdXRENQelRuWEJWQQ?oc=5"
+        },
+        {
+          "titulo": "OpenAI IPO not happening in 2026, Sam Altman says, citing AI safety concerns",
+          "fonte": "Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS05LNXRHbjRtVzBfQXN4Y2d2d1JUaGNRcHFmRnpMcVF3TlFQbElIWkQ1WDFlS0RuOHhFMkFvQk13d3NmUF9ZTjdwMFZYQjVwTUtGV0tjZDFWNlY2VUhpQzRjRHRQcUpfYXFUem8wWlpoRi1xMDA3QWh3a0MtWVc3ZDVEbG9aVkNLZGt0VTFB0gGTAUFVX3lxTE1TYWNUc0REOUVGSF9fWDZvXzJwRU44NHNlNDdEVEh6VlhCTUd4aHJDdGhJLUgyUWM5cVlEZm5xckFLZE1nVy1zZ0l0ZEM5ZDYySjBfR1dkVGFNTzBfakt3MTZ1SzduQ0s0MkpiT3E0aWxkM0JVdk1xVng4enI2QnNrcEI3TGRlUzdXRENQelRuWEJWQQ?oc=5"
+        },
+        {
+          "titulo": "Sam Altman Says OpenAI Will Not Go Public in 2026, Citing AI Safety Concerns: 30 outlets compared",
+          "fonte": "NewsCord",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWVUxSGpMcWRBeWdMNURJakFYWnUxUjU5X1N4RFFYa1dMbWFicVJ1YXNBRmR5OVZ0Z0l1cURrOUNEejBhNU5aelp0a2YxaWlrRVFEei04TG91aUJfbnBLTnFXWXpJYmE0cWZnLXhRRU1qOHdCR0FmR3dzOGtSVHdMdzQ4SlFCQjVQNlNMbE1INGd1VzhBQmpfc0tXdUtzaFdZWGVGUUdsSkNOeHBxajd4ZVpRaUY1TTR0OFBLQ3lsOXhHb0NtVm5RRXhYSEZleXdRWHdUWlVlNkxCakw0OWc?oc=5"
+        },
+        {
+          "titulo": "OpenAI CEO Rules Out 2026 IPO, Citing AI Safety Concerns",
+          "fonte": "Northeast Times",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3RwbVFfS09fUUo2XzJRU3I2X0pnVEUzYnZCS0d5Y3FCd05PeUVHN2JoT2ZMRnM4VEJ4azBSeW9uTW05Z2ZESHhOdmQ1aXdmaVJwRXA1Q0RzTG5XQzFLbm9xUzRlcWZsMUFhY3dVNUp5a3BwblY4Qml1NF94TXJhb0gyaVlDdHNaYTJ5TmtsMjc3NTFNSXhmMnN3?oc=5"
+        }
+      ],
+      "score": 21.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "TODO MUNDO FALA DISSO: O QUE A OPENAI FEZ AGORA",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "13/09/2026",
+      "video_relacionado": {
+        "titulo": "News Digests Updates from 5th of September 2023 worldwide, tech, life, entertainment",
+        "url": "https://www.youtube.com/watch?v=U5j_26_JYWg",
+        "fonte": "News Source Crawler",
+        "views": 3
+      }
+    },
+    {
+      "id": "82e617531ecb",
+      "tipo": "noticia",
+      "titulo": "IPO Delayed: Sam Altman Says an OpenAI Going Public in 2026 Would Be ‘Ill-Advised’",
+      "fonte": "finance.yahoo.com",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjJ1SFg4UWo3aVpUQXBVckd2WU8xMjhZNUdMb3VjT2xubkM4MGJCVUluR1kwa2E5dW5HZ2lkcENfRVRlcHNfdVFsTFQ4MmhYMlBOcER0R3lKbEJ2d0R2el9MUUVJX3RLVEN5SFlxUVphNHRhLTkyNW1vbk9sbTQ5UkNwZEFSU0dreFdTRjBqQmdsT19Tdk00?oc=5",
+      "thumb": "https://i.ytimg.com/vi/xUbDl_rbiqQ/hqdefault.jpg",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 4,
+      "keywords": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "IPO Delayed: Sam Altman Says an OpenAI Going Public in 2026 Would Be ‘Ill-Advised’",
+          "fonte": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjJ1SFg4UWo3aVpUQXBVckd2WU8xMjhZNUdMb3VjT2xubkM4MGJCVUluR1kwa2E5dW5HZ2lkcENfRVRlcHNfdVFsTFQ4MmhYMlBOcER0R3lKbEJ2d0R2el9MUUVJX3RLVEN5SFlxUVphNHRhLTkyNW1vbk9sbTQ5UkNwZEFSU0dreFdTRjBqQmdsT19Tdk00?oc=5"
+        },
+        {
+          "titulo": "Altman tells Fortune OpenAI will not go public in 2026",
+          "fonte": "Macau Business",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYzZ6SEc2Wkl0YllNTUgwUW94OTRwY3RaRkdrTUhhelF1UFlmdGg3bnJibTdlaTB5ODVCamc1V2dkY2NvWi03QlpWOUp2ZFJqMl9CbTBEVVdYOEI1Zk9CMU5abnVrT0VQMEdpc05HLVBQamNSRnRNSzlHaGN1dmVBUTJfVkZja0FO?oc=5"
+        },
+        {
+          "titulo": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+          "fonte": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNUsyRzdaaERCOXV2aTgtMllKLUZkUGdfczhvQTQxd2VORE9wUmktY2xQaDNoS1Z2NzZya0xZQ1FzeDJQRThKNDVrRXlCdVJnN3JCU3ZrTGluODhwZGlsVTF2NURhR2RWN042Vl9pRDFnS3daTXJfcU55ZW5lMW1MdDdqaFRTT3FjMy1mLWo1V3dZZTdCa1JRb3N4aw?oc=5"
+        },
+        {
+          "titulo": "OpenAI IPO Won’t Happen Until 2027, Sam Altman Tells Fortune",
+          "fonte": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1FpOTJLTGgxcVF4UndsN2pXV2wzNUVxU2NZc1RENmV5UXZISnRiaWx4bW1PSml0aHBqYkl3RHBDVWhra3QycmdsakVoX2pzUE42dHI2TGhva3hlYTZHZHZYTGtyMzYzaDh2RzNya3BzZzVwbWJ4N2N6alRvbG9BSVY4LWlIZ2xpbHBkZEZvalg?oc=5"
+        },
+        {
+          "titulo": "OpenAI IPO Won’t Happen Until 2027, Sam Altman Tells Fortune",
+          "fonte": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1FpOTJLTGgxcVF4UndsN2pXV2wzNUVxU2NZc1RENmV5UXZISnRiaWx4bW1PSml0aHBqYkl3RHBDVWhra3QycmdsakVoX2pzUE42dHI2TGhva3hlYTZHZHZYTGtyMzYzaDh2RzNya3BzZzVwbWJ4N2N6alRvbG9BSVY4LWlIZ2xpbHBkZEZvalg?oc=5"
+        }
+      ],
+      "score": 21.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "TODO MUNDO FALA DISSO: O QUE A OPENAI FEZ AGORA",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "13/09/2026",
+      "video_relacionado": {
+        "titulo": "Amodei Asks the Industry to Pace the Frontier / Altman Rules Out a 2026 IPO|2026.09.13 AI News",
+        "url": "https://www.youtube.com/watch?v=xUbDl_rbiqQ",
+        "fonte": "藍 | ニュースインサイト",
+        "views": 19
+      }
+    },
+    {
+      "id": "d2cfb2f033a2",
+      "tipo": "noticia",
+      "titulo": "King to ask industry leaders how AI can be developed for ‘good of humanity’",
+      "fonte": "Largs and Millport",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLUdsb3dab2hpdHhxc09oQW1IYXlPSEhmTXhfYVBtRTBRdkQya2tlaktMWlpSUlVJdW94cHpMV3B3ZTBYTWtDQ1JRS3NPR0JGbUhKZ1NNZ215UTFsLTUxR1VsZlJROVRHTGJRdUxDSjAxelNEeGx0a0s4WnM1Z1JRWGNrbEE5ZXp0UDFOWGpURkJFVGZvQ1NjSmcxSXRxR180dEQ3dTRlTVdQZmNPZkd2MFlZT1V0ZmJh?oc=5",
+      "thumb": "https://i.ytimg.com/vi/SU_pRFrSUsc/hqdefault.jpg",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 4,
+      "keywords": [
+        "AI industry news",
+        "Google DeepMind",
+        "artificial intelligence news"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "King to ask industry leaders how AI can be developed for ‘good of humanity’",
+          "fonte": "largsandmillportnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLUdsb3dab2hpdHhxc09oQW1IYXlPSEhmTXhfYVBtRTBRdkQya2tlaktMWlpSUlVJdW94cHpMV3B3ZTBYTWtDQ1JRS3NPR0JGbUhKZ1NNZ215UTFsLTUxR1VsZlJROVRHTGJRdUxDSjAxelNEeGx0a0s4WnM1Z1JRWGNrbEE5ZXp0UDFOWGpURkJFVGZvQ1NjSmcxSXRxR180dEQ3dTRlTVdQZmNPZkd2MFlZT1V0ZmJh?oc=5"
+        },
+        {
+          "titulo": "King to ask industry leaders how AI can be developed for ‘good of humanity’",
+          "fonte": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0pLcGt2bFJ4Qjk2MDcxbEFFclhQUGVyVzVvYkFlYnlmaXZWUW12M3lETEh1aXlvaEQyMWFBMWdtZ0dPTDZwdWxJR2JpNzcyZm4yeVZDY2xyazNMaVRvVWJTUWwtS2FQOU5Gd21lcFJoNnlucTQyeFc1UUtKMUswTGo1NA?oc=5"
+        },
+        {
+          "titulo": "King to ask industry leaders how AI can be developed for ‘good of humanity’",
+          "fonte": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUxsRlM3NzE4TUxoMkwzY0I4R1hHRF9rTy1MajN4eEQ2VkxvN2NNdVpsSTMzYWtqQ3lnMXdIZUxrdVBVTGJYd3JRMW12Z0JoeFhSUmVnVU4xeDlzR21GR3hkMjZ2Vmk3VkRtYmJmLUFiaENZd2YzLW0yS3RNMHEwRzZ4dzN6QmFMSFVMbXpZSjJ3UWpoYlc4ZGJ3ako?oc=5"
+        }
+      ],
+      "score": 20.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE A IA MUDA NO SEU PROCESSO COMERCIAL",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "vendas"
+      },
+      "data_br": "13/09/2026",
+      "video_relacionado": {
+        "titulo": "AI Leaders Are Warning Us: Is AI Moving Too Fast? | AI Ethics Today, Sept 13, 2026",
+        "url": "https://www.youtube.com/watch?v=SU_pRFrSUsc",
+        "fonte": "AI Coalition Network",
+        "views": 0
+      }
+    },
+    {
+      "id": "28fbfef00a0f",
+      "tipo": "noticia",
+      "titulo": "OpenAI Will Not Go Public This Year, Altman Says in Exclusive Interview",
+      "fonte": "Northeast Times",
+      "local": "USA",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcV9mVURfZ0JZd1d1Rmoya0FiTzFOejdQVzNreFlnbjNIZWxmM2FTVUV0andjODVLcVpkVGtBLW9JNDBtaTM2QzBCLWFNRkpRcTI0cUFlVG9WWjQxcm9RU21lT1ZZSVpPWGtoQUVvNVFPVWtCNl84RGQwWWFaRzdWN245bnV1YWhkV0ZrUERMX1lLMmlwRDFSZEJHdXpUU2I3dk9rY0Z3WG9hWlRFeWc?oc=5",
+      "thumb": "https://i.ytimg.com/vi/2my-NU6LuCM/hqdefault.jpg",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "‘Right now would be an ill-advised moment to go public’: Sam Altman rules out OpenAI IPO in 2026",
+          "fonte": "The Statesman",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1dJNHd4UkpPQlEwN0NPTldZcWlmOVFzR3pVdEQzNlhvSUhENHgwVW9ETE51Tk5xazlOZXVpcEdqZ1RpRTdKcE5nUTEtblQzWVdIblJpOXlKdk52QmZHWGU2bzQyei1ta0tLaEJxMmRCVzZHeEdKYm1qS29aamUtbzdiNDAtenFuVUFCczBTd0FyT0xoZlV3dm5CejRPbk15RU1kZ0xSLWlNMGpZZ0FQQTFfXzMyQ19CcmlHZm1fM0t5SUtSZlVDQnFWVEl6el9ERmhuajFoN05QZmhP0gHiAUFVX3lxTE5sakk4WER3ekZfeE5QVnFXRURKdjBieGlLSGJlYTE4M0xnaEFoNjk4Sm1XbzNiZTQ4U29EbmNyTnJnWlA5TlZtSDNTSW5FZXhQaUd0cGhYUWt0dVRyQk5fOW5jczNHVlZ5OXlYdGNsdUJOSWJ6TWh5dzZoa09sa3VQZ25aV3hFekNJTXJwemZvcmNxcGZ0Z1ljcVpFcVRQT0FLZEJqYzBKc2MtT3BMRWtTdDJzbEVqaVoxVmNKcTFnRl9nZTdqUTdER1paWE9VNFRjeGJ6U3haMERWMURYLUlRU3c?oc=5"
+        },
+        {
+          "titulo": "Sam Altman Says It Would Be ‘Ill-Advised’ To Take OpenAI Public In 2026",
+          "fonte": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0xFa3JZWDBLem5XZ3kzdmdBeUJwRGFQelFBbkI3ZVRoM2lDaXB1RmYtZTNZam1fM1RCNlp5eXA2dVhTUkRRTzBPWHNfWTlFZVhtMjNrSDl3VjJzVDNLUURDUEozUklnS0h1MFh3RV9aMFFJM2tzeENlWWhYRnlock1leng2M0JBNWxfRkRMSTNPUlFYNlVIbXo4ZnZaZGJjVU9FMkJ2TQ?oc=5"
+        },
+        {
+          "titulo": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "fonte": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDYteTJ4VHRtbkNDNEhiVHFralh2cTZ2TUZIQ0E4aVNmcEctV1dxQjVuSmxLZGdrelcweXNvSEphQ1l0bmkzSjdzZC1NeGkwSE5JNmpRY21pVG5reDhwaklRVnFXY2VoYmJuRHBfc2lXVWIwTnVycTBVNFZzdnRjRFFnY2dMb1NSaktMNkdraEVlWlJKYmY3cms3VXVTSzJqa256Q0dn?oc=5"
+        },
+        {
+          "titulo": "Sam Altman: OpenAI won't go public this year as IPO now would come at an 'ill-advised moment'",
+          "fonte": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMm5STnhuRG5MT1ZWUjlzeWNqVEFGTjVxaVdkX2hzdjF5VElRajFKd3B2NlkwcWxNSFgwOVczb1l1N284MVlhNTRtMFN4T1dyY1NNVmdFeDBRQVdGWmZmRjdYM0NuTTN5SXhvbi1UaE55TDhCUmdINEZ6c2VobFZQX3ptWm9sTkE3UjB0bDZzNkxlLUxzZHE3N25R?oc=5"
+        }
+      ],
+      "score": 20.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "TODO MUNDO FALA DISSO: O QUE A OPENAI FEZ AGORA",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "13/09/2026",
+      "video_relacionado": {
+        "titulo": "Altman: AI Beyond Human Control “Absolutely” Possible, Vows Safeguards | Titans and Disruptors",
+        "url": "https://www.youtube.com/watch?v=2my-NU6LuCM",
+        "fonte": "Fortune Magazine",
+        "views": 217621
+      }
+    },
+    {
+      "id": "197d564b3549",
+      "tipo": "noticia",
+      "titulo": "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion — Dwarfing Hyperscalers and Wall Street",
+      "fonte": "Yahoo Finance",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzR5ZEtDVlZOSjhOd0RtTFBXZ2NrbjdCWmZDa2I5emwybU1VbVNWcTEwZDFoTkhpZHhkVTBGUlExVWhQSkdzbi1rdkg1ejNLampsdk4xaFVzanhvRVVqS1FIQjFxM2tLU01vWUMybXRLU0dHUnFQR1NuY0pYazJVZ05jRlMzVzczVmxHSllUOTBFQXJCYjU5SA?oc=5",
+      "thumb": "https://i.ytimg.com/vi/1_Wjx2yC79E/hqdefault.jpg",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "Nvidia AI"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion — Dwarfing Hyperscalers and Wall Street",
+          "fonte": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzR5ZEtDVlZOSjhOd0RtTFBXZ2NrbjdCWmZDa2I5emwybU1VbVNWcTEwZDFoTkhpZHhkVTBGUlExVWhQSkdzbi1rdkg1ejNLampsdk4xaFVzanhvRVVqS1FIQjFxM2tLU01vWUMybXRLU0dHUnFQR1NuY0pYazJVZ05jRlMzVzczVmxHSllUOTBFQXJCYjU5SA?oc=5"
+        },
+        {
+          "titulo": "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion — Dwarfing Hyperscalers and Wall Street",
+          "fonte": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXbVdUV0hxSW9PVzctZFBLcmNLaTFaMWRERjBfa0NWNTFoM2NmR3E2WWU1dFNLa2tpbDVsNW9HTEpCaW1sdjFGdnpHeDUxU09mUnZzOTdxSEY3THRPbFVndnYzaDU2RXpVS0tpUkU3akdzLTZ4c0lPVk9DMTA?oc=5"
+        },
+        {
+          "titulo": "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion - Dwarfing Hyperscalers and Wall Street",
+          "fonte": "247wallst.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbkJhVl9oRUUxWkJLTWZPMW1UTEY0dzFBak9SeTQ5VktqRXF1Y0NlUGxNQTRlZ2dBSHJTOGpUeTBIYTdMUTk0NklwUGdMbUF1YTRSMXdBdVdKdDdodGFKMTBrYkF1dXlGRHBpSlFESHhLY2hsN2Fab1pPTURYcFVfdFRsR1l2X045YU95cXluZkRFWEUzcGFYZzhDaVdjckJtdHVkdlpnRXFncG8tc1BZelZLdWFvNUh2WWlZTGhqOGJKOUg1R25zck5kcW93dFh3MnZ0TDlLb3p3WF8tblJF?oc=5"
+        },
+        {
+          "titulo": "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion - Dwarfing Hyperscalers and Wall Street",
+          "fonte": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbkJhVl9oRUUxWkJLTWZPMW1UTEY0dzFBak9SeTQ5VktqRXF1Y0NlUGxNQTRlZ2dBSHJTOGpUeTBIYTdMUTk0NklwUGdMbUF1YTRSMXdBdVdKdDdodGFKMTBrYkF1dXlGRHBpSlFESHhLY2hsN2Fab1pPTURYcFVfdFRsR1l2X045YU95cXluZkRFWEUzcGFYZzhDaVdjckJtdHVkdlpnRXFncG8tc1BZelZLdWFvNUh2WWlZTGhqOGJKOUg1R25zck5kcW93dFh3MnZ0TDlLb3p3WF8tblJF?oc=5"
+        }
+      ],
+      "score": 19.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "TODO MUNDO FALA DISSO: O QUE ESSA IA FEZ AGORA",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "13/09/2026",
+      "video_relacionado": {
+        "titulo": "How Nvidia Became the Central Bank of the AI Economy❓‼️",
+        "url": "https://www.youtube.com/watch?v=1_Wjx2yC79E",
+        "fonte": "MacroSignal",
+        "views": 22
+      }
+    },
+    {
+      "id": "056e46083f12",
+      "tipo": "noticia",
+      "titulo": "GPT-6 Astra: The next generation in intelligence for work",
+      "fonte": "OpenAI",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+      "thumb": "",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 3,
+      "keywords": [
+        "Higgsfield AI",
+        "new AI model launch"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Previewing GPT-5.6 Sol: a next-generation model",
+          "fonte": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5"
+        },
+        {
+          "titulo": "GPT-6 Astra: A new generation of intelligence",
+          "fonte": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+        },
+        {
+          "titulo": "GPT-6 Astra: A new generation of intelligence",
+          "fonte": "openai.com",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+        },
+        {
+          "titulo": "OpenAI’s next big AI model has ‘entered the AGI era’",
+          "fonte": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2hnTl9HSkEyWms5WjFLRmpfRW5acEMzRzRwQ01xY0ZKZ3ZiMG5sZk5QMUp5SVI2OWhkQkNlTUs2QVBzMlItaTN1M0VZbXVDYml2alVIUHNxc0hOcm85SWdUVC1XUFEwaEV2UGc3RlhwaWdEcElHcUZiZW5zLXFjUmpCQUFxanYtS2QxZThn?oc=5"
+        }
+      ],
+      "score": 17.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "13/09/2026"
+    },
+    {
+      "id": "0e5dd8fa735f",
+      "tipo": "noticia",
+      "titulo": "Sundar Pichai Says Alphabet's Cloud Backlog Hit $514 Billion After 82% Revenue Growth Last Quarter. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
+      "fonte": "The Motley Fool",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTThyVk5taXoxbTJCYkhRNVhHR0N1SWdzQjZ6ekg2ZUtqQzNzeGtVYy1aNnlCdDItaUowQW9Tc0JUZVNCaGotMkJrNUJfUk9MU3pBSFYwTGFCN0VwWkFvSFlBRjRrMktDN3ZwamRyY25ZT040aDFUZmVGdnF0OUhYaUJ2T0x6MWhOT2lVMXhfQQ?oc=5",
+      "thumb": "",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 3,
+      "keywords": [
+        "Sundar Pichai"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Sundar Pichai Says Alphabet's Cloud Backlog Hit $514 Billion After 82% Revenue Growth Last Quarter. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
+          "fonte": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVpsZHhsTWNoMjZFcjlBV1dEamd0aEZiVVROdkkxaXhnZHhmRlNKakNRUFJvYWFtNWs5LUNNZ1EtUC1tZWI5cDRPT0RBcUNHLWFaUGlwNF9EZzVFYmFEeV80d0otY24xbjlSN29CejVXNFlUV1ZueUhPRGxwNDJnR3dWZ19KVmNEOVpQMVJfSFBIS19iYXJGMTdPZ2VuTWpE?oc=5"
+        },
+        {
+          "titulo": "Sundar Pichai Says Alphabet's Cloud Backlog Hit $514 Billion After 82% Revenue Growth Last Quarter. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
+          "fonte": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVpsZHhsTWNoMjZFcjlBV1dEamd0aEZiVVROdkkxaXhnZHhmRlNKakNRUFJvYWFtNWs5LUNNZ1EtUC1tZWI5cDRPT0RBcUNHLWFaUGlwNF9EZzVFYmFEeV80d0otY24xbjlSN29CejVXNFlUV1ZueUhPRGxwNDJnR3dWZ19KVmNEOVpQMVJfSFBIS19iYXJGMTdPZ2VuTWpE?oc=5"
+        },
+        {
+          "titulo": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
+          "fonte": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFdSa1VLenR4SXEzeG9hQXF4UldpYXJnczRwaXBHTkJfRGVEZGhqLVVfNVoxZWxRQ0hzUGl6WFZPUG0wU21jemFCelN4WFBIMVZhc0dlMWp4WkloYjlBenhGTElfdVhlZjN6RmNZeFhJYmNvTUZ2d2tVZjlqSklyT1FGVDFOYmdLbVhjd19qTV82RmZyeFBKal9WMFRCUHE1aEZr?oc=5"
+        },
+        {
+          "titulo": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
+          "fonte": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFdSa1VLenR4SXEzeG9hQXF4UldpYXJnczRwaXBHTkJfRGVEZGhqLVVfNVoxZWxRQ0hzUGl6WFZPUG0wU21jemFCelN4WFBIMVZhc0dlMWp4WkloYjlBenhGTElfdVhlZjN6RmNZeFhJYmNvTUZ2d2tVZjlqSklyT1FGVDFOYmdLbVhjd19qTV82RmZyeFBKal9WMFRCUHE1aEZr?oc=5"
+        },
+        {
+          "titulo": "Sundar Pichai Raised Alphabet's Capex Guidance to $205 Billion the Same Quarter Google Cloud's Backlog Hit $514 Billion. Here's Which Number Actually Matters More.",
+          "fonte": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcm0zSUFGOFlxV2VacEhSTW82OTNtMVd4Ui1nVUNDZnpEdWwtaEZ2Q0hLUk9INmlCaFJraFJ4WWRqMkM4RmoycU1MT1VVSVdvOVFpUFRCNFFmTXB6TEkxSXEtODdPNmFiczV5aUlLRVF1NmFrNU9jVTRfZW9oY0NGUGI5OWR3SXFJYjRkeV9Rd0hkcXoyU3cwMw?oc=5"
+        }
+      ],
+      "score": 16.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "514 FORMAS DE USAR IA PRA VENDER MAIS",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "vendas"
+      },
+      "data_br": "13/09/2026"
+    },
+    {
+      "id": "878464a6f9b5",
+      "tipo": "noticia",
+      "titulo": "Musk and Altman back calls to ‘slow down’ development of AI",
+      "fonte": "Radio News Hub",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnFxUGhjbm40ZGdWUW1Fb3dUU0ZXQWdEazdlNm44Z3lmQkhpUmtra3k0a0FSSU5uWkhZWXVid0UwR3QzTXU1a3dlY01xWXRXTVpGaUdib0s5U0lLUlZOZ3NGTjNuVFpHZUNybWdGYWxxU1ZGdWxKdVNkaEpEMHNfU0hLRnBPd1NsblNYMjBhUmFXclFZcEdtd0pxNDRJREh6N0lFeUMyOE9QcVE0?oc=5",
+      "thumb": "",
+      "data": "2026-09-13",
+      "bucket": "hoje",
+      "calor": 3,
+      "num_fontes": 3,
+      "keywords": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Elon Musk backs calls to slow AI development amid 'extinction' fears",
+          "fonte": "metro.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTDZsMmxVX2NPdllQYzlBTWhDMU83RG90RlpxLU1LZms5c2RiaEVSU0c2cWlZbTBUMHVtcl80YjVsNHlQc2dYMnZtTXJHZm10dzBsTjhrN3NNVzdQODRiLVFUb0ZTTUYzblZkaVVTT1podGtneURNQk1mdHB4Mk00U1hmMjBUaGNGcVhpUzJCVGJrN3hQX3R5bnRHMjI3YjhMekR0N0lvc9IBrAFBVV95cUxNNmdyREp5T29GZkd6ZWtQUk4xeHRnMUt1aU5xZnFMdzBWTFFLaWVETVROTU9Tak9ncDVLcGJ3bm1nRlRJTlEydE91aWpsQVpYTXhIQlNDcExfTURoUU9rUHN0bjFCVU5iakt3alkwRmdKWjJ3aVppa2RTOEtlTDB0N21LLXNxN3ZpcVZIOGtndDdxQ1B6Rm4wQi1fbFE1RlBWRE52ZHlwM3dJcXFz?oc=5"
+        },
+        {
+          "titulo": "Musk and Altman back calls to ‘slow down’ development of AI",
+          "fonte": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1JxTjY0VEwzWHNUZjlGZ1pjVWJLeHc5d2dzYkYxTUg2TUs4ejREelY0UHVmeDhYMi1jX1Y5YkNqckZsa3NkcGRnS1ZkeVhHZHhETmdBVGtlbl82bVRNYWNxZWRjNlhtQVB6RzlWWWRteVVXRXA3dXNPS1RfUDlLeHVVcmp3V1hCZHNlVUpwOGxPeEtnbkE?oc=5"
+        },
+        {
+          "titulo": "Sam Altman and Elon Musk back calls to ‘slow down’ AI development over safety concerns",
+          "fonte": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjZXbnVyd094Si1xR3NZbnRadnVqbmJuLXh5XzRzb2JsSHl4RVozeEhQdTFRXzM1WVZNMzBzN0pYT1hNUWNWRWtqWW1yZDMtYUhqUkRWdjc3SUZ0MHlQV0dLNXJxLTJNZjJtNE5ucXA3X216XzVhWFVyaTRPaU80Y1NVdHhoZW5SRWtkZFdxVThzQQ?oc=5"
+        }
+      ],
+      "score": 16.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "13/09/2026"
+    },
     {
       "id": "54cbe3100935",
       "tipo": "video",
@@ -123,10 +959,10 @@
       "keywords": [
         "latest AI news"
       ],
-      "views": 675502,
+      "views": 679857,
       "dur": 748.0,
       "fontes_extra": [],
-      "score": 675502,
+      "score": 679857,
       "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
       "angulo": {
         "gancho": "O QUE O NOVO LANCAMENTO DE A ANTHROPIC SIGNIFICA PRO SEU NEGOCIO",
@@ -134,6 +970,586 @@
         "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
         "formato": "Reels",
         "eixo": "empresa_ia"
+      },
+      "data_br": "12/09/2026"
+    },
+    {
+      "id": "449b2d67f6d4",
+      "tipo": "noticia",
+      "titulo": "OpenAI Agents Hacked A Software Service Before The Hugging Face Incident",
+      "fonte": "Engadget",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wYUtkUldURVI2UUdDYmZrNVA4Q01oczcwZEYzbGFWc1hiOGNScXBWRzlsbm5VTWpHaUZfeWhOOTVGaVlNV1JaSjJiOGNObXlfVWdaRS04SlJpdHo4R1FXNmV0X1ZZR3pXelpDZTNxV3Y?oc=5",
+      "thumb": "https://i.ytimg.com/vi/CnQ_vyf7FJc/hqdefault.jpg",
+      "data": "2026-09-12",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 7,
+      "keywords": [
+        "Hugging Face"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "OpenAI Agents Hacked A Software Service Before The Hugging Face Incident",
+          "fonte": "engadget.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wYUtkUldURVI2UUdDYmZrNVA4Q01oczcwZEYzbGFWc1hiOGNScXBWRzlsbm5VTWpHaUZfeWhOOTVGaVlNV1JaSjJiOGNObXlfVWdaRS04SlJpdHo4R1FXNmV0X1ZZR3pXelpDZTNxV3Y?oc=5"
+        },
+        {
+          "titulo": "OpenAI agents attacked software service months before Hugging Face hack",
+          "fonte": "abc.net.au",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDhrYjJyOG9tWllDdjRISVpybnE2cndsVWFpT0hyTDc5ckZtVGJkUkswZHp0RGxWZ1l4TlNJSy1HODFxaldFV1hlMTI1dDRCbkxPc21NVC1mRldnYVB6dFdfVTdhZEd6MDU4VHl3RlVpb29BWGt2UGZxT3prajdQeTJEZ3pkdVJtLWdvRkUwU3JXU0d1Q0ZUZGZUd1ZEblJaRWE0RllnQ25jNU5EN3c?oc=5"
+        },
+        {
+          "titulo": "OpenAI agents attacked software service months before Hugging Face hack",
+          "fonte": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDhrYjJyOG9tWllDdjRISVpybnE2cndsVWFpT0hyTDc5ckZtVGJkUkswZHp0RGxWZ1l4TlNJSy1HODFxaldFV1hlMTI1dDRCbkxPc21NVC1mRldnYVB6dFdfVTdhZEd6MDU4VHl3RlVpb29BWGt2UGZxT3prajdQeTJEZ3pkdVJtLWdvRkUwU3JXU0d1Q0ZUZGZUd1ZEblJaRWE0RllnQ25jNU5EN3c?oc=5"
+        },
+        {
+          "titulo": "Rogue OpenAI agents hacked another software service months before Hugging Face cyberattack",
+          "fonte": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3BoaDY3em5ON2hIdmhQT2NmYzl4NnJISFVEV3l5Z2swZ1VBYW93cmpFS2NrV29sRnk5WDM2bHd3VW9kWDF5NnVvbzZvNlRWZ3lXTkNRQkl1T2lHY1B2aVhieEUzWll6VzYzRTh2VkN3ZnVMamtKcWJKMEpSRm04RWJZbjNsVk94Yl91SV9ESDBaLVh0S0ZhcWU0QnVCdnJWOHYwMFd2MWE?oc=5"
+        },
+        {
+          "titulo": "OpenAI AI Swarm Hacked Software Service Months Before Hugging Face Incident",
+          "fonte": "The Information",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZlNDZzVETmZPR1NIRzJpa2U4MmxQVjRsVm80NDlXVGVZN21yQldiRDI1SmYxaUZMZ3BGVldyUjdwdHpmTnJSaV8tdE5mSDFiT1phcDNqS2RjaWZPcS1XZUx2VDVNRkxQSk85ZlNvRnd0RzYyYm9KVDh1eERTeUFJbGp2X201UHFhVk9nSVZWSTV4Q1QtTGN6QnNibEgwRUZpdXQtcFZPUUhjMzlfcXc?oc=5"
+        }
+      ],
+      "score": 26.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "3 TAREFAS QUE UM AGENTE DE IA ASSUME HOJE",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "agentico"
+      },
+      "data_br": "12/09/2026",
+      "video_relacionado": {
+        "titulo": "Hugging Face Was Hacked by OpenAI's Own AI | The Shoggoth Got Out",
+        "url": "https://www.youtube.com/watch?v=CnQ_vyf7FJc",
+        "fonte": "The BlackVeil Files",
+        "views": 14737
+      }
+    },
+    {
+      "id": "014a89997647",
+      "tipo": "noticia",
+      "titulo": "Michael Dell net worth: How the billionaire briefly became the world’s second-richest person | Hindustan Times",
+      "fonte": "Hindustan Times",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQXRvb3MxSlI5a09YbzMzcF9OdjNYMEsxaW93aTNzc1hJNUsyNUlWWUtDaVhvbnhDVEMzcWxHRUVGRlhTZlM5Wm03SGFGR0liQjljaWxGYV9NdHRyTUZTNUJnRkJRTHhPaDlSUDFRR2xzN2xOdXFUeUpudktlV3pHQkxLNUpjbGlIQWNRakRuaW4tRVlxNzE4RDBKeHRZMmNoeXF4b0xOMkppM05GR1hHS0VSTlRBdlpsWUtZc3hqXzFrYkxHMlh2V3FGbk9ZNFhfRW1yUDJpalRqNUp1TUE5eUdta3ZFaW9sMWQtOENwNUJYUm9L0gH6AUFVX3lxTE8tSE9hTHlwbTZQc01SVWM4SXM4OHBNQ3VIdF9tSXllUDNVVGt6OE1rcm5aNkN1Zi1rbnZpdnhFbmxWVHFMVFVjSEJQaHFMQ2dnZnRZa0NxdHR4dWN6Unl2V0p2RTBQS3NaSUYzWnJHR3NCRE9pWjBQQ1lBQ3p3c1dkakZZZU1hWVdiZ3lQSDdHajZ5NXFQSEI0SkpsTFBMRzdoeHFteWd6SUt1SWZWT19aM3ZmMmxpTmE1QjQ1WjdKakEtdWdPNW1wU2hqODJQNW5kZXFhMV9hVnphVWRkdUU0ZjdVcXdyd21RZFMyMW5hVi1PUkFmTUhpWmc?oc=5",
+      "thumb": "https://i.ytimg.com/vi/6Pns6-w7xv8/hqdefault.jpg",
+      "data": "2026-09-12",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 7,
+      "keywords": [
+        "Michael Dell"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Michael Dell net worth: How the billionaire briefly became the world’s second-richest person | Hindustan Times",
+          "fonte": "hindustantimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQXRvb3MxSlI5a09YbzMzcF9OdjNYMEsxaW93aTNzc1hJNUsyNUlWWUtDaVhvbnhDVEMzcWxHRUVGRlhTZlM5Wm03SGFGR0liQjljaWxGYV9NdHRyTUZTNUJnRkJRTHhPaDlSUDFRR2xzN2xOdXFUeUpudktlV3pHQkxLNUpjbGlIQWNRakRuaW4tRVlxNzE4RDBKeHRZMmNoeXF4b0xOMkppM05GR1hHS0VSTlRBdlpsWUtZc3hqXzFrYkxHMlh2V3FGbk9ZNFhfRW1yUDJpalRqNUp1TUE5eUdta3ZFaW9sMWQtOENwNUJYUm9L0gH6AUFVX3lxTE8tSE9hTHlwbTZQc01SVWM4SXM4OHBNQ3VIdF9tSXllUDNVVGt6OE1rcm5aNkN1Zi1rbnZpdnhFbmxWVHFMVFVjSEJQaHFMQ2dnZnRZa0NxdHR4dWN6Unl2V0p2RTBQS3NaSUYzWnJHR3NCRE9pWjBQQ1lBQ3p3c1dkakZZZU1hWVdiZ3lQSDdHajZ5NXFQSEI0SkpsTFBMRzdoeHFteWd6SUt1SWZWT19aM3ZmMmxpTmE1QjQ1WjdKakEtdWdPNW1wU2hqODJQNW5kZXFhMV9hVnphVWRkdUU0ZjdVcXdyd21RZFMyMW5hVi1PUkFmTUhpWmc?oc=5"
+        },
+        {
+          "titulo": "Michael Dell surpasses Jeff Bezos to become world’s third-richest person: How a college dorm-room venture",
+          "fonte": "timesofindia.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNSGRkNDVXZjVtdG9oa3hKaXpEZEpkcUFBOHRZNFFlZk9Ic1RFWTZLV3d6Z0VfNmFUNjcxckRoMnl4ZmcydDZkajN4NnpfalhZWGkxZkQ3dzF2ZEFFSzZiRDVteWxkVnJyMU9ZczU5WktqYzg4YWhKc1BpZUZoYl9UR3RvTlBRR01MRi1IYU9wNTZMeEJQSFMybWlzNW00dlc2TGtXX1ZaamJLV09JMnZJX0NOaEt1OU1sUG43dEl2THhOLVVRVmVSNXVPU2FKa0hDdUpzYWpReGx4TDczOXVDVXlLMmF4R3BZV1JmdkswM3FDS05mcW0xZ2t6UDRVbzNQMjd3RkpibVJIM085YURRc0JFZV9fcHlCYko2YjJHYkJLU1hPQTlzN1E5UXpZQmxJVF9ZbWVhUdIBvAJBVV95cUxQMk9aSjRaZ0xqU0xjMzUzeVBjTE1xRzU4dTNzTk5ndm4talZTWk9IeW00dGM0cTFXYU1TVlB3V1F1Zl82ZDRUVVpjTXZ3T3ZrTGpWazFaemNIX25CeHBWQ0lQX0lnd1RDWGFCa1RKejZpSXZZblZBdnlod29IeW5JaGJMTWlzVFpGRGdUQlVaTWZGeE1zcVVvTFFtX1Y2dmxjRjZfQTdrRndsTzJ3eUNqQnA1MWFmMXFEbWlzb3FNLVY2MEQtbWg0eC1EUzh6TkxqQU14TmhCRnV4QWdjWWNEMzlZTFh5WjM0SHdwQ0FzRWNEZWwzWDI3WVdwVGhVel9qckdLYndqSFMxRFU4akpoZWtrMzlwbjlvOTVTWDVVZjdZZC1pcTFXUFljVTA2MUppX2dUaE5fRS1qaFdr?oc=5"
+        },
+        {
+          "titulo": "Michael Dell surpasses Jeff Bezos to become world’s third-richest person: How a college dorm-room venture",
+          "fonte": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNSGRkNDVXZjVtdG9oa3hKaXpEZEpkcUFBOHRZNFFlZk9Ic1RFWTZLV3d6Z0VfNmFUNjcxckRoMnl4ZmcydDZkajN4NnpfalhZWGkxZkQ3dzF2ZEFFSzZiRDVteWxkVnJyMU9ZczU5WktqYzg4YWhKc1BpZUZoYl9UR3RvTlBRR01MRi1IYU9wNTZMeEJQSFMybWlzNW00dlc2TGtXX1ZaamJLV09JMnZJX0NOaEt1OU1sUG43dEl2THhOLVVRVmVSNXVPU2FKa0hDdUpzYWpReGx4TDczOXVDVXlLMmF4R3BZV1JmdkswM3FDS05mcW0xZ2t6UDRVbzNQMjd3RkpibVJIM085YURRc0JFZV9fcHlCYko2YjJHYkJLU1hPQTlzN1E5UXpZQmxJVF9ZbWVhUdIBvAJBVV95cUxQMk9aSjRaZ0xqU0xjMzUzeVBjTE1xRzU4dTNzTk5ndm4talZTWk9IeW00dGM0cTFXYU1TVlB3V1F1Zl82ZDRUVVpjTXZ3T3ZrTGpWazFaemNIX25CeHBWQ0lQX0lnd1RDWGFCa1RKejZpSXZZblZBdnlod29IeW5JaGJMTWlzVFpGRGdUQlVaTWZGeE1zcVVvTFFtX1Y2dmxjRjZfQTdrRndsTzJ3eUNqQnA1MWFmMXFEbWlzb3FNLVY2MEQtbWg0eC1EUzh6TkxqQU14TmhCRnV4QWdjWWNEMzlZTFh5WjM0SHdwQ0FzRWNEZWwzWDI3WVdwVGhVel9qckdLYndqSFMxRFU4akpoZWtrMzlwbjlvOTVTWDVVZjdZZC1pcTFXUFljVTA2MUppX2dUaE5fRS1qaFdr?oc=5"
+        },
+        {
+          "titulo": "Michael Dell overtakes Jeff Bezos to become world’s third-richest person",
+          "fonte": "The American Bazaar",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmhkOFJWU2Itak80cFpOMkMwSFZXQWxsWERObWlJTnp0Uk1oamZWMkhKQUtkeHFLeElGUkVNWWJsZVRyODJZQXFsYWhYNzk5NzRuQ3lkcWFLNGc3ZWUyVGVEQjV6dUVnTDVMUWVENnk0d0F1RGYzTkJUYzk2Y21Rb3Z3cE9mYll4T3RUb2xkVk5MY1hQc0pEc3R5U3lRNGc1Sk1EYXRfN2UtdktsLXVN?oc=5"
+        },
+        {
+          "titulo": "Michael Dell Is Now The Second Richest Person In The World",
+          "fonte": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYjhTR1BEa3Y3RldJaHFIN2pwMWJSTGF2UlhmOV92aTZSWDU3WnFXWVkxbFZfQ3hpeWxwQUMtUDZxeEFpRkVqMGRVRUVNaUQyUXQ5OG1ycmhOLXl2N3dWNVRFYUVVQWd1RVJiNWJpTkdKREJDZXFKMldWelAzR2hVQ3ZUbjN1dnJ1TndBbHFjbWhRMXo2NW5sX1JENm5DRWV4TVZ5b0pUYjlubnpIaGw3bHl0U0tCZlJQa2p3aEktOEhFelowZjN6MDJOX1NEdEpRSFRF?oc=5"
+        }
+      ],
+      "score": 26.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "POR QUE ISSO NO MUNDO DA IA IMPORTA PRA VOCE",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "mundo_ia"
+      },
+      "data_br": "12/09/2026",
+      "video_relacionado": {
+        "titulo": "Michael Bloomberg: Short Biography, Net Worth & Career Highlights",
+        "url": "https://www.youtube.com/watch?v=6Pns6-w7xv8",
+        "fonte": "Net Worth Post",
+        "views": 3907
+      }
+    },
+    {
+      "id": "c13a457f2513",
+      "tipo": "noticia",
+      "titulo": "Anthropic boss says AI industry needs to slow down for safety",
+      "fonte": "The Worcester News",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXZfZHZqLU1YNnptOEEtV2FHNzdxc1hELWNLa3FVeDFXVW54N01yWHY3Yy1Haks0d0p3VHpRSjFsdGNiUmVvRkg3dXQxcHJ1VFJQUFdsUjJzLUlELWlQZkN4cEFQYm1JTVVUX21OREQ4Z0F3cDJuTTMtdndpbW9peTdMVlI0WUpWbHJkWm8zdTZpWmoyZlNxb0FDSy0zbHlCX0Z0S3B3cUM?oc=5",
+      "thumb": "https://i.ytimg.com/vi/HI6skJ4Wf5I/hqdefault.jpg",
+      "data": "2026-09-12",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 6,
+      "keywords": [
+        "AI industry news",
+        "artificial intelligence news"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Anthropic CEO Dario Amodei says AI industry needs to slow down for safety",
+          "fonte": "boston25news.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaUZRdXlKbm5zSHdIOTN2eVplemZsVUZyNjU1YnlfZGhDQWh4cE11SE5Sak1ZT19zcl8wV3V1NUJkdjQzM3FGeVRXRktiVGdrTW5ueVdBRnN4QUIzc3U0bkFNdUtJVVZpdlN1YTNQeG5vR0xRVF9ra1hnTWtUQlVEc3FKdmlxV2x3RFFBekpoOTNOREhqMDhFakhobGltVml4RHY4OGoyNGo2U2NJVGF2OENNOWI0ZnkzRVZ3QUlpbVN5LUNtWDIyWUhlemMzcDBCV0pqNk5BXzhUY29sLVdaS3Nmc9IB4wFBVV95cUxQaUZRdXlKbm5zSHdIOTN2eVplemZsVUZyNjU1YnlfZGhDQWh4cE11SE5Sak1ZT19zcl8wV3V1NUJkdjQzM3FGeVRXRktiVGdrTW5ueVdBRnN4QUIzc3U0bkFNdUtJVVZpdlN1YTNQeG5vR0xRVF9ra1hnTWtUQlVEc3FKdmlxV2x3RFFBekpoOTNOREhqMDhFakhobGltVml4RHY4OGoyNGo2U2NJVGF2OENNOWI0ZnkzRVZ3QUlpbVN5LUNtWDIyWUhlemMzcDBCV0pqNk5BXzhUY29sLVdaS3Nmcw?oc=5"
+        },
+        {
+          "titulo": "Anthropic CEO Dario Amodei says \"exponential\" growth of AI is a \"warning sign that we need to slow down\"",
+          "fonte": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2otUFZkQndyRnVpMTlySVhTUnQ4YkVrdHhXem1oUUEtVzdMTGVaSUZjV01fOXZrRmNpb2dJM1AtUVVvT2Zmci0tbUxlaTdIOXNlQmp2QXYxN0RQd3pnYVpfTUlERlNNck1wOS1uNmVSaTZ1dS1HbmtsQjFoVFhnYVpXUnFzMkFXNWpEM0JZQQ?oc=5"
+        },
+        {
+          "titulo": "Anthropic CEO Dario Amodei says \"exponential\" growth of AI is a \"warning sign that we need to slow down\"",
+          "fonte": "cbsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2otUFZkQndyRnVpMTlySVhTUnQ4YkVrdHhXem1oUUEtVzdMTGVaSUZjV01fOXZrRmNpb2dJM1AtUVVvT2Zmci0tbUxlaTdIOXNlQmp2QXYxN0RQd3pnYVpfTUlERlNNck1wOS1uNmVSaTZ1dS1HbmtsQjFoVFhnYVpXUnFzMkFXNWpEM0JZQQ?oc=5"
+        },
+        {
+          "titulo": "Anthropic’s Dario Amodei says the AI industry must slow down",
+          "fonte": "The Next Web",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRllxQUNBNlJNSGdVQXFWRGxSU01DUHc5ZmlRSEtKNUNNZnpnVmVHYjdQVGxqamxIMTg5OHhWb3JaOTFoSk5CbEZzMS1yNmJVc3JtMmZ5ZXZ1em8tdHBUaElOaFdGM01oR1Vv?oc=5"
+        },
+        {
+          "titulo": "Anthropic CEO Dario Amodei says AI industry needs to slow down for safety",
+          "fonte": "FOX40",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNekQ2NGlVVFpLOGVHTVowNEstUkdRbnU0VGxXTXY2MmtNMGRTLXlqX0hiV3NKT0JpNUlZSG5HLWx2ajBVNFg0VW16YS1OUlJkT2xUQXJrU3VLM0RIVS0zWmhKWmJGSVdoV3EtNUU5cXM2Ny0tRDV6QURPT2RBNnYwVXBLcW42NXFmamVPX0lmLWthclRBNGhXZGl2ckZsMnVBWkVaUDlzM3BLM09CU0FsbEpWNnM4ci1temhOOXJUU2hqQdIBwgFBVV95cUxNekQ2NGlVVFpLOGVHTVowNEstUkdRbnU0VGxXTXY2MmtNMGRTLXlqX0hiV3NKT0JpNUlZSG5HLWx2ajBVNFg0VW16YS1OUlJkT2xUQXJrU3VLM0RIVS0zWmhKWmJGSVdoV3EtNUU5cXM2Ny0tRDV6QURPT2RBNnYwVXBLcW42NXFmamVPX0lmLWthclRBNGhXZGl2ckZsMnVBWkVaUDlzM3BLM09CU0FsbEpWNnM4ci1temhOOXJUU2hqQQ?oc=5"
+        }
+      ],
+      "score": 25.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "TODO MUNDO FALA DISSO: O QUE A ANTHROPIC FEZ AGORA",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "12/09/2026",
+      "video_relacionado": {
+        "titulo": "Anthropic CEO reacts to 'AI could kill us all' warning",
+        "url": "https://www.youtube.com/watch?v=HI6skJ4Wf5I",
+        "fonte": "CNN",
+        "views": 683476
+      }
+    },
+    {
+      "id": "d7b09a3e9566",
+      "tipo": "noticia",
+      "titulo": "Apple’s New Leadership Structure: John Ternus Is CEO, Tim Cook Is Executive Chairman",
+      "fonte": "The Mac Observer",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWVISnZGRjRXdG95WVZVNmtpYl81T1lBM1Z3Z0tENmRLSlU2X0d2ZlpkVnYzTzI0SHA4VmJhLWU2LXByQmFTb1ZsT2ppU2tqQjR4d18tSVlBUnkyWHlRaC1NbExyOW1nenJyS25tZVY1U2tfcUhoYTVoLTlZY2F4Q2hmVkw?oc=5",
+      "thumb": "https://i.ytimg.com/vi/i9TvUGeTltE/hqdefault.jpg",
+      "data": "2026-09-12",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 6,
+      "keywords": [
+        "Tim Cook"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
+          "fonte": "ABC7 New York",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVDNlaTZMMFhEakZNLVVJZXZScEtJOUZnd0RaRVRVNzBsYzBhTzFhdUtkNTFGQld4WmVGVFhFeS1yd05icDN6NkY3cHdrOTNvMFNpLWlUY2hhWlh6NUNTY0g1YkdNVXJsY013S3Vzc0VEMkd0bzBVSUNzYXMtR0NUVXExQ3RPenpZc1FxX9IBkgFBVV95cUxPZXZFaDM3YUtqSDVUdEpQdTRKRWJ6MWxBS1kzLWlsYnRvS3JqUGFGVzRkbDVwWmdvRkl6dk1CRkdidnFxWmhFVXdZblAtd3kwQTZYNmtTcVMwTzQ5MjlQWnVoVUgxSUxCSU1qNmRJaUZFcGVVZnNXZ3RXb1ZoQU4weUR6bnNZX1NVQU1ZRm5OYTJ0dw?oc=5"
+        },
+        {
+          "titulo": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
+          "fonte": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaTF2SVk0VFhNXzZtUjlTNndnOHI2T3l0U1dhWDJIMnlWdHJVQXRMdjh4bmRRZEZxUVpRSmRmRHgyZkwzWGN3UEt6VVg5TjlMYmhlT1ppckxSMFVXbHFNelJuU2txajBKUE1HTGNpcjc1c1J5dWFWN2pBVnBFdnplQnVER0VXcS1XSlBsUFlQTEd0TERIenFOQmZWd1RERG5iM2fSAacBQVVfeXFMTjVMbnNXVXhOTlVUWUVDV3BETUtUVU9MU3c5TXp6V3Z5aVdZSFZYWnQ1eVJwNGc2a0dMUmRnTUdZV1hXMW1GLXJZcmhIS2hrRFpuVmhkRng5WnVNNF9SWHVPclhZdDgwVEJVUWJsMlpJLWpsZ3VOdEtfaWV1anNPUTJJY0d3dDRJMWsyQVJRZGRkbndsUzFpSVZndW5aTjZKeHhtSkM1VG8?oc=5"
+        },
+        {
+          "titulo": "Apple’s new CEO, John Ternus, takes over from Tim Cook after 15 years",
+          "fonte": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1Y3Y1VCMW1EMjFEc0xhN2NMUGFfZ3E0SkpaX0lRRWo5M1NzRWdvUnVEcERXVjMyZE94SjEtOTVJeWdtWWw5eUtLcm9aUUJEaG1OM1pXNG1lWkZrWE1yZVIya01fdU1ONjF1dGFuSXhXaTluNF9WSXZwZkhoeEdLX1BpRDFZZGF3TkZPX1ZB?oc=5"
+        },
+        {
+          "titulo": "Apple’s new CEO, John Ternus, takes over from Tim Cook after 15 years",
+          "fonte": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1Y3Y1VCMW1EMjFEc0xhN2NMUGFfZ3E0SkpaX0lRRWo5M1NzRWdvUnVEcERXVjMyZE94SjEtOTVJeWdtWWw5eUtLcm9aUUJEaG1OM1pXNG1lWkZrWE1yZVIya01fdU1ONjF1dGFuSXhXaTluNF9WSXZwZkhoeEdLX1BpRDFZZGF3TkZPX1ZB?oc=5"
+        },
+        {
+          "titulo": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
+          "fonte": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkw4azVJY3ZzWTVuYVlsYUZ6VTRJR09UeWNkNWRuVEFfa0RuTzFIbEdiaHJNcWl2U1hNWF81b2oxeDNFcy12UDUwZjJsXy1vLTJsczdmM0RXZTZyaG5zeVZLYURxUE5BdlV0b1lIVWJnTXM5a1ZmNHdLdkhCSmIwX0VueUxNZFZ2U2dYeURycGhGYW5pVzZrbndWU0RaUlBrNy1peGVrR1ZsUHZ6VVJyb0tZRVVzbVE?oc=5"
+        }
+      ],
+      "score": 22.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "3 FORMAS DE USAR IA PRA VENDER MAIS",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "vendas"
+      },
+      "data_br": "12/09/2026",
+      "video_relacionado": {
+        "titulo": "My Take on The New Apple",
+        "url": "https://www.youtube.com/watch?v=i9TvUGeTltE",
+        "fonte": "Marques Brownlee",
+        "views": 5104761
+      }
+    },
+    {
+      "id": "13dd8dba793e",
+      "tipo": "noticia",
+      "titulo": "OpenAI Agents Hit RubyGems With 500+ Malicious Packages Months Before Hugging Face Breach",
+      "fonte": "finance.biggo.com",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1Z3NLbHgyM05sdmE3dmRxM1BfNmwycEN1a2xkU2lldFY5YVc0Yzk5bTZpc3VUM0VwRDV4Q3pwTDVIRHZOYTNJR3BVS0Y1Q0N6R2w5WXJNMGd3N1NYaEl5OERLczlGLWt0dTlJVG9GSjdRX1RwNXc?oc=5",
+      "thumb": "https://i.ytimg.com/vi/RdfLTh7iinE/hqdefault.jpg",
+      "data": "2026-09-12",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "Hugging Face"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "OpenAI's AI Agents Secretly Attacked RubyGems Two Months Before Hugging Face Hack",
+          "fonte": "Startup Fortune",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0o3STdQbTh1OThnWUpsOFBYRGR5aDVhbWo2dENiZk5QUTd3dWp4MUhJZ2JEeXdsMlNCeDRoSEg1Vi1CUFNRRU5fZjR6VDBJOEtTZHJyd2t3dkQtMHVQcDlfTFlGelY4cFlreHREWVROdlhld2FNZmlrS0JDdTF5VTBlNWJvR0NzWUUzcUM4M1NSWFNYNkJUa0ctNWpYM1NIZmJSTHlxME92WXJk?oc=5"
+        },
+        {
+          "titulo": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+          "fonte": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDNBRTRwZ2ZIb042VTVpVWg3RW51aHNNRXpUSnh0VFJSXzl2OEwzSGNoNFVRNDNfMFJ0a1AtbHFodDduaU52eGxKVnM2NTE3d0JobUJnbHd3Ulh2REc0ZFA1QThhVlphOVdQbFFMMFNLZVFteU5CX2ZfbjM0TktRdlBBMVgxYUEzd3liQl9sU2pocXB4SFZHQmlqSU9VX3ZGemJhUW16emItNjNwZGJDeWM5bmd5eEpaR3ozN25WN3dOdFU1d0w0UA?oc=5"
+        },
+        {
+          "titulo": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+          "fonte": "lufkindailynews.com",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcHA0SHVyaFZkM3o5aWtpczA0M0o1SjhQSGtYaGk3SkVrQ2Q3OVRnak01UlYzSy1vZVNBZGFkZ0h6R3hfOWpUM05oU19CbG02RkhEXzNEWmlBdHlxRXFLVzdSZ3pacXMwaVdtdXdoM3JTU1EwVFhPUzZEMnZqZnlyVWtsUlBmMTd6TkI2OXhZRmh2VU4yQk0zMjFTMW1iNFJYeGJZaWtlMmNuY3E2bjZSTVZDNUlvQ2FvX0ZJNWFlMm5XQWdfQmJETEgxTG5lcDQxTkthd0lHZGhZZGttMnh1dlQwV0VhcWlINjlLSzBtYy1TUTdWT1Z1ay1pOFZJYlNhNmw5dVJQSQ?oc=5"
+        },
+        {
+          "titulo": "OpenAI agents attacked software service RubyGems before Hugging Face incident, WSJ reports",
+          "fonte": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWklCU2hTb21YWjR2UXdYLU1vV1NFZDV6YjFPeVhkVkMzTjE5MWV0MVpLNDRFTjJQRnZjendZdmVtUWpCa3U4QUFOd3Z3d09VR1FSV2dtZUowZFdnbEtXcEFEczczZU1CLTI3UGEtelFTeVhaSjJ1T0pMd3hWS2x4cHN3QnJQeTdydlFMMU02QzhEdTliLW9qSG5uZ0xVNHZjTWJCc1c5Yk5Yb08zeDh2SGpJc0VWT3dNZG42WjBqaWxpWTJ4SzdKbkpVQzRoS3VrMmtQN25NbTNfQQ?oc=5"
+        },
+        {
+          "titulo": "1,200 OpenAI AI Agents Found Each Other — 700 Attacked Hugging Face",
+          "fonte": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmNwWVNtOEh4S01LVHVUejBadm9EeERTeHdhSmdBemNwZF9OWEZWZGV4UDRkMnpuOUtaVEo2NVhOZ25VczdNTDd5V2tHdEltbDFIcEdMUkVsLWptc01XZVpHNUtjZHp6aTUzX0JrN3g3bHNNakREaEt5Q2lqSVEyZmlBNUUwTDIwZVh1V21vN0VDV2tUbXR3dU9ldVNlVVc5aXZ5TEJLRmd6dks4RTd6X0xsMmRuMDRHdkE?oc=5"
+        }
+      ],
+      "score": 20.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE OS AGENTES DE IA JA FAZEM SOZINHOS PELO SEU NEGOCIO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "agentico"
+      },
+      "data_br": "12/09/2026",
+      "video_relacionado": {
+        "titulo": "OpenAI's agent swarm hacked RubyGems in May. Quietly.",
+        "url": "https://www.youtube.com/watch?v=RdfLTh7iinE",
+        "fonte": "The Daily Diff",
+        "views": 32
+      }
+    },
+    {
+      "id": "fd2b181989c6",
+      "tipo": "noticia",
+      "titulo": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
+      "fonte": "MarketWatch",
+      "local": "USA",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1BrR21jQzFIRVlfTWN1MUZYNWhjYVFwY2c3Zmc4eDdzbXZfRnZOR1NEcDh6V2s1UUREenkwdWdvcHNFLTFLVnFxUzAyQzZLTmxuaVdzUjRzNFZBSGtPbUFGSFFaYWh4N1p5U0tySFc2UFJuUHhFVHE1SVNPMUpRWS1MSGF1SjJfNGNZQmdCWWoydXdVQXBiQ0pXVmZsVmlYLWtoRTNWRE4?oc=5",
+      "thumb": "https://i.ytimg.com/vi/CBhSc4dPKM8/hqdefault.jpg",
+      "data": "2026-09-12",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 4,
+      "keywords": [
+        "AI industry news",
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "OpenAI IPO won't happen this year, says Sam Altman",
+          "fonte": "Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6emR2Zi1sdHFtcXd0WmJhcWY1MThJRFJvemY1R0VmRlB1SzFBbnEtbk1Sanc0VE02LUJabDMybWdaR25uaWpkWkc0VWZkeTRtV2JGcHFPLUI?oc=5"
+        },
+        {
+          "titulo": "OpenAI IPO won't happen this year, says Sam Altman",
+          "fonte": "CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1NGNkZiUV9EM25CcFl5RnNkR280OXA4djJLNElPUl82ZU9qTk9ZVEFzZkRQY2hGNTlSbGRrcERhTFRjYWl2MC1YdUg2X2ZxV05pSU5kWW5Rai1pX2NfSkZpQ2M1TmxNLU5Cc1VtUmFKT3ZOenU3VkFkdm9hMUJ1RGhoUmE0QkJQN3d0RTdPSWhxdUNJMmktLQ?oc=5"
+        },
+        {
+          "titulo": "Sam Altman Says OpenAI Has Fumbled at Communicating AI Benefits",
+          "fonte": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzk2S3B4RUZXU01Ib1dmNVl0WXdIZE5BZUNiQmthVTFzcTJJYkRGVEJuSU1KMDFUaTBWemhFMFVrOEtKVGhOdkxLMjh2bVV1UVlmTGszTUhkMHRMQ0ZLdTZZRndaSWo1WXdkQVA2NksydktNOXZUUEZoTTJRSU1vMk9HVDYzMFdXMXA5c1VNWW1TWFc3aGdTTUdaT0IxVk5DRnpsMjN1TnotSjIwUUYwNXlNZlg?oc=5"
+        }
+      ],
+      "score": 19.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "TODO MUNDO FALA DISSO: O QUE A OPENAI FEZ AGORA",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "12/09/2026",
+      "video_relacionado": {
+        "titulo": "RERIGHT · Why OpenAI’s Sam Altman says an IPO isn’t in the cards this",
+        "url": "https://www.youtube.com/watch?v=CBhSc4dPKM8",
+        "fonte": "reright",
+        "views": 1
+      }
+    },
+    {
+      "id": "a201b2428449",
+      "tipo": "noticia",
+      "titulo": "Anthropic Blocked 5 Possible Attempts to Research Bioweapons With Claude AI",
+      "fonte": "PCMag Middle East",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmNFeDRjazc5T1lKNlNPZUFWcFo1eV9zbVlCeUYzcC1HekROdG80M2JxcWx5cTE1bDBjYmhtWlZZT0NDQ2NjdjhkUjFuU1hoSGNjXzRycG1NZVB5b1NOQzIyZW0yanE4eWUzcFdfczM3QUZxQ3ZZcklZMjhjLXl1OVdzTjRSUWhLWTg3dUw1VnVaMjItQU9vOGRkWGRFTFdaOTM5V090V2Z1ZHNZ?oc=5",
+      "thumb": "",
+      "data": "2026-09-12",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 6,
+      "keywords": [
+        "Anthropic Claude"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Anthropic Blocked 5 Possible Attempts to Research Bioweapons With Claude AI",
+          "fonte": "PCMag",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjVCZTFmaTQwdHFJSUhvSnRPdUk0d1NtUzk3TVFDZzlTUmxVbUhWdnQtNml0ZmpEVWNOc2NGVUpfODVrblBVYzVZSGhJUzBQVkltUmJQZThYQWk4T0xMYUdUY1lDNTBiT2FmNUZuejFTVE1rSVNLRHFNdm53ZXFRSFdxVU1QYS16b21CaG12X2RGUUtPcEhRRWFrQTVwUjZS?oc=5"
+        },
+        {
+          "titulo": "Anthropic Claims It Stopped Suspected Bioweapons Research Conducted With Claude",
+          "fonte": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUVphUFREaW43OGFza0MwbXlFMWNCeUZQaXdlbi1hdzB5cUpfWVFaLTJId1N3bUVBS2hFbUlKaklPcnZUOUVPZVNVeGxCdE1iMUZqZm1GN2drSFByRkZPdG9MQ1M0YkctaUlRdHFqMHJtZW5iVGlPYjVzY21KOGlGamhNMDBWMllYNjdUMHM0UW5aVExvaE9LSzQ1cnNhTEtlajBHVXM0RUVCUnhPY2JJ?oc=5"
+        },
+        {
+          "titulo": "Anthropic Just Revealed That It’s Stopped Foreign Agents From Using Claude to Develop Possible Bioweapons",
+          "fonte": "Futurism",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZS1BWNjNnbGlac0g4dmpNTjdjc3lNX1hIaGc4SGlTVWNCZVEwdzJEeE5fUTE2X2xlZ09oODN3OUZZdEx6eUhCS3VBNlVuUE5pZFlFQm1tV3A0VGdZaHZOd3d1Uy1RbExRcS04bThtN09Qd3RKeUdIa18xY3NPZw?oc=5"
+        },
+        {
+          "titulo": "Anthropic says it blocked possible attempts to use AI to develop bioweapons",
+          "fonte": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZS3pYOWpEaFZaa3Zkc3h6SnBMcjFpUDNjR1phc3k2OGF5RzhmTldEa0dJR3haUHVvQkhRSzZBNDFFNWwzb2wwdzQzM2x6UWNYNFQwNGYzT25nVjczOW9SOXZjdENiT3FmSU5ZTGlacnFmWFE?oc=5"
+        },
+        {
+          "titulo": "Anthropic blocked attempts to use Claude for bioweapons research",
+          "fonte": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVRRTGRGcnU4azQxUGJWTEpaRF9paFN4bV94UlpPbW11a09obWUycXQwckwwcXluSjJIZlJBVGJuY2J2Zms2Tm1iVXh0dUxnRTM2SUFfb29SeWlVdGV2Ty1yeGk0QXpxRmdMeFlNXzBya0JSR0VYVXR3WXJnQm1qMGotaw?oc=5"
+        }
+      ],
+      "score": 18.9,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "TODO MUNDO FALA DISSO: O QUE A ANTHROPIC FEZ AGORA",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "12/09/2026"
+    },
+    {
+      "id": "91a8b8b3d349",
+      "tipo": "noticia",
+      "titulo": "AI startup Discovery Loop seeks around $50 billion valuation: Reports",
+      "fonte": "ET Enterprise AI",
+      "local": "USA",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVBCdEdoanlRNzJNNm5qMzk2dVNza0tra0N2bE5XbDZIVXNWdFp6VmdhVjVicnhrWWthOXg0b2xVcUZYUzlOU1BEVEMxcG94a2Z2aXJkZVJOSG9NakxpZl9OSHNrV3Q0RGFjdDFWTGJ6Vms2OGNWcTF5SUJ3cklKeUpRbmpiTmRxREpseXVrYjJ1NXdXY0lfdkdKX0lUYUhqOFhwLXhKek1IRmExcWFRMm9MalcxcUs1QXNLdXZxSmg1MzRuejhsNTdXT1lLcklSZEQ2dU8zSEvSAd4BQVVfeXFMT1pjQkVNUnpTQzhUZE1lQ244YUNnZ2lwZXBpNlc5WVpfT1BzNTRfZjRWMVRsaHRsWlBvUDBXR3FEMWxkVkpoLS15MjJhV1NXUWVBSFBVWjZRR0tGb1J1MTROVlMxUjBnWUtUS3ZncFUzS2k0U05HWXFacG9BampVOU1uTG5qdTM4ZmV5azlidFBSdkRJWnRZZGN0NnZzQjBiZ0dXUkJmQmV0OFhSZF96dnZUNEl5VEdPVzEtN3BJbWNPcmdGekpkcnloZ2hkWDRtdEFIWThJUEtDZDZ5S2J3?oc=5",
+      "thumb": "",
+      "data": "2026-09-12",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "AI startup funding"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "AI Startup Discovery Loop Seeks Funding at $50 Billion Valuation",
+          "fonte": "SuaraGarut.ID",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03TDFKaUNobHNmYkxKZFZPaEJaVXRGUmF5YjhUX3g2eVZxVml5cW9IY2lIeVVUMXdwY1ZKeHV5TkFSQnhvOS1rVmx4ZDVKNk41MUxxcGZuUTRjVmJ3YWR3ajU4b1d2eVJBV1cwTURDQkpUU2t5Yks0?oc=5"
+        },
+        {
+          "titulo": "AI startup Discovery Loop seeks funding at $50bn valuation - Business Insider",
+          "fonte": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONTF2WnlqaF9lZHItWi11dTRFdW5LdVh6eW1sNFk5U2Z5TGVSLWxyV090QlNSeDhaUVl3MEF2Y1htbWlVbHRGcHZPclBqUzRQdDhRanJYZFliZzRaTGtwWmg1TUNiUndlbjJPVDRGR2IwZU42OXQ2czhZRFphZVlaNk8zNHk0dnVjeTNRUi10eGxOUXRNY2pfeUpWTzZmU1dmajhlYThXMG95eF9rMkJ6cmFyNnl6ZTdOMWlfRVdodjVveGREaUE?oc=5"
+        },
+        {
+          "titulo": "AI Startup Discovery Loop Seeks Funding at a Potential $50 Billion Valuation",
+          "fonte": "Межа. Новини України.",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPbFNmb1dScU4yMmZsT2VMX2tOSDE1ZC1zd2stUjdlT1FyUWxHdmNLb0JIcGhwUldmaUhnelVYYnZiaGRYZnBoeVNaU0JSRFFqaU5MckZBUTFJR0Jyc0lZVURKMGtSN1Nv?oc=5"
+        },
+        {
+          "titulo": "AI proptech startup EliseAI is in talks to raise a new round of funding at a $3.7 billion valuation",
+          "fonte": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2sxUWdjSm1kMS1XZUFOcE8wVWtJSENhckhVSXNQdkhYLWhuUmJDOXlMVjlZSE1MVF80Qi1Sdm5LOEtDeFhfYUdvdVpFbjZkOWRSdVNMVHQ4Y3hKWFFqRFNCemlNb1IzZlBBSE03NXV3Wk0tQk85V2hwX0diR2VTRDB1LTlQTFY2WURpTGlMVUVBZw?oc=5"
+        }
+      ],
+      "score": 17.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "POR QUE ISSO NO MUNDO DA IA IMPORTA PRA VOCE",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "mundo_ia"
+      },
+      "data_br": "12/09/2026"
+    },
+    {
+      "id": "6942eee688fa",
+      "tipo": "noticia",
+      "titulo": "Anthropic CEO pitches AI slow-down plan after OpenAI-Hugging Face hack: ‘We owe it to humanity’",
+      "fonte": "Washington Examiner",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1pWUkZxNjZQQWczSnJtbjR2YzdUeUdJakNTLVNJZUZ3LWhVY0lFWDVwN0treG8taFRUWU5tR09ON0pJOGw4WklNNTJUV2VpWkhLM1ItZGpaekctbXRpUGlVLXdoYjNoSUdQRlQxWmZDWTRvTXN0YmZpeWcyVmFkTldIanpOeXcwNzUyNFU5alRLVUZhOVl4NlFFNjVDX1hp?oc=5",
+      "thumb": "",
+      "data": "2026-09-12",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 3,
+      "keywords": [
+        "Hugging Face",
+        "OpenAI",
+        "new AI model launch"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "What we learnt from OpenAI’s hack of Hugging Face",
+          "fonte": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1lOdHg3NmNhcS1rS2lLRy05bUtHSEFuQWdRYkJhVHF5VzhORFdrOFZsWDJqT3c4QXBsRm1XbF9JRldzVXp4eTdoVzRrd1VaSWNzR0NkMkg3eXZHSFYtOGFxRVVSNm1rSWhKeTZaNktiY0p4VDM3cWZaWDdfaVJISHh3cU0?oc=5"
+        },
+        {
+          "titulo": "OpenAI to slow launch of new AI models after Hugging Face hack",
+          "fonte": "mlex.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHpqaFlBZTZjV2JONzVtcEtyYXhqMldVenFISHVUOGcwVlJFUWs5V1NYUFdRM3psYTFTQVpPYzdoc1VTLXJWcTlpZlo5eFJuSzVYQnRLS09oZlBDS1ZIVmV1eHk1cDRzUE5KWTBxOTItVTlRaXpyN0EtaFJmY2pyU0ZhMDNSUUxkSDJzQ2VicDc3dG9Ma04xVHc0OTltbWJNM0pDTXN5RjjSAVpBVV95cUxQREZCNHUxSktHRW1RcWZnT2Z2REpGVzdqVjdiMlZrV2pFdzY1dC1UN0l5VVU1WGhaWW9CZWxUa2VhcU1fZzRGNVI5OG1OcXpETkluZG1TRHJZQ2c?oc=5"
+        }
+      ],
+      "score": 17.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE O NOVO LANCAMENTO DE A OPENAI SIGNIFICA PRO SEU NEGOCIO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "12/09/2026"
+    },
+    {
+      "id": "675c7478f010",
+      "tipo": "noticia",
+      "titulo": "Anthropic CEO says AI industry should slow its development",
+      "fonte": "CBS News",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZi1TaG1tQkZQdGh3TzMwY0ozYjJTMEw4cWxfbkJjVXRuUTBMSHI3NkYyVWhnQTdoSFpWS2ZHbTBfXzlxdjVZeGYxVEt0c0RRc3pneHVCclNtVXg2cVFFNDA4RFh4YW0zZUl5UzRrcTNxc1Z5TEt3cDhQUE44Y3owZ3A4OHJqbVBneHN0UDNMZm1sMjB0SlFfamJnUlZzUQ?oc=5",
+      "thumb": "",
+      "data": "2026-09-12",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 4,
+      "keywords": [
+        "AI industry news"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Anthropic CEO says AI industry should slow its development",
+          "fonte": "cbsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZi1TaG1tQkZQdGh3TzMwY0ozYjJTMEw4cWxfbkJjVXRuUTBMSHI3NkYyVWhnQTdoSFpWS2ZHbTBfXzlxdjVZeGYxVEt0c0RRc3pneHVCclNtVXg2cVFFNDA4RFh4YW0zZUl5UzRrcTNxc1Z5TEt3cDhQUE44Y3owZ3A4OHJqbVBneHN0UDNMZm1sMjB0SlFfamJnUlZzUQ?oc=5"
+        },
+        {
+          "titulo": "Anthropic CEO Urges AI Industry to Slow Down Development Amid Ri",
+          "fonte": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFViOU1KQ3BfT24tUXlKTlhHRThVRWNBRVM2Rl9MeXJvN0xmNnBfX2hIUXRxdzZhZzk0S01VMzU0RHJDZVZIUUFoeGtvdmxtellyR1BUYURwamZrTUp3eU1hc083QS14UFlSaHh6SmNUUXJDMFV2MUNtd1Q5ZmhaWlpVc284WEpnOTdZMXVfZHREemF4UlpkOE4xZUdmc2hSTXZUTUthSzFnQQ?oc=5"
+        },
+        {
+          "titulo": "Anthropic CEO urges AI industry to slow development and adopt third-party safety checks.",
+          "fonte": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaGY5VTE3V1B0bTFzdkFqYVh4RkRaTWt2NVRQSFBPWTdfUkFxNDdiaS1NVDdWay1PM202dXcyQUxpVkRNN1BmR3VPaFRhYmRSdXh0SUg1UXE5T3VTY3hMbFJjWXFBSjluVzVNLWIyQXpIbDJmYTBVU3FxdmdwV0VPY0hyMGFNak0?oc=5"
+        },
+        {
+          "titulo": "Anthropic CEO urges AI industry to slow down am...",
+          "fonte": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVNYNWdoSktoNFRHQnFIVURqV19iWFlXeko4UER0YkhEd2JYbkRnbkNjTWZKYVVlUjBNUXVyb3NQUzltb1NRbWdtZGVKQ2RqOFRtSEp5WUUxY1lURldNZFlOS3lsV2tfTEFWdllPdHdlSGVxUHZ0WXlLVXZCakpWQmsxWjlBdmpXaDBKb1NEb3gyenhhU1VlSkxtNDh1NGR2TmQ5NE1ZbEdnRFZU?oc=5"
+        }
+      ],
+      "score": 17.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "TODO MUNDO FALA DISSO: O QUE A ANTHROPIC FEZ AGORA",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "12/09/2026"
+    },
+    {
+      "id": "bd002bf57d65",
+      "tipo": "noticia",
+      "titulo": "AI company says it blocked misuse of its technology that could have supported biological weapons",
+      "fonte": "WDBJ7",
+      "local": "USA",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ1d1LUNQSDNjX0w5V1p3RElhWWs3d0Y3bmpabXBTSEFBMFFIWUwtN011RE5ScHU4Z1NDTWhtVDZ3QnZTNlFHdFRBZUFNaE44Xy1TazhGUmw1azc1XzBnVmhaMzhacUs1Vi05V3FkMERYSVp3RVh0N3NxNHlYMFF4eW9ta3cyV3REWm1UcWVQY2RNWFNEczZlcURpaHJ6a3RJOTFFYWU0TXJsNVc3c0JBWndORFJ0ejlRX3U2UTNjSGxfQWwtMUHSAdoBQVVfeXFMTVo5Z2NXcXFPQW80Q1FQZGUwWTJsNnROeGtMR2hxZnlaQm1JOEtPb2hIZm44eWQwUXVLczZsdTcwQjVZOGRRUlVsYS04SDJHa1M4ZzYxSkZySTEzTnJoelp0SWJIb3daV2JpR1hzY0FpRkt5ME1aMkxFelRjSFpCOU1sczdGWDlSejhVUEdDUmNNYVZEN1dFa0JKRjY2Z3NGNDdwa1k1QmNOanZVTTRJa2NlMWdfX0d2aU1nbzh1WTdZNWt6VlRxc1pJc0hiV0RIYU91SUt5WDBUTkE?oc=5",
+      "thumb": "",
+      "data": "2026-09-12",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 4,
+      "keywords": [
+        "AI industry news",
+        "Anthropic Claude"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
+          "fonte": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2RnUV85Y0hhcmhMT1p1MnVzSkU4elJudHlwZHpWQWc3cEVxNEJ5c00zbHNVcWI5c19ubWh0ZWFBMzl0eUszaXM0WHNVWE94N2xzNzZSSUthaklEWlhnTHpTSzAtQVBOZ2IyRHU5dXVOd2I3NTd5TzQxQ0dIamZQRF9Vd0I5eDlrSDd0eUVPVXk3cGdXUEEzX0ExRks2b1dneFR4clJjemtkdi05bURYNjlwSGhCVjF4VVpvTmVyQUU?oc=5"
+        },
+        {
+          "titulo": "Anthropic says it blocked possible efforts to use AI for biological weapons development, Iran-linked cases",
+          "fonte": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUFBYenhmYWFTeTROX08yWWpYb1dDLUQyQXd4NEE2LUsyWEwweElUbnU2RkpMaEFrTTR4S3l1WmdwU2NkSU9aejZlUDl3LUN2WE1NMTZ1ajBLbXNPLVczNjlndXZhVlJ3YnRUanFkX2poblBFV1JlRzdOMUJfZnJTXzV2OWdHbEFoOTlYd0E4UmpKbWN5b0MxdG9wMG9RQ2xERUhvNmFpUmdtcmd6alRZQzJJZHFaLWd6SnZ5LTduUVVCQW1femdsTl9sWXI0UEU?oc=5"
+        },
+        {
+          "titulo": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+          "fonte": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5"
+        }
+      ],
+      "score": 16.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "default"
       },
       "data_br": "12/09/2026"
     },
@@ -179,10 +1595,10 @@
       "keywords": [
         "new AI model demo"
       ],
-      "views": 1320479,
+      "views": 1320818,
       "dur": 2018.0,
       "fontes_extra": [],
-      "score": 1320479,
+      "score": 1320818,
       "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
       "angulo": {
         "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
@@ -192,6 +1608,612 @@
         "eixo": "default"
       },
       "data_br": "07/09/2026"
+    },
+    {
+      "id": "29ae748dcadc",
+      "tipo": "video",
+      "titulo": "I Spent 100 Hours Using GPT-6 Astra (This Feels Like AGI)",
+      "fonte": "Riley Brown",
+      "url": "https://www.youtube.com/watch?v=Ju41cQSe7hY",
+      "thumb": "https://i.ytimg.com/vi/Ju41cQSe7hY/hqdefault.jpg",
+      "data": "2026-09-07",
+      "bucket": "semana",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "new AI model demo"
+      ],
+      "views": 654155,
+      "dur": 1440.0,
+      "fontes_extra": [],
+      "score": 654155,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
+        "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "07/09/2026"
+    },
+    {
+      "id": "b7f1536ba80d",
+      "tipo": "noticia",
+      "titulo": "Replit Opens First International Office in London",
+      "fonte": "Imperial Valley Press Online",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNb0FsV0ZQVWx5aTRqbG1LX2dyeGNCMmRtWHM4SmRZamx5RV9Scm9VVUVBNUZid1N6bnJqOURjXzJzLXJKbUhMZ3g5VE04Rld2Tm93OXh6Q0lYS25JVTQzVzk3cmtGQlUtZDJfWEFSbzBicDBPUHBHMDF2M0dxRUZ6d1hyNXJUWURQdk56YVZaeUV2U0hpRENoT3R0RlE3dlRNN3VVSG5mdk1JV1RaS285YkJ4bkdldlVrQjQ1SFpyNmlrTklYbHhmMTdSbnJIRXBvVUNtSklHWERuSURKT2xoSC04UTkwLXdvODdWcG4yelJTdw?oc=5",
+      "thumb": "https://i.ytimg.com/vi/eBRBVFaF-as/hqdefault.jpg",
+      "data": "2026-09-09",
+      "bucket": "semana",
+      "calor": 3,
+      "num_fontes": 7,
+      "keywords": [
+        "Amjad Masad",
+        "Replit"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "London bags $9bn US AI firm Replit’s first overseas office",
+          "fonte": "City AM",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmt1S2NrRl9BRjEyT0YzVE1CcEZsdUF3dUI5LWpEYlhoSlpScGtzNFJ1STI0STJUTVR0S2doaGVqRW95YVhhS3dITjlNNDdwQ2hLMlVvODRwaU81dEM3WEFaMmZ4b0NXYU0zM3RZZDVXZU9RRHhVUFRHeV9YdTdtblVnQkdzSUU?oc=5"
+        },
+        {
+          "titulo": "Replit Opens First International Office in London",
+          "fonte": "webull.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MSXV0OWZDQmNfeUxYOXlzcnVQMzd5N2VmYW1CcTZEaEhrNlZVeDV3cmVVZ2N5TmMwU0s1RGJpRGFLZWdtdVJXX25xX0k4cE12aTEtNjItNmE?oc=5"
+        },
+        {
+          "titulo": "Replit Opens First International Office in London",
+          "fonte": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjVQZnNpalVVcUdBQWp0b2ltR2k4Y3Y1eWhmWlRIa2R4UUg5ZzUzNXcyZDl5aTVqeWRpZllIYzViTkJSYVM3ZUY2WVVlaXNQVjNMbW5VRzhhbGR3eU1OSkI4cXR1aEZaTm1ReFpPTVZfLTM2N0NIUVB5b1A4d1drWGNPejN2MmpSeDZqNVRXOU5jWEJ0NWRXZzR0ZldRVzNqV1ZwYzVXMmo?oc=5"
+        },
+        {
+          "titulo": "Replit Opens First International Office in London",
+          "fonte": "idahocountyfreepress.com",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPS2hhZl90c2E1OU5ZOVdEZGNzeTlYUWFETVpYamVkWFFQRXVacnBTV3pfMnl1VjJhdzd6V25OWVBCT2Y0cl9kSDVpbTh1VUV5LWZ1aXh5VzB2enAtQVlNZnc5b1J4ZXJVay1PRXRPRU4tX0NuNEl6NVh4Q0dSMmJ4UkJ0ZlQ4R2FVdk54ZlBkUlhUdFFTMGdKWXlRbmI1QmpNSTl2V0hnYkE1M1dxYUMtQzlBeXhFMGlrbGlzMk9nX0taZnRPRWV3OGVSUXJjVnFYMDlvWXdiOS1jWmdsTTZUbXF1WWRiSHU1MktvNzRnV1Z0d0RVUFFLUkNQOA?oc=5"
+        },
+        {
+          "titulo": "Replit Opens First International Office in London",
+          "fonte": "PR Newswire UK",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVZZdGQybVRIcWc5U3hqOVhJLTQtcHh1Vi00QVdRTDJzZjFvLW0xb01rYWwtX0FqNkRHWEFWYWhsblpjVXVoWTU2YWZLelJpVDRkT2NfWEQ0MGZpOWFCeTJmMkVlRGFGZFpoanlGZWhZSXBqVEhUWnlUN1F5bUZsdlVuT1k3WDA5d2EwbGNscnhEeHRUVnJKNElvSFNuR0dPZmVIa2ZHT2ZoRU0?oc=5"
+        }
+      ],
+      "score": 24.3,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "ESSA IA ACABOU DE LANCAR ALGO QUE MUDA O JOGO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "09/09/2026",
+      "video_relacionado": {
+        "titulo": "Replit Opens First International Office in London After Hitting $9 Billion Valuation",
+        "url": "https://www.youtube.com/watch?v=eBRBVFaF-as",
+        "fonte": "Smashi Business",
+        "views": 29
+      }
+    },
+    {
+      "id": "375bc6437d88",
+      "tipo": "noticia",
+      "titulo": "Uber Stock Rallies 2.1% to $72.56 as CEO Dara Khosrowshahi Buys $10M in Shares",
+      "fonte": "TipRanks",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXZzMUZ2eXI2M0xacGI3WTE5WjI3Ri1UQnNwdHR2Q0w4OE5PVEh5TTgzMjh3eUVSeXlJT1FKSTBtYkNDdnVETktydjRJeTNKa1NVLUdYNlEteVZObUx6Sk1FVlFnMkVRTzJRSGwySkhVdGFvZXdpS3JEVm10SW5OOTBHaGFpdmJIbnNUM3l2Q3NrMzY1ZlpvbjdLVHZfYmlMcVM3WHMzSFM?oc=5",
+      "thumb": "",
+      "data": "2026-09-11",
+      "bucket": "semana",
+      "calor": 3,
+      "num_fontes": 7,
+      "keywords": [
+        "Dara Khosrowshahi"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Uber Stock Pops After CEO Buys Shares Worth $10 Million",
+          "fonte": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wVjNZdkRVWWpsTkNZeXpYN3pKUGRYbmVfNzFROHhxcVl5LWplRW9wQ3Q3alpXME1JMGU1MTRUb016VUhTblRtekdyMmtJWnBiWW9nRUVVdXM5SWRpeDRXaGNrb1ZBTnJ3NFhCOFpVOG9nWUhDVU5ERnJ1VTNJVk0?oc=5"
+        },
+        {
+          "titulo": "Uber CEO Dara Khosrowshahi buys USD 10 million of Uber common shares",
+          "fonte": "Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxUm9DdFViU1g1TWptMWRVZzlJcEhWblBJcFBQQ0tsUy0wRDZPZDVfWURSSnVQdzZvTkdUT1BuT1BoWlRKRzJwTGFvb1hwb2ZhTllCQXJzdk1MdVVlbmlZU3p4WdIBY0FVX3lxTFBxUm9DdFViU1g1TWptMWRVZzlJcEhWblBJcFBQQ0tsUy0wRDZPZDVfWURSSnVQdzZvTkdUT1BuT1BoWlRKRzJwTGFvb1hwb2ZhTllCQXJzdk1MdVVlbmlZU3p4WQ?oc=5"
+        },
+        {
+          "titulo": "Uber CEO Dara Khosrowshahi Buys $10 Million in UBER Stock",
+          "fonte": "TechStock²",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ1RtNWtrajFSQlFNbEpqRFpRaXpHMkZiblloYXMzUXV4c3lyT01uOFphcWNaalhZMTV5Q20wc0Y3bzdCVnFPUzY5SXRDNF9IZ0xEdGR3a2cxdFB0Uk1FV1p6eENmUElSU210NUhYN3FDeGJFYjhtTHd6QTcyelRpS2hVNA?oc=5"
+        },
+        {
+          "titulo": "Uber (UBER) CEO Dara Khosrowshahi Buys 141,000 Shares",
+          "fonte": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0hPZGEyemVGdEFMOXQyYjhCM05mTTdRZWltdnEzLXJqUnZJeVAyZFNDN0FWaHg3T3FtOWxFTVhoYmRBNUxCUDNYNVR4Tnp6eVI3Skl4bXJocFBjSExtaU9nNUU3cWJtOWk4Vm1lbUVWMTBXUmxfTEhzeDZSQW5SNDg1ajlKWDEzT3RXRHdUT1pOTVU?oc=5"
+        },
+        {
+          "titulo": "UBER Stock Jumps After CEO Dara Khosrowshahi Buys $10 Million In Shares",
+          "fonte": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbExOZ2sxaktLQ1B0eTdVS0J2OEJQNEdPeFdFU2FRbTJyd0Z4aUJnS2g5cnJ0cnhhYWRDdlZLOFZqUmVIOHVRd3BvNGJLNkoyV1dIb0VCRGRtYlAtSEdPQV85eU5DbXZxVmJ4SFl5V0x0NWxUekFoZWdPaFpXRGlXVUZ4QWM0QUFNcE1hdHZldWU3aGZK?oc=5"
+        }
+      ],
+      "score": 21.8,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "11/09/2026"
+    },
+    {
+      "id": "2180da1e3a63",
+      "tipo": "noticia",
+      "titulo": "More US lawmakers seek new AI rules after Anthropic researchers warn of human extinction",
+      "fonte": "Reuters",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
+      "thumb": "https://i.ytimg.com/vi/AuwystrCDo0/hqdefault.jpg",
+      "data": "2026-09-11",
+      "bucket": "semana",
+      "calor": 3,
+      "num_fontes": 6,
+      "keywords": [
+        "AI agents for business",
+        "AI regulation"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "More US lawmakers seek new AI rules after researchers warn of human extinction",
+          "fonte": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR0VnVzJ6ajNORVlqMXdKdkFwV2RNS3BtaDlYVzJKRjYtQlI3WDY0bWdZOTYyUWljQThqMVZCaW9mMWJGaG9NYTQyamwtVVFLaVhzZVZiclZUTDFyaHdadjQyYkw2bjBXcWltREJWWFpNZXFnRUV6ME5UNG1GYnQxdnBZQ3FlN1FCcHNkWXJKVUtqSUxlWl9TemNoeUJ1Sm9hTk1nVXpUVFYzUkNMamxvUTFXQ1Q1VEFjWWYxdGp3?oc=5"
+        },
+        {
+          "titulo": "New AI rules called for in U.S. after Anthropic researchers warn of human extinction",
+          "fonte": "japantimes.co.jp",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGFvejN3dUpOM1dPMVJ4Znc2Z1NYWGpVQUdMU0VwTmpaaldoUkV1VXpyOEN5cXlQMExtZ0ZJSXhaYlZKYWJCa3ZRZnYxdkY0U09wUi1GN09ySmtKN21nY2ZobVEwQk5UVDQxNXl2RGRubnF0Y3ROZm9oc3BfNkptWm1Gblk?oc=5"
+        },
+        {
+          "titulo": "New AI rules called for in U.S. after Anthropic researchers warn of human extinction",
+          "fonte": "The Japan Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGFvejN3dUpOM1dPMVJ4Znc2Z1NYWGpVQUdMU0VwTmpaaldoUkV1VXpyOEN5cXlQMExtZ0ZJSXhaYlZKYWJCa3ZRZnYxdkY0U09wUi1GN09ySmtKN21nY2ZobVEwQk5UVDQxNXl2RGRubnF0Y3ROZm9oc3BfNkptWm1Gblk?oc=5"
+        },
+        {
+          "titulo": "Lawmakers Call for New AI Rules After Anthropic Researchers’ Safety Warnings",
+          "fonte": "Insurance Journal",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44eXZFM2N6dWs2eUFfZm44RnFMUnBLSzVLd0RIeTNHcTlUMDJEb3pQTUU4QjJwSXI1NWRRYnNzN2dOeEtjbUh3M25EZUIzRG5JaEcxbDhZejdmLVFnMTIyLXZzZDJCS010NlRwc0U5UlkyRnI3SUdz?oc=5"
+        },
+        {
+          "titulo": "US lawmakers call for new AI rules after Anthropic researchers' warnings",
+          "fonte": "Daily Sabah",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2sySWhRaTM4aEMzRDBsaTdjYWd2by1UV2YwazVIeE9xbzBhcU5aaTFMS1ZHcURXdHY0RHRtQUxPc0p2cmV1SS1Wd0liaG1ONGZkNEJQcGJtbVRYejhZREdDOHQ5QlNIemxTd3Q2U1Z2cnhHUDhKYmdQaWVnREN0bC1fTGkxcTh3eGFSOHBDSmc3emZDeDVnMGRTSWF5NHhPdEJUVVBzNUExZmc3aE1PMEI2Z3dfZw?oc=5"
+        }
+      ],
+      "score": 21.4,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE O NOVO LANCAMENTO DE A ANTHROPIC SIGNIFICA PRO SEU NEGOCIO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "11/09/2026",
+      "video_relacionado": {
+        "titulo": "More US lawmakers seek new AI rules after researchers warn of human extinction • FRANCE 24 English",
+        "url": "https://www.youtube.com/watch?v=AuwystrCDo0",
+        "fonte": "FRANCE 24 English",
+        "views": 3341
+      }
+    },
+    {
+      "id": "c37b2623bbbc",
+      "tipo": "noticia",
+      "titulo": "OpenAI faces Senate probe over Hugging Face hack by swarm of rogue agents",
+      "fonte": "New York Post",
+      "local": "USA",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTm8ycDV0eHFLVmpVM01mVW9za19uN1ZSTEVHd0Q0bHBZSGdDUmMxUmJaZlJnZUFwWm10S3dTaUx2SDlzSk1RX2dSVHR3bUhYaVlOZmJWQ3dmcEVrX1J5bUhUbVY1RzgtTDRaSDVOTl9xVFR1UnhOcjZoTkstd0tKRV83cHRGanQ4VlhWSWVrWUZxZw?oc=5",
+      "thumb": "https://i.ytimg.com/vi/aqABg5w2a_4/hqdefault.jpg",
+      "data": "2026-09-10",
+      "bucket": "semana",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "Hugging Face",
+        "OpenAI",
+        "autonomous AI agents"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "OpenAI faces senate probe after Rogue AI agents breach Hugging Face",
+          "fonte": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHV5anU3RDgxTXpYVnhpMmZyYkZINDdWek1IQUd1SlZfQXRhbVg4Nk5Pd1FjVjRwcDUxM191Z3JqVnFRSnpUck9GWkd3VFF1a0NlN2FMTUotRF95WGlhdVBMa3BBTXdQSEoyeGtmSlAxZ2lXVE9DeGJyTjlJTDJrYzN5dDJiNy00U0RVSFFkNGs2ZjNhQ3FsZDY5VWFGTV82VnJtam1UWEdQR25ZT2fSAaoBQVVfeXFMTXlqbFUtTGthaHNoWnJiR1VlNGM0QkVOOTFyUUxsSUpZNWg0U19rbTYwOGJGck9PNUJUVzlzNTQ0aURtcWFCVWozdjlKdnlXYzM0LW5wanZYTEQ1Q1cxYmI2UExPb2NSbUVIRkxNbTg5eEE3UGpSTTA2SWpBa3p2OENBQkVRR2FHREhHajVaaE1UemdMRl9neFBjMmFUZzlIaUE2RV93ZWtacHc?oc=5"
+        },
+        {
+          "titulo": "Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach",
+          "fonte": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUzAxcDNBRHlrZTNxWHFxenpIaHNmUjBkaUZhRjc1Mm9DNU44TE5DMzNTUDNZTDc0YmJqTmJVQzE2VFhNY1d6OVVhU2RZN0xXem1tU0VrdlF3UVBOOWc0dG5GdWhURllfTDBtRFY4dGMzZndZOE45bWdnZDh2SmVzY1lLM1Eta00?oc=5"
+        },
+        {
+          "titulo": "OpenAI faces Senate probe into Hugging Face incident",
+          "fonte": "Virginia Business",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16ZE9KdHdqS1I2SU1Cc2ptTnY4TkdlcXZJM0VpYWVEc0x0XzFRdXAyX0hKSHNlbVZZcGZMNFFXVzJOeTJpMURPMngzdFZPeWFhY2NTdnRuUEctcEktSExlZXU1R042NGRCd0JyX3l4a2o2R0JaMkFEWXJtY2RVSjg?oc=5"
+        },
+        {
+          "titulo": "OpenAI’s Hugging Face Hack Faces Senate Probe",
+          "fonte": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDNKZXFNckg5Ym41c1JFT2cyUkxJS3RoMElqSG9MR3RxXzdnbTVUak9fVmo2Unk1bDBaS21CTVRkVml3NzQ2dFY0SGotWWx1N05qYTBKUVdpd2k2T052YXhXYm9zazhhcnJsVFh1ZjdwMUxVSkRHZlFHNkJEQ3JBQmRSczBpeV9KTTNDMm5leElESTdjcEJYSVZJYkVQZHBTcHpURUlrLVM?oc=5"
+        }
+      ],
+      "score": 19.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "POR QUE IA AGENTICA E DIFERENTE DE UM CHATBOT",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "agentico"
+      },
+      "data_br": "10/09/2026",
+      "video_relacionado": {
+        "titulo": "OpenAI’s Hugging Face Hack Faces Senate Investigation",
+        "url": "https://www.youtube.com/watch?v=aqABg5w2a_4",
+        "fonte": "Forbes Breaking News",
+        "views": 2644
+      }
+    },
+    {
+      "id": "5371a65739b6",
+      "tipo": "noticia",
+      "titulo": "Google DeepMind Releases AlphaGenome Atlas Mapping 9 Billion Human DNA",
+      "fonte": "Forbes",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYlVpZ3loZG1tRlh4WS1VZUdRQkYtVC1PTTdjRHJ5RlBMaURzWGw2b3gwNlU0YTJsajBoMnFEVUZicGxITVhzOEVCNnBEbThrVkQ2S1YyWmN5NXN3NG5oYVNlRU5HUTFJbU9sVHFUQTF0aVpfQTRobWFNYnhvbks5UlpZVVNCNUJWODdHWlAwQzRjenVmWnVhNUZNRzBLZHp0bWdrY0VGTlpQMVpXZkNyaEVBMk9ySElhZzhjcmxNaw?oc=5",
+      "thumb": "",
+      "data": "2026-09-10",
+      "bucket": "semana",
+      "calor": 3,
+      "num_fontes": 6,
+      "keywords": [
+        "Google DeepMind"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Google DeepMind’s AlphaGenome Atlas maps all 9 billion possible human DNA changes",
+          "fonte": "SiliconANGLE",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONElMZFg4NXRZaUNDcTE2dm52MllPUGhvcGlqanRJS3FJdzRwemdPcS15R05Qcm5ocHVsWTFURFZsQVpfZHBrTVdEY2Rtd3ZpaFJQLTlEWXdLNzMtUWZRYkw5VXVjVVEtRHFEN1pGV3ZTc0lrYU16enhXa0ZDU19pOFBzNHdPUjAta1FkZXp6RWVmUTdMd0xoUV9FVmNvYkU3MXY2N1Vla25Nbi13a0RYRTRmcGR5c1Fq?oc=5"
+        },
+        {
+          "titulo": "AlphaGenome Atlas: a high-resolution map of human DNA",
+          "fonte": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbmRtd2QzOGxwWXZSVHQ1dGRNM3J2RkpYdFgtNjhacnI5WHloakJXTXpJa0xMUG1jVzJGSWtaNnhfVDJsdGZ3eDBmTG9XdDZqMV9fTk90c2lpMkVUcE5meHM0UzM5eTVzZlZDSHRaM1ZLcHNSNlZ2XzdaYTh0cW5hWkNJb2ZWa2ppeE5CU3JJdjZVTC0tWkRR?oc=5"
+        },
+        {
+          "titulo": "AlphaGenome Atlas: Molecular predictions for 9 Billion human DNA variants",
+          "fonte": "Google DeepMind",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM25CMWNTTmk2YTl0V21uU0tyRXpfem5BXzlZOW4wSW9BUlFDX29qY25NcV9XVWhNZHRnRS13UFpEN213Sl9RTm13SlBEV0gwUVVpaTdxV1ZYZzVoNG91ODlUal9NUkFmcGdsZTN5VklJYndBeU90ZmI0cVQ1ZVdJZzUwV2pYcHlKZkd0eTFjakZhbGxqX1ZKRTF3aXQtbDE0b2c0cXMzQzYtSXVIcjRRQ2ROa3pRVWpmZV9UZA?oc=5"
+        },
+        {
+          "titulo": "Google DeepMind Maps 9 Billion Possible DNA Variants",
+          "fonte": "spectrum.ieee.org",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HRlRaVHJNVHFkVjVOTzF0NzIxMjlVQXVYTWpvQmstVDU4c0dpejkycGt3YVVlSW1KVWd5dVlxb3BfSlJyS042ZGVRdndwZUQwUnBuelJB?oc=5"
+        },
+        {
+          "titulo": "Google DeepMind Maps 9 Billion Possible DNA Variants",
+          "fonte": "IEEE Spectrum",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HRlRaVHJNVHFkVjVOTzF0NzIxMjlVQXVYTWpvQmstVDU4c0dpejkycGt3YVVlSW1KVWd5dVlxb3BfSlJyS042ZGVRdndwZUQwUnBuelJB?oc=5"
+        }
+      ],
+      "score": 18.9,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "TODO MUNDO FALA DISSO: O QUE O GOOGLE FEZ AGORA",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "10/09/2026"
+    },
+    {
+      "id": "f9a5e2d6b6cb",
+      "tipo": "noticia",
+      "titulo": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "fonte": "bbc.com",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?oc=5",
+      "thumb": "",
+      "data": "2026-09-11",
+      "bucket": "semana",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "Anthropic Claude",
+        "artificial intelligence news"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Anthropic blocks possible attempt to use AI to make biological weapons",
+          "fonte": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?oc=5"
+        },
+        {
+          "titulo": "Anthropic says it disrupted scientists using Claude AI for possible biological weapons development",
+          "fonte": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1gxVjdSOXNuN1U4VUVvdzMyeG03NE1WZm5Ya3VBNnJTZVZrcXU5Vy16elVNMzlRbU9YN1JWYjBweS1RQjE1cEdBbFg5QlFVOGlWQkhNb1F0Um5JWDIyelZkbHFmMnhsS2EzZjFyeDJLSFA0Qlk2SDVJa1RMQ2htckk2aFpIYU0?oc=5"
+        },
+        {
+          "titulo": "Anthropic says it disrupted scientists using Claude AI for possible biological weapons development",
+          "fonte": "cbsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1gxVjdSOXNuN1U4VUVvdzMyeG03NE1WZm5Ya3VBNnJTZVZrcXU5Vy16elVNMzlRbU9YN1JWYjBweS1RQjE1cEdBbFg5QlFVOGlWQkhNb1F0Um5JWDIyelZkbHFmMnhsS2EzZjFyeDJLSFA0Qlk2SDVJa1RMQ2htckk2aFpIYU0?oc=5"
+        },
+        {
+          "titulo": "Anthropic says scientists used its AI for research that could aid biological weapons development",
+          "fonte": "New York Post",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT3l1OHlWZnphX2NLU25wMlIwcnVqM0xXQ0xVVVJoYlhKVGJKNEVJSnFkV09OQzgzRWczdzhCRjRLcTRkb240QWg2Z2x0UXF3TmlLMG1ua3QtUGFpckxvZEpsZE5LeW10UzhWTGp6TDJrMDByTXNsVGE2QnVMOXlCYTFuS3NIUk9YaFljam0yMzRkZlMya0xua085STMzWFZZTnc2THkydEJ3QmtybmVhbWhTYWVocHpEMENZM1Nqa3lCR1ZxaGlTMzZ3MGJ3OVdkQnc?oc=5"
+        }
+      ],
+      "score": 18.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE O NOVO LANCAMENTO DE A ANTHROPIC SIGNIFICA PRO SEU NEGOCIO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "11/09/2026"
+    },
+    {
+      "id": "4e8c1dcd47df",
+      "tipo": "noticia",
+      "titulo": "Nvidia and Palantir Launch Sovereign AI Stack for Supply Chains",
+      "fonte": "Channel Insider",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFJfT3BoWjhUSG1yYlJSaTJPTXEwTHZINE5Id0MtUDlXQS1aamtjSHZna0RMWGx3X05ldVVfd19lb21oYWxDN05wYlNESFdJeW9FMlFFYjdNdVRCRExyaGhDM09MV2dNSm1iZEthTlFLdEdJQm1GMG8tdXdpN3hMRU02RWx6SlZM?oc=5",
+      "thumb": "",
+      "data": "2026-09-11",
+      "bucket": "semana",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "Nvidia AI",
+        "new AI model launch"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "NVIDIA And Palantir Launch Sovereign AI Stack For Critical Supply Chains",
+          "fonte": "pulse2.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1JLaVpDN04tekZNUkZMYmpYS0x3UjBfR1hKWUJ6MThXdm81UWlfMDVyakRMWFFybVpTbW1nM1VIMDVnS0hFbVZuVTBfNm1sWW95WjQyMWNKWEg3Z0I5OEFvWnUzUVRoS3lyZ0FXZVFURkM1by1JRTRCTXotdmZQaTRqNjRfSGlKY0dmcGhld3MxNVJvSGNZ0gGcAUFVX3lxTE1hUjN4WkJIN3p4UUxwbkkwUU0xMzdCcEdqWWxXSXBNYXZFX0x0dUVCdUlOUDZyNkUweVkyYjl4b3d6a0tXR0lPeGF6UGhhRU02ZTZNREFSYU5jNVBJbVFTbi1UdElNRlY3Y0cwZG9iQ25RV0hWN1VidVdiVlhIbXV2U0xTZmtra0IyVnFkWmVnblBMSFJXcEtTcTBkbw?oc=5"
+        },
+        {
+          "titulo": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
+          "fonte": "HPCwire",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0hQRV9lWG02OHN2bmZEQXctVlFlY0k3OGk1ODlON2sxSHhsZUNlZUFfVndFNlY4Qi1MQmdOb0FJOENldVFyRzRybUFjcGtCU2tISnBPWWxXV2ZNUEtTdjBPSTFUWUVnZ2pfZml1YXVzU0pReGFmQmxyT0EyNXIxXzZEbHh5UHZUNDFiZDVyMDlTNTZpdUl3NTROYnM0d1lRUmlENURyZkxCVGMwTGo1WEhGSWNkaDlF?oc=5"
+        },
+        {
+          "titulo": "Nvidia and Palantir Launch New AI Stack for Supply Chains",
+          "fonte": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmc3Yy1GUWRqWXV3STFYMS11Qk96cENLUVZqSXJoMUlnLTlkZVZvWHJpb1NRM1pGM3k1SEJZUGVnOS1ULTV5MWVTVkhkZ0JtVnRVR2hwM0tmZGRoOVM3cHBjOVd3RDVicms0X0NrVUV3SjlRUEZtczY5eDRxX0VTcWhEdG9PLWkwTDNiMFFaS2pMaUVoX2lUWlZnWlFReUplSGdn?oc=5"
+        },
+        {
+          "titulo": "Nvidia and Palantir Launch New AI Stack for Supply Chains",
+          "fonte": "247wallst.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmc3Yy1GUWRqWXV3STFYMS11Qk96cENLUVZqSXJoMUlnLTlkZVZvWHJpb1NRM1pGM3k1SEJZUGVnOS1ULTV5MWVTVkhkZ0JtVnRVR2hwM0tmZGRoOVM3cHBjOVd3RDVicms0X0NrVUV3SjlRUEZtczY5eDRxX0VTcWhEdG9PLWkwTDNiMFFaS2pMaUVoX2lUWlZnWlFReUplSGdn?oc=5"
+        }
+      ],
+      "score": 18.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE O NOVO LANCAMENTO DE ESSA IA SIGNIFICA PRO SEU NEGOCIO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "11/09/2026"
+    },
+    {
+      "id": "de2df38a9432",
+      "tipo": "noticia",
+      "titulo": "OpenAI is open to slowing cutting-edge AI, CEO Sam Altman tells staff",
+      "fonte": "The Seattle Times",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDJWOTJBMTVUeC1BTWg5NEhnNGY3TlJEdHJmM2Mzd19uaE5qX3VpSGlvUXhwdkwtSGNYQ1VCYTNRM1hxdF9STDJWTDFtQzJFcXNXS21GeFZKRDNQV0tEVFN0dDJ0cVRQaWJzZmVfRk1ORGFrcTdTT3dwT0laX29zbEpWU1VQTjBfNzFyY2VyTjgzSjBFWmU0QWRQZWxzVU1McGVTU2dpZzhOejA?oc=5",
+      "thumb": "",
+      "data": "2026-09-11",
+      "bucket": "semana",
+      "calor": 3,
+      "num_fontes": 4,
+      "keywords": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Sam Altman says OpenAI is open to slowing AI development",
+          "fonte": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Uc3E3NVNmMXR6ck5wNEtqbnM2TTRGZ3hFSWNYSlJndUJ1QmJJMWZxNVFBVWdGY0ZrMnUtQkRGLU9wOHhzT1NHajM3RXU5dGpWd0gzOVVWWUdfQkRJYTN0dDUyYkRhbHpBSWd3bWxiNGtON3RrMlhJaHVsZDgxdw?oc=5"
+        },
+        {
+          "titulo": "Sam Altman told OpenAI staff the company was open to slowing AI development",
+          "fonte": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Uc3E3NVNmMXR6ck5wNEtqbnM2TTRGZ3hFSWNYSlJndUJ1QmJJMWZxNVFBVWdGY0ZrMnUtQkRGLU9wOHhzT1NHajM3RXU5dGpWd0gzOVVWWUdfQkRJYTN0dDUyYkRhbHpBSWd3bWxiNGtON3RrMlhJaHVsZDgxdw?oc=5"
+        },
+        {
+          "titulo": "Why OpenAI’s Sam Altman Says He’s Ready to Slow AI Development",
+          "fonte": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjlEMFJqU1BlRnJjclFudDF5aGFWZGFwNTAwZ1RDVll6V1JZaGNtQWU1RmdkQU1xYld3d0l0M0pDc0tlMmNxVU1hQmtGQnJPZkZzUGVGWlZTdmVKcDN4eDJ3VXItamd6NkVuSk9PNnhScGhZTUJRaTh1cFZPeEZQR3JCR0hKZW42S0oxaVd0VE9kVjZMNW5lNEFLUUotOUlKcTlTWlh3SGxWaE1uZ1daN0dfWEFQUXM?oc=5"
+        },
+        {
+          "titulo": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports",
+          "fonte": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2FONXhOeTRKZVg5ZU5qa3JVQ2I4S1ZSX1V4YU1zelVDV19IczFXWWlGd1BfRjhfbVVNZ3R5ZW9VelJpT2k2TmVNUWk5UFdIcHJFMjdnMWVQbFdVMm53ckVfZEF5SnZqUjJvb0N3OXVKc19CNFd1Z2otY1Y4cmlBQ0VhaGZMbllrWHIyQUVLRU5JYTIzNm1jdTVTcmhQcHJmdWgzYzdwckp2c2NhcEttLUMycUh5OVA0NEVKZGZwRm04UQ?oc=5"
+        },
+        {
+          "titulo": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff",
+          "fonte": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaE5RVzVKR09WQ0pick9xYjhVaXhnYUFpOUt2OElxZjBwbTRvT2d3U2FnRmFacXd5TWFvVnpwRUo5M0lEeWVNbWJURzdlRXFLbnFHa1Y4WU43SmxKYWcwUGRFQmdjV2FGeUg4TVdPVEFkTzJtNUtQV0xtVHROLV9XekJKSTZFbmFNb0xwaFNMejRHYmpwbUdpOGRlYXoza2hjWXRTdVdNcng0cmFNV2ZwTkFYT0tma1kzTkpN?oc=5"
+        }
+      ],
+      "score": 17.4,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "A OPENAI ACABOU DE LANCAR ALGO QUE MUDA O JOGO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "11/09/2026"
+    },
+    {
+      "id": "a394bd54c503",
+      "tipo": "noticia",
+      "titulo": "Claude AI used for missile, influence projects in UAE, Iran, Yemen: Anthropic",
+      "fonte": "Al-Monitor",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjVKNVNobURlVkh5bW8zRldzVUNWRVUweF82QXp3bGRiZ1J5YWEwZlk2bnFHY1JlVFZqV2VTU2NoVWd5TDB0WlFKLS1CRDlPcjg3U3dheldoNml3RkR2WG9zQXFJc2tEVVBCNDlFQWFMWmsyUDFGY0F0YlB5UXB3SE1hLUw3dEFuRW1CZ3VuX2xVYWI4SzRpYkdubzllWFMteG5sbTd5V2JqWVFZTERyXw?oc=5",
+      "thumb": "",
+      "data": "2026-09-11",
+      "bucket": "semana",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "Anthropic Claude"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Iran used Claude to target US Navy in Middle East, Anthropic says",
+          "fonte": "navytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRzBaNFhKdzJCTms2U0RXWXZTRVN6TFFZS294ZjkwRkc1YmRlT19ZQ3Bsc1FXRktXVE93NnFqRlMwcDBWM2xjcW1wNnJrUEpTUVNsaWtDQXNwa1k5OVhUSUJNbFktYlItNFpCQlVORV84cjNpQ0hOVXFJQkhlNHZxTkw4NzQwRzg1eEVqMmtWVndtYzJCSmpHM1ZrUEdERlR2Uk1ySXZ3Z1JPMmpxWDJJU1hkbGdlN3po?oc=5"
+        },
+        {
+          "titulo": "Iran used Claude to target US Navy in Middle East, Anthropic says",
+          "fonte": "Navy Times",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRzBaNFhKdzJCTms2U0RXWXZTRVN6TFFZS294ZjkwRkc1YmRlT19ZQ3Bsc1FXRktXVE93NnFqRlMwcDBWM2xjcW1wNnJrUEpTUVNsaWtDQXNwa1k5OVhUSUJNbFktYlItNFpCQlVORV84cjNpQ0hOVXFJQkhlNHZxTkw4NzQwRzg1eEVqMmtWVndtYzJCSmpHM1ZrUEdERlR2Uk1ySXZ3Z1JPMmpxWDJJU1hkbGdlN3po?oc=5"
+        },
+        {
+          "titulo": "Iran used Anthropic's Claude AI to target U.S. Navy warships",
+          "fonte": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pcW9yLTNzbzhuZmtvV0pUTHFFTDR0SGdjNGwtbUk2OExLZm4xMXota0dGaFRvbkdTWnRhZS1KbnI5dTBvMDg4V2xGVUM3cjhrQS03dDdOSFo0eTJsS0NxRDduVlN6dXhEaUEtZlRBTjQ?oc=5"
+        },
+        {
+          "titulo": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+          "fonte": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5"
+        }
+      ],
+      "score": 16.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "TODO MUNDO FALA DISSO: O QUE A ANTHROPIC FEZ AGORA",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "11/09/2026"
+    },
+    {
+      "id": "76ef27431167",
+      "tipo": "noticia",
+      "titulo": "Google Releases a Dedicated Gemini App for Windows",
+      "fonte": "gHacks",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQktPdExNM2xfbmJHclN2dmZ4LW53YWEzeGpFT0pWem1vS0RzZDlZS21BT2k3amlIV3BucmZISXJwTHY0Yk51RXp2Q25semVpRTFzejJDSTFZNEIxdWp0RXQyY255bXlJa3UxdVJIR1M1VEY4ZGh4bXVQOXJzUkIwdlZ5WTZHUjl2ZmEyUkpR?oc=5",
+      "thumb": "",
+      "data": "2026-09-11",
+      "bucket": "semana",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "Google Gemini"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Google releases a Gemini app for Windows",
+          "fonte": "BetaNews",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pbjMyZzFWc3hjbmVRcVY4ODFmM1RjV21JQ1V5UElCYk9VWkJHZjFvUlNZSVFhY3A5YjBfdHlFdHRxQktoVjNLdDdSREQ5SlRCbTVpWkhETWswUHpHQkZLeTc2QmdodmgxejFPczBqVVQyOFR6LV9OMDVB?oc=5"
+        },
+        {
+          "titulo": "Google Releases Gemini App for Windows",
+          "fonte": "Thurrott.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTDhMaFJHY2V5YTVXSkc0YUdSdUNzeGc3X0NwVlR2dkxhWTBVSGh4VzRQVGJLY1hjSEJmVG5BWUx4NTk0RXZXS2FYMmZlQlZCWUVLRjdPUEVFbE5nWDhyT1EyNkNGNlhnS0d6TV9heHZnMzlPQ3BuZkVDR3V2QkdjUHc5RFd5MEZzd1ZyMDk3MjlObFNCSjNR?oc=5"
+        },
+        {
+          "titulo": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+          "fonte": "Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFlIZmg0d05aalJ6azg1YmtNZVRORUtUd0ZTcGo0VmRjUDVOSGpfdGk2alVQd1hlWnlBbEhOOUsxUW90MHc3WWhxcmhwd1dMd05iUWp1TkZiN1pZOGVfcDVja0RDX2lKTlVBUFd1VllTR0RqV3lpVVJpd2R1U2lDUDdDcmRIejBZZGlZSEdhVE44X0t3TVRWMXg2dEFrdlYydG1xZDhR?oc=5"
+        },
+        {
+          "titulo": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+          "fonte": "arstechnica.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFlIZmg0d05aalJ6azg1YmtNZVRORUtUd0ZTcGo0VmRjUDVOSGpfdGk2alVQd1hlWnlBbEhOOUsxUW90MHc3WWhxcmhwd1dMd05iUWp1TkZiN1pZOGVfcDVja0RDX2lKTlVBUFd1VllTR0RqV3lpVVJpd2R1U2lDUDdDcmRIejBZZGlZSEdhVE44X0t3TVRWMXg2dEFrdlYydG1xZDhR?oc=5"
+        }
+      ],
+      "score": 16.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O GOOGLE ACABOU DE LANCAR ALGO QUE MUDA O JOGO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "11/09/2026"
+    },
+    {
+      "id": "f5155ae67fcd",
+      "tipo": "noticia",
+      "titulo": "Muse lose longtime social media handles following Meta AI launch – PLAYY. Magazine",
+      "fonte": "theplayground.co.uk",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDJXUEhoellvdkt2YmxrYTJhMVF5OEo5dk1odkFON0V6Ty1xaFMwelp1eXNiNWVsTGFCdG10RUF3V1Jpdkg4WDhZcTRYNkppMWxLb05mbmlkWVFPOW9naGRseFpsd1F2Y1lYeFdCZXBZRlBlM1pqSXFSWEhWTFQtNl9PbW5FWmw5ZWdiTWxQNU5VWjd5VkUxMg?oc=5",
+      "thumb": "",
+      "data": "2026-09-11",
+      "bucket": "semana",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "Meta AI"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Muse, The Band, Lost Its Social Media Handles To Muse, Meta's New AI Agent",
+          "fonte": "Engadget",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbWhmN18tZkNVckFyUHhtSGlJdFJKRzhZaWE0YUFkS05qMHZxUVE1bFhIVnZRNFFlZS1BNWtKNUZseXV2a1VjX2tjR2RPTlhIYWNlckV2TjdNdDFzUGc2MmtrSUNBOGJUQW9QTjZxSEduS1B0aVoxTGNDaVYtbnZ6SExBUTlzYlBqQU45M042OTRDeXRCZTFlREZSbEpXamtWbHQyVHMxNm8?oc=5"
+        },
+        {
+          "titulo": "Muse, The Band, Lost Its Social Media Handles To Muse, Meta's New AI Agent",
+          "fonte": "engadget.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbWhmN18tZkNVckFyUHhtSGlJdFJKRzhZaWE0YUFkS05qMHZxUVE1bFhIVnZRNFFlZS1BNWtKNUZseXV2a1VjX2tjR2RPTlhIYWNlckV2TjdNdDFzUGc2MmtrSUNBOGJUQW9QTjZxSEduS1B0aVoxTGNDaVYtbnZ6SExBUTlzYlBqQU45M042OTRDeXRCZTFlREZSbEpXamtWbHQyVHMxNm8?oc=5"
+        },
+        {
+          "titulo": "Muse Loses Social-Media Handles to Meta AI Agent",
+          "fonte": "Vulture",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fUjlJclRIb21vX2k1V3JFTkZaVUpQdnNVYzZCNURYajY3Wno2RzVySGhPNVRMazB4MzRIMjR0alhUXzR3dEduQW1PSURZalBmQzFfdUxOUVFHYzZ3SnYzN2tZdWxvWmR6NDFiSE0zbw?oc=5"
+        },
+        {
+          "titulo": "Rock band Muse lose social media handles to Meta’s new AI tool",
+          "fonte": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM2ZJNkRJZjE0RGhvcjVvUnNLSThEU1UyMTZSeFVJdEFsbXlnOUczV2VRWXZnMVJtWi1WMmdwRUtaeW1oOUM0ZGF5dmo2ZkNzbEFoOG90SmJxcmdTY0hQUkNuYUs2S2dEaW43OW82SXdHOXBwaUdINmtwTGZNMGx2MWMza2tZZUZCd084Z2psNVlkbVNkc0RkLVppWTJKTkVrMUc3dXZB?oc=5"
+        }
+      ],
+      "score": 16.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "TODO MUNDO FALA DISSO: O QUE ESSA IA FEZ AGORA",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "11/09/2026"
     },
     {
       "id": "04e75ac8908b",
@@ -207,11 +2229,11 @@
       "keywords": [
         "agentic AI explained"
       ],
-      "views": 4962292,
+      "views": 4962344,
       "dur": 609.0,
       "fontes_extra": [],
-      "score": 4962292,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 4962344,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
         "gancho": "3 TAREFAS QUE UM AGENTE DE IA ASSUME HOJE",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
@@ -235,11 +2257,11 @@
       "keywords": [
         "build an AI agent"
       ],
-      "views": 4171865,
+      "views": 4171930,
       "dur": 1558.0,
       "fontes_extra": [],
-      "score": 4171865,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 4171930,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
         "gancho": "O QUE OS AGENTES DE IA JA FAZEM SOZINHOS PELO SEU NEGOCIO",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
@@ -250,65 +2272,9 @@
       "data_br": "21/05/2025"
     },
     {
-      "id": "50b53ed9787b",
-      "tipo": "video",
-      "titulo": "How to Build & Sell AI Agents: Ultimate Beginner’s Guide",
-      "fonte": "Liam Ottley",
-      "url": "https://www.youtube.com/watch?v=w0H1-b044KY",
-      "thumb": "https://i.ytimg.com/vi/w0H1-b044KY/hqdefault.jpg",
-      "data": "2025-03-27",
-      "bucket": "mes",
-      "calor": 3,
-      "num_fontes": 1,
-      "keywords": [
-        "build an AI agent"
-      ],
-      "views": 3818769,
-      "dur": 13840.0,
-      "fontes_extra": [],
-      "score": 3818769,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
-      "angulo": {
-        "gancho": "POR QUE IA AGENTICA E DIFERENTE DE UM CHATBOT",
-        "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
-        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
-        "formato": "Reels",
-        "eixo": "agentico"
-      },
-      "data_br": "27/03/2025"
-    },
-    {
-      "id": "7fdf65e311e4",
-      "tipo": "video",
-      "titulo": "99% dos iniciantes não conhecem os fundamentos da IA",
-      "fonte": "Jeff Su",
-      "url": "https://www.youtube.com/watch?v=nVyD6THcvDQ",
-      "thumb": "https://i.ytimg.com/vi/nVyD6THcvDQ/hqdefault.jpg",
-      "data": "2024-09-03",
-      "bucket": "mes",
-      "calor": 3,
-      "num_fontes": 1,
-      "keywords": [
-        "how to use AI in business"
-      ],
-      "views": 3492531,
-      "dur": 612.0,
-      "fontes_extra": [],
-      "score": 3492531,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
-      "angulo": {
-        "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
-        "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
-        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
-        "formato": "Reels",
-        "eixo": "default"
-      },
-      "data_br": "03/09/2024"
-    },
-    {
       "id": "1a9cc21bf4a5",
       "tipo": "video",
-      "titulo": "Apresentamos o GPT-6 Astra: o modelo mais inteligente e alinhado do mundo.",
+      "titulo": "Introducing GPT-6 Astra: the most intelligent and aligned model in the world.",
       "fonte": "OpenAI",
       "url": "https://www.youtube.com/watch?v=1QNsdr-Qx_I",
       "thumb": "https://i.ytimg.com/vi/1QNsdr-Qx_I/hqdefault.jpg",
@@ -319,10 +2285,10 @@
       "keywords": [
         "new AI model demo"
       ],
-      "views": 2980774,
+      "views": 2981110,
       "dur": 163.0,
       "fontes_extra": [],
-      "score": 2980774,
+      "score": 2981110,
       "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
       "angulo": {
         "gancho": "O QUE O NOVO LANCAMENTO DE ESSA IA SIGNIFICA PRO SEU NEGOCIO",
@@ -347,11 +2313,11 @@
       "keywords": [
         "how to use AI in business"
       ],
-      "views": 2734283,
+      "views": 2734385,
       "dur": 1069.0,
       "fontes_extra": [],
-      "score": 2734283,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 2734385,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
         "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
@@ -364,7 +2330,7 @@
     {
       "id": "5398dbd6d6a6",
       "tipo": "video",
-      "titulo": "IA generativa vs agente: moldando o futuro da colaboração em IA",
+      "titulo": "Generative vs Agentic AI: Shaping the Future of AI Collaboration",
       "fonte": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=EDb37y_MhRw",
       "thumb": "https://i.ytimg.com/vi/EDb37y_MhRw/hqdefault.jpg",
@@ -375,11 +2341,11 @@
       "keywords": [
         "agentic AI explained"
       ],
-      "views": 1372558,
+      "views": 1372572,
       "dur": 439.0,
       "fontes_extra": [],
-      "score": 1372558,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 1372572,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
         "gancho": "3 TAREFAS QUE UM AGENTE DE IA ASSUME HOJE",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
@@ -403,11 +2369,11 @@
       "keywords": [
         "AI agents for business"
       ],
-      "views": 1360732,
+      "views": 1360813,
       "dur": 1247.0,
       "fontes_extra": [],
-      "score": 1360732,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 1360813,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
         "gancho": "4 TAREFAS QUE UM AGENTE DE IA ASSUME HOJE",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
@@ -420,7 +2386,7 @@
     {
       "id": "1cec506a4754",
       "tipo": "video",
-      "titulo": "Como usar IA para ganhar dinheiro, economizar tempo e ser mais produtivo",
+      "titulo": "How to Use AI to Make Money, Save Time, and Be More Productive",
       "fonte": "Mel Robbins",
       "url": "https://www.youtube.com/watch?v=64qXq8AG_9M",
       "thumb": "https://i.ytimg.com/vi/64qXq8AG_9M/hqdefault.jpg",
@@ -431,11 +2397,11 @@
       "keywords": [
         "how to use AI in business"
       ],
-      "views": 1208126,
+      "views": 1208131,
       "dur": 4469.0,
       "fontes_extra": [],
-      "score": 1208126,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 1208131,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
         "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
@@ -459,11 +2425,11 @@
       "keywords": [
         "agentic AI explained"
       ],
-      "views": 1174907,
+      "views": 1174957,
       "dur": 3400.0,
       "fontes_extra": [],
-      "score": 1174907,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 1174957,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
         "gancho": "POR QUE IA AGENTICA E DIFERENTE DE UM CHATBOT",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
@@ -487,11 +2453,11 @@
       "keywords": [
         "AI automation tutorial"
       ],
-      "views": 1094522,
+      "views": 1094550,
       "dur": 6623.0,
       "fontes_extra": [],
-      "score": 1094522,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 1094550,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
         "gancho": "O QUE OS AGENTES DE IA JA FAZEM SOZINHOS PELO SEU NEGOCIO",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
@@ -504,7 +2470,7 @@
     {
       "id": "c1ad2f5bf82e",
       "tipo": "video",
-      "titulo": "Construa um agente de IA do zero em Python – tutorial para iniciantes",
+      "titulo": "Build an AI Agent From Scratch in Python - Tutorial for Beginners",
       "fonte": "Tech With Tim",
       "url": "https://www.youtube.com/watch?v=bTMPwUgLZf0",
       "thumb": "https://i.ytimg.com/vi/bTMPwUgLZf0/hqdefault.jpg",
@@ -515,11 +2481,11 @@
       "keywords": [
         "build an AI agent"
       ],
-      "views": 864829,
+      "views": 864845,
       "dur": 2060.0,
       "fontes_extra": [],
-      "score": 864829,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 864845,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
         "gancho": "POR QUE IA AGENTICA E DIFERENTE DE UM CHATBOT",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
@@ -528,34 +2494,6 @@
         "eixo": "agentico"
       },
       "data_br": "14/03/2025"
-    },
-    {
-      "id": "8a89ed62c28b",
-      "tipo": "video",
-      "titulo": "How to Build a $10M Solo AI Business (Zero Code)",
-      "fonte": "Dan Martell",
-      "url": "https://www.youtube.com/watch?v=w-XPlC3a2oI",
-      "thumb": "https://i.ytimg.com/vi/w-XPlC3a2oI/hqdefault.jpg",
-      "data": "2026-03-12",
-      "bucket": "mes",
-      "calor": 3,
-      "num_fontes": 1,
-      "keywords": [
-        "AI agents for business"
-      ],
-      "views": 857045,
-      "dur": 865.0,
-      "fontes_extra": [],
-      "score": 857045,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
-      "angulo": {
-        "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
-        "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
-        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
-        "formato": "Reels",
-        "eixo": "default"
-      },
-      "data_br": "12/03/2026"
     },
     {
       "id": "80b454809cd4",
@@ -571,11 +2509,11 @@
       "keywords": [
         "AI tools for entrepreneurs"
       ],
-      "views": 854973,
+      "views": 854982,
       "dur": 716.0,
       "fontes_extra": [],
-      "score": 854973,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 854982,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
         "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
@@ -588,7 +2526,7 @@
     {
       "id": "6687978b06f9",
       "tipo": "video",
-      "titulo": "O que é Agentic AI e como funciona?",
+      "titulo": "What is Agentic AI and How Does it Work?",
       "fonte": "codebasics",
       "url": "https://www.youtube.com/watch?v=15_pppse4fY",
       "thumb": "https://i.ytimg.com/vi/15_pppse4fY/hqdefault.jpg",
@@ -599,11 +2537,11 @@
       "keywords": [
         "agentic AI explained"
       ],
-      "views": 795834,
+      "views": 795955,
       "dur": 829.0,
       "fontes_extra": [],
-      "score": 795834,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 795955,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
         "gancho": "3 TAREFAS QUE UM AGENTE DE IA ASSUME HOJE",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
@@ -616,7 +2554,7 @@
     {
       "id": "b921e23cb3a9",
       "tipo": "video",
-      "titulo": "Tutorial n8n para iniciantes: como construir automações de IA GRATUITAMENTE (passo a passo)",
+      "titulo": "n8n Tutorial for Beginners: How to Build AI Automations for FREE (Step-by-Step)",
       "fonte": "Charlie Chang",
       "url": "https://www.youtube.com/watch?v=Fy1UCBcgF2o",
       "thumb": "https://i.ytimg.com/vi/Fy1UCBcgF2o/hqdefault.jpg",
@@ -627,17 +2565,17 @@
       "keywords": [
         "AI automation tutorial"
       ],
-      "views": 725437,
+      "views": 725452,
       "dur": 1155.0,
       "fontes_extra": [],
-      "score": 725437,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 725452,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
-        "gancho": "ESSA IA ACABOU DE LANCAR ALGO QUE MUDA O JOGO",
+        "gancho": "O QUE OS AGENTES DE IA JA FAZEM SOZINHOS PELO SEU NEGOCIO",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
         "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
         "formato": "Reels",
-        "eixo": "empresa_ia"
+        "eixo": "agentico"
       },
       "data_br": "09/04/2025"
     },
@@ -655,11 +2593,11 @@
       "keywords": [
         "AI agents for business"
       ],
-      "views": 710719,
+      "views": 710750,
       "dur": 3536.0,
       "fontes_extra": [],
-      "score": 710719,
-      "primeira_vez": "2026-09-13T14:03:43.734688-03:00",
+      "score": 710750,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
       "angulo": {
         "gancho": "POR QUE IA AGENTICA E DIFERENTE DE UM CHATBOT",
         "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
@@ -668,6 +2606,259 @@
         "eixo": "agentico"
       },
       "data_br": "17/03/2026"
+    },
+    {
+      "id": "d6d5117021f0",
+      "tipo": "video",
+      "titulo": "AI Agents: The Most Valuable Skill You Can Learn in 2026 (Full Course)",
+      "fonte": "Open Residency and AI with Remy",
+      "url": "https://www.youtube.com/watch?v=5p-sq8v3OXw",
+      "thumb": "https://i.ytimg.com/vi/5p-sq8v3OXw/hqdefault.jpg",
+      "data": "2026-07-22",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "AI agents for business"
+      ],
+      "views": 632497,
+      "dur": 8651.0,
+      "fontes_extra": [],
+      "score": 632497,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE OS AGENTES DE IA JA FAZEM SOZINHOS PELO SEU NEGOCIO",
+        "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "agentico"
+      },
+      "data_br": "22/07/2026"
+    },
+    {
+      "id": "d3224326c5bf",
+      "tipo": "video",
+      "titulo": "AI Agents Explained: A Comprehensive Guide for Beginners",
+      "fonte": "AI Alfie ",
+      "url": "https://www.youtube.com/watch?v=hLJTcVHW8_I",
+      "thumb": "https://i.ytimg.com/vi/hLJTcVHW8_I/hqdefault.jpg",
+      "data": "2024-04-29",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "build an AI agent"
+      ],
+      "views": 589979,
+      "dur": 412.0,
+      "fontes_extra": [],
+      "score": 589979,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE OS AGENTES DE IA JA FAZEM SOZINHOS PELO SEU NEGOCIO",
+        "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "agentico"
+      },
+      "data_br": "29/04/2024"
+    },
+    {
+      "id": "daca79ab20df",
+      "tipo": "video",
+      "titulo": "I Tested 500+ AI Tools, These 12 Will Blow Up Your Business",
+      "fonte": "Dan Martell",
+      "url": "https://www.youtube.com/watch?v=LSKZrtFl47c",
+      "thumb": "https://i.ytimg.com/vi/LSKZrtFl47c/hqdefault.jpg",
+      "data": "2025-10-31",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "AI tools for entrepreneurs"
+      ],
+      "views": 537587,
+      "dur": 1290.0,
+      "fontes_extra": [],
+      "score": 537587,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
+        "corpo": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "31/10/2025"
+    },
+    {
+      "id": "777d4a5ae88c",
+      "tipo": "noticia",
+      "titulo": "Adobe Acquires Indian AI Startup Rilo to Accelerate Agentic Marketing Automation",
+      "fonte": "konsulteer.com",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVZhVFBHRm1oUXg2N2E5Y29mbDJ5NmltcDFGWmZDSGNhWEhwd0tBRTZHbEgxZjBmZXhZMGJfOGVadktvbFpucXgya042MzZNdjRTTHViRnR2UUppVHdkYkx2UF81UFB3TmlHenBjUXlITU5kajVIbXE4Sy1IUmNhcllvX1NURGNMREVpOTRPM3FsLUZ3eW03dFZneGliSmJjYm1SUGZPN1pYV0w1TG5F?oc=5",
+      "thumb": "https://i.ytimg.com/vi/4H79NTcZXR8/hqdefault.jpg",
+      "data": "2026-09-05",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "AI automation for business",
+        "AI marketing automation",
+        "AI sales automation"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Adobe Acquires Indian AI Startup Rilo for Marketing Automation",
+          "fonte": "analyticsindiamag.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRkhick9SWnFsVThMNTBvV1NJLUVOLXZoOUpIRldBMUprN2FSUXY5ZWQ0RV9Kcm16T2oweTNnV0MxVnJwczFGdE1ScktuYjRoeHkwRlFobE9aVWRaT0lOeVRUS3FzY2JKRXdtbWZFdFFCM2lWTXB6R2xHR2FBNmtlTTZpaDFUakhPOGdPSkZuRkZaeXhqWkZmSGlWQ3BkWFRIdkE?oc=5"
+        },
+        {
+          "titulo": "Adobe Acquires Indian AI Marketing Intelligence Startup Rilo",
+          "fonte": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDlEeV9lbUxmdUhYdmNRNjFxcWpuV3ZnSEdpLTIyNnI0YVRfaDlQYnRLZ3dXSHE4RGE3T0NNbGhrYUtPUURRNUJobG04cWxTTmtKbE1mRkdZamRHYlFDUEdJdFNkU2hJTXZSeDl1OTBaM0ZPdGpYRDNLR3F2NGd1dnpwSEItc3fSAYwBQVVfeXFMTzhZcFdDeUEtQ0p3T19zTXZOQkw3bEZzTnB0Yzgzc1JZNXdubXdTXzhsVXJjWDlpN1lXTTBYWEFZNERZZEYtVnJhUkh4dHBEY1BGaUhIeVVFTzdGcmdXd1JUZFYxV2E0LTdVdzBSQUp3dDVVYWd6cEVJVk5hWjR6cGttYXBHTGZUR0tKM2s?oc=5"
+        },
+        {
+          "titulo": "Adobe Acquires Indian AI Marketing Intelligence Startup Rilo",
+          "fonte": "pulse2.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDlEeV9lbUxmdUhYdmNRNjFxcWpuV3ZnSEdpLTIyNnI0YVRfaDlQYnRLZ3dXSHE4RGE3T0NNbGhrYUtPUURRNUJobG04cWxTTmtKbE1mRkdZamRHYlFDUEdJdFNkU2hJTXZSeDl1OTBaM0ZPdGpYRDNLR3F2NGd1dnpwSEItc3fSAYwBQVVfeXFMTzhZcFdDeUEtQ0p3T19zTXZOQkw3bEZzTnB0Yzgzc1JZNXdubXdTXzhsVXJjWDlpN1lXTTBYWEFZNERZZEYtVnJhUkh4dHBEY1BGaUhIeVVFTzdGcmdXd1JUZFYxV2E0LTdVdzBSQUp3dDVVYWd6cEVJVk5hWjR6cGttYXBHTGZUR0tKM2s?oc=5"
+        },
+        {
+          "titulo": "Adobe acquires Indian AI automation startup Rilo to boost agentic push",
+          "fonte": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR1JqckNEWjR6enhNU1ZnVUVsMEVpZVlWSlBqaFdYamVGWjNGM3c2Y3JXa1dlR1VuSkNqbU0za0xmRk50VHh6czBzVDRtZ0RXc2VpbTdSS1dTb2o1aTFBeGE3ekFmREotdFZiMERULUxodXp4aG5HQUFzcTVKd0d1QWQ1VnlxQ2E3cjU3WGJtdFJKVl85cWI4SHMxcVJwUHlPUnhUMGZjenpWTEVNQ1N5Q2lIbF9qVkNpbTFNcTNJRGZrS1Y1UEN5RGMwakZ3UkZzLWpEbjBB0gHbAUFVX3lxTFBMREtfOHdiZ2w0RHU2c2t1WlBjNlZYWTRLMHFKb1ZOQ2FiX0pMY3B1STlsbWozTkhlTndXN09JNkNyT1MybElpMVRaWW1KNUFMVW1TVFJqWmZ5M050VjY2c1JFMExOWFF2WW5Qb2lFXzNMNGxpTjRYWXFCVkk0QXR5YUl2c1ptM25EdFFkYmxJeEJDNDVmajRkc2p0UFNTOG14WVFTa1hhWXE3cHBTSW83clcwTHhUODFjRGF5OG9DNkpmaEFUclNSUjg4MDNkUmVTdUxHZ24zbFpIaw?oc=5"
+        }
+      ],
+      "score": 19.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "O QUE OS AGENTES DE IA JA FAZEM SOZINHOS PELO SEU NEGOCIO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "agentico"
+      },
+      "data_br": "05/09/2026",
+      "video_relacionado": {
+        "titulo": "Adobe Acquires Indian AI Startup Rilo.",
+        "url": "https://www.youtube.com/watch?v=4H79NTcZXR8",
+        "fonte": "Noor Alam",
+        "views": 38
+      }
+    },
+    {
+      "id": "133ef3d24c7b",
+      "tipo": "noticia",
+      "titulo": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "fonte": "BBC",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsSGtCMGMtalA5b1dSYmZIYW0xOHhWVzZzNnNYSEQwWmRxdjJIRFc5UmN2QWhOOXliSk1vdnlRbWowZ0xDV3JReWgxMDJXRDB6ck5raEgwSlpSX1Y4?oc=5",
+      "thumb": "https://i.ytimg.com/vi/vNnkZfHzjrQ/hqdefault.jpg",
+      "data": "2026-09-03",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 6,
+      "keywords": [
+        "Hugging Face",
+        "Nvidia AI"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Nvidia to buy open-source AI platform Hugging Face for $13bn",
+          "fonte": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2gwNDYwMGIzakI1N0tRcnBtNnFoczYtVnZVQkJpeGQ1TDR1dnhPUG9LVVRIRGQwOEk1VU00UkdwamhxRE1pbklKS2ZEVHhIUlptcGo0d1E1UXZ6cTJyVDZOcTdvT1JSTXprblMxcVNOYWxmNkY0eWljOTBkb3libklRdlI?oc=5"
+        },
+        {
+          "titulo": "Nvidia Agrees to Buy AI Platform Hugging Face for $13 Billion",
+          "fonte": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjY5cThVdThiY190NHZEOExnc3hpX1ZZRWthY1hCanVMOGtYOHFjTXp5c254MkpKa19IcUdZR2c3LVFQRS1jTzRvRjhaTHVmRG9KYkJON3BxbWNkdlZqYnVrejBBb0FNeHNsWXVra0RTb1Nua05DVUtRVS1oQWxITE1XNTd0bENlcWtFdG93?oc=5"
+        },
+        {
+          "titulo": "Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face",
+          "fonte": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5"
+        },
+        {
+          "titulo": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+          "fonte": "WIRED",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPREZlTk9RU0hHM3ZWeG1BSzdfb2VWcHgzT1RXVDhFUDhpcXJNelFwcHYxLUx0MjZqTm0tMDc2STljd0NmTUhfWl9EM05IOFlPTjBJQ2Z0dnJQX2RCRjRwOFdNeUNmc3ZTd09YMTJyZlNsYzFvTktKel9aMnlwX3V2WHQ4ZXo2TEthRVppaWdrYkd0YmJvVXBuczhYdGVRYnE1T3BoSWdsSUhKUQ?oc=5"
+        },
+        {
+          "titulo": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform",
+          "fonte": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZHVzU0JISlZkT0p4eDBlMjlyRFFXVXI4eUNFM29DdWY3TXYtZXFwV0JqMkJfLUExdWMtcUZPRmJHWUZvYW9yWWZUakJra1FTdEVQUzdOZGl0Q0dDRmpySndMWDhGRk1HaDNzMlc2TjN4MlVvWjN5em0yazZwTVBjeGtTNWtYSmZPZEE?oc=5"
+        }
+      ],
+      "score": 19.0,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "ESSA IA ACABOU DE LANCAR ALGO QUE MUDA O JOGO",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "empresa_ia"
+      },
+      "data_br": "03/09/2026",
+      "video_relacionado": {
+        "titulo": "A Historian From 2050 Reacts To Nvidia Buying Hugging Face For 12.9bn",
+        "url": "https://www.youtube.com/watch?v=vNnkZfHzjrQ",
+        "fonte": "The Future Archive.",
+        "views": 55
+      }
+    },
+    {
+      "id": "ba4763771955",
+      "tipo": "noticia",
+      "titulo": "Alibaba’s Qwen AI Models Surpass 3 Billion Downloads, Outpace Meta and Google",
+      "fonte": "citybiz",
+      "local": "Reino Unido · USA",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS2Jtc09SYi1ad1lnTkxwLVJVWnlJUGlpYXFtM3NIb2x3b3RVV3J0U0ZMankxaHdVakdZa2FRQXlYT3ZlQ2hKb1VORHlEb3FReWZsaVB0NTMwX253eWwxc25adkRuU2Z3d0JqNWlCWmxaR041NlZiRXJncHp3MjFsZVpqWGF4b00xcF9xWF9PdmNxckp4VVNncjZJSlZhZ3I0MUZhSU5yZUY0TnJmTkwyQlJLYW4?oc=5",
+      "thumb": "",
+      "data": "2026-08-17",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 6,
+      "keywords": [
+        "Alibaba Qwen"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Alibaba's Qwen hits 3B downloads, passing Meta and Google in open AI",
+          "fonte": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2NNZ2sxc2FOZkVBNzBYZDhLdlNpZWlDZFE4anloMDVJVUM0ZFlaX3NGUlFtOE1icG43dktON29pdnMxUjJNdDFNUEtSMEpLaVJLcXZ6N0NCSXl1eUIzWVZuM2JLU1lOekNsVm1Xa2hxMHV2NWpaWFU4WTB1MXg3dU0xcnZZajNOd2JzaE1ldjhtY3phSmdtc0pCQV92VWhLdExv?oc=5"
+        },
+        {
+          "titulo": "Alibaba's Qwen hits 3B downloads, passing Meta and Google in open AI",
+          "fonte": "app.dealroom.co",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2NNZ2sxc2FOZkVBNzBYZDhLdlNpZWlDZFE4anloMDVJVUM0ZFlaX3NGUlFtOE1icG43dktON29pdnMxUjJNdDFNUEtSMEpLaVJLcXZ6N0NCSXl1eUIzWVZuM2JLU1lOekNsVm1Xa2hxMHV2NWpaWFU4WTB1MXg3dU0xcnZZajNOd2JzaE1ldjhtY3phSmdtc0pCQV92VWhLdExv?oc=5"
+        },
+        {
+          "titulo": "Alibaba Overtakes Google and Meta With 3 Billion AI Model Downloads",
+          "fonte": "PYMNTS.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnBoUUtCUy1kYy1JS18wSG9XcU1pM0daWFpJRWxMajJsNGsyZFJ0TEJvakFBQm1LSVAzR2h1VGk2OHdOS2dtQVdWdmdDYXFKVHdSbDRUTElHVmt6TjdsR0lYM1BxaU1DX3h4T1hucmZuemU3V2dOd1BlOHBrWGxFUlZERWljakFoOHBZdzR0cDNYNWFoZU9mSHZpWEwyX1h2U0RkLURiUnl4Tkd5bUVfcS1OcEtCeEhnaGRUdWwwb05jRnc?oc=5"
+        },
+        {
+          "titulo": "Alibaba AI models hit 3 billion downloads, passing Meta, Google",
+          "fonte": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjRQdDJpQnE2LVQzUEs1UDNtUWxFR21VNkdXUEtxWVNibEJRbXI3V182Qk9GODcyZlVsckhWVXFRQnQ3N3VneGFORnNKb2dSeWg3VzFLNldHUlFyRUYxeWtTU2R2b0FJai1nVVhvalEyMFBEYmhESHpxTkdueUFvYXRXRG9mR0gtTm1HZkQtaXVOTDg3VUE?oc=5"
+        },
+        {
+          "titulo": "Alibaba AI beats Meta, Google as Qwen models top 3 billion downloads",
+          "fonte": "The News International",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3hHbS1URHlmSTFpTTVuS0R5TWNZY3c1ZnJORHgtRFN5dTU4M245UC1WOUloYjlZTXVpc0dkRXNaTGpBczU3dUNlRVQ1bjJEbXpUNmEyTUZ0dkMzdkk3U3d3UkRFaG12ZW1GYkpUMk1qRXVZWFpzMkNBdVU0VXljN1FwWWkwRmJyODZGd2kxcG9Kc3VDZ0xDSll5WVpLQTU5cnp1N3pRT2JhNnN2aVHSAaoBQVVfeXFMT1Vka2U4ZHhxU3d0MEZNOGNYUXNaY3BCQi13eFl1Q1pkbnZuMFJlSTZfZUtUa3YwX3JMbW5CSDJQdTRnVGVLT3oxVzVCYnJxZ2tJTldEZEpleVNoWkxCWVVFWmgtaks4RWY0b05TZzhvNk8wYm1xRjNaRE1aUWdkRndiS1JvODdiem1jS1ExbERoQm8zNmJIMXo4Y0lYTTN0NXZSUGZuUGlLZEE?oc=5"
+        }
+      ],
+      "score": 16.5,
+      "primeira_vez": "2026-09-13T14:12:56.303601-03:00",
+      "angulo": {
+        "gancho": "A IA NO MARKETING: O QUE FUNCIONA DE VERDADE",
+        "corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+        "fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+        "formato": "Reels",
+        "eixo": "marketing"
+      },
+      "data_br": "17/08/2026"
     }
   ]
 }
