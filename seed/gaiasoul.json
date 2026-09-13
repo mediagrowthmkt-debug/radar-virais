@@ -9,7 +9,7 @@
     "primaryDark": "#0A1E4D",
     "logo": "logos/gaiasoul.png"
   },
-  "gerado_em": "2026-09-13T00:40:05.105425-03:00",
+  "gerado_em": "2026-09-13T01:40:05.728895-03:00",
   "janela_dias": 30,
   "search_terms": {
     "noticias": [
@@ -53,14 +53,14 @@
     ]
   },
   "stats": {
-    "total": 105,
+    "total": 104,
     "novos_agora": 58,
     "noticias": 86,
-    "videos": 19,
+    "videos": 18,
     "hoje": 0,
     "ontem": 9,
     "semana": 39,
-    "mes": 57
+    "mes": 56
   },
   "itens": [
     {
@@ -153,7 +153,7 @@
         "titulo": "가난하고 실직한 남자가 생계를 위해 낚시를 하고,아름다운 여자를 낚고,범죄 증거를 찾고,미제 사건을 해결하고,부자가 된다!",
         "url": "https://www.youtube.com/watch?v=OYzluruS0f4",
         "fonte": "瓜田剧场NO1ShortDrama",
-        "views": 77455
+        "views": 77763
       }
     },
     {
@@ -196,6 +196,39 @@
       }
     },
     {
+      "id": "b3795de8e925",
+      "tipo": "noticia",
+      "titulo": "Cavalos-marinhos do Estuário do Tejo ganham novos abrigos em antigos carrinhos de compras",
+      "fonte": "welectric.pt",
+      "local": "Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWM5Um8zc0FRT0U0OW5HamJQS3JhMFl4OEJoRVlMQmhSVHRldjZsblRDRUljT210czBMM08tdFVjeDlDSXBId1FNZjFHVGpZZzItVmpsRE9nX0JnNTVnV3ZTdXk3QlkyZV9CTFpmeEh1RUpFTFdIbXF2RUcxcW9YNGJMT0ZXQlZyaDVzd0cwTExjcUwwMmJBRVdGMmI4TFlpdVlOQUJYWlpTUDBTUGNHQ3B5d2d5MjNkQ0ZNM3U0Zw?oc=5",
+      "thumb": "",
+      "data": "2026-09-12",
+      "bucket": "ontem",
+      "calor": 3,
+      "num_fontes": 2,
+      "keywords": [
+        "biodiversidade marinha"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Cavalos-marinhos do Tejo ganham novos abrigos feitos a partir de antigos carrinhos de compras",
+          "fonte": "Jornal PT Green",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDRPbTRTb25sY0ItZTFBUUNRRjdxdzdsN0sydkNZbWhUVnVvcllCY1ZzMVFBNm5sUGR4amg3S29VaENMNGtGQktwaVhmUkR1ejE5QjFhQi1qUlh5LU1XRVhEYlo0WGNQSXduX0FnYm9KZ0pIcl9VckFIX0wydTNOQmFQYmFJZlhhbXNtSE9rY3RzWWdGeldjbTRwRk9RWDZXQUJlbHVrV0FDMEd4STdUSWhFU1IwRzVRNVd1ZlJubTBQNEtDTXc?oc=5"
+        }
+      ],
+      "score": 7.0,
+      "primeira_vez": "2026-09-12T20:40:05.332935-03:00",
+      "angulo": {
+        "gancho": "POR QUE OS GUARÁS ESTÃO VOLTANDO A COLORIR OS MANGUEZAIS",
+        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e conecta com Cultura Oceânica, o Recôncavo e a atuação do Instituto, com autoridade científica acolhedora no comando.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "manguezal"
+      },
+      "data_br": "12/09/2026"
+    },
+    {
       "id": "5a812a441b41",
       "tipo": "noticia",
       "titulo": "TSE rejeita por unanimidade o registro de candidatura de Pablo Marçal",
@@ -225,35 +258,8 @@
         "titulo": "TSE rejeita por unanimidade candidatura de Pablo Marçal à Presidência | CNN AGORA",
         "url": "https://www.youtube.com/watch?v=OzFdzFfhT3g",
         "fonte": "CNN Brasil",
-        "views": 5882
+        "views": 6046
       }
-    },
-    {
-      "id": "b3795de8e925",
-      "tipo": "noticia",
-      "titulo": "Cavalos-marinhos do Estuário do Tejo ganham novos abrigos em antigos carrinhos de compras",
-      "fonte": "welectric.pt",
-      "local": "Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWM5Um8zc0FRT0U0OW5HamJQS3JhMFl4OEJoRVlMQmhSVHRldjZsblRDRUljT210czBMM08tdFVjeDlDSXBId1FNZjFHVGpZZzItVmpsRE9nX0JnNTVnV3ZTdXk3QlkyZV9CTFpmeEh1RUpFTFdIbXF2RUcxcW9YNGJMT0ZXQlZyaDVzd0cwTExjcUwwMmJBRVdGMmI4TFlpdVlOQUJYWlpTUDBTUGNHQ3B5d2d5MjNkQ0ZNM3U0Zw?oc=5",
-      "thumb": "",
-      "data": "2026-09-12",
-      "bucket": "ontem",
-      "calor": 2,
-      "num_fontes": 1,
-      "keywords": [
-        "biodiversidade marinha"
-      ],
-      "fontes_extra": [],
-      "score": 3.5,
-      "primeira_vez": "2026-09-12T20:40:05.332935-03:00",
-      "angulo": {
-        "gancho": "POR QUE OS GUARÁS ESTÃO VOLTANDO A COLORIR OS MANGUEZAIS",
-        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e conecta com Cultura Oceânica, o Recôncavo e a atuação do Instituto, com autoridade científica acolhedora no comando.",
-        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
-        "formato": "Reels",
-        "eixo": "manguezal"
-      },
-      "data_br": "12/09/2026"
     },
     {
       "id": "f98669b59a6e",
@@ -262,7 +268,7 @@
       "fonte": "Brasil 247",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSzNJaTNYeTVRX0RHZFhhOGtLallVU0NqaVE4b2VBWVN2eUwyLXBUbFUyZzBpV3dVWkF4MndHZ0FLOXhzWXMyUlFobGt2T2dzVVRRdkllMEc2SVF1Q3k2bnI3bEZXS1ZDS0dyX2x1VXVwYVlyM2haQjhTN1l2bXVXaVpaS2dxTDZfLVE5dHNoYzlmZG1xWGd4VFFPOGlMck9UZ1Z3STFBdS1NWkQ3T2lZR1ozOUxKVGNmMVJpblNXSC00SVkybEdkc1dZYURseVY5bnBUME5jNHp3VnZab2hGUlN1cjRJVTNGYmRMNTNJMkhPR3Zyd3Bpc3lNa1NLYkVUekFzSW5kNGV2ZkF1UlYwV0poMA?oc=5",
-      "thumb": "https://i.ytimg.com/vi/wWs2dqKRgdI/hqdefault.jpg",
+      "thumb": "https://i.ytimg.com/vi/lgIKU4bO838/hqdefault.jpg",
       "data": "2026-09-12",
       "bucket": "ontem",
       "calor": 2,
@@ -282,10 +288,10 @@
       },
       "data_br": "12/09/2026",
       "video_relacionado": {
-        "titulo": "O Teatro Mágico - Nosso Pequeno Castelo",
-        "url": "https://www.youtube.com/watch?v=wWs2dqKRgdI",
-        "fonte": "O Teatro Mágico",
-        "views": 12669330
+        "titulo": "Clara Nunes - Feira Do Mangaio /Letra",
+        "url": "https://www.youtube.com/watch?v=lgIKU4bO838",
+        "fonte": "Daniel Melo",
+        "views": 236252
       }
     },
     {
@@ -318,7 +324,7 @@
         "titulo": "SEA TURTLES: The Difficult Journey from Sand to Sea | Full HD Documentary 2025",
         "url": "https://www.youtube.com/watch?v=KYuL04d_0lo",
         "fonte": "Planeta Singular",
-        "views": 76667
+        "views": 76732
       }
     },
     {
@@ -351,7 +357,7 @@
         "titulo": "THE REAL IMPACT OF THE SUPER EL NIÑO ON YOUR LIFE",
         "url": "https://www.youtube.com/watch?v=IGgMxhMxHao",
         "fonte": "Olá, Ciência!",
-        "views": 1131508
+        "views": 1132134
       }
     },
     {
@@ -438,7 +444,7 @@
         "titulo": "3 HURRICANES: The Super El Niño Alert in the Pacific",
         "url": "https://www.youtube.com/watch?v=rGmSUSjde58",
         "fonte": "Prof. Rogerdautry",
-        "views": 26468
+        "views": 26480
       }
     },
     {
@@ -494,7 +500,7 @@
       "id": "3ae6d3f656cf",
       "tipo": "noticia",
       "titulo": "Chance de El Niño muito forte a partir de setembro sobe para 97%, diz agência dos EUA",
-      "fonte": "TNH1",
+      "fonte": "tnh1.com.br",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTFicG9HdXZtSWFGanFyTm9pWDJUNkFXRGF2cHhVLXgyRVlsMDRpSFNJc2VBZHNGMWZzaDJiaGRNODhzaGlieTdUZlByVDBOX2phWG94SXEtRlZfc3pWTVVDT3JEbE5yYkxYRkNDbndPdFBpanlBQjd1eFZiODYyVnptdEpDTF8zeWVTOExFaDkxN3Y4bXk1aTY3SHRMUXVHYXN0cmFjTW1TajRuQ0d3RWZRcGt3X3pDMHMyU9IBtwFBVV95cUxPUS00SlA2c0xJenUyU3VqSUFuMnJyREtLeHJYbzR0cjdvZHpENFlQci1tUWZmc0d2Z0Z2SExpbDNYODR0VWU2blVRY1ZzeU5hdF9fOUM3VC1tYi1IdnZ6Qi1WSGtVTzBKaExTUm0wb3RIM0JXd3JlYVFETWtQMm51MTZ2VVlLbkdkR2lmbW1TUDFpaEludTV6dWNWTUpvay1JdTVPUGtFVzNRUHU0UkU5QUpiNU04Z0k?oc=5",
       "thumb": "https://i.ytimg.com/vi/M7zFz89RyIo/hqdefault.jpg",
@@ -690,7 +696,7 @@
       "fonte": "O GLOBO",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWnZQTWlVcmZ2RWVxN056QmdETjQwT3EyWmhlN2k5LWZFUl9UUy1NS3Y1azYzNktwZXFFbEl4b2dyREk0QlVNY2ZuUlk4ejN0V0pZX191Q2dVME5ONzVFbHVta2lodUp1TFhwWS1WOTRwck04N3V6QjZISk4ta1Fibi1HUEkxZ1JCdXR0VGo1bHFJSmhycW4yYjBPLXpPN2k4aW9hR29vQUtVZ3h3NzFTdktPVG93b2lRdC1qS0FsRk9mY0QtaEp2TFFyNUR2YlkwQTRqekNzal9FdkFOUm0wZDA0YUphWmp2bWF1ajhVVEo5bUFW0gGDAkFVX3lxTE5JUnF3RGVMdTJsTUV3VVdCY3RhM2I0RVBlQmhLeEF3Tngta0cyTzNxN0xud0tFTnlKVURpdFJtVVBiSnFILXlVLVBrdEI2Rnh5YzZ2MnR0bzJSd29EWl9RT29pTzYxS3VrRmNJWFFCbzNHVkZJamFnLXBjZF9Fanc0MXdIeHh2cTlmVXVJZTloUENhbWg2ZDZyVm5DUzV1THBhdk1FMVhKYjVNamJBMll6VS1RbktGRjVkb184cHJ0V201bFlMNGU3R2NqZ0FLYTNfMmJ3WlFUNlVQQXhHMmpJNnFXWGZCbm53UGcyNkxjT1dmWS03XzRjTTFvRFM2UUlyemM?oc=5",
-      "thumb": "https://i.ytimg.com/vi/aO9A_-lHbSg/hqdefault.jpg",
+      "thumb": "https://i.ytimg.com/vi/uAgTNrF8sG0/hqdefault.jpg",
       "data": "2026-09-11",
       "bucket": "semana",
       "calor": 2,
@@ -716,10 +722,10 @@
       },
       "data_br": "11/09/2026",
       "video_relacionado": {
-        "titulo": "Climate Change 2021: Another Year of New Extremes",
-        "url": "https://www.youtube.com/watch?v=aO9A_-lHbSg",
-        "fonte": "Down To Earth",
-        "views": 4465
+        "titulo": "Temperatura no mar da Flórida chega a quase 39°C | LIVE CNN",
+        "url": "https://www.youtube.com/watch?v=uAgTNrF8sG0",
+        "fonte": "CNN Brasil",
+        "views": 1490
       }
     },
     {
@@ -807,7 +813,7 @@
       "fonte": "Revista Let's Go Bahia",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWUctd1NfS3R2S215NXVvUnJnUnFlLXpXV2Rpd3hjNm9XWjY2STdCdnRvX2hIenpFaGRCYXZfMUpkU1UxWHl2Y0xHREdndEpTT1hQT3U5Q1FIaTNfUlVNQ1NKLXk0aGlnaWoySFViQVBmTXlBdVhEYmZrS1lPTTZmSFBGeGFGY2VBYVJsQjVpOWtydFdzQzJlZlpZV2hYNDRQanNxbnV6ZDNHeVV4STZYWk11VWJrbGpwaEhoOUt2UGdTcWg4eUFZNlMxcVQ?oc=5",
-      "thumb": "https://i.ytimg.com/vi/G9pyKF-tT40/hqdefault.jpg",
+      "thumb": "https://i.ytimg.com/vi/snHn5HQxweo/hqdefault.jpg",
       "data": "2026-09-09",
       "bucket": "semana",
       "calor": 2,
@@ -833,17 +839,17 @@
       },
       "data_br": "09/09/2026",
       "video_relacionado": {
-        "titulo": "AGORA EU PASSEI DOS LIMITES! TÔ GANHANDO DINHEIRO COM... FOLHA MORTA!",
-        "url": "https://www.youtube.com/watch?v=G9pyKF-tT40",
-        "fonte": "Jazzghost",
-        "views": 5200760
+        "titulo": "As imagens que mostram o gigantesco mar de lixo no Caribe",
+        "url": "https://www.youtube.com/watch?v=snHn5HQxweo",
+        "fonte": "BBC News Brasil",
+        "views": 529435
       }
     },
     {
       "id": "dca861f50965",
       "tipo": "noticia",
       "titulo": "VLT de Salvador inicia viagem teste entre Parada Marisqueiras e Itacaranha",
-      "fonte": "Portal Salvador FM",
+      "fonte": "portalsalvadorfm.com.br",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdTdVNjFELTBULUZrSHZXN3ZjYVNmSE4xVnBNY3YydzhsMDdRM3FfTjRDS21WenNRV1VlNEZQQzByZWVIc0tTZGgtUURqTzZPWlJucF90Ym5EcnhvMWJiRW5fQjFtM1BGOTFSS0RIdDhHTjZkcU50RlJ6aGRUR0daMmgwS0tkNDZZUU1ucFFWbUlxMW9JbXhOd0xYMjNCdXhiYmhKYThrTWJHUERRV3dheFNPbWZia1FoR1N1Ug?oc=5",
       "thumb": "https://i.ytimg.com/vi/qM9GkE06I4U/hqdefault.jpg",
@@ -857,7 +863,7 @@
       "fontes_extra": [
         {
           "titulo": "VLT de Salvador e RM avança com início da viagem teste da Parada Marisqueiras até Itacaranha",
-          "fonte": "Tribuna da Bahia",
+          "fonte": "trbn.com.br",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMFBDZFIxZGMtM0YzUnZreG5NdEExYW5XamVmalMtRjN2REI2c2ZlTlZpTGdmM1B3UGJaeWZrVHF5SU5ySXQ0MUNRYXN1akdsVzVBSXR2MXpxSlZJM2VUYTc2SlJudFZzLTB1X0V1VVo3R1pBZkZJUTFHalhONW9tY2ZZOFQ4RlJ1M1VaaTBEdkdfRkZmNlk4eDFOYjE3ZTIxMDR1ZmZxNExiMzNYTWpQZndCYkU5dEtiYXR4UUJweUNsRF8ydG9OamVjSTY?oc=5"
         }
       ],
@@ -1436,7 +1442,7 @@
         "titulo": "10 WARNING SIGNS that your KIDNEYS are FAILING (SYMPTOMS OF KIDNEY DISEASE MOST people don't know)",
         "url": "https://www.youtube.com/watch?v=d0aAmAnan6o",
         "fonte": "Cardio DF — Cardiologia e saúde cardiovascular em Brasília (DF)",
-        "views": 3918752
+        "views": 3919232
       }
     },
     {
@@ -1758,7 +1764,7 @@
       "dur": 35.0,
       "fontes_extra": [],
       "score": 1391523,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "O QUE O CARBONO AZUL TEM A VER COM O NOSSO FUTURO",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -1769,13 +1775,41 @@
       "data_br": "07/07/2023"
     },
     {
+      "id": "52f7d0eb41e2",
+      "tipo": "video",
+      "titulo": "OCEANOS para crianças - Geografia para crianças",
+      "fonte": "Smile and Learn - Português",
+      "url": "https://www.youtube.com/watch?v=LaPhmHNilCA",
+      "thumb": "https://i.ytimg.com/vi/LaPhmHNilCA/hqdefault.jpg",
+      "data": "2021-09-23",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 1,
+      "keywords": [
+        "cultura oceânica educação"
+      ],
+      "views": 551817,
+      "dur": 314.0,
+      "fontes_extra": [],
+      "score": 551817,
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
+      "angulo": {
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "default"
+      },
+      "data_br": "23/09/2021"
+    },
+    {
       "id": "f01380fb74da",
       "tipo": "noticia",
       "titulo": "Guará-vermelho: a ave de plumagem intensa que colore os manguezais",
       "fonte": "O Dia",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaU92d0x6aWRlR2FVSXlZR0NXLTFXSmNfdlFqbHprX2Z5ZnVIWWM0RllDQmpDcXM0UXI5YmdXRFVwZ1V4VFM2V0wzSnNzVjU3a2V6QXR5RnFhMFkwaTdLRzJMSHd0Rnhfc3Nqbm5mU3B2MWtWeWNxbHNOWkY4MklOaG5MeWREaUJWTGpoS2xydUYyaVVfejUxekdaMHUyV3BsVG96M0tSLXJlY2F5QVhCV1ZOdXB4d21HM1FkU3FjSXc2QdIBwgFBVV95cUxNaU92d0x6aWRlR2FVSXlZR0NXLTFXSmNfdlFqbHprX2Z5ZnVIWWM0RllDQmpDcXM0UXI5YmdXRFVwZ1V4VFM2V0wzSnNzVjU3a2V6QXR5RnFhMFkwaTdLRzJMSHd0Rnhfc3Nqbm5mU3B2MWtWeWNxbHNOWkY4MklOaG5MeWREaUJWTGpoS2xydUYyaVVfejUxekdaMHUyV3BsVG96M0tSLXJlY2F5QVhCV1ZOdXB4d21HM1FkU3FjSXc2QQ?oc=5",
-      "thumb": "https://i.ytimg.com/vi/SctctmxU_po/hqdefault.jpg",
+      "thumb": "https://i.ytimg.com/vi/HhNcAFQTwlQ/hqdefault.jpg",
       "data": "2026-08-19",
       "bucket": "mes",
       "calor": 3,
@@ -1792,7 +1826,7 @@
         },
         {
           "titulo": "Guará-vermelho: a ave de plumagem intensa que colore os manguezais",
-          "fonte": "terra.com.br",
+          "fonte": "Terra",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQm1IMWJ1QXVQQTBsSkg1ZXlzcVlqTVFyU1AxSjBONTAzSnd3M0dYZDd2MVRkSEFkazRhalozeXZXMVFTR3VacWJrd2Q3YXlIYnB0TnYwdzNWT0pWRVpZNVM1bEo0MUJCUVNZSnFLMXpLd0REbHJPTS0yN1JKbXY3TzVZTExNVlJEVVowT2o4UHBMUlpaY1RoU3BmT25LMFIyM19ya19xZjA1SEk3NFA5a09TUzNQRm43OVZOSVNhckZQNE44MEhHWWl5bzhoUGNJeC1yYm5KNmF4STRfdUZjSmlFUWlHbVA3dWlr?oc=5"
         },
         {
@@ -1812,10 +1846,64 @@
       },
       "data_br": "19/08/2026",
       "video_relacionado": {
-        "titulo": "Scarlet Ibis Breeding",
-        "url": "https://www.youtube.com/watch?v=SctctmxU_po",
-        "fonte": "Arthur Noronha",
-        "views": 1941
+        "titulo": "Guará - One of the most beautiful birds found in Brazil.",
+        "url": "https://www.youtube.com/watch?v=HhNcAFQTwlQ",
+        "fonte": "PLANETA MUNDO",
+        "views": 2365
+      }
+    },
+    {
+      "id": "a25a770db8b8",
+      "tipo": "noticia",
+      "titulo": "OPERAÇÃO APREENDE SEIS EXPLOSIVOS QUE SERIAM USADOS EM PESCA ILEGAL NA BAÍA DE TODOS-OS-SANTOS",
+      "fonte": "- Bahia Economica",
+      "local": "Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSEQzREpRWUhMTjRRM3ZSNTN5SXJKREFiM1Y5UnppbGEwR3NveEFHbXpyMlgzNmhyVTNTeko4dFpnd2dIMDZ6ZkxzSWEwTFNXWnB2N21ZVDRPeTk5WmxnRHN0Zzg4SWZ0YW9TY2JoS1pMNFZCSXl5M0pWaFhIblFpU2Z5Wkd3TW1tVHZrUUpuMDVZMnRaUGVrREFUYXI1MVdVWkktdFYtQjJKM3VzOTZRd2F1VjN0SUVKcmRWZEtnUXBtWmtWbHR6TDcwN01OVkhtUUlpX3V3?oc=5",
+      "thumb": "https://i.ytimg.com/vi/kq-6qJwP9HQ/hqdefault.jpg",
+      "data": "2026-08-26",
+      "bucket": "mes",
+      "calor": 3,
+      "num_fontes": 5,
+      "keywords": [
+        "Baia de Todos os Santos"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Explosivos são apreendidos durante operação contra pesca ilegal na Baía de Todos-os-Santos",
+          "fonte": "deolhonacidade.net",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdkxmeFN3aWhfbFNCWlllY0l4RkpYNjB1dWYyZTUwZncyWFIwMlFnZ0dlckd5ZldINVZ4X2J6YWtYbkEwa19zYW1uTnNnckI1LVdWX2dJanIxLTFtWDlZRnRyOFZjclprRjYwLWljSDFRZFoxR210cTVXMmZrTV9ZNk9Zdy1yWmt3SUV1ZVFNLWhfeHRlNzB2aEdHWHd1V1pzWXJQQ09HRloyUDVnMl9pQ2YwLTRsZ1AwcmlabmRR?oc=5"
+        },
+        {
+          "titulo": "Explosivos prontos para uso são apreendidos em fiscalização na Baía de Todos-os-Santos; prática é crime",
+          "fonte": "Alô Alô Bahia",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYURTeTdhSWk3anZPZF8yaXA2QnVRUFZvX2NPV1VlRzcwRk4tTW4ybTMxRi1ZemJwVFJHOTdCRkVNaVhOYm1DQmdjSnBvdy1GeENZTkRKelNSNFZTQnVxd1lDVWVqeGVURTdNVVJSZVdDODg4M0tYQ19sWWQ5T29hRXB4azNZZVJkUFhyVGNBeXR5UjNNczRDdHZYeG9KWGFfMXpiSXBkTVRLNi1mTzRBaUhXMmRYTm5tU2l1V3J1d0dmajI2WHU3clZ5eHNldUlwNk5Nd3NCX1d5VllxbF9raA?oc=5"
+        },
+        {
+          "titulo": "Explosivos usados em pesca ilegal são apreendidos durante operação na Baía de Todos-os-Santos",
+          "fonte": "Se Ligue Bahia",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVnJ4czJUOHl5Q1pvQzZ1cDdwZ2tlb1I4eE8ySnc4NW9hZHVDMkJIYVJQUmhOT3FkUjlvaHExV0tKN2lEcjBMSVhGUkNhbzJFRUYyV1B1NmpCZnVwUlh2NGFXMW1ROFBMOXNCVWhqMmpua213cGFaTENsOU1uZGtZZWhNbjBEbVpiZV8xYmN3Vm5IMFNSUkZiY1VUYkpWZFNCWmJBOW10UkJQdjRWTF9BTWVlYjlWRWZ1TjFiZFlGRkd1dlFId2Jr?oc=5"
+        },
+        {
+          "titulo": "Operação Apreende Explosivos Que Seriam Usados Para Pesca Ilegal Na Baía",
+          "fonte": "Taktá No AR",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRW9KOW1aSUpqZmNJNE04WjNkZzV3bmY5OUtLSGtoakloV05oTmVXSGVWTHJhcmFQWjVIeUZQSjlkYVRRZm02UmQ5VmZyMy11bDkzRnp0VGd1UWd3YVNMd1ptNldfR3p3cml0WlhDSDV2X3pIYmhrZFNiak1mWnhqeW5kYXljeWlaX05nZ2MzTGEwSzVEWUM4UnpsN3dKMUJBc0otTQ?oc=5"
+        }
+      ],
+      "score": 12.5,
+      "primeira_vez": "2026-09-10T17:40:05.654647-03:00",
+      "angulo": {
+        "gancho": "POR QUE A BAÍA DE TODOS OS SANTOS É UM TESOURO PRA O BRASIL",
+        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e conecta com Cultura Oceânica, o Recôncavo e a atuação do Instituto, com autoridade científica acolhedora no comando.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "territorio"
+      },
+      "data_br": "26/08/2026",
+      "video_relacionado": {
+        "titulo": "ESCONDIDOS NO CARRO: MAIS DE 300 QUILOS DE EXPLOSIVOS SÃO APREENDIDOS COM GARIMPEIROS",
+        "url": "https://www.youtube.com/watch?v=kq-6qJwP9HQ",
+        "fonte": "Record Goiás",
+        "views": 674
       }
     },
     {
@@ -1846,7 +1934,7 @@
         },
         {
           "titulo": "Homem é preso em Maragogipe por tentar matar a própria mãe",
-          "fonte": "Tribuna da Bahia",
+          "fonte": "trbn.com.br",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkZKME5ndDJhcWhPWkVuRXc3MklpTW5qN2ZKZ3F4MndWNS1pTkt5QTRoQTVsZFJjcE1ubjFKNmNkUy1WUHR3VWUtUVo5VmpyTDdCRGNnb01GandJakVjX0hfRFlHdjluWHFwdFdSNHFxb2RNc1hQb0Ffbk51SXFoUTBkZUNUd2FQT0pJT253dmd6TmZHaTFpZTB6V2dYTU0?oc=5"
         }
       ],
@@ -1868,55 +1956,6 @@
       }
     },
     {
-      "id": "a25a770db8b8",
-      "tipo": "noticia",
-      "titulo": "OPERAÇÃO APREENDE SEIS EXPLOSIVOS QUE SERIAM USADOS EM PESCA ILEGAL NA BAÍA DE TODOS-OS-SANTOS",
-      "fonte": "- Bahia Economica",
-      "local": "Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSEQzREpRWUhMTjRRM3ZSNTN5SXJKREFiM1Y5UnppbGEwR3NveEFHbXpyMlgzNmhyVTNTeko4dFpnd2dIMDZ6ZkxzSWEwTFNXWnB2N21ZVDRPeTk5WmxnRHN0Zzg4SWZ0YW9TY2JoS1pMNFZCSXl5M0pWaFhIblFpU2Z5Wkd3TW1tVHZrUUpuMDVZMnRaUGVrREFUYXI1MVdVWkktdFYtQjJKM3VzOTZRd2F1VjN0SUVKcmRWZEtnUXBtWmtWbHR6TDcwN01OVkhtUUlpX3V3?oc=5",
-      "thumb": "https://i.ytimg.com/vi/IJ6eRDelIT0/hqdefault.jpg",
-      "data": "2026-08-26",
-      "bucket": "mes",
-      "calor": 3,
-      "num_fontes": 4,
-      "keywords": [
-        "Baia de Todos os Santos"
-      ],
-      "fontes_extra": [
-        {
-          "titulo": "Explosivos são apreendidos durante operação contra pesca ilegal na Baía de Todos-os-Santos",
-          "fonte": "deolhonacidade.net",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdkxmeFN3aWhfbFNCWlllY0l4RkpYNjB1dWYyZTUwZncyWFIwMlFnZ0dlckd5ZldINVZ4X2J6YWtYbkEwa19zYW1uTnNnckI1LVdWX2dJanIxLTFtWDlZRnRyOFZjclprRjYwLWljSDFRZFoxR210cTVXMmZrTV9ZNk9Zdy1yWmt3SUV1ZVFNLWhfeHRlNzB2aEdHWHd1V1pzWXJQQ09HRloyUDVnMl9pQ2YwLTRsZ1AwcmlabmRR?oc=5"
-        },
-        {
-          "titulo": "Explosivos usados em pesca ilegal são apreendidos durante operação na Baía de Todos-os-Santos",
-          "fonte": "Se Ligue Bahia",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVnJ4czJUOHl5Q1pvQzZ1cDdwZ2tlb1I4eE8ySnc4NW9hZHVDMkJIYVJQUmhOT3FkUjlvaHExV0tKN2lEcjBMSVhGUkNhbzJFRUYyV1B1NmpCZnVwUlh2NGFXMW1ROFBMOXNCVWhqMmpua213cGFaTENsOU1uZGtZZWhNbjBEbVpiZV8xYmN3Vm5IMFNSUkZiY1VUYkpWZFNCWmJBOW10UkJQdjRWTF9BTWVlYjlWRWZ1TjFiZFlGRkd1dlFId2Jr?oc=5"
-        },
-        {
-          "titulo": "Operação Apreende Explosivos Que Seriam Usados Para Pesca Ilegal Na Baía",
-          "fonte": "Taktá No AR",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRW9KOW1aSUpqZmNJNE04WjNkZzV3bmY5OUtLSGtoakloV05oTmVXSGVWTHJhcmFQWjVIeUZQSjlkYVRRZm02UmQ5VmZyMy11bDkzRnp0VGd1UWd3YVNMd1ptNldfR3p3cml0WlhDSDV2X3pIYmhrZFNiak1mWnhqeW5kYXljeWlaX05nZ2MzTGEwSzVEWUM4UnpsN3dKMUJBc0otTQ?oc=5"
-        }
-      ],
-      "score": 10.0,
-      "primeira_vez": "2026-09-10T17:40:05.654647-03:00",
-      "angulo": {
-        "gancho": "POR QUE A BAÍA DE TODOS OS SANTOS É UM TESOURO PRA O BRASIL",
-        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e conecta com Cultura Oceânica, o Recôncavo e a atuação do Instituto, com autoridade científica acolhedora no comando.",
-        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
-        "formato": "Reels",
-        "eixo": "territorio"
-      },
-      "data_br": "26/08/2026",
-      "video_relacionado": {
-        "titulo": "Polícia apreende explosivos durante operação impacto. o material seria usado para explodir bancos",
-        "url": "https://www.youtube.com/watch?v=IJ6eRDelIT0",
-        "fonte": "TV Correio",
-        "views": 47
-      }
-    },
-    {
       "id": "124da4193735",
       "tipo": "video",
       "titulo": "Sob o Azul do Brasil Existe um Mundo Selvagem que Poucos Já Viram | Documentário 4K",
@@ -1930,11 +1969,11 @@
       "keywords": [
         "conservação marinha Brasil"
       ],
-      "views": 444721,
+      "views": 444833,
       "dur": 2531.0,
       "fontes_extra": [],
-      "score": 444721,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "score": 444833,
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -1962,7 +2001,7 @@
       "dur": 997.0,
       "fontes_extra": [],
       "score": 98350,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "POR QUE OS GUARÁS ESTÃO VOLTANDO A COLORIR OS MANGUEZAIS",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -1971,34 +2010,6 @@
         "eixo": "manguezal"
       },
       "data_br": "11/10/2021"
-    },
-    {
-      "id": "5a131ccae41f",
-      "tipo": "video",
-      "titulo": "ANTES DO INVERNO - Documentário sobre a Pesca Artesanal da Tainha em Bombinhas/SC",
-      "fonte": "Fundação Municipal de Cultura de Bombinhas/SC",
-      "url": "https://www.youtube.com/watch?v=M5LBKp3CyDo",
-      "thumb": "https://i.ytimg.com/vi/M5LBKp3CyDo/hqdefault.jpg",
-      "data": "2015-05-29",
-      "bucket": "mes",
-      "calor": 2,
-      "num_fontes": 1,
-      "keywords": [
-        "pesca artesanal comunidades tradicionais"
-      ],
-      "views": 96856,
-      "dur": 2221.0,
-      "fontes_extra": [],
-      "score": 96856,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
-      "angulo": {
-        "gancho": "POR QUE A BAÍA DE TODOS OS SANTOS É UM TESOURO PRA O BRASIL",
-        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
-        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
-        "formato": "Reels",
-        "eixo": "territorio"
-      },
-      "data_br": "29/05/2015"
     },
     {
       "id": "10eb1e0805a6",
@@ -2018,7 +2029,7 @@
       "dur": 668.0,
       "fontes_extra": [],
       "score": 67625,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "O QUE O CARBONO AZUL TEM A VER COM O NOSSO FUTURO",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -2046,7 +2057,7 @@
       "dur": 493.0,
       "fontes_extra": [],
       "score": 56598,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "POR QUE OS GUARÁS ESTÃO VOLTANDO A COLORIR OS MANGUEZAIS",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -2158,7 +2169,7 @@
       "fontes_extra": [
         {
           "titulo": "O veredito da NASA sobre o El Niño: imagens de satélite revelam como o fenômeno já começou a sufocar a vida marinha no Pacífico",
-          "fonte": "terra.com.br",
+          "fonte": "Terra",
           "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQbEZocW45VTQxT1huU0RNR1JRam94MWNBZGhKU0l1ODZoZGZyc080S3l5NE9VRU1XTE1LbWhPUG4ybmU5ZTE2cjItU2llNjU1dXhyZ3U3azFNcXl6ZDd4Qnh2WGl2YWNwdUhDd0lTSXJYYV85T1ZGVVV5OFdzcm5XUjVLRVFVN0d4dW81ZGs3ckZsNGtJNGNqSDUxc2VqMEN1S3VFZ0VDSFZqNXZTWVZkWjBYU2xJc0tzNVcwSC0wM1kxY0ZadmxMY1dFRi1uUUoxenJmUUxDLWNIM1dETGl6WF83dHNkemE1cEZ2OE5ON0hrZFg5ZVEyMWRCTDdkcTdPM29aaTVSRjFjQjNKNnBSOUw5VHZUMGxkdklkWFVEeUhTZnFFRG9saDZjOHZBUTZHb2JPdA?oc=5"
         },
         {
@@ -2221,7 +2232,7 @@
         "titulo": "Abalo de terra que afetou 55 mil pessoas em Maceió (AL) completa quatro anos",
         "url": "https://www.youtube.com/watch?v=0Eqk_SQ81ck",
         "fonte": "Repórter Record Investigação",
-        "views": 2626975
+        "views": 2627452
       }
     },
     {
@@ -2266,7 +2277,7 @@
       "id": "376408f5e9de",
       "tipo": "noticia",
       "titulo": "Economia Azul: Governo do Brasil em cooperação com o Japão",
-      "fonte": "minutomt.com.br",
+      "fonte": "MINUTO MT",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2d2QU52Y1o3dlZvQkJxWUsxbTBla2I0OEpMZGx6c0J0dnlsZFpXaVFVZDVwRjZFc2FfOUs0WTREQlVsVEJ1a2VjelltZEZFamxpb2U0aC1uYUxUbmw0em5Zdm1KXzh3NFdkR19QRTl4WGFON1JUbmpiQmxoZEJzbW80a1A1aUk5UnFaYkNmeGs?oc=5",
       "thumb": "",
@@ -2352,7 +2363,7 @@
       "fontes_extra": [
         {
           "titulo": "El Niño eleva temperatura dos oceanos e supera recorde de 2024",
-          "fonte": "metropoles.com",
+          "fonte": "Metrópoles",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2ZaazZFZDZ0LU53VXhKeUw0LWRNZWJsdFJlalZoVjNBSTBxbkFUS1JPZjVFTUtiNzkwdkx2c0trTU1UZlVKRUh1OUhRX2NpbTluRk9zam1TZ3pMQ1ZacGJ5SlV2eFNmaE5GYzhkcWNuT3h4SXhJek1aR3VqSW9YeVpVX3RQRXdWWFpocEsyZFB3ZXRGR252LWVhRVFnQQ?oc=5"
         },
         {
@@ -2371,44 +2382,6 @@
         "eixo": "clima"
       },
       "data_br": "31/08/2026"
-    },
-    {
-      "id": "e9a004c7e295",
-      "tipo": "noticia",
-      "titulo": "Seis explosivos são encontrados durante fiscalização na Baía de Todos-os-Santos",
-      "fonte": "Jornal Correio",
-      "local": "Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDAwUngyRXhKNU9vYUV0R2tXVEY4bURwbEc0cno5ZFJrbHdFZTRzVmRUdFVmMU1CNTZQSTBJV0tuVXE0TFRZN1NhNDhsNW1HcnVrSWRQanlGTDR2QWVzdk55d2M3WWJDRkQ5REFCNUtDNFR5M3VKYmdsdlZURG1xSzBWa2pTR2RLVDE2ancxUkhGNUZHTzF6Z0JSS1d2anVsd2tJbWxtUDJKZHlqQkxkdnFhMXdRdkxLV3hadEJkaWJBMXl4bFE?oc=5",
-      "thumb": "",
-      "data": "2026-08-26",
-      "bucket": "mes",
-      "calor": 2,
-      "num_fontes": 3,
-      "keywords": [
-        "Baia de Todos os Santos"
-      ],
-      "fontes_extra": [
-        {
-          "titulo": "Inema e COPPA apreendem explosivos durante fiscalização na Baía de Todos-os-Santos",
-          "fonte": "Tribuna da Bahia",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSUF0SnhYSEE2QVVXTEwwdnZfLVQ3dG16QTA2Ujh0QnBuVWZrSWxIREtWXzhTdXRxMlUzSWtlR1RSaV9KcnhuRU5xaG4wdXdiNDdkMFFaNVBaTTJialA5OE9oNkhVam1PVFJyc21LUGdzckl6OU51ODlEMTMyUEw4RDhKT1hyb3k3MGswdmZDemU4X3NDZWYwekhiU252TG8wQ3hPZjNYLVlSQTF3V0VKYWQxWDk2V05oTUFheTIwdw?oc=5"
-        },
-        {
-          "titulo": "Explosivos prontos para uso são apreendidos em fiscalização na Baía de Todos-os-Santos; prática é crime",
-          "fonte": "Alô Alô Bahia",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYURTeTdhSWk3anZPZF8yaXA2QnVRUFZvX2NPV1VlRzcwRk4tTW4ybTMxRi1ZemJwVFJHOTdCRkVNaVhOYm1DQmdjSnBvdy1GeENZTkRKelNSNFZTQnVxd1lDVWVqeGVURTdNVVJSZVdDODg4M0tYQ19sWWQ5T29hRXB4azNZZVJkUFhyVGNBeXR5UjNNczRDdHZYeG9KWGFfMXpiSXBkTVRLNi1mTzRBaUhXMmRYTm5tU2l1V3J1d0dmajI2WHU3clZ5eHNldUlwNk5Nd3NCX1d5VllxbF9raA?oc=5"
-        }
-      ],
-      "score": 7.5,
-      "primeira_vez": "2026-09-10T17:40:05.654647-03:00",
-      "angulo": {
-        "gancho": "O QUE OS PESCADORES DA BAÍA DO IGUAPE SABEM E A CIÊNCIA CONFIRMA",
-        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e conecta com Cultura Oceânica, o Recôncavo e a atuação do Instituto, com autoridade científica acolhedora no comando.",
-        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
-        "formato": "Reels",
-        "eixo": "territorio"
-      },
-      "data_br": "26/08/2026"
     },
     {
       "id": "b07f2b3e1dfd",
@@ -2433,7 +2406,7 @@
         },
         {
           "titulo": "Dia mais quente da história dos oceanos é registrado devido ao El Niño",
-          "fonte": "aredacao.com.br",
+          "fonte": "A Redação",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS0FnMlZ1SmJjZHp2eDlibDczTEFCNnN0emRjSGNoM1hrak4xQjNJSGdKY1BjS1pOV3VFLWlrZk1iM2pPYTBfZ2NUWTFOZVNWdlp3aGFhYXJ4TnZoOWdra3V3SFFEM0VvRjQyZ0lBYnFWR01CNkp2NzdPWW5WdkgzU21yaDkzRjVlR29GbC1sbHZ2QnZ6ZkpHVnpoQXROdw?oc=5"
         }
       ],
@@ -2598,13 +2571,46 @@
       }
     },
     {
+      "id": "e9a004c7e295",
+      "tipo": "noticia",
+      "titulo": "Seis explosivos são encontrados durante fiscalização na Baía de Todos-os-Santos",
+      "fonte": "Jornal Correio",
+      "local": "Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDAwUngyRXhKNU9vYUV0R2tXVEY4bURwbEc0cno5ZFJrbHdFZTRzVmRUdFVmMU1CNTZQSTBJV0tuVXE0TFRZN1NhNDhsNW1HcnVrSWRQanlGTDR2QWVzdk55d2M3WWJDRkQ5REFCNUtDNFR5M3VKYmdsdlZURG1xSzBWa2pTR2RLVDE2ancxUkhGNUZHTzF6Z0JSS1d2anVsd2tJbWxtUDJKZHlqQkxkdnFhMXdRdkxLV3hadEJkaWJBMXl4bFE?oc=5",
+      "thumb": "",
+      "data": "2026-08-26",
+      "bucket": "mes",
+      "calor": 2,
+      "num_fontes": 2,
+      "keywords": [
+        "Baia de Todos os Santos"
+      ],
+      "fontes_extra": [
+        {
+          "titulo": "Inema e COPPA apreendem explosivos durante fiscalização na Baía de Todos-os-Santos",
+          "fonte": "trbn.com.br",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSUF0SnhYSEE2QVVXTEwwdnZfLVQ3dG16QTA2Ujh0QnBuVWZrSWxIREtWXzhTdXRxMlUzSWtlR1RSaV9KcnhuRU5xaG4wdXdiNDdkMFFaNVBaTTJialA5OE9oNkhVam1PVFJyc21LUGdzckl6OU51ODlEMTMyUEw4RDhKT1hyb3k3MGswdmZDemU4X3NDZWYwekhiU252TG8wQ3hPZjNYLVlSQTF3V0VKYWQxWDk2V05oTUFheTIwdw?oc=5"
+        }
+      ],
+      "score": 5.0,
+      "primeira_vez": "2026-09-10T17:40:05.654647-03:00",
+      "angulo": {
+        "gancho": "O QUE OS PESCADORES DA BAÍA DO IGUAPE SABEM E A CIÊNCIA CONFIRMA",
+        "corpo": "Puxa o fato pela fonte, explica em linguagem simples por que acontece e conecta com Cultura Oceânica, o Recôncavo e a atuação do Instituto, com autoridade científica acolhedora no comando.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "territorio"
+      },
+      "data_br": "26/08/2026"
+    },
+    {
       "id": "05a317f87321",
       "tipo": "noticia",
       "titulo": "ACM Neto reúne apoiadores em Governador Mangabeira, no Recôncavo baiano",
       "fonte": "glomes.com.br",
       "local": "Brasil",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOS13a0RxN0Q0TEFYOHN3bEttRDlSWnYtNE9RMmNtdURnR1Z1TGxTVjBybVJ2TTJvOXZaNmdlVXVvQ1BWVDZjMmpjY3NXVnF5VXh2VnhSUE5xcVBGNFJBbzFQcy0zbzRzTnhmZXlkQWVDTks1cGZNTk03VDNIMllYdHZ0RXQ4aTlhTUZCZ1ltQXZfYXJKTVMyYw?oc=5",
-      "thumb": "https://i.ytimg.com/vi/4uzMc1iAVgk/hqdefault.jpg",
+      "thumb": "",
       "data": "2026-09-05",
       "bucket": "mes",
       "calor": 2,
@@ -2628,13 +2634,7 @@
         "formato": "Reels",
         "eixo": "territorio"
       },
-      "data_br": "05/09/2026",
-      "video_relacionado": {
-        "titulo": "GOV. MANGABEIRA: SINDICATO RURAL ELEGE NOVA DIRETORIA",
-        "url": "https://www.youtube.com/watch?v=4uzMc1iAVgk",
-        "fonte": "TV NBN",
-        "views": 317
-      }
+      "data_br": "05/09/2026"
     },
     {
       "id": "965f6f6ec534",
@@ -3248,7 +3248,7 @@
       "dur": 128.0,
       "fontes_extra": [],
       "score": 35223,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "POR QUE OS GUARÁS ESTÃO VOLTANDO A COLORIR OS MANGUEZAIS",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -3276,7 +3276,7 @@
       "dur": 416.0,
       "fontes_extra": [],
       "score": 32488,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "O QUE OS PESCADORES DA BAÍA DO IGUAPE SABEM E A CIÊNCIA CONFIRMA",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -3285,6 +3285,34 @@
         "eixo": "territorio"
       },
       "data_br": "19/06/2017"
+    },
+    {
+      "id": "aa07ebe67462",
+      "tipo": "video",
+      "titulo": "Economia azul - matéria Globo Repórter",
+      "fonte": "Projeto Baleia Jubarte",
+      "url": "https://www.youtube.com/watch?v=H1Ww2Er5Kkw",
+      "thumb": "https://i.ytimg.com/vi/H1Ww2Er5Kkw/hqdefault.jpg",
+      "data": "2023-12-19",
+      "bucket": "mes",
+      "calor": 1,
+      "num_fontes": 1,
+      "keywords": [
+        "economia azul o que é"
+      ],
+      "views": 30293,
+      "dur": 2360.0,
+      "fontes_extra": [],
+      "score": 30293,
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
+      "angulo": {
+        "gancho": "COMO O OCEANO PODE GERAR RENDA SEM DESTRUIR A NATUREZA",
+        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
+        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
+        "formato": "Reels",
+        "eixo": "economia_azul"
+      },
+      "data_br": "19/12/2023"
     },
     {
       "id": "2c501822328f",
@@ -3304,7 +3332,7 @@
       "dur": 257.0,
       "fontes_extra": [],
       "score": 25393,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -3313,62 +3341,6 @@
         "eixo": "default"
       },
       "data_br": "26/08/2022"
-    },
-    {
-      "id": "af5d1c86a456",
-      "tipo": "video",
-      "titulo": "Década do Oceano no Brasil",
-      "fonte": "Década da Ciência Oceânica - Brasil",
-      "url": "https://www.youtube.com/watch?v=5P4XiiLK-ZE",
-      "thumb": "https://i.ytimg.com/vi/5P4XiiLK-ZE/hqdefault.jpg",
-      "data": "2021-04-20",
-      "bucket": "mes",
-      "calor": 1,
-      "num_fontes": 1,
-      "keywords": [
-        "Década do Oceano ONU"
-      ],
-      "views": 23048,
-      "dur": 184.0,
-      "fontes_extra": [],
-      "score": 23048,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
-      "angulo": {
-        "gancho": "A LIÇÃO SOBRE O OCEANO QUE A ESCOLA NÃO TE DEU",
-        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
-        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
-        "formato": "Reels",
-        "eixo": "cultura_oceanica"
-      },
-      "data_br": "20/04/2021"
-    },
-    {
-      "id": "5694b74352df",
-      "tipo": "video",
-      "titulo": "Reportagem do Globo Repórter – Economia Azul",
-      "fonte": "Projeto Coral Vivo",
-      "url": "https://www.youtube.com/watch?v=1qHD1zD0h0s",
-      "thumb": "https://i.ytimg.com/vi/1qHD1zD0h0s/hqdefault.jpg",
-      "data": "2024-01-06",
-      "bucket": "mes",
-      "calor": 1,
-      "num_fontes": 1,
-      "keywords": [
-        "economia azul o que é"
-      ],
-      "views": 15301,
-      "dur": 2360.0,
-      "fontes_extra": [],
-      "score": 15301,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
-      "angulo": {
-        "gancho": "A ECONOMIA QUE VEM DO MAR E QUASE NINGUÉM ENXERGA",
-        "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
-        "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
-        "formato": "Reels",
-        "eixo": "economia_azul"
-      },
-      "data_br": "06/01/2024"
     },
     {
       "id": "e7eb1dfc4480",
@@ -3388,7 +3360,7 @@
       "dur": 243.0,
       "fontes_extra": [],
       "score": 15037,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -3416,7 +3388,7 @@
       "dur": 950.0,
       "fontes_extra": [],
       "score": 12475,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -3444,7 +3416,7 @@
       "dur": 154.0,
       "fontes_extra": [],
       "score": 9372,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -3472,7 +3444,7 @@
       "dur": 127.0,
       "fontes_extra": [],
       "score": 8690,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -3500,7 +3472,7 @@
       "dur": 653.0,
       "fontes_extra": [],
       "score": 8484,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -3528,7 +3500,7 @@
       "dur": 68.0,
       "fontes_extra": [],
       "score": 7790,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
         "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
@@ -3539,32 +3511,32 @@
       "data_br": "06/08/2020"
     },
     {
-      "id": "b1d8e8a12267",
+      "id": "595e13763382",
       "tipo": "video",
-      "titulo": "A importância dos Mangues",
-      "fonte": "Rodrigo Aracno - Terapia e Natureza",
-      "url": "https://www.youtube.com/watch?v=LdvC5GWWDeU",
-      "thumb": "https://i.ytimg.com/vi/LdvC5GWWDeU/hqdefault.jpg",
-      "data": "2021-07-06",
+      "titulo": "United Nations Decade of Ocean Science for Sustainable Development (2021-2030)",
+      "fonte": "ONU Brasil",
+      "url": "https://www.youtube.com/watch?v=rb_3RRGsG_4",
+      "thumb": "https://i.ytimg.com/vi/rb_3RRGsG_4/hqdefault.jpg",
+      "data": "2021-04-21",
       "bucket": "mes",
       "calor": 1,
       "num_fontes": 1,
       "keywords": [
-        "manguezal importância ecossistema"
+        "Década do Oceano ONU"
       ],
-      "views": 7319,
-      "dur": 13.0,
+      "views": 5741,
+      "dur": 184.0,
       "fontes_extra": [],
-      "score": 7319,
-      "primeira_vez": "2026-09-13T00:40:05.105425-03:00",
+      "score": 5741,
+      "primeira_vez": "2026-09-13T01:40:05.728895-03:00",
       "angulo": {
-        "gancho": "O MANGUEZAL FAZ ALGO PELO CLIMA QUE POUCA GENTE SABE",
+        "gancho": "O QUE ISSO REVELA SOBRE O NOSSO OCEANO",
         "corpo": "Recria a ideia deste vídeo na voz do Instituto: mesmo tema, com selo de autoridade científica, imagem de mar/mangue real e conexão com educação e conservação. Não copie, traduza pra voz do Gaia Soul.",
         "fecho": "Fecha no propósito: reconexão com o oceano, educação, conservação e valorização das comunidades costeiras.",
         "formato": "Reels",
-        "eixo": "manguezal"
+        "eixo": "default"
       },
-      "data_br": "06/07/2021"
+      "data_br": "21/04/2021"
     },
     {
       "id": "31ab49479a4d",
