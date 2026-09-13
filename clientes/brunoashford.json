@@ -1,0 +1,77 @@
+{
+  "slug": "brunoashford",
+  "client": "Bruno Ashford",
+  "radar_slug": "brunoashford",
+  "title": "Radar de Virais",
+  "subtitle": "IA agentica, empresas de IA e o mundo da IA: o que esta bombando pra virar conteudo",
+  "intro": "Esta pagina junta, TODA HORA, o que esta viralizando e virando noticia no universo da IA agentica aplicada ao negocio: agentes de IA, automacao de vendas, marketing e processos, alem das empresas, produtos e lideres que movimentam o mundo da IA. Cada card ja vem com um angulo pronto pra virar conteudo na sua voz. Aprove os que quer produzir, descarte os que nao combinam e deixe um comentario quando quiser. Atualiza sozinho.",
+  "brand": {
+    "primary": "#C9A15C",
+    "primaryDark": "#2B211A",
+    "logo": "logos/brunoashford.png"
+  },
+  "video_queries": [
+    "agentic AI explained",
+    "AI agents for business",
+    "how to use AI in business",
+    "AI automation tutorial",
+    "AI sales automation",
+    "AI marketing automation",
+    "build an AI agent",
+    "AI tools for entrepreneurs",
+    "latest AI news",
+    "new AI model demo"
+  ],
+  "voice": {
+    "quem": "Bruno Ashford: autoridade em IA agentica E em negocio. Ajuda founders e empresas a automatizar tarefas com IA e ensina quem quer dominar a IA agentica. Pegada Sabio-Criador, madeira/bronze premium.",
+    "eixo_viral": "IA agentica que devolve tempo + automacao de vendas/marketing/processos + o que as empresas e lideres de IA estao lancando. O 'uau' da tecnologia sempre amarrado ao ganho pro negocio.",
+    "tom": "Autoridade calma e pratica, tradutor do hype pra decisao de negocio. Sem jargao cru, sem meme, sem hype vazio. NUNCA usar a palavra consulting/consultant. Conteudo publicavel em ingles (US/UK).",
+    "gancho_formula": "CAIXA ALTA + (numero OU nome de empresa/produto OU 'o que ninguem te conta') + o beneficio pro negocio. Abre com afirmacao forte, nao pergunta.",
+    "gancho_default": "O QUE ISSO MUDA PRA QUEM QUER USAR IA NO NEGOCIO",
+    "alvo_default": "ESSA IA",
+    "alvo": {
+      "openai": "A OPENAI",
+      "anthropic": "A ANTHROPIC",
+      "google": "O GOOGLE",
+      "microsoft": "A MICROSOFT",
+      "agent": "OS AGENTES DE IA"
+    },
+    "formato_card": "Reels",
+    "angulo_corpo": "Puxa o fato pela fonte, traduz o que significa pra quem toca um negocio e mostra a aplicacao pratica (vendas, marketing ou processos), com a sua autoridade em IA e negocio no comando.",
+    "angulo_corpo_video": "Recria a ideia deste video na sua voz: mesmo tema, mas com o selo de autoridade em IA aplicada ao negocio. Nao copie, traduza pro ponto de vista de quem quer resultado.",
+    "angulo_fecho": "Fecha no proposito: usar IA agentica pra tirar o trabalho de maquina e devolver tempo ao dono do negocio.",
+    "ofuscar": {},
+    "subeixos": [
+      {
+        "key": "agentico",
+        "gatilhos": ["agent", "agentic", "autonomous", "copilot", "assistant", "automation", "automate", "workflow"],
+        "hooks": ["O QUE OS AGENTES DE IA JA FAZEM SOZINHOS PELO SEU NEGOCIO", "{n} TAREFAS QUE UM AGENTE DE IA ASSUME HOJE", "POR QUE IA AGENTICA E DIFERENTE DE UM CHATBOT"]
+      },
+      {
+        "key": "vendas",
+        "gatilhos": ["sales", "crm", "lead", "pipeline", "closing", "revenue", "outreach"],
+        "hooks": ["COMO A IA ESTA FECHANDO MAIS VENDAS SEM MAIS GENTE", "O QUE A IA MUDA NO SEU PROCESSO COMERCIAL", "{n} FORMAS DE USAR IA PRA VENDER MAIS"]
+      },
+      {
+        "key": "marketing",
+        "gatilhos": ["marketing", "ads", "google ads", "advertising", "content", "campaign", "seo", "paid"],
+        "hooks": ["O QUE A IA ESTA FAZENDO COM O SEU MARKETING AGORA", "COMO USAR IA NO TRAFEGO PAGO SEM QUEIMAR VERBA", "A IA NO MARKETING: O QUE FUNCIONA DE VERDADE"]
+      },
+      {
+        "key": "processos",
+        "gatilhos": ["process", "operations", "efficiency", "productivity", "repetitive", "back office", "roi"],
+        "hooks": ["A TAREFA REPETITIVA QUE A IA RESOLVE ENQUANTO VOCE DORME", "COMO A IA DEVOLVE HORAS DA SUA SEMANA", "O ROI REAL DE AUTOMATIZAR PROCESSOS COM IA"]
+      },
+      {
+        "key": "empresa_ia",
+        "gatilhos": ["openai", "anthropic", "claude", "gemini", "deepmind", "copilot", "meta ai", "grok", "perplexity", "nvidia", "mistral", "hugging face", "qwen", "manus", "higgsfield", "n8n", "ollama", "replit", "vercel", "agentforce", "devin", "launch", "release", "model"],
+        "hooks": ["{alvo} ACABOU DE LANCAR ALGO QUE MUDA O JOGO", "O QUE O NOVO LANCAMENTO DE {alvo} SIGNIFICA PRO SEU NEGOCIO", "TODO MUNDO FALA DISSO: O QUE {alvo} FEZ AGORA"]
+      },
+      {
+        "key": "mundo_ia",
+        "gatilhos": ["funding", "regulation", "breakthrough", "industry", "jobs", "replace", "billion", "startup", "ipo"],
+        "hooks": ["O MOVIMENTO NO MUNDO DA IA QUE VOCE PRECISA ENTENDER", "O QUE ESSA NOTICIA DE IA MUDA PRA QUEM TEM NEGOCIO", "POR QUE ISSO NO MUNDO DA IA IMPORTA PRA VOCE"]
+      }
+    ]
+  }
+}
